@@ -1,5 +1,5 @@
 """
-YouTube Long-Form Video Automation - Bilingual English/Dutch Content Generator
+YouTube Long-Form Video Automation - Bilingual English/German Content Generator
 GENERATES 10-MINUTE VIDEOS with improved backgrounds for YouTube
 """
 
@@ -42,44 +42,44 @@ TARGET_PHRASES = 120
 # English category names (for American/European learners)
 CATEGORIES_ENGLISH = [
     "Motivation", "Love", "Success", "Wisdom", "Happiness",
-    "Self Improvement", "Dankbaarheide", "Friendship", "Hope", "Creativity",
+    "Self Improvement", "Gratitude", "Friendship", "Hope", "Creativity",
     "Inner Peace", "Confidence", "Perseverance", "Inspiration", "Positive Life",
     "Courage", "Kindness", "Patience", "Forgiveness", "Strength",
     "Joy", "Balance", "Growth", "Purpose", "Mindfulness",
 ]
 
-# Dutch translations for display
-CATEGORIES_Dutch = {
-    "Motivation": "Motivatie",
-    "Love": "Liefde",
-    "Success": "Succes",
-    "Wisdom": "Wijsheid",
-    "Happiness": "Geluk",
-    "Self Improvement": "Zelfverbetering",
-    "Dankbaarheide": "Dankbaarheid",
-    "Friendship": "Vriendschap",
-    "Hope": "Hoop",
-    "Creativity": "Creativiteit",
-    "Inner Peace": "Innerlijke vrede",
-    "Confidence": "Zelfvertrouwen",
-    "Perseverance": "Doorzettingsvermogen",
-    "Inspiration": "Inspiratie",
-    "Positive Life": "Positief leven",
-    "Courage": "Moed",
-    "Kindness": "Vriendelijkheid",
+# German translations for display
+CATEGORIES_GERMAN = {
+    "Motivation": "Motivation",
+    "Love": "Liebe",
+    "Success": "Erfolg",
+    "Wisdom": "Weisheit",
+    "Happiness": "Glück",
+    "Self Improvement": "Selbstverbesserung",
+    "Gratitude": "Dankbarkeit",
+    "Friendship": "Freundschaft",
+    "Hope": "Hoffnung",
+    "Creativity": "Kreativität",
+    "Inner Peace": "Innere Ruhe",
+    "Confidence": "Selbstvertrauen",
+    "Perseverance": "Ausdauer",
+    "Inspiration": "Inspiration",
+    "Positive Life": "Positives Leben",
+    "Courage": "Mut",
+    "Kindness": "Freundlichkeit",
     "Patience": "Geduld",
-    "Forgiveness": "Vergeving",
-    "Strength": "Kracht",
-    "Joy": "Vreugde",
-    "Balance": "Balans",
-    "Growth": "Groei",
-    "Purpose": "Doel",
-    "Mindfulness": "Mindfulness",
+    "Forgiveness": "Verzeihung",
+    "Strength": "Stärke",
+    "Joy": "Freude",
+    "Balance": "Balance",
+    "Growth": "Wachstum",
+    "Purpose": "Zweck",
+    "Mindfulness": "Achtsamkeit",
 }
 
 # Edge TTS voices
 ENGLISH_VOICE = "en-US-GuyNeural"
-Dutch_VOICE = "nl-NL-ColetteNeural"
+GERMAN_VOICE = "de-DE-KatjaNeural"
 
 # Phrase history file (NEVER delete this!)
 PHRASE_HISTORY_FILE = HISTORY_DIR / "all_generated_phrases.json"
@@ -182,7 +182,7 @@ def add_phrases_to_history(phrases, category):
     for phrase in phrases:
         history["phrases"].append({
             "english": phrase["english"],
-            "Dutch": phrase["Dutch"],
+            "german": phrase["german"],
             "category": category,
             "generated_at": datetime.now().isoformat()
         })
@@ -195,7 +195,7 @@ def add_phrases_to_history(phrases, category):
 def calculate_phrases_needed(target_minutes: int) -> int:
     """
     Calculate how many phrases needed for target video duration.
-    Average phrase takes ~5 seconds (English ~2s + pause 0.5s + Dutch ~2.5s)
+    Average phrase takes ~5 seconds (English ~2s + pause 0.5s + German ~2.5s)
     For 10 minutes (600 seconds): 600 / 5 = ~120 phrases
     """
     avg_phrase_duration = 5.0  # seconds
@@ -206,7 +206,7 @@ def calculate_phrases_needed(target_minutes: int) -> int:
 def generate_phrases_for_longform(category_english: str, num_phrases: int) -> list:
     """Generate unique bilingual phrases for long-form video"""
 
-    category_Dutch = CATEGORIES_Dutch[category_english]
+    category_german = CATEGORIES_GERMAN[category_english]
 
     history = load_phrase_history()
     used_phrases = [p.get("english", "") for p in history.get("phrases", [])]
@@ -239,7 +239,7 @@ def generate_phrases_for_longform(category_english: str, num_phrases: int) -> li
                     recent = used_phrases[-30:] if len(used_phrases) > 30 else used_phrases
                     exclusion_note = f"\n\nAVOID these phrases (already used): {recent}"
 
-                prompt = f"""Create {current_batch_size * 2} unique {category_english} phrases for English speakers learning Dutch.
+                prompt = f"""Create {current_batch_size * 2} unique {category_english} phrases for English speakers learning German.
 
 Style: Make each phrase feel like a {viral_style} - something people would want to share!
 
@@ -255,18 +255,18 @@ IMPORTANT RULES FOR NATURAL SPEECH:
 
 For each phrase:
 1. English phrase (with commas for natural pauses)
-2. Dutch translation
-3. Pronunciation guide (phonetic spelling for English speakers)
+2. German translation
+3. Pronunciation guide (phonetic spelling, e.g., "Guten TAHG")
 
 Return as JSON array:
-[{{"english": "...", "Dutch": "...", "pronunciation": "..."}}]
+[{{"english": "...", "german": "...", "pronunciation": "..."}}]
 
 IMPORTANT: Create FRESH, UNIQUE phrases that haven't been used before.{exclusion_note}"""
 
                 payload = {
                     "model": AI_MODEL,
                     "messages": [
-                        {"role": "system", "content": "You are a viral Dutch teacher creating engaging educational content for YouTube. Create short, natural phrases with pauses."},
+                        {"role": "system", "content": "You are a viral German teacher creating engaging educational content for YouTube. Create short, natural phrases with pauses."},
                         {"role": "user", "content": prompt}
                     ],
                     "temperature": 1.0
@@ -327,140 +327,140 @@ def get_fresh_fallback_phrases(category: str, num_phrases: int) -> list:
 
     all_fallbacks = {
         "Motivation": [
-            {"english": "Believe in yourself.", "Dutch": "Cree en ti mismo.", "pronunciation": "cre-e en ti mis-mo."},
-            {"english": "You are capable of amazing things.", "Dutch": "Eres capaz de cosas asombrosas.", "pronunciation": "e-res ca-paz de co-sas a-som-bro-sas."},
-            {"english": "Dream big, start small.", "Dutch": "Sueña en grande, empieza pequeño.", "pronunciation": "swe-nya en gran-de, em-pje-za pe-ke-nyo."},
-            {"english": "Your future is created by your actions.", "Dutch": "Tu futuro es creado por tus acciones.", "pronunciation": "tu fu-tu-ro es cre-a-do por tus ak-syo-nes."},
-            {"english": "Never give up on your dreams.", "Dutch": "Nunca te rindas en tus sueños.", "pronunciation": "nun-ka te rin-das en tus swe-nyos."},
-            {"english": "Small steps lead to big changes.", "Dutch": "Pequeños pasos llevan a grandes cambios.", "pronunciation": "pe-ke-nyos pa-sos ye-van a gran-des cam-byos."},
-            {"english": "You are stronger than you think.", "Dutch": "Eres más fuerte de lo que crees.", "pronunciation": "e-res mas fwer-te de lo ke cre-es."},
+            {"english": "Believe in yourself.", "german": "Glaube an dich.", "pronunciation": "GLAW-buh an dihkh."},
+            {"english": "You are capable of amazing things.", "german": "Du bist zu erstaunlichen Dingen fähig.", "pronunciation": "doo bist tsoo air-STOW-nlih-en DING-en FAY-ikh."},
+            {"english": "Dream big, start small.", "german": "Träum groß, fang klein an.", "pronunciation": "troyhm GROHS, fahng kline ahn."},
+            {"english": "Your future is created by your actions.", "german": "Deine Zukunft wird durch deine Taten geschaffen.", "pronunciation": "DY-neh tsoo-KOONFT veert doorkh DY-neh TAH-ten ge-SHAFF-en."},
+            {"english": "Never give up on your dreams.", "german": "Gib deine Träume niemals auf.", "pronunciation": "gihp DY-neh TROY-muh NEE-mahls owf."},
+            {"english": "Small steps lead to big changes.", "german": "Kleine Schritte führen zu großen Veränderungen.", "pronunciation": "KLY-neh SHRIH-teh FUE-ren tsoo GROH-sen fair-AYN-der-ung-en."},
+            {"english": "You are stronger than you think.", "german": "Du bist stärker als du denkst.", "pronunciation": "doo bisht SHTEHR-ker ahlss doo denkst."},
         ],
         "Love": [
-            {"english": "Love yourself first.", "Dutch": "Ámate a ti mismo primero.", "pronunciation": "a-ma-te a ti mis-mo pri-me-ro."},
-            {"english": "Love makes everything possible.", "Dutch": "El amor hace que todo sea posible.", "pronunciation": "el a-mor a-se ke to-do se-a po-si-ble."},
-            {"english": "My heart beats for you.", "Dutch": "Mi corazón late por ti.", "pronunciation": "mi co-ra-zon la-te por ti."},
-            {"english": "You are my everything.", "Dutch": "Eres mi todo.", "pronunciation": "e-res mi to-do."},
-            {"english": "Together forever, hand in hand.", "Dutch": "Juntos por siempre, mano a mano.", "pronunciation": "jun-tos por syem-pre, ma-no a ma-no."},
+            {"english": "Love yourself first.", "german": "Liebe dich zuerst.", "pronunciation": "LEE-buh dihkh tsoo-erst."},
+            {"english": "Love makes everything possible.", "german": "Liebe macht alles möglich.", "pronunciation": "LEE-buh makht AH-les MUE-glihkh."},
+            {"english": "My heart beats for you.", "german": "Mein Herz schlägt für dich.", "pronunciation": "myn herts shlaykt fueer dihkh."},
+            {"english": "You are my everything.", "german": "Du bist mein Ein und Alles.", "pronunciation": "doo bist mahn AYN oont AH-les."},
+            {"english": "Together forever, hand in hand.", "german": "Für immer zusammen, Hand in Hand.", "pronunciation": "fueer IH-mer tsoo-ZAH-men, hahnt in hahnt."},
         ],
         "Success": [
-            {"english": "Success comes from hard work.", "Dutch": "El éxito viene del trabajo duro.", "pronunciation": "el ek-si-to vye-ne del tra-ba-jo du-ro."},
-            {"english": "Keep going, you're getting there.", "Dutch": "Sigue adelante, ya casi llegas.", "pronunciation": "si-ge a-de-lan-te, ya ca-si ye-gas."},
-            {"english": "Winners never quit.", "Dutch": "Los ganadores nunca se rinden.", "pronunciation": "los ga-na-do-res nun-ka se rin-den."},
-            {"english": "Your effort will pay off.", "Dutch": "Tu esfuerzo valdrá la pena.", "pronunciation": "tu es-fwer-zo val-dra la pe-na."},
+            {"english": "Success comes from hard work.", "german": "Erfolg kommt von harter Arbeit.", "pronunciation": "air-FOLG komt fohn HAR-ter AR-baht."},
+            {"english": "Keep going, you're getting there.", "german": "Mach weiter, du schaffst das.", "pronunciation": "makh VY-ter, doo shahfst dahs."},
+            {"english": "Winners never quit.", "german": "Gewinner geben niemals auf.", "pronunciation": "ge-VIN-er GAY-ben NEE-mahls owf."},
+            {"english": "Your effort will pay off.", "german": "Deine Anstrengung wird sich lohnen.", "pronunciation": "DY-neh AHN-shtreng-oong veert zikh LOH-nen."},
         ],
         "Wisdom": [
-            {"english": "Knowledge is power.", "Dutch": "El conocimiento es poder.", "pronunciation": "el co-no-si-myen-to es po-der."},
-            {"english": "Learn from yesterday, live for today.", "Dutch": "Aprende del ayer, vive por el hoy.", "pronunciation": "a-pren-de del a-yer, vi-ve por el oy."},
-            {"english": "Think before you act.", "Dutch": "Piensa antes de actuar.", "pronunciation": "pyen-sa an-tes de ak-twar."},
-            {"english": "Experience is the best teacher.", "Dutch": "La experiencia es la mejor maestra.", "pronunciation": "la ex-pe-ryen-sya es la me-jor ma-es-tra."},
+            {"english": "Knowledge is power.", "german": "Wissen ist Macht.", "pronunciation": "VIS-sen ist makht."},
+            {"english": "Learn from yesterday, live for today.", "german": "Lerne von gestern, lebe für heute.", "pronunciation": "LER-nuh fohn GES-tern, LAY-buh fueer HOY-teh."},
+            {"english": "Think before you act.", "german": "Denke nach, bevor du handelst.", "pronunciation": "DEN-keh nahkh, beh-VOHR doo HAHN-delst."},
+            {"english": "Experience is the best teacher.", "german": "Erfahrung ist der beste Lehrer.", "pronunciation": "air-FAH-roong ist dair BES-teh LAY-rer."},
         ],
         "Happiness": [
-            {"english": "Happiness is a choice.", "Dutch": "La felicidad es una elección.", "pronunciation": "la fe-li-si-dad es u-na e-lek-syon."},
-            {"english": "Find joy in the little things.", "Dutch": "Encuentra alegría en las pequeñas cosas.", "pronunciation": "en-kwen-tra a-le-gri-a en las pe-ke-nyas co-sas."},
-            {"english": "Smile, it makes others happy.", "Dutch": "Sonríe, hace felices a los demás.", "pronunciation": "son-ri-e, a-se fe-li-ses a los de-mas."},
-            {"english": "Today is a gift.", "Dutch": "Hoy es un regalo.", "pronunciation": "oy es un re-ga-lo."},
+            {"english": "Happiness is a choice.", "german": "Glück ist eine Wahl.", "pronunciation": "gluek ist AY-neh vahl."},
+            {"english": "Find joy in the little things.", "german": "Finde Freude in den kleinen Dingen.", "pronunciation": "FIN-duh FROY-duh in dayn KLY-nen DING-en."},
+            {"english": "Smile, it makes others happy.", "german": "Lächle, es macht andere glücklich.", "pronunciation": "LEKH-leh, es makht AHN-duh-ruh GLUEK-likh."},
+            {"english": "Today is a gift.", "german": "Heute ist ein Geschenk.", "pronunciation": "HOY-teh ist ayn ge-SHENK."},
         ],
         "Self Improvement": [
-            {"english": "Be better than yesterday.", "Dutch": "Sé mejor que ayer.", "pronunciation": "se me-jor ke a-yer."},
-            {"english": "Grow through what you go through.", "Dutch": "Crece a través de lo que pasas.", "pronunciation": "cre-se a tra-ves de lo ke pa-sas."},
-            {"english": "Invest in yourself daily.", "Dutch": "Invierte en ti mismo a diario.", "pronunciation": "in-vyer-te en ti mis-mo a dya-ryo."},
+            {"english": "Be better than yesterday.", "german": "Sei besser als gestern.", "pronunciation": "zay BES-ser ahlss GES-tern."},
+            {"english": "Grow through what you go through.", "german": "Wachse durch das, was du durchmachst.", "pronunciation": "VAKH-suh doorkh dahs, vahs doo doorkh-makhst."},
+            {"english": "Invest in yourself daily.", "german": "Investiere täglich in dich selbst.", "pronunciation": "in-vehs-TEE-ruh TAY-glihkh in dihkh zelpst."},
         ],
-        "Dankbaarheide": [
-            {"english": "Thank you for everything.", "Dutch": "Gracias por todo.", "pronunciation": "gra-syas por to-do."},
-            {"english": "I appreciate your help.", "Dutch": "Agradezco tu ayuda.", "pronunciation": "a-gra-dez-co tu a-yu-da."},
-            {"english": "Grateful for this moment.", "Dutch": "Agradecido por este momento.", "pronunciation": "a-gra-de-si-do por es-te mo-men-to."},
+        "Gratitude": [
+            {"english": "Thank you for everything.", "german": "Danke für alles.", "pronunciation": "DAHN-keh fueer AH-les."},
+            {"english": "I appreciate your help.", "german": "Ich schätze deine Hilfe.", "pronunciation": "ikh SHEH-tseh DY-neh HIL-fuh."},
+            {"english": "Grateful for this moment.", "german": "Dankbar für diesen Moment.", "pronunciation": "DAHNK-bahr fueer DEE-zen moh-MENT."},
         ],
         "Friendship": [
-            {"english": "Friends forever, no matter what.", "Dutch": "Amigos por siempre, pase lo que pase.", "pronunciation": "a-mi-gos por syem-pre, pa-se lo ke pa-se."},
-            {"english": "You are my best friend.", "Dutch": "Eres mi mejor amigo.", "pronunciation": "e-res mi me-jor a-mi-go."},
-            {"english": "True friends stick together.", "Dutch": "Los verdaderos amigos se mantienen unidos.", "pronunciation": "los ver-da-de-ros a-mi-gos se man-tye-nen u-ni-dos."},
+            {"english": "Friends forever, no matter what.", "german": "Freunde für immer, egal was passiert.", "pronunciation": "FROYN-duh fueer IH-mer, ay-GAHL vahs pah-SEEERT."},
+            {"english": "You are my best friend.", "german": "Du bist mein bester Freund.", "pronunciation": "doo bist mahn BES-ter froynt."},
+            {"english": "True friends stick together.", "german": "Wahre Freunde halten zusammen.", "pronunciation": "VAH-reh FROYN-duh HAHL-ten tsoo-ZAH-men."},
         ],
         "Hope": [
-            {"english": "There is always hope.", "Dutch": "Siempre hay esperanza.", "pronunciation": "syem-pre ay es-pe-ran-za."},
-            {"english": "Better days are coming.", "Dutch": "Vienen días mejores.", "pronunciation": "vye-nen di-as me-jo-res."},
-            {"english": "Keep faith, keep going.", "Dutch": "Mantén la fe, sigue adelante.", "pronunciation": "man-ten la fe, si-ge a-de-lan-te."},
+            {"english": "There is always hope.", "german": "Es gibt immer Hoffnung.", "pronunciation": "es gihpt IH-mer HOFF-noong."},
+            {"english": "Better days are coming.", "german": "Bessere Tage kommen.", "pronunciation": "BES-seh-ruh TAH-geh KOH-men."},
+            {"english": "Keep faith, keep going.", "german": "Behalte den Glauben, mach weiter.", "pronunciation": "beh-HAHL-teh dayn GLAW-ben, makh VY-ter."},
         ],
         "Creativity": [
-            {"english": "Create something beautiful today.", "Dutch": "Crea algo hermoso hoy.", "pronunciation": "cre-a al-go er-mo-so oy."},
-            {"english": "Your imagination is unlimited.", "Dutch": "Tu imaginación es ilimitada.", "pronunciation": "tu i-ma-ji-na-syon es i-li-mi-ta-da."},
-            {"english": "Art comes from the heart.", "Dutch": "El arte viene del corazón.", "pronunciation": "el ar-te vye-ne del co-ra-zon."},
-            {"english": "Express yourself freely.", "Dutch": "Exprésate libremente.", "pronunciation": "ex-pre-sa-te li-bre-men-te."},
-            {"english": "Innovation starts with curiosity.", "Dutch": "La innovación comienza con la curiosidad.", "pronunciation": "la i-no-va-syon co-myen-za con la cu-ryo-si-dad."},
+            {"english": "Create something beautiful today.", "german": "Erschaffe heute etwas Schönes.", "pronunciation": "air-SHAH-fuh HOY-teh ET-vah SHUE-nes."},
+            {"english": "Your imagination is unlimited.", "german": "Deine Fantasie ist grenzenlos.", "pronunciation": "DY-neh fahn-tah-ZEE ist GREN-tsen-lohs."},
+            {"english": "Art comes from the heart.", "german": "Kunst kommt aus dem Herzen.", "pronunciation": "koonst komt ows daym HERT-sen."},
+            {"english": "Express yourself freely.", "german": "Drücke dich frei aus.", "pronunciation": "DRUE-keh dihkh fray ows."},
+            {"english": "Innovation starts with curiosity.", "german": "Innovation beginnt mit Neugier.", "pronunciation": "in-no-vah-TSYOHN beh-GINT mit NOY-gier."},
         ],
         "Inner Peace": [
-            {"english": "Find peace within yourself.", "Dutch": "Encuentra la paz dentro de ti.", "pronunciation": "en-kwen-tra la paz den-tro de ti."},
-            {"english": "Breathe, relax, let go.", "Dutch": "Respira, relájate, suelta.", "pronunciation": "res-pi-ra, re-la-ja-te, swel-ta."},
-            {"english": "Calm mind, happy heart.", "Dutch": "Mente tranquila, corazón feliz.", "pronunciation": "men-te tran-ki-la, co-ra-zon fe-liz."},
+            {"english": "Find peace within yourself.", "german": "Finde Frieden in dir selbst.", "pronunciation": "FIN-duh FREE-den in deer zelpst."},
+            {"english": "Breathe, relax, let go.", "german": "Atme, entspanne dich, lass los.", "pronunciation": "AHT-muh, ent-SPAH-nuh dihkh, lahss lohs."},
+            {"english": "Calm mind, happy heart.", "german": "Ruhiger Geist, glückliches Herz.", "pronunciation": "ROO-ih-ger GAHYST, GLUEK-likh-esh herts."},
         ],
         "Confidence": [
-            {"english": "You are enough, just as you are.", "Dutch": "Eres suficiente, tal como eres.", "pronunciation": "e-res su-fi-syen-te, tal co-mo e-res."},
-            {"english": "Stand tall, speak up.", "Dutch": "Mantente erguido, habla.", "pronunciation": "man-ten-te er-gi-do, a-bla."},
-            {"english": "Believe in your abilities.", "Dutch": "Cree en tus habilidades.", "pronunciation": "cre-e en tus a-bi-li-da-des."},
+            {"english": "You are enough, just as you are.", "german": "Du bist genug, genau so wie du bist.", "pronunciation": "doo bist geh-NOOK, geh-NAW zoh vee doo bist."},
+            {"english": "Stand tall, speak up.", "german": "Steh aufrecht, sprich laut.", "pronunciation": "shtay OWF-rekht, shprihkh lowt."},
+            {"english": "Believe in your abilities.", "german": "Glaube an deine Fähigkeiten.", "pronunciation": "GLAW-buh an DY-neh FAY-ikh-kahy-ten."},
         ],
         "Perseverance": [
-            {"english": "Never give up, keep pushing.", "Dutch": "Nunca te rindas, sigue presionando.", "pronunciation": "nun-ka te rin-das, si-ge pre-syo-nan-do."},
-            {"english": "Storms make trees take deeper roots.", "Dutch": "Las tormentas hacen que los árboles echen raíces más profundas.", "pronunciation": "las tor-men-tas a-sen ke los ar-bo-les e-chen ra-i-ses mas pro-fun-das."},
-            {"english": "Patience and persistence win.", "Dutch": "La paciencia y la persistencia ganan.", "pronunciation": "la pa-syen-sya i la per-sis-ten-sya ga-nan."},
+            {"english": "Never give up, keep pushing.", "german": "Gib niemals auf, mach weiter.", "pronunciation": "gihp NEE-mahls owf, makh VY-ter."},
+            {"english": "Storms make trees take deeper roots.", "german": "Stürme lassen Bäume tiefer wurzeln.", "pronunciation": "SHTEUR-muh LAH-sen BOY-muh TEE-fer VOOR-tseln."},
+            {"english": "Patience and persistence win.", "german": "Geduld und Ausdauer gewinnen.", "pronunciation": "geh-DOOLT oont OWS-dow-er geh-VIN-en."},
         ],
         "Inspiration": [
-            {"english": "Let your light shine bright.", "Dutch": "Deja que tu luz brille con fuerza.", "pronunciation": "de-ja ke tu luz bri-ye con fwer-za."},
-            {"english": "Inspire others by your actions.", "Dutch": "Inspira a otros con tus acciones.", "pronunciation": "ins-pi-ra a o-tros con tus ak-syo-nes."},
-            {"english": "Be the change you want to see.", "Dutch": "Sé el cambio que quieres ver.", "pronunciation": "se el cam-byo ke kye-res ver."},
+            {"english": "Let your light shine bright.", "german": "Lass dein Licht hell leuchten.", "pronunciation": "lahss dahn likht hel LOYKH-ten."},
+            {"english": "Inspire others by your actions.", "german": "Inspriere andere durch deine Taten.", "pronunciation": "in-spih-REE-ruh AHN-duh-ruh doorkh DY-neh TAH-ten."},
+            {"english": "Be the change you want to see.", "german": "Sei die Veränderung, die du sehen willst.", "pronunciation": "zay dee fair-EN-duh-roong, dee doo ZAY-en vilst."},
         ],
         "Positive Life": [
-            {"english": "Choose positivity every day.", "Dutch": "Elige la positividad cada día.", "pronunciation": "e-li-je la po-si-ti-vi-dad ca-da di-a."},
-            {"english": "Good vibes only.", "Dutch": "Solo buenas vibras.", "pronunciation": "so-lo bwe-nas vi-bras."},
-            {"english": "Life is what you make it.", "Dutch": "La vida es lo que tú haces de ella.", "pronunciation": "la vi-da es lo ke tu a-ses de e-ya."},
+            {"english": "Choose positivity every day.", "german": "Wähle jeden Tag Positivität.", "pronunciation": "VAY-luh YAY-den tahkh poh-zee-vee-TAYT."},
+            {"english": "Good vibes only.", "german": "Nur gute Schwingungen.", "pronunciation": "noor GOO-teh SHVING-oong-en."},
+            {"english": "Life is what you make it.", "german": "Das Leben ist, was du daraus machst.", "pronunciation": "dahs LAY-ben ist, vahs doo dah-RAWS makhst."},
         ],
         "Courage": [
-            {"english": "Be brave, take the first step.", "Dutch": "Sé valiente, da el primer paso.", "pronunciation": "se va-lyen-te, da el pri-mer pa-so."},
-            {"english": "Courage is not the absence of fear.", "Dutch": "El coraje no es la ausencia de miedo.", "pronunciation": "el co-ra-je no es la au-sen-sya de mye-do."},
-            {"english": "Face your fears head on.", "Dutch": "Enfrenta tus miedos de frente.", "pronunciation": "en-fren-ta tus mye-dos de fren-te."},
+            {"english": "Be brave, take the first step.", "german": "Sei mutig, mach den ersten Schritt.", "pronunciation": "zay MOO-tikh, makh dayn AIR-sten shrit."},
+            {"english": "Courage is not the absence of fear.", "german": "Mut ist nicht die Abwesenheit von Angst.", "pronunciation": "moot ist nihkht dee AHP-veh-zen-haht fohn ahngst."},
+            {"english": "Face your fears head on.", "german": "Stell dich deinen Ängsten.", "pronunciation": "shtel dihkh DY-nen ENG-sten."},
         ],
         "Kindness": [
-            {"english": "Be kind to everyone you meet.", "Dutch": "Sé amable con todos los que conozcas.", "pronunciation": "se a-ma-ble con to-dos los ke co-noz-cas."},
-            {"english": "Kindness costs nothing, means everything.", "Dutch": "La amabilidad no cuesta nada, lo significa todo.", "pronunciation": "la a-ma-bi-li-dad no kwes-ta na-da, lo sig-ni-fi-ca to-do."},
-            {"english": "Spread kindness wherever you go.", "Dutch": "Difunde amabilidad dondequiera que vayas.", "pronunciation": "di-fun-de a-ma-bi-li-dad don-de-kye-ra va-yas."},
+            {"english": "Be kind to everyone you meet.", "german": "Sei freundlich zu jedem, den du triffst.", "pronunciation": "zay FROYNT-likh tsoo YAY-dem, dayn doo trifst."},
+            {"english": "Kindness costs nothing, means everything.", "german": "Freundlichkeit kostet nichts, bedeutet alles.", "pronunciation": "FROYNT-likh-kaht KOH-stet nikhts, beh-DOY-tet AH-les."},
+            {"english": "Spread kindness wherever you go.", "german": "Verbreite Freundlichkeit, wohin du gehst.", "pronunciation": "fair-BRY-teh FROYNT-likh-kaht, voh-HYN doo gayst."},
         ],
         "Patience": [
-            {"english": "Good things take time.", "Dutch": "Las cosas buenas toman tiempo.", "pronunciation": "las co-sas bwe-nas to-man tyem-po."},
-            {"english": "Wait patiently, trust the process.", "Dutch": "Espera pacientemente, confía en el proceso.", "pronunciation": "es-pe-ra pa-syen-te-men-te, con-fi-a en el pro-se-so."},
-            {"english": "Rome wasn't built in a day.", "Dutch": "Roma no se construyó en un día.", "pronunciation": "ro-ma no se cons-tru-yo en un di-a."},
+            {"english": "Good things take time.", "german": "Gute Dinge brauchen Zeit.", "pronunciation": "GOO-teh DING-uh BRAW-khen tsaht."},
+            {"english": "Wait patiently, trust the process.", "german": "Warte geduldig, vertraue dem Prozess.", "pronunciation": "VAR-teh geh-DOOLT-ikh, fair-TROW-uh daym pro-TSES."},
+            {"english": "Rome wasn't built in a day.", "german": "Rom wurde nicht an einem Tag erbaut.", "pronunciation": "rohm VOOR-duh nihkht an AY-nem tahkh air-BAWT."},
         ],
         "Forgiveness": [
-            {"english": "Forgive and set yourself free.", "Dutch": "Perdona y libérate.", "pronunciation": "per-do-na i li-be-ra-te."},
-            {"english": "Let go of grudges, find peace.", "Dutch": "Suelta los rencores, encuentra la paz.", "pronunciation": "swel-ta los ren-co-res, en-kwen-tra la paz."},
-            {"english": "Forgiveness is a gift to yourself.", "Dutch": "El perdón es un regalo para ti mismo.", "pronunciation": "el per-don es un re-ga-lo pa-ra ti mis-mo."},
+            {"english": "Forgive and set yourself free.", "german": "Vergib und mach dich frei.", "pronunciation": "fair-GIHP oont makh dihkh fray."},
+            {"english": "Let go of grudges, find peace.", "german": "Lass Groll los, finde Frieden.", "pronunciation": "lahss grol lohs, FIN-duh FREE-den."},
+            {"english": "Forgiveness is a gift to yourself.", "german": "Vergebung ist ein Geschenk an dich selbst.", "pronunciation": "fair-GAY-boong ist ayn ge-SHENK an dihkh zelpst."},
         ],
         "Strength": [
-            {"english": "You are stronger than you know.", "Dutch": "Eres más fuerte de lo que sabes.", "pronunciation": "e-res mas fwer-te de lo ke sa-bes."},
-            {"english": "Inner strength comes from within.", "Dutch": "La fuerza interior viene de dentro.", "pronunciation": "la fwer-za in-te-ryor vye-ne de den-tro."},
-            {"english": "Challenges make you stronger.", "Dutch": "Los desafíos te hacen más fuerte.", "pronunciation": "los de-sa-fi-os te a-sen mas fwer-te."},
+            {"english": "You are stronger than you know.", "german": "Du bist stärker als du weißt.", "pronunciation": "doo bisht SHTEHR-ker ahlss doo vaHYST."},
+            {"english": "Inner strength comes from within.", "german": "Innere Stärke kommt von innen.", "pronunciation": "IN-uh-ruh SHTER-keh komt fohn IN-en."},
+            {"english": "Challenges make you stronger.", "german": "Herausforderungen machen dich stärker.", "pronunciation": "heh-RAWS-for-duh-roong-en MAKHEN dihkh SHTEHR-ker."},
         ],
         "Joy": [
-            {"english": "Find joy in every moment.", "Dutch": "Encuentra alegría en cada momento.", "pronunciation": "en-kwen-tra a-le-gri-a en ca-da mo-men-to."},
-            {"english": "Joy is contagious, spread it.", "Dutch": "La alegría es contagiosa, difúndela.", "pronunciation": "la a-le-gri-a es con-ta-jo-sa, di-fun-de-la."},
-            {"english": "Dance like nobody's watching.", "Dutch": "Baila como si nadie estuviera mirando.", "pronunciation": "ba-i-la co-mo si na-dye es-tu-vye-ra mi-ran-do."},
+            {"english": "Find joy in every moment.", "german": "Finde Freude in jedem Moment.", "pronunciation": "FIN-duh FROY-duh in YAY-dem moh-MENT."},
+            {"english": "Joy is contagious, spread it.", "german": "Freude ist ansteckend, verbreite sie.", "pronunciation": "FROY-duh ist AHN-shteh-kent, fair-BRY-teh zee."},
+            {"english": "Dance like nobody's watching.", "german": "Tanz, als ob niemand zuschaut.", "pronunciation": "tahnts, ahlss ohp NEE-mahnt TSOO-shawt."},
         ],
         "Balance": [
-            {"english": "Find balance in your life.", "Dutch": "Encuentra el equilibrio en tu vida.", "pronunciation": "en-kwen-tra el e-ki-li-bryo en tu vi-da."},
-            {"english": "Work hard, rest well.", "Dutch": "Trabaja duro, descansa bien.", "pronunciation": "tra-ba-ja du-ro, des-can-sa byen."},
-            {"english": "Too much of anything is not good.", "Dutch": "Demasiado de cualquier cosa no es bueno.", "pronunciation": "de-ma-sya-do de cwal-kyer co-sa no es bwe-no."},
+            {"english": "Find balance in your life.", "german": "Finde Balance in deinem Leben.", "pronunciation": "FIN-duh bah-LAHN-seh in DY-nem LAY-ben."},
+            {"english": "Work hard, rest well.", "german": "Arbeite hart, ruhe dich gut aus.", "pronunciation": "AR-baht-uh hahrt, ROO-uh dihkh goot ows."},
+            {"english": "Too much of anything is not good.", "german": "Zu viel von allem ist nicht gut.", "pronunciation": "tsoo feel fohn AH-lem ist nihkht goot."},
         ],
         "Growth": [
-            {"english": "Growth happens outside your comfort zone.", "Dutch": "El crecimiento ocurre fuera de tu zona de confort.", "pronunciation": "el cre-si-myen-to o-cu-re fwer-a de tu zo-na de con-fort."},
-            {"english": "Embrace change, grow stronger.", "Dutch": "Acepta el cambio, hazte más fuerte.", "pronunciation": "a-sep-ta el cam-byo, a-se-te mas fwer-te."},
-            {"english": "Every challenge is a chance to grow.", "Dutch": "Cada desafío es una oportunidad para crecer.", "pronunciation": "ca-da de-sa-fi-o es u-na o-por-tu-ni-dad pa-ra cre-ser."},
+            {"english": "Growth happens outside your comfort zone.", "german": "Wachstum passiert außerhalb deiner Komfortzone.", "pronunciation": "VAKH-stoom pah-SEEERT OWS-ser-hahlp DY-ner kom-FORT-tsoh-neh."},
+            {"english": "Embrace change, grow stronger.", "german": "Umarme Veränderung, werde stärker.", "pronunciation": "oom-AR-muh fair-EN-duh-roong, VEHR-duh SHTEHR-ker."},
+            {"english": "Every challenge is a chance to grow.", "german": "Jede Herausforderung ist eine Chance zu wachsen.", "pronunciation": "YAY-duh heh-RAWS-for-duh-roong ist AY-neh SHAHN-seh tsoo VAKH-sen."},
         ],
         "Purpose": [
-            {"english": "Find your purpose, follow it.", "Dutch": "Encuentra tu propósito, síguelo.", "pronunciation": "en-kwen-tra tu pro-po-si-to, si-ge-lo."},
-            {"english": "Your life has meaning.", "Dutch": "Tu vida tiene sentido.", "pronunciation": "tu vi-da tye-ne sen-ti-do."},
-            {"english": "Live with intention, not accident.", "Dutch": "Vive con intención, no por accidente.", "pronunciation": "vi-ve con in-ten-syon, no por ak-si-den-te."},
+            {"english": "Find your purpose, follow it.", "german": "Finde deinen Zweck, folge ihm.", "pronunciation": "FIN-duh DY-nen tsvayk, FOL-geh eem."},
+            {"english": "Your life has meaning.", "german": "Dein Leben hat einen Sinn.", "pronunciation": "dahn LAY-ben hahnt AY-nen zin."},
+            {"english": "Live with intention, not accident.", "german": "Lebe mit Absicht, nicht zufällig.", "pronunciation": "LAY-buh mit AHP-zikht, nihkht tsoo-FEH-lihkh."},
         ],
         "Mindfulness": [
-            {"english": "Be present in this moment.", "Dutch": "Mantente presente en este momento.", "pronunciation": "man-ten-te pre-sen-te en es-te mo-men-to."},
-            {"english": "Breathe deeply, stay grounded.", "Dutch": "Respira profundo, mantente centrado.", "pronunciation": "res-pi-ra pro-fun-do, man-ten-te sen-tra-do."},
-            {"english": "Notice the little things around you.", "Dutch": "Fíjate en las pequeñas cosas a tu alrededor.", "pronunciation": "fi-ja-te en las pe-ke-nyas co-sas a tu al-re-de-dor."},
+            {"english": "Be present in this moment.", "german": "Sei im Hier und Jetzt.", "pronunciation": "zay im heer oont yets."},
+            {"english": "Breathe deeply, stay grounded.", "german": "Atme tief, bleib geerdet.", "pronunciation": "AHT-muh teef, blaHYB geh-AHR-det."},
+            {"english": "Notice the little things around you.", "german": "Beachte die kleinen Dinge um dich herum.", "pronunciation": "beh-AKH-teh dee KLY-nen DING-uh oom dihkh heh-ROOM."},
         ],
     }
 
@@ -509,7 +509,7 @@ def generate_all_audio(phrases: list, output_dir: str):
 
     for i, phrase in enumerate(phrases):
         english_file = output_dir / f"english_{i}.mp3"
-        Dutch_file = output_dir / f"Dutch_{i}.mp3"
+        german_file = output_dir / f"german_{i}.mp3"
         combined_file = output_dir / f"combined_{i}.mp3"
 
         if (i + 1) % 20 == 0:
@@ -521,25 +521,25 @@ def generate_all_audio(phrases: list, output_dir: str):
             cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(english_file)]
             subprocess.run(cmd, capture_output=True)
 
-        # Generate Dutch audio
-        du_success = asyncio.run(generate_single_audio(phrase["Dutch"], Dutch_VOICE, str(Dutch_file)))
-        if not du_success:
-            cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(Dutch_file)]
+        # Generate German audio
+        cn_success = asyncio.run(generate_single_audio(phrase["german"], GERMAN_VOICE, str(german_file)))
+        if not cn_success:
+            cmd = ["ffmpeg", "-y", "-f", "lavfi", "-i", "anullsrc=r=24000:cl=mono", "-t", "2", str(german_file)]
             subprocess.run(cmd, capture_output=True)
 
         # Get ACTUAL durations
         en_duration = get_audio_duration(str(english_file))
-        du_duration = get_audio_duration(str(Dutch_file))
+        de_duration = get_audio_duration(str(german_file))
 
-        # Add pause between English and Dutch
+        # Add pause between English and German
         pause_between = 0.5
-        total_duration = en_duration + pause_between + du_duration
+        total_duration = en_duration + pause_between + de_duration
 
         # Combine audio files
         cmd = [
             "ffmpeg", "-y",
             "-i", str(english_file),
-            "-i", str(Dutch_file),
+            "-i", str(german_file),
             "-filter_complex", f"[0:a][1:a]concat=n=2:v=0:a=1[out]",
             "-map", "[out]",
             str(combined_file)
@@ -551,7 +551,7 @@ def generate_all_audio(phrases: list, output_dir: str):
             concat_file = output_dir / f"concat_{i}.txt"
             with open(concat_file, "w", encoding="utf-8") as f:
                 f.write(f"file '{english_file.as_posix()}'\n")
-                f.write(f"file '{Dutch_file.as_posix()}'\n")
+                f.write(f"file '{german_file.as_posix()}'\n")
 
             cmd = [
                 "ffmpeg", "-y",
@@ -569,11 +569,11 @@ def generate_all_audio(phrases: list, output_dir: str):
         audio_files.append({
             "index": i,
             "english": str(english_file),
-            "Dutch": str(Dutch_file),
+            "german": str(german_file),
             "combined": str(combined_file),
             "duration": actual_duration,
             "en_duration": en_duration,
-            "du_duration": du_duration
+            "de_duration": de_duration
         })
 
     print(f"\n[audio] ✓ Generated {len(audio_files)} phrase audios")
@@ -661,11 +661,14 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
         "C:/Windows/Fonts/segoeuib.ttf",
         "C:/Windows/Fonts/arialbd.ttf",
         "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
+        "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf",
     ]
 
-    Dutch_font_paths = [
+    german_font_paths = [
+        "C:/Windows/Fonts/segoeuib.ttf",
         "C:/Windows/Fonts/arialbd.ttf",
         "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
+        "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf",
     ]
 
     def load_font(font_paths, size):
@@ -679,12 +682,12 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     # Refined font sizes
     font_category = load_font(english_font_paths, 42)
     font_english = load_font(english_font_paths, 68)
-    font_Dutch = load_font(Dutch_font_paths, 82)
-    font_pronunciation = load_font(Dutch_font_paths, 48)
+    font_german = load_font(german_font_paths, 82)
+    font_pronunciation = load_font(german_font_paths, 48)
     font_branding = load_font(english_font_paths, 38)
 
     english = phrase_data.get("english", "")
-    Dutch = phrase_data.get("Dutch", "")
+    german = phrase_data.get("german", "")
     pronunciation = phrase_data.get("pronunciation", "")
 
     def wrap_text(text, font, max_width):
@@ -737,10 +740,10 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     en_line_h = 80
     en_total_h = len(en_lines) * en_line_h
     
-    # 2. Dutch Box
-    du_lines = wrap_text(Dutch, font_Dutch, VIDEO_WIDTH - 300)
-    du_line_h = 100
-    du_total_h = len(du_lines) * du_line_h
+    # 2. German Box
+    de_lines = wrap_text(german, font_german, VIDEO_WIDTH - 300)
+    de_line_h = 100
+    de_total_h = len(de_lines) * de_line_h
     
     # 3. Pronunciation Box
     pron_text = f"[{pronunciation}]"
@@ -748,7 +751,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     pron_line_h = 60
     pron_total_h = len(pron_lines) * pron_line_h
 
-    total_content_h = en_total_h + du_total_h + pron_total_h + (GAP * 2)
+    total_content_h = en_total_h + de_total_h + pron_total_h + (GAP * 2)
     y_start = CONTENT_Y_CENTER - (total_content_h // 2)
 
     # Draw English Section
@@ -767,17 +770,17 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
     
     y_cursor = y_start + en_box_h + GAP
 
-    # Dutch Section (Lingexa Lighter Purple)
-    du_box_h = du_total_h + 60
+    # German Section (Lingexa Lighter Purple)
+    de_box_h = de_total_h + 60
     draw.rounded_rectangle(
-        [(box_x, y_cursor), (box_x + box_w, y_cursor + du_box_h)],
+        [(box_x, y_cursor), (box_x + box_w, y_cursor + de_box_h)],
         radius=25, fill=(95, 80, 125, 255)
     )
-    for i, line in enumerate(du_lines):
-        draw.text((VIDEO_WIDTH // 2, y_cursor + 30 + (i * du_line_h) + du_line_h // 2), 
-                  line, fill=(255, 255, 255), font=font_Dutch, anchor="mm")
+    for i, line in enumerate(de_lines):
+        draw.text((VIDEO_WIDTH // 2, y_cursor + 30 + (i * de_line_h) + de_line_h // 2), 
+                  line, fill=(255, 255, 255), font=font_german, anchor="mm")
 
-    y_cursor += du_box_h + (GAP // 2)
+    y_cursor += de_box_h + (GAP // 2)
 
     # Pronunciation Section (Lingexa Peach)
     pron_box_h = pron_total_h + 40
@@ -793,7 +796,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
                   line, fill=(70, 45, 25), font=font_pronunciation, anchor="mm")
 
     # Branding (Bottom Right)
-    brand_text = "VELOCITY Dutch"
+    brand_text = "VELOCITY GERMAN"
     brand_bbox = draw.textbbox((0, 0), brand_text, font=font_branding)
     brand_w = brand_bbox[2] - brand_bbox[0]
     draw.text((VIDEO_WIDTH - brand_w - 60, VIDEO_HEIGHT - 80), brand_text, 
@@ -809,7 +812,7 @@ def generate_complete_image(phrase_data: dict, category_english: str, output_pat
 
 # ============== THUMBNAIL GENERATION ==============
 
-def generate_thumbnail(category_english: str, category_Dutch: str, output_path: str):
+def generate_thumbnail(category_english: str, category_german: str, output_path: str):
     """Generate a modern, high-impact thumbnail - Lingexa Inspired"""
     try:
         from PIL import Image, ImageDraw, ImageFont
@@ -823,8 +826,8 @@ def generate_thumbnail(category_english: str, category_Dutch: str, output_path: 
     draw = ImageDraw.Draw(img)
 
     # Load fonts
-    english_font_paths = ["C:/Windows/Fonts/segoeuib.ttf", "C:/Windows/Fonts/arialbd.ttf"]
-    Dutch_font_paths = ["C:/Windows/Fonts/arialbd.ttf"]
+    english_font_paths = ["C:/Windows/Fonts/segoeuib.ttf", "C:/Windows/Fonts/arialbd.ttf", "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf"]
+    german_font_paths = ["C:/Windows/Fonts/segoeuib.ttf", "C:/Windows/Fonts/arialbd.ttf", "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf", "/usr/share/fonts/truetype/liberation/LiberationSans-Bold.ttf"]
 
     def load_font(font_paths, size):
         for font_path in font_paths:
@@ -833,12 +836,12 @@ def generate_thumbnail(category_english: str, category_Dutch: str, output_path: 
         return ImageFont.load_default()
 
     font_huge = load_font(english_font_paths, 130)
-    font_main = load_font(Dutch_font_paths, 110)
+    font_main = load_font(german_font_paths, 110)
     font_sub = load_font(english_font_paths, 60)
     font_badge = load_font(english_font_paths, 45)
 
     # Big Impact Title (Dark Purple)
-    draw.text((VIDEO_WIDTH // 2, 220), "MASTER Dutch", fill=(45, 35, 65), font=font_huge, anchor="mm")
+    draw.text((VIDEO_WIDTH // 2, 220), "MASTER GERMAN", fill=(45, 35, 65), font=font_huge, anchor="mm")
     
     # Category Badge (Lingexa Dark Purple)
     cat_text = category_english.upper()
@@ -850,8 +853,8 @@ def generate_thumbnail(category_english: str, category_Dutch: str, output_path: 
     )
     draw.text((VIDEO_WIDTH // 2, 365), cat_text, fill=(255, 255, 255), font=font_sub, anchor="mm")
 
-    # Dutch Translation (Dark Purple)
-    draw.text((VIDEO_WIDTH // 2, 530), category_Dutch, fill=(45, 35, 65), font=font_main, anchor="mm")
+    # German Translation (Dark Purple)
+    draw.text((VIDEO_WIDTH // 2, 530), category_german, fill=(45, 35, 65), font=font_main, anchor="mm")
 
     # Features / Call to Action (Lingexa Peach)
     cta_text = "60 ESSENTIAL PHRASES"
@@ -863,7 +866,7 @@ def generate_thumbnail(category_english: str, category_Dutch: str, output_path: 
 
     # Bottom Branding (Dark Purple Bar)
     draw.rectangle([(0, VIDEO_HEIGHT - 100), (VIDEO_WIDTH, VIDEO_HEIGHT)], fill=(45, 35, 65, 255))
-    draw.text((VIDEO_WIDTH // 2, VIDEO_HEIGHT - 50), "VELOCITY Dutch", fill=(255, 255, 255), font=font_badge, anchor="mm")
+    draw.text((VIDEO_WIDTH // 2, VIDEO_HEIGHT - 50), "VELOCITY GERMAN", fill=(255, 255, 255), font=font_badge, anchor="mm")
 
     img = img.convert('RGB')
     Path(output_path).parent.mkdir(parents=True, exist_ok=True)
@@ -898,27 +901,27 @@ def extract_video_thumbnail(video_path: str, output_path: str, timestamp_seconds
 
 # ============== TITLE & DESCRIPTION GENERATION ==============
 
-def generate_title_description(category_english: str, category_Dutch: str, phrases: list, duration_minutes: float, output_dir: str):
+def generate_title_description(category_english: str, category_german: str, phrases: list, duration_minutes: float, output_dir: str):
     """Generate viral YouTube title and description with all phrases - COMBINED in one file"""
     
     # Generate viral title variations
     titles = [
-        f"Learn Dutch in 10 Minutes | {category_english} Phrases Every Beginner NEEDS to Know! ({category_Dutch})",
-        f"60 Dutch Phrases for {category_english} | Speak Dutch Like a Native! ({category_Dutch})",
-        f"Master Dutch {category_english} | 60 Essential Dutch Phrases with Pronunciation | Velocity Dutch",
-        f"Dutch Learning Made Easy | {category_english} Vocabulary | 10 Minute Lesson",
-        f"Speak Dutch Fluently | {category_english} Phrases | English + Dutch + Pronunciation",
+        f"Learn German in 10 Minutes | {category_english} Phrases Every Beginner NEEDS to Know! ({category_german})",
+        f"60 German Phrases for {category_english} | Speak German Like a Native! ({category_german})",
+        f"Master German {category_english} | 60 Essential Phrases with Pronunciation | Velocity German",
+        f"German Learning Made Easy | {category_english} Vocabulary | 10 Minute Lesson",
+        f"Speak German Fluently | {category_english} Phrases | English + German + Pronunciation",
     ]
 
     # Generate comprehensive description
-    description = f"""🇳🇱 Learn Dutch with Velocity Dutch! 🇳🇱
+    description = f"""🇩🇪 Learn German with Velocity German! 🇩🇪
 
-In this video, you'll learn 60 essential Dutch phrases about {category_english} ({category_Dutch}).
+In this video, you'll learn 60 essential German phrases about {category_english} ({category_german}).
 Perfect for beginners and intermediate learners!
 
 📚 WHAT YOU'LL LEARN:
-• 60 practical {category_english} phrases in Dutch
-• Correct pronunciation guide
+• 60 practical {category_english} phrases in German
+• Correct pronunciation with phonetic guides
 • Natural pauses for speaking practice
 • Common expressions used by native speakers
 
@@ -942,17 +945,17 @@ Perfect for beginners and intermediate learners!
     for i, phrase in enumerate(phrases, 1):
         description += f"""
 {i}. {phrase['english']}
-   Dutch: {phrase['Dutch']}
+   German: {phrase['german']}
    Pronunciation: {phrase['pronunciation']}
 """
 
     description += f"""
 🎯 PERFECT FOR:
-• Dutch beginners wanting to expand vocabulary
+• German beginners wanting to expand vocabulary
 • Intermediate learners practicing pronunciation
-• Anyone interested in Dutch
+• Anyone interested in learning German
 • Language enthusiasts and polyglots
-• Students preparing for exams
+• Students preparing for Goethe-Zertifikat exams
 
 💡 TIPS FOR LEARNING:
 1. Repeat each phrase out loud
@@ -961,25 +964,26 @@ Perfect for beginners and intermediate learners!
 4. Write down phrases you find difficult
 5. Review this video multiple times
 
-🔔 SUBSCRIBE for more Dutch learning content!
+🔔 SUBSCRIBE for more German learning content!
 👍 LIKE this video if you found it helpful!
 💬 COMMENT which phrases you want to learn next!
 
-📱 FOLLOW VELOCITY Dutch:
+📱 FOLLOW VELOCITY GERMAN:
 [Add your social media links here]
 
 🎵 MUSIC:
 [Add music credits if applicable]
 
 📖 RELATED VIDEOS:
-• Dutch Motivation Phrases
-• Dutch Love Expressions
-• Basic Dutch Greetings
+• German Motivation Phrases
+• German Love Expressions
+• A1 German Vocabulary
+• Basic German Greetings
 
-#LearnDutch #DutchPhrases #DutchLanguage #{category_english.replace(' ', '')} #VelocityDutch #DutchForBeginners #SpeakDutch #DutchVocabulary #Pronunciation #LanguageLearning #Dutch101 #DutchLesson
+#LearnGerman #GermanPhrases #GermanLanguage #{category_english.replace(' ', '')} #VelocityGerman #GermanForBeginners #SpeakGerman #GermanVocabulary #LanguageLearning #German101 #GermanLesson
 
 ---
-© Velocity Dutch - Making Dutch learning accessible to everyone!
+© Velocity German - Making German learning accessible to everyone!
 """
 
     # Write to COMBINED file (title + description in one)
@@ -1011,18 +1015,17 @@ Perfect for beginners and intermediate learners!
         f.write("🏷️ VIDEO TAGS (for YouTube):\n")
         f.write("-" * 80 + "\n")
         tags = [
-            "Learn Dutch",
-            "Dutch Phrases",
-            "Dutch Language",
+            "Learn German",
+            "German Phrases",
+            "German Language",
             category_english,
-            "Velocity Dutch",
-            "Dutch for Beginners",
-            "Speak Dutch",
-            "Dutch Vocabulary",
-            "Pronunciation",
+            "Velocity German",
+            "German for Beginners",
+            "Speak German",
+            "German Vocabulary",
             "Language Learning",
-            "Dutch 101",
-            "Dutch Lesson"
+            "German 101",
+            "German Lesson"
         ]
         f.write(", ".join(tags) + "\n")
 
@@ -1032,7 +1035,7 @@ Perfect for beginners and intermediate learners!
         "selected_title": titles[0],
         "description": description,
         "category_english": category_english,
-        "category_Dutch": category_Dutch,
+        "category_german": category_german,
         "phrases_count": len(phrases),
         "duration_minutes": round(duration_minutes, 2),
         "tags": tags
@@ -1051,41 +1054,31 @@ Perfect for beginners and intermediate learners!
 # ============== VIDEO CREATION WITH TRANSITIONS ==============
 
 def create_video_from_images_audio(image_files: list, audio_files: list, combined_audio: str, output_file: str):
-    """Create video from images and audio with PERFECT synchronization"""
+    """Create video from images and audio with simple concat - no crossfade (more reliable for 120 clips)"""
 
     print(f"\n[video] Creating long-form video from {len(image_files)} images...")
-    print(f"[video] Embedding audio in each clip for frame-perfect sync...")
 
     temp_clips = []
 
     for i, (img_path, audio_info) in enumerate(zip(image_files, audio_files)):
         duration = audio_info['duration']
-        print(f"  Image {i+1}/{len(image_files)}: {duration:.2f}s (EN: {audio_info.get('en_duration', 0):.1f}s + ES: {audio_info.get('du_duration', 0):.1f}s)")
+        if (i + 1) % 20 == 0 or i == 0:
+            print(f"  Clip {i+1}/{len(image_files)}: {duration:.2f}s")
 
-        temp_clip = Path(output_file).parent / f"temp_clip_{i:02d}.mp4"
+        temp_clip = Path(output_file).parent / f"temp_clip_{i:04d}.mp4"
         temp_clips.append(temp_clip)
 
         cmd = [
-            "ffmpeg", "-y",
-            "-loop", "1",
-            "-i", str(img_path),
+            "ffmpeg", "-y", "-loop", "1", "-i", str(img_path),
             "-i", audio_info['combined'],
-            "-vf", f"scale={VIDEO_WIDTH}:{VIDEO_HEIGHT}:force_original_aspect_ratio=decrease,pad={VIDEO_WIDTH}:{VIDEO_HEIGHT}:(ow-iw)/2:(oh-ih)/2,fps={FPS}",
-            "-c:v", "libx264",
-            "-c:a", "aac",
-            "-b:a", "128k",
-            "-pix_fmt", "yuv420p",
-            "-preset", "medium",
-            "-shortest",
-            "-vsync", "cfr",
-            str(temp_clip)
+            "-c:v", "libx264", "-c:a", "aac",
+            "-preset", "fast", "-pix_fmt", "yuv420p",
+            "-shortest", str(temp_clip)
         ]
-
         subprocess.run(cmd, check=True, capture_output=True)
 
     print("[video] Concatenating clips...")
     concat_file = Path(output_file).parent / "concat_list.txt"
-
     with open(concat_file, "w", encoding="utf-8") as f:
         for clip in temp_clips:
             f.write(f"file '{clip.resolve().as_posix()}'\n")
@@ -1098,10 +1091,6 @@ def create_video_from_images_audio(image_files: list, audio_files: list, combine
 
     video_duration = get_audio_duration(str(output_file))
     print(f"[video] ✓ Video created: {Path(output_file).name} ({video_duration:.2f}s)")
-
-    for clip in temp_clips:
-        if clip.exists():
-            clip.unlink()
 
 
 # ============== MAIN WORKFLOW ==============
@@ -1116,7 +1105,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     phrases_count = target_phrases if target_phrases else TARGET_PHRASES
 
     print(f"\n{'='*80}")
-    print(f"🎬 LONG-FORM VIDEO - Category: {category_english} ({CATEGORIES_Dutch[category_english]})")
+    print(f"🎬 LONG-FORM VIDEO - Category: {category_english} ({CATEGORIES_GERMAN[category_english]})")
     print(f"🎯 Target Phrases: {phrases_count}")
     print(f"{'='*80}\n")
 
@@ -1129,7 +1118,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     phrases = generate_phrases_for_longform(category_english, phrases_count)
 
     for i, phrase in enumerate(phrases, 1):
-        print(f"  {i}. {phrase['english']} → {phrase['Dutch']}")
+        print(f"  {i}. {phrase['english']} → {phrase['german']}")
 
     print(f"\n[info] Total phrases: {len(phrases)}")
 
@@ -1141,7 +1130,7 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
         if (i + 1) % 10 == 0:
             print(f"  Progress: {i+1}/{len(phrases)} images...")
 
-    # Step 3: Generate thumbnail using gpt-image-2 via Pollinations
+    # Step 3: Generate thumbnail
     print(f"\n[3/6] Using first phrase image as thumbnail...")
     thumbnail_path = video_dir / "thumbnail.jpg"
     first_phrase = sorted(video_dir.glob("phrase_*.jpg"))
@@ -1157,10 +1146,10 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
                 print(f"  gpt-image-2 thumbnail saved")
             else:
                 print(f"  gpt-image-2 failed, using built-in")
-                generate_thumbnail(category_english, CATEGORIES_ENGLISH[category_english], str(thumbnail_path))
+                generate_thumbnail(category_english, CATEGORIES_GERMAN[category_english], str(thumbnail_path))
         except Exception as e:
             print(f"  Thumbnail error: {e}, using built-in")
-            generate_thumbnail(category_english, CATEGORIES_ENGLISH[category_english], str(thumbnail_path))
+            generate_thumbnail(category_english, CATEGORIES_GERMAN[category_english], str(thumbnail_path))
     video_thumbnail_path = video_dir / "video_thumbnail_frame.jpg"
     print(f"\n[4/6] Generating audio for {len(phrases)} phrases...")
     audio_files = generate_all_audio(phrases, str(video_dir))
@@ -1191,37 +1180,49 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
 
     # Step 6: Generate title and description
     print(f"\n[6/6] Generating YouTube title, description, and metadata...")
-    title_meta = generate_title_description(
+    title_metadata = generate_title_description(
         category_english,
-        CATEGORIES_Dutch[category_english],
+        CATEGORIES_GERMAN[category_english],
         phrases,
         total_duration / 60,
         str(video_dir)
     )
 
-    # Save latest video info for upload script (BEFORE metadata overwrite)
-    import json as _json
-    from pathlib import Path as _Path
-    meta_out = {
-        "title": title_meta.get("selected_title", f"Learn Dutch: {category_english}"),
-        "description": title_meta.get("description", ""),
-        "tags": ["Learn Dutch", "Dutch Phrases", "Dutch", category_english, "Velocity Dutch"],
+    # Save metadata
+    metadata = {
         "category_english": category_english,
-        "category_Dutch": CATEGORIES_Dutch[category_english],
+        "category_german": CATEGORIES_GERMAN[category_english],
+        "timestamp": timestamp,
+        "target_phrases": phrases_count,
+        "actual_duration_seconds": total_duration,
+        "actual_duration_minutes": total_duration / 60,
         "phrases_count": len(phrases),
-        "duration_seconds": total_duration,
-        "duration_minutes": total_duration / 60,
+        "phrases": phrases,
+        "video": str(output_video),
+        "audio": str(final_audio),
+        "thumbnail": str(thumbnail_path),
+        "resolution": f"{VIDEO_WIDTH}x{VIDEO_HEIGHT}",
+        "fps": FPS
+    }
+
+    with open(video_dir / "video_metadata.json", "w", encoding="utf-8") as f:
+        json.dump(metadata, f, indent=2, ensure_ascii=False)
+
+    # Save latest video info for upload
+    latest_info = {
         "video_path": str(output_video),
         "thumbnail_path": str(thumbnail_path),
-        "phrases": phrases,
-        "generated_at": datetime.now().isoformat(),
+        "title": title_metadata["selected_title"],
+        "description": title_metadata["description"],
+        "tags": title_metadata["tags"],
+        "category_english": category_english,
+        "category_german": CATEGORIES_GERMAN[category_english],
+        "phrases_count": len(phrases),
+        "duration_minutes": total_duration / 60
     }
-    _Path("output").mkdir(exist_ok=True)
-    with open(_Path("output") / "latest_video.json", "w", encoding="utf-8") as f:
-        _json.dump(meta_out, f, indent=2, ensure_ascii=False)
-    with open(_Path("output") / "latest_upload_info.json", "w", encoding="utf-8") as f:
-        _json.dump({"title": meta_out["title"], "description": meta_out["description"],
-                     "category": category_english, "phrases_count": len(phrases)}, f, indent=2)
+    with open(OUTPUT_DIR / "latest_video.json", "w", encoding="utf-8") as f:
+        json.dump(latest_info, f, indent=2, ensure_ascii=False)
+    print(f"  📄 latest_video.json saved")
 
     print(f"\n{'='*80}")
     print(f"✅ LONG-FORM VIDEO COMPLETE!")
@@ -1232,11 +1233,11 @@ def generate_longform_video(category_english: str = None, target_phrases: int = 
     print(f"  📄 youtube_upload_info.txt (title + description + tags)")
     print(f"  ⏱️  Duration: {total_duration/60:.2f} minutes")
     print(f"  📊 Phrases: {len(phrases)}")
-    print(f"  🏷️  Branding: Velocity Dutch")
+    print(f"  🏷️  Branding: Velocity German")
     print(f"  📺 Format: 16:9 (1920x1080)")
     print(f"{'='*80}\n")
 
-    return meta_out
+    return metadata
 
 
 def generate_multiple_longform(count: int = 1, target_phrases: int = None):
@@ -1257,13 +1258,13 @@ def generate_multiple_longform(count: int = 1, target_phrases: int = None):
 
 if __name__ == "__main__":
     import argparse
-    parser = argparse.ArgumentParser(description="Velocity Dutch YouTube Long-form Video Generator")
-    parser.add_argument("--phrases", type=int, default=TARGET_PHRASES, help="Number of phrases to generate (determines video length, ~5.5s per phrase. 60 phrases = ~5.5 mins)")
+    parser = argparse.ArgumentParser(description="Velocity German YouTube Long-form Video Generator")
+    parser.add_argument("--phrases", type=int, default=TARGET_PHRASES, help="Number of phrases to generate (determines video length, ~5.5s per phrase. 120 phrases = ~11 mins)")
     parser.add_argument("--category", type=str, default=None, help="Specific category to generate (e.g. 'Motivation', 'Friendship'). Random if not provided.")
     args = parser.parse_args()
 
     print("\n" + "="*80)
-    print("🇳🇱 VELOCITY Dutch - YOUTUBE LONG-FORM AUTOMATION 🇳🇱")
+    print("🇩🇪 VELOCITY GERMAN - YOUTUBE LONG-FORM AUTOMATION 🇩🇪")
     print("="*80)
     print("\n✨ FEATURES:")
     print("  ✓ 16:9 format (1920x1080) for YouTube long-form")
@@ -1275,7 +1276,7 @@ if __name__ == "__main__":
     print("  ✓ NEVER repeats phrases (permanent history tracking)")
     print(f"\n📊 AVAILABLE CATEGORIES ({len(CATEGORIES_ENGLISH)} total):")
     for i, cat in enumerate(CATEGORIES_ENGLISH, 1):
-        print(f"   {i:2d}. {cat} ({CATEGORIES_Dutch[cat]})")
+        print(f"   {i:2d}. {cat} ({CATEGORIES_GERMAN[cat]})")
     print(f"\n📈 VIDEO SPECIFICATIONS:")
     print(f"  • Resolution: {VIDEO_WIDTH}x{VIDEO_HEIGHT} (16:9)")
     print(f"  • Frame Rate: {FPS} FPS")
