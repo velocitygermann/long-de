@@ -10079,7 +10079,727 @@
       "german": "Ein Wort nach dem anderen, baue deine Welt.",
       "category": "Balance",
       "generated_at": "2026-07-31T09:13:33.521300"
+    },
+    {
+      "english": "Oops, sorry, my bad.",
+      "german": "Ups, Verzeihung, mein Fehler.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747399"
+    },
+    {
+      "english": "My fault, I messed up.",
+      "german": "Mein Fehler, ich hab's verbockt.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747410"
+    },
+    {
+      "english": "Please forgive that, okay?",
+      "german": "Bitte verzeih das, ja?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747411"
+    },
+    {
+      "english": "I didn't mean it, really.",
+      "german": "Das war nicht so gemeint, ehrlich.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747412"
+    },
+    {
+      "english": "Could you excuse me, please?",
+      "german": "Könnten Sie mich entschuldigen, bitte?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747414"
+    },
+    {
+      "english": "It was an accident, sorry.",
+      "german": "Das war ein Versehen, tut mir leid.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747415"
+    },
+    {
+      "english": "My apologies for the mix-up.",
+      "german": "Meine Entschuldigung für das Durcheinander.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747416"
+    },
+    {
+      "english": "I hope you can forgive me.",
+      "german": "Ich hoffe, du kannst mir verzeihen.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747419"
+    },
+    {
+      "english": "That was my mistake, sorry.",
+      "german": "Das war mein Fehler, entschuldige.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747421"
+    },
+    {
+      "english": "Let's forget it, okay?",
+      "german": "Vergessen wir's, ja?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747423"
+    },
+    {
+      "english": "No harm done, right?",
+      "german": "Kein Schaden entstanden, oder?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747424"
+    },
+    {
+      "english": "I owe you an apology, truly.",
+      "german": "Ich schulde dir eine Entschuldigung, wirklich.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747425"
+    },
+    {
+      "english": "Please accept my regrets.",
+      "german": "Bitte nimm meine Reue an.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747426"
+    },
+    {
+      "english": "My bad, I'll be more careful.",
+      "german": "Mein Fehler, ich bin vorsichtiger.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747428"
+    },
+    {
+      "english": "Let it go, it's fine.",
+      "german": "Lass es gut sein, es ist okay.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747429"
+    },
+    {
+      "english": "Consider it forgotten, okay?",
+      "german": "Betrachte es als vergessen, ja?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747430"
+    },
+    {
+      "english": "I messed up, I'm sorry.",
+      "german": "Ich hab Mist gebaut, tut mir leid.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747431"
+    },
+    {
+      "english": "Please don't be mad.",
+      "german": "Bitte sei nicht böse.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747433"
+    },
+    {
+      "english": "That was unintentional, truly.",
+      "german": "Das war unabsichtlich, wirklich.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747434"
+    },
+    {
+      "english": "My mistake, I'll fix it.",
+      "german": "Mein Fehler, ich korrigiere das.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747435"
+    },
+    {
+      "english": "I hope you understand.",
+      "german": "Ich hoffe, du verstehst es.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747436"
+    },
+    {
+      "english": "My apologies, I slipped up.",
+      "german": "Meine Entschuldigung, ich bin ausgerutscht.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747437"
+    },
+    {
+      "english": "Can we move past this?",
+      "german": "Können wir das hinter uns lassen?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747439"
+    },
+    {
+      "english": "I take responsibility, sorry.",
+      "german": "Ich übernehme die Verantwortung, Verzeihung.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747440"
+    },
+    {
+      "english": "It won't happen again.",
+      "german": "Das wird nicht wieder vorkommen.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747441"
+    },
+    {
+      "english": "Please forgive my oversight.",
+      "german": "Bitte verzeih mein Versehen.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747442"
+    },
+    {
+      "english": "I'm sorry for the trouble.",
+      "german": "Tut mir leid wegen der Umstände.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747443"
+    },
+    {
+      "english": "My error, I acknowledge it.",
+      "german": "Mein Fehler, ich gebe ihn zu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747444"
+    },
+    {
+      "english": "Can you let it slide?",
+      "german": "Kannst du das durchgehen lassen?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747446"
+    },
+    {
+      "english": "I regret my actions, truly.",
+      "german": "Ich bedauere meine Taten, wirklich.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747447"
+    },
+    {
+      "english": "It was a lapse in judgment.",
+      "german": "Das war ein Urteilsfehler.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747448"
+    },
+    {
+      "english": "My mistake, I'll do better.",
+      "german": "Mein Fehler, ich mach's besser.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747449"
+    },
+    {
+      "english": "Please forgive my bluntness.",
+      "german": "Bitte verzeih meine Direktheit.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747450"
+    },
+    {
+      "english": "I was wrong, I admit it.",
+      "german": "Ich lag falsch, ich gebe es zu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747451"
+    },
+    {
+      "english": "Let's start fresh, okay?",
+      "german": "Fangen wir neu an, ja?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747452"
+    },
+    {
+      "english": "My apologies for the delay.",
+      "german": "Meine Entschuldigung für die Verzögerung.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747453"
+    },
+    {
+      "english": "I hope we can move on.",
+      "german": "Ich hoffe, wir können weitermachen.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747455"
+    },
+    {
+      "english": "That was careless of me.",
+      "german": "Das war unachtsam von mir.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747456"
+    },
+    {
+      "english": "My error, lesson learned.",
+      "german": "Mein Fehler, Lektion gelernt.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747457"
+    },
+    {
+      "english": "Can you overlook this?",
+      "german": "Kannst du darüber hinwegsehen?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747458"
+    },
+    {
+      "english": "Oops, sorry, my bad.",
+      "german": "Ups, Verzeihung, mein Fehler.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747459"
+    },
+    {
+      "english": "My fault, I messed up.",
+      "german": "Mein Fehler, ich hab's verbockt.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747460"
+    },
+    {
+      "english": "Please forgive that, okay?",
+      "german": "Bitte verzeih das, ja?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747461"
+    },
+    {
+      "english": "I didn't mean it, really.",
+      "german": "Das war nicht so gemeint, ehrlich.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747463"
+    },
+    {
+      "english": "Could you excuse me, please?",
+      "german": "Könnten Sie mich entschuldigen, bitte?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747464"
+    },
+    {
+      "english": "It was an accident, sorry.",
+      "german": "Das war ein Versehen, tut mir leid.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747465"
+    },
+    {
+      "english": "My apologies for the mix-up.",
+      "german": "Meine Entschuldigung für das Durcheinander.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747466"
+    },
+    {
+      "english": "I hope you can forgive me.",
+      "german": "Ich hoffe, du kannst mir verzeihen.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747467"
+    },
+    {
+      "english": "That was my mistake, sorry.",
+      "german": "Das war mein Fehler, entschuldige.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747468"
+    },
+    {
+      "english": "Let's forget it, okay?",
+      "german": "Vergessen wir's, ja?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747469"
+    },
+    {
+      "english": "No harm done, right?",
+      "german": "Kein Schaden entstanden, oder?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747471"
+    },
+    {
+      "english": "I owe you an apology, truly.",
+      "german": "Ich schulde dir eine Entschuldigung, wirklich.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747482"
+    },
+    {
+      "english": "Please accept my regrets.",
+      "german": "Bitte nimm meine Reue an.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747484"
+    },
+    {
+      "english": "My bad, I'll be more careful.",
+      "german": "Mein Fehler, ich bin vorsichtiger.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747485"
+    },
+    {
+      "english": "Let it go, it's fine.",
+      "german": "Lass es gut sein, es ist okay.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747486"
+    },
+    {
+      "english": "Consider it forgotten, okay?",
+      "german": "Betrachte es als vergessen, ja?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747487"
+    },
+    {
+      "english": "I messed up, I'm sorry.",
+      "german": "Ich hab Mist gebaut, tut mir leid.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747488"
+    },
+    {
+      "english": "Please don't be mad.",
+      "german": "Bitte sei nicht böse.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747490"
+    },
+    {
+      "english": "That was unintentional, truly.",
+      "german": "Das war unabsichtlich, wirklich.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747491"
+    },
+    {
+      "english": "My mistake, I'll fix it.",
+      "german": "Mein Fehler, ich korrigiere das.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747492"
+    },
+    {
+      "english": "I hope you understand.",
+      "german": "Ich hoffe, du verstehst es.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747493"
+    },
+    {
+      "english": "My apologies, I slipped up.",
+      "german": "Meine Entschuldigung, ich bin ausgerutscht.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747494"
+    },
+    {
+      "english": "Can we move past this?",
+      "german": "Können wir das hinter uns lassen?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747495"
+    },
+    {
+      "english": "I take responsibility, sorry.",
+      "german": "Ich übernehme die Verantwortung, Verzeihung.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747497"
+    },
+    {
+      "english": "It won't happen again.",
+      "german": "Das wird nicht wieder vorkommen.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747498"
+    },
+    {
+      "english": "Please forgive my oversight.",
+      "german": "Bitte verzeih mein Versehen.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747499"
+    },
+    {
+      "english": "I'm sorry for the trouble.",
+      "german": "Tut mir leid wegen der Umstände.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747500"
+    },
+    {
+      "english": "My error, I acknowledge it.",
+      "german": "Mein Fehler, ich gebe ihn zu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747501"
+    },
+    {
+      "english": "Can you let it slide?",
+      "german": "Kannst du das durchgehen lassen?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747502"
+    },
+    {
+      "english": "I regret my actions, truly.",
+      "german": "Ich bedauere meine Taten, wirklich.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747504"
+    },
+    {
+      "english": "It was a lapse in judgment.",
+      "german": "Das war ein Urteilsfehler.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747505"
+    },
+    {
+      "english": "My mistake, I'll do better.",
+      "german": "Mein Fehler, ich mach's besser.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747506"
+    },
+    {
+      "english": "Please forgive my bluntness.",
+      "german": "Bitte verzeih meine Direktheit.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747507"
+    },
+    {
+      "english": "I was wrong, I admit it.",
+      "german": "Ich lag falsch, ich gebe es zu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747508"
+    },
+    {
+      "english": "Let's start fresh, okay?",
+      "german": "Fangen wir neu an, ja?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747510"
+    },
+    {
+      "english": "My apologies for the delay.",
+      "german": "Meine Entschuldigung für die Verzögerung.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747511"
+    },
+    {
+      "english": "I hope we can move on.",
+      "german": "Ich hoffe, wir können weitermachen.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747512"
+    },
+    {
+      "english": "That was careless of me.",
+      "german": "Das war unachtsam von mir.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747513"
+    },
+    {
+      "english": "My error, lesson learned.",
+      "german": "Mein Fehler, Lektion gelernt.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747514"
+    },
+    {
+      "english": "Can you overlook this?",
+      "german": "Kannst du darüber hinwegsehen?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747515"
+    },
+    {
+      "english": "Oops, sorry, my bad.",
+      "german": "Ups, Verzeihung, mein Fehler.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747517"
+    },
+    {
+      "english": "My fault, I messed up.",
+      "german": "Mein Fehler, ich hab's verbockt.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747518"
+    },
+    {
+      "english": "Please forgive that, okay?",
+      "german": "Bitte verzeih das, ja?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747519"
+    },
+    {
+      "english": "I didn't mean it, really.",
+      "german": "Das war nicht so gemeint, ehrlich.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747520"
+    },
+    {
+      "english": "Could you excuse me, please?",
+      "german": "Könnten Sie mich entschuldigen, bitte?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747521"
+    },
+    {
+      "english": "It was an accident, sorry.",
+      "german": "Das war ein Versehen, tut mir leid.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747522"
+    },
+    {
+      "english": "My apologies for the mix-up.",
+      "german": "Meine Entschuldigung für das Durcheinander.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747524"
+    },
+    {
+      "english": "I hope you can forgive me.",
+      "german": "Ich hoffe, du kannst mir verzeihen.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747525"
+    },
+    {
+      "english": "That was my mistake, sorry.",
+      "german": "Das war mein Fehler, entschuldige.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747526"
+    },
+    {
+      "english": "Let's forget it, okay?",
+      "german": "Vergessen wir's, ja?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747527"
+    },
+    {
+      "english": "No harm done, right?",
+      "german": "Kein Schaden entstanden, oder?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747528"
+    },
+    {
+      "english": "I owe you an apology, truly.",
+      "german": "Ich schulde dir eine Entschuldigung, wirklich.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747530"
+    },
+    {
+      "english": "Please accept my regrets.",
+      "german": "Bitte nimm meine Reue an.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747531"
+    },
+    {
+      "english": "My bad, I'll be more careful.",
+      "german": "Mein Fehler, ich bin vorsichtiger.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747532"
+    },
+    {
+      "english": "Let it go, it's fine.",
+      "german": "Lass es gut sein, es ist okay.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747533"
+    },
+    {
+      "english": "Consider it forgotten, okay?",
+      "german": "Betrachte es als vergessen, ja?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747534"
+    },
+    {
+      "english": "I messed up, I'm sorry.",
+      "german": "Ich hab Mist gebaut, tut mir leid.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747535"
+    },
+    {
+      "english": "Please don't be mad.",
+      "german": "Bitte sei nicht böse.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747536"
+    },
+    {
+      "english": "That was unintentional, truly.",
+      "german": "Das war unabsichtlich, wirklich.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747537"
+    },
+    {
+      "english": "My mistake, I'll fix it.",
+      "german": "Mein Fehler, ich korrigiere das.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747539"
+    },
+    {
+      "english": "I hope you understand.",
+      "german": "Ich hoffe, du verstehst es.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747540"
+    },
+    {
+      "english": "My apologies, I slipped up.",
+      "german": "Meine Entschuldigung, ich bin ausgerutscht.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747542"
+    },
+    {
+      "english": "Can we move past this?",
+      "german": "Können wir das hinter uns lassen?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747543"
+    },
+    {
+      "english": "I take responsibility, sorry.",
+      "german": "Ich übernehme die Verantwortung, Verzeihung.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747545"
+    },
+    {
+      "english": "It won't happen again.",
+      "german": "Das wird nicht wieder vorkommen.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747546"
+    },
+    {
+      "english": "Please forgive my oversight.",
+      "german": "Bitte verzeih mein Versehen.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747547"
+    },
+    {
+      "english": "I'm sorry for the trouble.",
+      "german": "Tut mir leid wegen der Umstände.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747548"
+    },
+    {
+      "english": "My error, I acknowledge it.",
+      "german": "Mein Fehler, ich gebe ihn zu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747549"
+    },
+    {
+      "english": "Can you let it slide?",
+      "german": "Kannst du das durchgehen lassen?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747550"
+    },
+    {
+      "english": "I regret my actions, truly.",
+      "german": "Ich bedauere meine Taten, wirklich.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747554"
+    },
+    {
+      "english": "It was a lapse in judgment.",
+      "german": "Das war ein Urteilsfehler.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747555"
+    },
+    {
+      "english": "My mistake, I'll do better.",
+      "german": "Mein Fehler, ich mach's besser.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747556"
+    },
+    {
+      "english": "Please forgive my bluntness.",
+      "german": "Bitte verzeih meine Direktheit.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747557"
+    },
+    {
+      "english": "I was wrong, I admit it.",
+      "german": "Ich lag falsch, ich gebe es zu.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747558"
+    },
+    {
+      "english": "Let's start fresh, okay?",
+      "german": "Fangen wir neu an, ja?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747559"
+    },
+    {
+      "english": "My apologies for the delay.",
+      "german": "Meine Entschuldigung für die Verzögerung.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747560"
+    },
+    {
+      "english": "I hope we can move on.",
+      "german": "Ich hoffe, wir können weitermachen.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747562"
+    },
+    {
+      "english": "That was careless of me.",
+      "german": "Das war unachtsam von mir.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747563"
+    },
+    {
+      "english": "My error, lesson learned.",
+      "german": "Mein Fehler, Lektion gelernt.",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747564"
+    },
+    {
+      "english": "Can you overlook this?",
+      "german": "Kannst du darüber hinwegsehen?",
+      "category": "Forgiveness",
+      "generated_at": "2026-08-01T04:24:53.747565"
     }
   ],
-  "last_updated": "2026-07-31T09:13:33.521302"
+  "last_updated": "2026-08-01T04:24:53.747567"
 }
