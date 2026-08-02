@@ -10799,7 +10799,727 @@
       "german": "Kannst du darüber hinwegsehen?",
       "category": "Forgiveness",
       "generated_at": "2026-08-01T04:24:53.747565"
+    },
+    {
+      "english": "For what reason, tell me?",
+      "german": "Aus welchem Grund, sag mal?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554522"
+    },
+    {
+      "english": "To get a coffee, yes.",
+      "german": "Um Kaffee zu holen, ja.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554532"
+    },
+    {
+      "english": "Why are you here, friend?",
+      "german": "Warum bist du hier, Freund?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554534"
+    },
+    {
+      "english": "For learning, of course.",
+      "german": "Zum Lernen, natürlich.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554535"
+    },
+    {
+      "english": "What is this for, eh?",
+      "german": "Wofür ist das, hä?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554537"
+    },
+    {
+      "english": "For a quick snack, maybe.",
+      "german": "Für einen kleinen Snack, vielleicht.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554538"
+    },
+    {
+      "english": "What's the goal, really?",
+      "german": "Was ist das Ziel, wirklich?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554539"
+    },
+    {
+      "english": "To enjoy this, truly.",
+      "german": "Um das zu genießen, wirklich.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554542"
+    },
+    {
+      "english": "Why this specific thing?",
+      "german": "Warum gerade dieses Ding?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554554"
+    },
+    {
+      "english": "For a change, you know?",
+      "german": "Zur Abwechslung, weißt du?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554556"
+    },
+    {
+      "english": "What is this meant for?",
+      "german": "Wofür ist das gedacht?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554557"
+    },
+    {
+      "english": "For my own good, see.",
+      "german": "Für mein eigenes Wohl, siehst du.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554558"
+    },
+    {
+      "english": "The reason for all this?",
+      "german": "Der Grund für das alles?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554560"
+    },
+    {
+      "english": "For a bit of fun, yes.",
+      "german": "Für ein bisschen Spaß, ja.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554561"
+    },
+    {
+      "english": "Why this particular way?",
+      "german": "Warum auf diese Weise?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554562"
+    },
+    {
+      "english": "To make it perfect, duh.",
+      "german": "Um es perfekt zu machen, klar.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554563"
+    },
+    {
+      "english": "What's the purpose, really?",
+      "german": "Was ist der Zweck, wirklich?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554564"
+    },
+    {
+      "english": "For a little break, friend.",
+      "german": "Für eine kleine Pause, Freund.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554565"
+    },
+    {
+      "english": "Why this specific action?",
+      "german": "Warum diese bestimmte Aktion?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554566"
+    },
+    {
+      "english": "For the experience, you know.",
+      "german": "Für die Erfahrung, weißt du.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554568"
+    },
+    {
+      "english": "What are you doing this for?",
+      "german": "Wofür machst du das?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554569"
+    },
+    {
+      "english": "For a simple reason, see.",
+      "german": "Aus einem einfachen Grund, siehst du.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554570"
+    },
+    {
+      "english": "The reason behind this, why?",
+      "german": "Der Grund dahinter, warum?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554571"
+    },
+    {
+      "english": "For a bit of relief, yes.",
+      "german": "Für ein bisschen Erleichterung, ja.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554572"
+    },
+    {
+      "english": "Why this specific object?",
+      "german": "Warum dieses spezielle Objekt?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554573"
+    },
+    {
+      "english": "For the challenge, perhaps.",
+      "german": "Für die Herausforderung, vielleicht.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554574"
+    },
+    {
+      "english": "What's this all about, then?",
+      "german": "Worum geht es hier, dann?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554575"
+    },
+    {
+      "english": "For a better outcome, friend.",
+      "german": "Für ein besseres Ergebnis, Freund.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554577"
+    },
+    {
+      "english": "Why this exact method?",
+      "german": "Warum diese genaue Methode?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554578"
+    },
+    {
+      "english": "For pure enjoyment, really.",
+      "german": "Zum puren Genuss, wirklich.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554579"
+    },
+    {
+      "english": "What's the point of this?",
+      "german": "Was ist der Sinn davon?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554580"
+    },
+    {
+      "english": "For the sheer joy, see.",
+      "german": "Für die reine Freude, siehst du.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554581"
+    },
+    {
+      "english": "Why this unusual approach?",
+      "german": "Warum dieser ungewöhnliche Ansatz?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554582"
+    },
+    {
+      "english": "For a moment's peace, yes.",
+      "german": "Für einen Moment Ruhe, ja.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554583"
+    },
+    {
+      "english": "What is this intended for?",
+      "german": "Wofür ist das bestimmt?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554584"
+    },
+    {
+      "english": "For the adventure, you know.",
+      "german": "Für das Abenteuer, weißt du.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554585"
+    },
+    {
+      "english": "Why this specific tool?",
+      "german": "Warum dieses spezielle Werkzeug?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554586"
+    },
+    {
+      "english": "For a bit of quiet, friend.",
+      "german": "Für ein bisschen Ruhe, Freund.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554587"
+    },
+    {
+      "english": "What is this designed for?",
+      "german": "Wofür ist das entworfen?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554588"
+    },
+    {
+      "english": "For the sheer fun, really.",
+      "german": "Für den reinen Spaß, wirklich.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554591"
+    },
+    {
+      "english": "For what reason, tell me?",
+      "german": "Aus welchem Grund, sag mal?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554592"
+    },
+    {
+      "english": "To get a coffee, yes.",
+      "german": "Um Kaffee zu holen, ja.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554593"
+    },
+    {
+      "english": "Why are you here, friend?",
+      "german": "Warum bist du hier, Freund?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554594"
+    },
+    {
+      "english": "For learning, of course.",
+      "german": "Zum Lernen, natürlich.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554596"
+    },
+    {
+      "english": "What is this for, eh?",
+      "german": "Wofür ist das, hä?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554597"
+    },
+    {
+      "english": "For a quick snack, maybe.",
+      "german": "Für einen kleinen Snack, vielleicht.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554598"
+    },
+    {
+      "english": "What's the goal, really?",
+      "german": "Was ist das Ziel, wirklich?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554599"
+    },
+    {
+      "english": "To enjoy this, truly.",
+      "german": "Um das zu genießen, wirklich.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554602"
+    },
+    {
+      "english": "Why this specific thing?",
+      "german": "Warum gerade dieses Ding?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554603"
+    },
+    {
+      "english": "For a change, you know?",
+      "german": "Zur Abwechslung, weißt du?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554604"
+    },
+    {
+      "english": "What is this meant for?",
+      "german": "Wofür ist das gedacht?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554605"
+    },
+    {
+      "english": "For my own good, see.",
+      "german": "Für mein eigenes Wohl, siehst du.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554607"
+    },
+    {
+      "english": "The reason for all this?",
+      "german": "Der Grund für das alles?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554608"
+    },
+    {
+      "english": "For a bit of fun, yes.",
+      "german": "Für ein bisschen Spaß, ja.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554609"
+    },
+    {
+      "english": "Why this particular way?",
+      "german": "Warum auf diese Weise?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554610"
+    },
+    {
+      "english": "To make it perfect, duh.",
+      "german": "Um es perfekt zu machen, klar.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554611"
+    },
+    {
+      "english": "What's the purpose, really?",
+      "german": "Was ist der Zweck, wirklich?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554612"
+    },
+    {
+      "english": "For a little break, friend.",
+      "german": "Für eine kleine Pause, Freund.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554613"
+    },
+    {
+      "english": "Why this specific action?",
+      "german": "Warum diese bestimmte Aktion?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554614"
+    },
+    {
+      "english": "For the experience, you know.",
+      "german": "Für die Erfahrung, weißt du.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554615"
+    },
+    {
+      "english": "What are you doing this for?",
+      "german": "Wofür machst du das?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554616"
+    },
+    {
+      "english": "For a simple reason, see.",
+      "german": "Aus einem einfachen Grund, siehst du.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554617"
+    },
+    {
+      "english": "The reason behind this, why?",
+      "german": "Der Grund dahinter, warum?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554618"
+    },
+    {
+      "english": "For a bit of relief, yes.",
+      "german": "Für ein bisschen Erleichterung, ja.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554619"
+    },
+    {
+      "english": "Why this specific object?",
+      "german": "Warum dieses spezielle Objekt?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554620"
+    },
+    {
+      "english": "For the challenge, perhaps.",
+      "german": "Für die Herausforderung, vielleicht.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554621"
+    },
+    {
+      "english": "What's this all about, then?",
+      "german": "Worum geht es hier, dann?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554623"
+    },
+    {
+      "english": "For a better outcome, friend.",
+      "german": "Für ein besseres Ergebnis, Freund.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554624"
+    },
+    {
+      "english": "Why this exact method?",
+      "german": "Warum diese genaue Methode?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554625"
+    },
+    {
+      "english": "For pure enjoyment, really.",
+      "german": "Zum puren Genuss, wirklich.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554626"
+    },
+    {
+      "english": "What's the point of this?",
+      "german": "Was ist der Sinn davon?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554627"
+    },
+    {
+      "english": "For the sheer joy, see.",
+      "german": "Für die reine Freude, siehst du.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554629"
+    },
+    {
+      "english": "Why this unusual approach?",
+      "german": "Warum dieser ungewöhnliche Ansatz?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554631"
+    },
+    {
+      "english": "For a moment's peace, yes.",
+      "german": "Für einen Moment Ruhe, ja.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554632"
+    },
+    {
+      "english": "What is this intended for?",
+      "german": "Wofür ist das bestimmt?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554633"
+    },
+    {
+      "english": "For the adventure, you know.",
+      "german": "Für das Abenteuer, weißt du.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554634"
+    },
+    {
+      "english": "Why this specific tool?",
+      "german": "Warum dieses spezielle Werkzeug?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554635"
+    },
+    {
+      "english": "For a bit of quiet, friend.",
+      "german": "Für ein bisschen Ruhe, Freund.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554636"
+    },
+    {
+      "english": "What is this designed for?",
+      "german": "Wofür ist das entworfen?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554637"
+    },
+    {
+      "english": "For the sheer fun, really.",
+      "german": "Für den reinen Spaß, wirklich.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554638"
+    },
+    {
+      "english": "For what reason, tell me?",
+      "german": "Aus welchem Grund, sag mal?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554639"
+    },
+    {
+      "english": "To get a coffee, yes.",
+      "german": "Um Kaffee zu holen, ja.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554640"
+    },
+    {
+      "english": "Why are you here, friend?",
+      "german": "Warum bist du hier, Freund?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554641"
+    },
+    {
+      "english": "For learning, of course.",
+      "german": "Zum Lernen, natürlich.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554642"
+    },
+    {
+      "english": "What is this for, eh?",
+      "german": "Wofür ist das, hä?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554643"
+    },
+    {
+      "english": "For a quick snack, maybe.",
+      "german": "Für einen kleinen Snack, vielleicht.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554645"
+    },
+    {
+      "english": "What's the goal, really?",
+      "german": "Was ist das Ziel, wirklich?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554646"
+    },
+    {
+      "english": "To enjoy this, truly.",
+      "german": "Um das zu genießen, wirklich.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554647"
+    },
+    {
+      "english": "Why this specific thing?",
+      "german": "Warum gerade dieses Ding?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554648"
+    },
+    {
+      "english": "For a change, you know?",
+      "german": "Zur Abwechslung, weißt du?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554649"
+    },
+    {
+      "english": "What is this meant for?",
+      "german": "Wofür ist das gedacht?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554650"
+    },
+    {
+      "english": "For my own good, see.",
+      "german": "Für mein eigenes Wohl, siehst du.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554651"
+    },
+    {
+      "english": "The reason for all this?",
+      "german": "Der Grund für das alles?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554652"
+    },
+    {
+      "english": "For a bit of fun, yes.",
+      "german": "Für ein bisschen Spaß, ja.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554653"
+    },
+    {
+      "english": "Why this particular way?",
+      "german": "Warum auf diese Weise?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554654"
+    },
+    {
+      "english": "To make it perfect, duh.",
+      "german": "Um es perfekt zu machen, klar.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554655"
+    },
+    {
+      "english": "What's the purpose, really?",
+      "german": "Was ist der Zweck, wirklich?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554656"
+    },
+    {
+      "english": "For a little break, friend.",
+      "german": "Für eine kleine Pause, Freund.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554659"
+    },
+    {
+      "english": "Why this specific action?",
+      "german": "Warum diese bestimmte Aktion?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554660"
+    },
+    {
+      "english": "For the experience, you know.",
+      "german": "Für die Erfahrung, weißt du.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554662"
+    },
+    {
+      "english": "What are you doing this for?",
+      "german": "Wofür machst du das?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554663"
+    },
+    {
+      "english": "For a simple reason, see.",
+      "german": "Aus einem einfachen Grund, siehst du.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554664"
+    },
+    {
+      "english": "The reason behind this, why?",
+      "german": "Der Grund dahinter, warum?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554665"
+    },
+    {
+      "english": "For a bit of relief, yes.",
+      "german": "Für ein bisschen Erleichterung, ja.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554667"
+    },
+    {
+      "english": "Why this specific object?",
+      "german": "Warum dieses spezielle Objekt?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554668"
+    },
+    {
+      "english": "For the challenge, perhaps.",
+      "german": "Für die Herausforderung, vielleicht.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554669"
+    },
+    {
+      "english": "What's this all about, then?",
+      "german": "Worum geht es hier, dann?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554670"
+    },
+    {
+      "english": "For a better outcome, friend.",
+      "german": "Für ein besseres Ergebnis, Freund.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554671"
+    },
+    {
+      "english": "Why this exact method?",
+      "german": "Warum diese genaue Methode?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554672"
+    },
+    {
+      "english": "For pure enjoyment, really.",
+      "german": "Zum puren Genuss, wirklich.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554674"
+    },
+    {
+      "english": "What's the point of this?",
+      "german": "Was ist der Sinn davon?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554675"
+    },
+    {
+      "english": "For the sheer joy, see.",
+      "german": "Für die reine Freude, siehst du.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554676"
+    },
+    {
+      "english": "Why this unusual approach?",
+      "german": "Warum dieser ungewöhnliche Ansatz?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554677"
+    },
+    {
+      "english": "For a moment's peace, yes.",
+      "german": "Für einen Moment Ruhe, ja.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554678"
+    },
+    {
+      "english": "What is this intended for?",
+      "german": "Wofür ist das bestimmt?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554679"
+    },
+    {
+      "english": "For the adventure, you know.",
+      "german": "Für das Abenteuer, weißt du.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554680"
+    },
+    {
+      "english": "Why this specific tool?",
+      "german": "Warum dieses spezielle Werkzeug?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554681"
+    },
+    {
+      "english": "For a bit of quiet, friend.",
+      "german": "Für ein bisschen Ruhe, Freund.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554682"
+    },
+    {
+      "english": "What is this designed for?",
+      "german": "Wofür ist das entworfen?",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554683"
+    },
+    {
+      "english": "For the sheer fun, really.",
+      "german": "Für den reinen Spaß, wirklich.",
+      "category": "Purpose",
+      "generated_at": "2026-08-02T04:28:14.554684"
     }
   ],
-  "last_updated": "2026-08-01T04:24:53.747567"
+  "last_updated": "2026-08-02T04:28:14.554686"
 }
