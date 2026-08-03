@@ -11519,7 +11519,727 @@
       "german": "Für den reinen Spaß, wirklich.",
       "category": "Purpose",
       "generated_at": "2026-08-02T04:28:14.554684"
+    },
+    {
+      "english": "Thanks, you're the best.",
+      "german": "Danke, du bist der Beste.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188654"
+    },
+    {
+      "english": "My hero, thank you so much.",
+      "german": "Mein Held, vielen Dank.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188662"
+    },
+    {
+      "english": "I owe you big time.",
+      "german": "Ich stehe bei dir in der Schuld.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188664"
+    },
+    {
+      "english": "Couldn't have done it without you.",
+      "german": "Ohne dich hätte ich es nicht geschafft.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188665"
+    },
+    {
+      "english": "You're a sweetheart, thank you.",
+      "german": "Du bist ein Schatz, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188666"
+    },
+    {
+      "english": "This made my day, truly.",
+      "german": "Das hat meinen Tag gemacht, wirklich.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188667"
+    },
+    {
+      "english": "So grateful for this.",
+      "german": "So dankbar dafür.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188669"
+    },
+    {
+      "english": "You're a star, thank you.",
+      "german": "Du bist ein Star, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188671"
+    },
+    {
+      "english": "This is a godsend, honestly.",
+      "german": "Das ist ein Segen, ehrlich.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188673"
+    },
+    {
+      "english": "You're too kind, really.",
+      "german": "Du bist zu nett, wirklich.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188674"
+    },
+    {
+      "english": "This is perfect, thank you.",
+      "german": "Das ist perfekt, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188675"
+    },
+    {
+      "english": "I'm so thankful for you.",
+      "german": "Ich bin so dankbar für dich.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188677"
+    },
+    {
+      "english": "You're a true gem, thank you.",
+      "german": "Du bist ein echtes Juwel, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188678"
+    },
+    {
+      "english": "This is a great help.",
+      "german": "Das ist eine große Hilfe.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188679"
+    },
+    {
+      "english": "You saved my bacon.",
+      "german": "Du hast mir den Hintern gerettet.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188681"
+    },
+    {
+      "english": "I'm blessed to know you.",
+      "german": "Ich bin gesegnet, dich zu kennen.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188682"
+    },
+    {
+      "english": "You're awesome, thank you.",
+      "german": "Du bist super, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188683"
+    },
+    {
+      "english": "This means a lot, really.",
+      "german": "Das bedeutet viel, wirklich.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188684"
+    },
+    {
+      "english": "Such a kind gesture, thanks.",
+      "german": "So eine nette Geste, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188685"
+    },
+    {
+      "english": "Couldn't have imagined this.",
+      "german": "Ich hätte mir das nicht vorstellen können.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188686"
+    },
+    {
+      "english": "My gratitude is immense.",
+      "german": "Meine Dankbarkeit ist riesig.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188687"
+    },
+    {
+      "english": "You're a true friend, thanks.",
+      "german": "Du bist ein wahrer Freund, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188688"
+    },
+    {
+      "english": "This is beyond words, thanks.",
+      "german": "Das ist unbeschreiblich, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188689"
+    },
+    {
+      "english": "So happy you're here.",
+      "german": "So froh, dass du da bist.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188690"
+    },
+    {
+      "english": "This is a dream come true.",
+      "german": "Das ist ein Traum, der wahr wurde.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188692"
+    },
+    {
+      "english": "You're a gift, thank you.",
+      "german": "Du bist ein Geschenk, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188693"
+    },
+    {
+      "english": "I'm truly thankful for this.",
+      "german": "Ich bin wirklich dankbar dafür.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188694"
+    },
+    {
+      "english": "This is so thoughtful, thanks.",
+      "german": "Das ist so nachdenklich, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188695"
+    },
+    {
+      "english": "You're the absolute best.",
+      "german": "Du bist absolut der Beste.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188696"
+    },
+    {
+      "english": "This is wonderful, thank you.",
+      "german": "Das ist wunderbar, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188697"
+    },
+    {
+      "english": "I can't thank you enough.",
+      "german": "Ich kann dir nicht genug danken.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188698"
+    },
+    {
+      "english": "You're a true blessing, really.",
+      "german": "Du bist ein wahrer Segen, wirklich.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188699"
+    },
+    {
+      "english": "This is pure magic, thanks.",
+      "german": "Das ist reine Magie, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188700"
+    },
+    {
+      "english": "You're my saving grace.",
+      "german": "Du bist meine Rettung.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188701"
+    },
+    {
+      "english": "Forever grateful for you.",
+      "german": "Für immer dankbar für dich.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188702"
+    },
+    {
+      "english": "Thanks, you're the best.",
+      "german": "Danke, du bist der Beste.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188703"
+    },
+    {
+      "english": "My hero, thank you so much.",
+      "german": "Mein Held, vielen Dank.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188704"
+    },
+    {
+      "english": "I owe you big time.",
+      "german": "Ich stehe bei dir in der Schuld.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188705"
+    },
+    {
+      "english": "Couldn't have done it without you.",
+      "german": "Ohne dich hätte ich es nicht geschafft.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188706"
+    },
+    {
+      "english": "You're a sweetheart, thank you.",
+      "german": "Du bist ein Schatz, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188707"
+    },
+    {
+      "english": "This made my day, truly.",
+      "german": "Das hat meinen Tag gemacht, wirklich.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188708"
+    },
+    {
+      "english": "So grateful for this.",
+      "german": "So dankbar dafür.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188709"
+    },
+    {
+      "english": "You're a star, thank you.",
+      "german": "Du bist ein Star, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188710"
+    },
+    {
+      "english": "This is a godsend, honestly.",
+      "german": "Das ist ein Segen, ehrlich.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188711"
+    },
+    {
+      "english": "You're too kind, really.",
+      "german": "Du bist zu nett, wirklich.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188712"
+    },
+    {
+      "english": "This is perfect, thank you.",
+      "german": "Das ist perfekt, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188713"
+    },
+    {
+      "english": "I'm so thankful for you.",
+      "german": "Ich bin so dankbar für dich.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188714"
+    },
+    {
+      "english": "You're a true gem, thank you.",
+      "german": "Du bist ein echtes Juwel, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188715"
+    },
+    {
+      "english": "This is a great help.",
+      "german": "Das ist eine große Hilfe.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188716"
+    },
+    {
+      "english": "You saved my bacon.",
+      "german": "Du hast mir den Hintern gerettet.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188722"
+    },
+    {
+      "english": "I'm blessed to know you.",
+      "german": "Ich bin gesegnet, dich zu kennen.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188723"
+    },
+    {
+      "english": "You're awesome, thank you.",
+      "german": "Du bist super, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188725"
+    },
+    {
+      "english": "This means a lot, really.",
+      "german": "Das bedeutet viel, wirklich.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188726"
+    },
+    {
+      "english": "Such a kind gesture, thanks.",
+      "german": "So eine nette Geste, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188727"
+    },
+    {
+      "english": "Couldn't have imagined this.",
+      "german": "Ich hätte mir das nicht vorstellen können.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188728"
+    },
+    {
+      "english": "My gratitude is immense.",
+      "german": "Meine Dankbarkeit ist riesig.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188729"
+    },
+    {
+      "english": "You're a true friend, thanks.",
+      "german": "Du bist ein wahrer Freund, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188730"
+    },
+    {
+      "english": "This is beyond words, thanks.",
+      "german": "Das ist unbeschreiblich, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188731"
+    },
+    {
+      "english": "So happy you're here.",
+      "german": "So froh, dass du da bist.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188732"
+    },
+    {
+      "english": "This is a dream come true.",
+      "german": "Das ist ein Traum, der wahr wurde.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188733"
+    },
+    {
+      "english": "You're a gift, thank you.",
+      "german": "Du bist ein Geschenk, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188734"
+    },
+    {
+      "english": "I'm truly thankful for this.",
+      "german": "Ich bin wirklich dankbar dafür.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188735"
+    },
+    {
+      "english": "This is so thoughtful, thanks.",
+      "german": "Das ist so nachdenklich, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188736"
+    },
+    {
+      "english": "You're the absolute best.",
+      "german": "Du bist absolut der Beste.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188737"
+    },
+    {
+      "english": "This is wonderful, thank you.",
+      "german": "Das ist wunderbar, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188738"
+    },
+    {
+      "english": "I can't thank you enough.",
+      "german": "Ich kann dir nicht genug danken.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188739"
+    },
+    {
+      "english": "You're a true blessing, really.",
+      "german": "Du bist ein wahrer Segen, wirklich.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188740"
+    },
+    {
+      "english": "This is pure magic, thanks.",
+      "german": "Das ist reine Magie, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188741"
+    },
+    {
+      "english": "You're my saving grace.",
+      "german": "Du bist meine Rettung.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188742"
+    },
+    {
+      "english": "Forever grateful for you.",
+      "german": "Für immer dankbar für dich.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188743"
+    },
+    {
+      "english": "Thanks, you're the best.",
+      "german": "Danke, du bist der Beste.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188744"
+    },
+    {
+      "english": "My hero, thank you so much.",
+      "german": "Mein Held, vielen Dank.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188745"
+    },
+    {
+      "english": "I owe you big time.",
+      "german": "Ich stehe bei dir in der Schuld.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188746"
+    },
+    {
+      "english": "Couldn't have done it without you.",
+      "german": "Ohne dich hätte ich es nicht geschafft.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188747"
+    },
+    {
+      "english": "You're a sweetheart, thank you.",
+      "german": "Du bist ein Schatz, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188748"
+    },
+    {
+      "english": "This made my day, truly.",
+      "german": "Das hat meinen Tag gemacht, wirklich.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188749"
+    },
+    {
+      "english": "So grateful for this.",
+      "german": "So dankbar dafür.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188750"
+    },
+    {
+      "english": "You're a star, thank you.",
+      "german": "Du bist ein Star, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188752"
+    },
+    {
+      "english": "This is a godsend, honestly.",
+      "german": "Das ist ein Segen, ehrlich.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188753"
+    },
+    {
+      "english": "You're too kind, really.",
+      "german": "Du bist zu nett, wirklich.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188754"
+    },
+    {
+      "english": "This is perfect, thank you.",
+      "german": "Das ist perfekt, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188755"
+    },
+    {
+      "english": "I'm so thankful for you.",
+      "german": "Ich bin so dankbar für dich.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188756"
+    },
+    {
+      "english": "You're a true gem, thank you.",
+      "german": "Du bist ein echtes Juwel, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188757"
+    },
+    {
+      "english": "This is a great help.",
+      "german": "Das ist eine große Hilfe.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188758"
+    },
+    {
+      "english": "You saved my bacon.",
+      "german": "Du hast mir den Hintern gerettet.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188759"
+    },
+    {
+      "english": "I'm blessed to know you.",
+      "german": "Ich bin gesegnet, dich zu kennen.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188760"
+    },
+    {
+      "english": "You're awesome, thank you.",
+      "german": "Du bist super, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188761"
+    },
+    {
+      "english": "This means a lot, really.",
+      "german": "Das bedeutet viel, wirklich.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188762"
+    },
+    {
+      "english": "Such a kind gesture, thanks.",
+      "german": "So eine nette Geste, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188763"
+    },
+    {
+      "english": "Couldn't have imagined this.",
+      "german": "Ich hätte mir das nicht vorstellen können.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188764"
+    },
+    {
+      "english": "My gratitude is immense.",
+      "german": "Meine Dankbarkeit ist riesig.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188765"
+    },
+    {
+      "english": "You're a true friend, thanks.",
+      "german": "Du bist ein wahrer Freund, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188766"
+    },
+    {
+      "english": "This is beyond words, thanks.",
+      "german": "Das ist unbeschreiblich, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188767"
+    },
+    {
+      "english": "So happy you're here.",
+      "german": "So froh, dass du da bist.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188768"
+    },
+    {
+      "english": "This is a dream come true.",
+      "german": "Das ist ein Traum, der wahr wurde.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188769"
+    },
+    {
+      "english": "You're a gift, thank you.",
+      "german": "Du bist ein Geschenk, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188770"
+    },
+    {
+      "english": "I'm truly thankful for this.",
+      "german": "Ich bin wirklich dankbar dafür.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188771"
+    },
+    {
+      "english": "This is so thoughtful, thanks.",
+      "german": "Das ist so nachdenklich, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188773"
+    },
+    {
+      "english": "You're the absolute best.",
+      "german": "Du bist absolut der Beste.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188774"
+    },
+    {
+      "english": "This is wonderful, thank you.",
+      "german": "Das ist wunderbar, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188777"
+    },
+    {
+      "english": "I can't thank you enough.",
+      "german": "Ich kann dir nicht genug danken.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188778"
+    },
+    {
+      "english": "You're a true blessing, really.",
+      "german": "Du bist ein wahrer Segen, wirklich.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188779"
+    },
+    {
+      "english": "This is pure magic, thanks.",
+      "german": "Das ist reine Magie, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188780"
+    },
+    {
+      "english": "You're my saving grace.",
+      "german": "Du bist meine Rettung.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188781"
+    },
+    {
+      "english": "Forever grateful for you.",
+      "german": "Für immer dankbar für dich.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188782"
+    },
+    {
+      "english": "Thanks, you're the best.",
+      "german": "Danke, du bist der Beste.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188783"
+    },
+    {
+      "english": "My hero, thank you so much.",
+      "german": "Mein Held, vielen Dank.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188784"
+    },
+    {
+      "english": "I owe you big time.",
+      "german": "Ich stehe bei dir in der Schuld.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188785"
+    },
+    {
+      "english": "Couldn't have done it without you.",
+      "german": "Ohne dich hätte ich es nicht geschafft.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188786"
+    },
+    {
+      "english": "You're a sweetheart, thank you.",
+      "german": "Du bist ein Schatz, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188787"
+    },
+    {
+      "english": "This made my day, truly.",
+      "german": "Das hat meinen Tag gemacht, wirklich.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188788"
+    },
+    {
+      "english": "So grateful for this.",
+      "german": "So dankbar dafür.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188789"
+    },
+    {
+      "english": "You're a star, thank you.",
+      "german": "Du bist ein Star, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188790"
+    },
+    {
+      "english": "This is a godsend, honestly.",
+      "german": "Das ist ein Segen, ehrlich.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188791"
+    },
+    {
+      "english": "You're too kind, really.",
+      "german": "Du bist zu nett, wirklich.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188792"
+    },
+    {
+      "english": "This is perfect, thank you.",
+      "german": "Das ist perfekt, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188793"
+    },
+    {
+      "english": "I'm so thankful for you.",
+      "german": "Ich bin so dankbar für dich.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188794"
+    },
+    {
+      "english": "You're a true gem, thank you.",
+      "german": "Du bist ein echtes Juwel, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188795"
+    },
+    {
+      "english": "This is a great help.",
+      "german": "Das ist eine große Hilfe.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188796"
+    },
+    {
+      "english": "You saved my bacon.",
+      "german": "Du hast mir den Hintern gerettet.",
+      "category": "Gratitude",
+      "generated_at": "2026-08-03T04:35:04.188798"
     }
   ],
-  "last_updated": "2026-08-02T04:28:14.554686"
+  "last_updated": "2026-08-03T04:35:04.188800"
 }
