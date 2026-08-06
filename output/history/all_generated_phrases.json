@@ -14399,7 +14399,727 @@
       "german": "Stelle dich, Herausforderungen, mutig.",
       "category": "Strength",
       "generated_at": "2026-08-06T03:23:10.655462"
+    },
+    {
+      "english": "Be brave, little one.",
+      "german": "Sei tapfer, Kleiner.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.580990"
+    },
+    {
+      "english": "Go for it, always.",
+      "german": "Mach es, immer.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581001"
+    },
+    {
+      "english": "Push through, it's worth it.",
+      "german": "Kämpf dich durch, es lohnt sich.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581003"
+    },
+    {
+      "english": "Don't fear, try again.",
+      "german": "Hab keine Angst, versuch's wieder.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581005"
+    },
+    {
+      "english": "You can do, much more.",
+      "german": "Du kannst viel, mehr schaffen.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581006"
+    },
+    {
+      "english": "Keep your head, up high.",
+      "german": "Halt den Kopf, hoch.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581007"
+    },
+    {
+      "english": "Face the fear, head-on.",
+      "german": "Stell dich der Angst, direkt.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581008"
+    },
+    {
+      "english": "Be bold, be you.",
+      "german": "Sei mutig, sei du.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581011"
+    },
+    {
+      "english": "Take a breath, and go.",
+      "german": "Atme tief durch, und los.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581012"
+    },
+    {
+      "english": "Never give, in easily.",
+      "german": "Gib niemals, leicht auf.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581014"
+    },
+    {
+      "english": "Embrace the struggle, learn.",
+      "german": "Umarme den Kampf, lerne.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581015"
+    },
+    {
+      "english": "Show them, what you've got.",
+      "german": "Zeig ihnen, was du kannst.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581016"
+    },
+    {
+      "english": "Act with, courage now.",
+      "german": "Handle jetzt, mit Mut.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581017"
+    },
+    {
+      "english": "You can win, this fight.",
+      "german": "Du kannst diesen Kampf, gewinnen.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581018"
+    },
+    {
+      "english": "Be brave, be bold.",
+      "german": "Sei mutig, sei kühn.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581019"
+    },
+    {
+      "english": "Don't quit, keep going.",
+      "german": "Gib nicht auf, mach weiter.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581020"
+    },
+    {
+      "english": "Try harder, be stronger.",
+      "german": "Streng dich mehr an, sei stärker.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581021"
+    },
+    {
+      "english": "Dare to try, anything.",
+      "german": "Trau dich, alles zu versuchen.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581022"
+    },
+    {
+      "english": "Face it, don't run.",
+      "german": "Stell dich dem, renn nicht weg.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581023"
+    },
+    {
+      "english": "Be courageous, today.",
+      "german": "Sei mutig, heute.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581024"
+    },
+    {
+      "english": "Take the leap, bravely.",
+      "german": "Mach den Sprung, mutig.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581025"
+    },
+    {
+      "english": "You can overcome, this.",
+      "german": "Du kannst das überwinden.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581026"
+    },
+    {
+      "english": "Be a fighter, always.",
+      "german": "Sei ein Kämpfer, immer.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581027"
+    },
+    {
+      "english": "You possess, true grit.",
+      "german": "Du hast, echten Biss.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581028"
+    },
+    {
+      "english": "Step forward, with courage.",
+      "german": "Tritt vor, mit Mut.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581029"
+    },
+    {
+      "english": "You're a warrior, inside.",
+      "german": "Du bist ein Krieger, innen.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581030"
+    },
+    {
+      "english": "Never surrender, your dreams.",
+      "german": "Gib niemals, deine Träume auf.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581031"
+    },
+    {
+      "english": "Show your courage, now.",
+      "german": "Zeig deinen Mut, jetzt.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581032"
+    },
+    {
+      "english": "This challenge, is yours.",
+      "german": "Diese Herausforderung, ist deine.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581033"
+    },
+    {
+      "english": "You can conquer, anything.",
+      "german": "Du kannst alles, bezwingen.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581034"
+    },
+    {
+      "english": "Be brave, little one.",
+      "german": "Sei tapfer, Kleiner.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581035"
+    },
+    {
+      "english": "Go for it, always.",
+      "german": "Mach es, immer.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581036"
+    },
+    {
+      "english": "Push through, it's worth it.",
+      "german": "Kämpf dich durch, es lohnt sich.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581037"
+    },
+    {
+      "english": "Don't fear, try again.",
+      "german": "Hab keine Angst, versuch's wieder.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581038"
+    },
+    {
+      "english": "You can do, much more.",
+      "german": "Du kannst viel, mehr schaffen.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581039"
+    },
+    {
+      "english": "Keep your head, up high.",
+      "german": "Halt den Kopf, hoch.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581040"
+    },
+    {
+      "english": "Face the fear, head-on.",
+      "german": "Stell dich der Angst, direkt.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581041"
+    },
+    {
+      "english": "Be bold, be you.",
+      "german": "Sei mutig, sei du.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581042"
+    },
+    {
+      "english": "Take a breath, and go.",
+      "german": "Atme tief durch, und los.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581043"
+    },
+    {
+      "english": "Never give, in easily.",
+      "german": "Gib niemals, leicht auf.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581044"
+    },
+    {
+      "english": "Embrace the struggle, learn.",
+      "german": "Umarme den Kampf, lerne.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581045"
+    },
+    {
+      "english": "Show them, what you've got.",
+      "german": "Zeig ihnen, was du kannst.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581046"
+    },
+    {
+      "english": "Act with, courage now.",
+      "german": "Handle jetzt, mit Mut.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581047"
+    },
+    {
+      "english": "You can win, this fight.",
+      "german": "Du kannst diesen Kampf, gewinnen.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581048"
+    },
+    {
+      "english": "Be brave, be bold.",
+      "german": "Sei mutig, sei kühn.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581049"
+    },
+    {
+      "english": "Don't quit, keep going.",
+      "german": "Gib nicht auf, mach weiter.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581050"
+    },
+    {
+      "english": "Try harder, be stronger.",
+      "german": "Streng dich mehr an, sei stärker.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581051"
+    },
+    {
+      "english": "Dare to try, anything.",
+      "german": "Trau dich, alles zu versuchen.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581052"
+    },
+    {
+      "english": "Face it, don't run.",
+      "german": "Stell dich dem, renn nicht weg.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581053"
+    },
+    {
+      "english": "Be courageous, today.",
+      "german": "Sei mutig, heute.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581054"
+    },
+    {
+      "english": "Take the leap, bravely.",
+      "german": "Mach den Sprung, mutig.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581055"
+    },
+    {
+      "english": "You can overcome, this.",
+      "german": "Du kannst das überwinden.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581056"
+    },
+    {
+      "english": "Be a fighter, always.",
+      "german": "Sei ein Kämpfer, immer.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581057"
+    },
+    {
+      "english": "You possess, true grit.",
+      "german": "Du hast, echten Biss.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581058"
+    },
+    {
+      "english": "Step forward, with courage.",
+      "german": "Tritt vor, mit Mut.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581059"
+    },
+    {
+      "english": "You're a warrior, inside.",
+      "german": "Du bist ein Krieger, innen.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581067"
+    },
+    {
+      "english": "Never surrender, your dreams.",
+      "german": "Gib niemals, deine Träume auf.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581068"
+    },
+    {
+      "english": "Show your courage, now.",
+      "german": "Zeig deinen Mut, jetzt.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581069"
+    },
+    {
+      "english": "This challenge, is yours.",
+      "german": "Diese Herausforderung, ist deine.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581070"
+    },
+    {
+      "english": "You can conquer, anything.",
+      "german": "Du kannst alles, bezwingen.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581071"
+    },
+    {
+      "english": "Be brave, little one.",
+      "german": "Sei tapfer, Kleiner.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581075"
+    },
+    {
+      "english": "Go for it, always.",
+      "german": "Mach es, immer.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581076"
+    },
+    {
+      "english": "Push through, it's worth it.",
+      "german": "Kämpf dich durch, es lohnt sich.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581077"
+    },
+    {
+      "english": "Don't fear, try again.",
+      "german": "Hab keine Angst, versuch's wieder.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581078"
+    },
+    {
+      "english": "You can do, much more.",
+      "german": "Du kannst viel, mehr schaffen.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581079"
+    },
+    {
+      "english": "Keep your head, up high.",
+      "german": "Halt den Kopf, hoch.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581080"
+    },
+    {
+      "english": "Face the fear, head-on.",
+      "german": "Stell dich der Angst, direkt.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581081"
+    },
+    {
+      "english": "Be bold, be you.",
+      "german": "Sei mutig, sei du.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581082"
+    },
+    {
+      "english": "Take a breath, and go.",
+      "german": "Atme tief durch, und los.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581083"
+    },
+    {
+      "english": "Never give, in easily.",
+      "german": "Gib niemals, leicht auf.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581084"
+    },
+    {
+      "english": "Embrace the struggle, learn.",
+      "german": "Umarme den Kampf, lerne.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581085"
+    },
+    {
+      "english": "Show them, what you've got.",
+      "german": "Zeig ihnen, was du kannst.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581086"
+    },
+    {
+      "english": "Act with, courage now.",
+      "german": "Handle jetzt, mit Mut.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581087"
+    },
+    {
+      "english": "You can win, this fight.",
+      "german": "Du kannst diesen Kampf, gewinnen.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581088"
+    },
+    {
+      "english": "Be brave, be bold.",
+      "german": "Sei mutig, sei kühn.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581089"
+    },
+    {
+      "english": "Don't quit, keep going.",
+      "german": "Gib nicht auf, mach weiter.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581089"
+    },
+    {
+      "english": "Try harder, be stronger.",
+      "german": "Streng dich mehr an, sei stärker.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581090"
+    },
+    {
+      "english": "Dare to try, anything.",
+      "german": "Trau dich, alles zu versuchen.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581091"
+    },
+    {
+      "english": "Face it, don't run.",
+      "german": "Stell dich dem, renn nicht weg.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581092"
+    },
+    {
+      "english": "Be courageous, today.",
+      "german": "Sei mutig, heute.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581093"
+    },
+    {
+      "english": "Take the leap, bravely.",
+      "german": "Mach den Sprung, mutig.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581094"
+    },
+    {
+      "english": "You can overcome, this.",
+      "german": "Du kannst das überwinden.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581095"
+    },
+    {
+      "english": "Be a fighter, always.",
+      "german": "Sei ein Kämpfer, immer.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581096"
+    },
+    {
+      "english": "You possess, true grit.",
+      "german": "Du hast, echten Biss.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581097"
+    },
+    {
+      "english": "Step forward, with courage.",
+      "german": "Tritt vor, mit Mut.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581098"
+    },
+    {
+      "english": "You're a warrior, inside.",
+      "german": "Du bist ein Krieger, innen.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581099"
+    },
+    {
+      "english": "Never surrender, your dreams.",
+      "german": "Gib niemals, deine Träume auf.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581102"
+    },
+    {
+      "english": "Show your courage, now.",
+      "german": "Zeig deinen Mut, jetzt.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581103"
+    },
+    {
+      "english": "This challenge, is yours.",
+      "german": "Diese Herausforderung, ist deine.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581104"
+    },
+    {
+      "english": "You can conquer, anything.",
+      "german": "Du kannst alles, bezwingen.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581105"
+    },
+    {
+      "english": "Be brave, little one.",
+      "german": "Sei tapfer, Kleiner.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581108"
+    },
+    {
+      "english": "Go for it, always.",
+      "german": "Mach es, immer.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581109"
+    },
+    {
+      "english": "Push through, it's worth it.",
+      "german": "Kämpf dich durch, es lohnt sich.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581111"
+    },
+    {
+      "english": "Don't fear, try again.",
+      "german": "Hab keine Angst, versuch's wieder.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581112"
+    },
+    {
+      "english": "You can do, much more.",
+      "german": "Du kannst viel, mehr schaffen.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581113"
+    },
+    {
+      "english": "Keep your head, up high.",
+      "german": "Halt den Kopf, hoch.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581114"
+    },
+    {
+      "english": "Face the fear, head-on.",
+      "german": "Stell dich der Angst, direkt.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581114"
+    },
+    {
+      "english": "Be bold, be you.",
+      "german": "Sei mutig, sei du.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581115"
+    },
+    {
+      "english": "Take a breath, and go.",
+      "german": "Atme tief durch, und los.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581116"
+    },
+    {
+      "english": "Never give, in easily.",
+      "german": "Gib niemals, leicht auf.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581117"
+    },
+    {
+      "english": "Embrace the struggle, learn.",
+      "german": "Umarme den Kampf, lerne.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581118"
+    },
+    {
+      "english": "Show them, what you've got.",
+      "german": "Zeig ihnen, was du kannst.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581119"
+    },
+    {
+      "english": "Act with, courage now.",
+      "german": "Handle jetzt, mit Mut.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581120"
+    },
+    {
+      "english": "You can win, this fight.",
+      "german": "Du kannst diesen Kampf, gewinnen.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581121"
+    },
+    {
+      "english": "Be brave, be bold.",
+      "german": "Sei mutig, sei kühn.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581122"
+    },
+    {
+      "english": "Don't quit, keep going.",
+      "german": "Gib nicht auf, mach weiter.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581123"
+    },
+    {
+      "english": "Try harder, be stronger.",
+      "german": "Streng dich mehr an, sei stärker.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581124"
+    },
+    {
+      "english": "Dare to try, anything.",
+      "german": "Trau dich, alles zu versuchen.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581124"
+    },
+    {
+      "english": "Face it, don't run.",
+      "german": "Stell dich dem, renn nicht weg.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581125"
+    },
+    {
+      "english": "Be courageous, today.",
+      "german": "Sei mutig, heute.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581126"
+    },
+    {
+      "english": "Take the leap, bravely.",
+      "german": "Mach den Sprung, mutig.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581129"
+    },
+    {
+      "english": "You can overcome, this.",
+      "german": "Du kannst das überwinden.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581130"
+    },
+    {
+      "english": "Be a fighter, always.",
+      "german": "Sei ein Kämpfer, immer.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581131"
+    },
+    {
+      "english": "You possess, true grit.",
+      "german": "Du hast, echten Biss.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581132"
+    },
+    {
+      "english": "Step forward, with courage.",
+      "german": "Tritt vor, mit Mut.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581133"
+    },
+    {
+      "english": "You're a warrior, inside.",
+      "german": "Du bist ein Krieger, innen.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581134"
+    },
+    {
+      "english": "Never surrender, your dreams.",
+      "german": "Gib niemals, deine Träume auf.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581135"
+    },
+    {
+      "english": "Show your courage, now.",
+      "german": "Zeig deinen Mut, jetzt.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581136"
+    },
+    {
+      "english": "This challenge, is yours.",
+      "german": "Diese Herausforderung, ist deine.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581139"
+    },
+    {
+      "english": "You can conquer, anything.",
+      "german": "Du kannst alles, bezwingen.",
+      "category": "Courage",
+      "generated_at": "2026-08-06T04:18:55.581140"
     }
   ],
-  "last_updated": "2026-08-06T03:23:10.655464"
+  "last_updated": "2026-08-06T04:18:55.581142"
 }
