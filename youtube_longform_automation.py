@@ -257,6 +257,7 @@ For each phrase:
 1. English phrase (with commas for natural pauses)
 2. German translation
 3. Pronunciation guide (phonetic spelling, e.g., "Guten TAHG")
+CRITICAL: Every translation MUST be in German. NEVER use German, Spanish, or any other language. Only German.
 
 Return as JSON array:
 [{{"english": "...", "german": "...", "pronunciation": "..."}}]
