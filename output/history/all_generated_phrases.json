@@ -15839,7 +15839,727 @@
       "german": "Kanalisiere deine innere Stärke.",
       "category": "Strength",
       "generated_at": "2026-08-07T03:54:34.168143"
+    },
+    {
+      "english": "Curiosity, unlocks doors.",
+      "german": "Neugier, öffnet Türen.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031098"
+    },
+    {
+      "english": "Mistakes, are lessons.",
+      "german": "Fehler, sind Lektionen.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031108"
+    },
+    {
+      "english": "Every word, builds worlds.",
+      "german": "Jedes Wort, schafft Welten.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031110"
+    },
+    {
+      "english": "Practice, makes progress.",
+      "german": "Übung, bringt Fortschritt.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031111"
+    },
+    {
+      "english": "Listen first, speak later.",
+      "german": "Erst hören, dann sprechen.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031113"
+    },
+    {
+      "english": "Mistakes, are your friends.",
+      "german": "Fehler, sind deine Freunde.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031114"
+    },
+    {
+      "english": "New sounds, new thoughts.",
+      "german": "Neue Laute, neue Gedanken.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031115"
+    },
+    {
+      "english": "Persistence, wins games.",
+      "german": "Beharrlichkeit, gewinnt Spiele.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031118"
+    },
+    {
+      "english": "Every question, a pathway.",
+      "german": "Jede Frage, ein Weg.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031120"
+    },
+    {
+      "english": "Speak German, feel German.",
+      "german": "Deutsch sprechen, Deutsch fühlen.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031121"
+    },
+    {
+      "english": "You learn, you grow.",
+      "german": "Du lernst, du wächst.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031123"
+    },
+    {
+      "english": "Your brain, loves learning.",
+      "german": "Dein Gehirn, liebt Lernen.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031124"
+    },
+    {
+      "english": "Repetition, is key.",
+      "german": "Wiederholung, ist der Schlüssel.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031125"
+    },
+    {
+      "english": "Connect words, make sentences.",
+      "german": "Wörter verbinden, Sätze machen.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031126"
+    },
+    {
+      "english": "Embrace the sounds.",
+      "german": "Umarme die Klänge.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031127"
+    },
+    {
+      "english": "Learning is adventure.",
+      "german": "Lernen ist Abenteuer.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031128"
+    },
+    {
+      "english": "Confidence, grows with you.",
+      "german": "Selbstvertrauen, wächst mit dir.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031129"
+    },
+    {
+      "english": "Every day, more understanding.",
+      "german": "Jeder Tag, mehr Verständnis.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031130"
+    },
+    {
+      "english": "German words, have power.",
+      "german": "Deutsche Wörter, haben Kraft.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031132"
+    },
+    {
+      "english": "Listen, absorb, repeat.",
+      "german": "Hören, aufsaugen, wiederholen.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031133"
+    },
+    {
+      "english": "Your effort, matters.",
+      "german": "Deine Anstrengung, zählt.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031134"
+    },
+    {
+      "english": "Unlock your voice.",
+      "german": "Schalte deine Stimme frei.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031135"
+    },
+    {
+      "english": "Language is a bridge.",
+      "german": "Sprache ist eine Brücke.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031136"
+    },
+    {
+      "english": "Be patient, be kind.",
+      "german": "Sei geduldig, sei nett.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031137"
+    },
+    {
+      "english": "New horizons, await.",
+      "german": "Neue Horizonte, warten.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031138"
+    },
+    {
+      "english": "Enjoy the journey.",
+      "german": "Genieße die Reise.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031139"
+    },
+    {
+      "english": "Errors, are stepping stones.",
+      "german": "Irrtümer, sind Trittsteine.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031140"
+    },
+    {
+      "english": "Speak with heart.",
+      "german": "Sprich mit Herz.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031141"
+    },
+    {
+      "english": "Discover new worlds.",
+      "german": "Entdecke neue Welten.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031142"
+    },
+    {
+      "english": "Your voice, matters now.",
+      "german": "Deine Stimme, zählt jetzt.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031143"
+    },
+    {
+      "english": "Learn, live, laugh.",
+      "german": "Lernen, leben, lachen.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031144"
+    },
+    {
+      "english": "Small efforts, big wins.",
+      "german": "Kleine Mühen, große Siege.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031145"
+    },
+    {
+      "english": "Understand, then speak.",
+      "german": "Verstehen, dann reden.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031146"
+    },
+    {
+      "english": "Every sound, a victory.",
+      "german": "Jeder Klang, ein Sieg.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031147"
+    },
+    {
+      "english": "You are a linguist.",
+      "german": "Du bist ein Sprachkünstler.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031148"
+    },
+    {
+      "english": "German fluency, is coming.",
+      "german": "Deutsche Flüssigkeit, kommt bald.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031149"
+    },
+    {
+      "english": "Curiosity, unlocks doors.",
+      "german": "Neugier, öffnet Türen.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031151"
+    },
+    {
+      "english": "Mistakes, are lessons.",
+      "german": "Fehler, sind Lektionen.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031152"
+    },
+    {
+      "english": "Every word, builds worlds.",
+      "german": "Jedes Wort, schafft Welten.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031153"
+    },
+    {
+      "english": "Practice, makes progress.",
+      "german": "Übung, bringt Fortschritt.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031154"
+    },
+    {
+      "english": "Listen first, speak later.",
+      "german": "Erst hören, dann sprechen.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031155"
+    },
+    {
+      "english": "Mistakes, are your friends.",
+      "german": "Fehler, sind deine Freunde.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031156"
+    },
+    {
+      "english": "New sounds, new thoughts.",
+      "german": "Neue Laute, neue Gedanken.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031158"
+    },
+    {
+      "english": "Persistence, wins games.",
+      "german": "Beharrlichkeit, gewinnt Spiele.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031159"
+    },
+    {
+      "english": "Every question, a pathway.",
+      "german": "Jede Frage, ein Weg.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031160"
+    },
+    {
+      "english": "Speak German, feel German.",
+      "german": "Deutsch sprechen, Deutsch fühlen.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031161"
+    },
+    {
+      "english": "You learn, you grow.",
+      "german": "Du lernst, du wächst.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031162"
+    },
+    {
+      "english": "Your brain, loves learning.",
+      "german": "Dein Gehirn, liebt Lernen.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031163"
+    },
+    {
+      "english": "Repetition, is key.",
+      "german": "Wiederholung, ist der Schlüssel.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031164"
+    },
+    {
+      "english": "Connect words, make sentences.",
+      "german": "Wörter verbinden, Sätze machen.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031165"
+    },
+    {
+      "english": "Embrace the sounds.",
+      "german": "Umarme die Klänge.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031167"
+    },
+    {
+      "english": "Learning is adventure.",
+      "german": "Lernen ist Abenteuer.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031168"
+    },
+    {
+      "english": "Confidence, grows with you.",
+      "german": "Selbstvertrauen, wächst mit dir.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031169"
+    },
+    {
+      "english": "Every day, more understanding.",
+      "german": "Jeder Tag, mehr Verständnis.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031170"
+    },
+    {
+      "english": "German words, have power.",
+      "german": "Deutsche Wörter, haben Kraft.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031171"
+    },
+    {
+      "english": "Listen, absorb, repeat.",
+      "german": "Hören, aufsaugen, wiederholen.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031172"
+    },
+    {
+      "english": "Your effort, matters.",
+      "german": "Deine Anstrengung, zählt.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031173"
+    },
+    {
+      "english": "Unlock your voice.",
+      "german": "Schalte deine Stimme frei.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031174"
+    },
+    {
+      "english": "Language is a bridge.",
+      "german": "Sprache ist eine Brücke.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031175"
+    },
+    {
+      "english": "Be patient, be kind.",
+      "german": "Sei geduldig, sei nett.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031176"
+    },
+    {
+      "english": "New horizons, await.",
+      "german": "Neue Horizonte, warten.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031178"
+    },
+    {
+      "english": "Enjoy the journey.",
+      "german": "Genieße die Reise.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031179"
+    },
+    {
+      "english": "Errors, are stepping stones.",
+      "german": "Irrtümer, sind Trittsteine.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031180"
+    },
+    {
+      "english": "Speak with heart.",
+      "german": "Sprich mit Herz.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031181"
+    },
+    {
+      "english": "Discover new worlds.",
+      "german": "Entdecke neue Welten.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031182"
+    },
+    {
+      "english": "Your voice, matters now.",
+      "german": "Deine Stimme, zählt jetzt.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031183"
+    },
+    {
+      "english": "Learn, live, laugh.",
+      "german": "Lernen, leben, lachen.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031197"
+    },
+    {
+      "english": "Small efforts, big wins.",
+      "german": "Kleine Mühen, große Siege.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031199"
+    },
+    {
+      "english": "Understand, then speak.",
+      "german": "Verstehen, dann reden.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031200"
+    },
+    {
+      "english": "Every sound, a victory.",
+      "german": "Jeder Klang, ein Sieg.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031201"
+    },
+    {
+      "english": "You are a linguist.",
+      "german": "Du bist ein Sprachkünstler.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031202"
+    },
+    {
+      "english": "German fluency, is coming.",
+      "german": "Deutsche Flüssigkeit, kommt bald.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031203"
+    },
+    {
+      "english": "Curiosity, unlocks doors.",
+      "german": "Neugier, öffnet Türen.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031205"
+    },
+    {
+      "english": "Mistakes, are lessons.",
+      "german": "Fehler, sind Lektionen.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031206"
+    },
+    {
+      "english": "Every word, builds worlds.",
+      "german": "Jedes Wort, schafft Welten.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031207"
+    },
+    {
+      "english": "Practice, makes progress.",
+      "german": "Übung, bringt Fortschritt.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031208"
+    },
+    {
+      "english": "Listen first, speak later.",
+      "german": "Erst hören, dann sprechen.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031210"
+    },
+    {
+      "english": "Mistakes, are your friends.",
+      "german": "Fehler, sind deine Freunde.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031211"
+    },
+    {
+      "english": "New sounds, new thoughts.",
+      "german": "Neue Laute, neue Gedanken.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031212"
+    },
+    {
+      "english": "Persistence, wins games.",
+      "german": "Beharrlichkeit, gewinnt Spiele.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031213"
+    },
+    {
+      "english": "Every question, a pathway.",
+      "german": "Jede Frage, ein Weg.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031214"
+    },
+    {
+      "english": "Speak German, feel German.",
+      "german": "Deutsch sprechen, Deutsch fühlen.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031215"
+    },
+    {
+      "english": "You learn, you grow.",
+      "german": "Du lernst, du wächst.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031217"
+    },
+    {
+      "english": "Your brain, loves learning.",
+      "german": "Dein Gehirn, liebt Lernen.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031218"
+    },
+    {
+      "english": "Repetition, is key.",
+      "german": "Wiederholung, ist der Schlüssel.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031219"
+    },
+    {
+      "english": "Connect words, make sentences.",
+      "german": "Wörter verbinden, Sätze machen.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031220"
+    },
+    {
+      "english": "Embrace the sounds.",
+      "german": "Umarme die Klänge.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031221"
+    },
+    {
+      "english": "Learning is adventure.",
+      "german": "Lernen ist Abenteuer.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031222"
+    },
+    {
+      "english": "Confidence, grows with you.",
+      "german": "Selbstvertrauen, wächst mit dir.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031223"
+    },
+    {
+      "english": "Every day, more understanding.",
+      "german": "Jeder Tag, mehr Verständnis.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031224"
+    },
+    {
+      "english": "German words, have power.",
+      "german": "Deutsche Wörter, haben Kraft.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031225"
+    },
+    {
+      "english": "Listen, absorb, repeat.",
+      "german": "Hören, aufsaugen, wiederholen.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031226"
+    },
+    {
+      "english": "Your effort, matters.",
+      "german": "Deine Anstrengung, zählt.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031228"
+    },
+    {
+      "english": "Unlock your voice.",
+      "german": "Schalte deine Stimme frei.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031229"
+    },
+    {
+      "english": "Language is a bridge.",
+      "german": "Sprache ist eine Brücke.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031230"
+    },
+    {
+      "english": "Be patient, be kind.",
+      "german": "Sei geduldig, sei nett.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031231"
+    },
+    {
+      "english": "New horizons, await.",
+      "german": "Neue Horizonte, warten.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031232"
+    },
+    {
+      "english": "Enjoy the journey.",
+      "german": "Genieße die Reise.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031233"
+    },
+    {
+      "english": "Errors, are stepping stones.",
+      "german": "Irrtümer, sind Trittsteine.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031234"
+    },
+    {
+      "english": "Speak with heart.",
+      "german": "Sprich mit Herz.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031235"
+    },
+    {
+      "english": "Discover new worlds.",
+      "german": "Entdecke neue Welten.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031236"
+    },
+    {
+      "english": "Your voice, matters now.",
+      "german": "Deine Stimme, zählt jetzt.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031237"
+    },
+    {
+      "english": "Learn, live, laugh.",
+      "german": "Lernen, leben, lachen.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031238"
+    },
+    {
+      "english": "Small efforts, big wins.",
+      "german": "Kleine Mühen, große Siege.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031239"
+    },
+    {
+      "english": "Understand, then speak.",
+      "german": "Verstehen, dann reden.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031240"
+    },
+    {
+      "english": "Every sound, a victory.",
+      "german": "Jeder Klang, ein Sieg.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031241"
+    },
+    {
+      "english": "You are a linguist.",
+      "german": "Du bist ein Sprachkünstler.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031242"
+    },
+    {
+      "english": "German fluency, is coming.",
+      "german": "Deutsche Flüssigkeit, kommt bald.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031243"
+    },
+    {
+      "english": "Curiosity, unlocks doors.",
+      "german": "Neugier, öffnet Türen.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031245"
+    },
+    {
+      "english": "Mistakes, are lessons.",
+      "german": "Fehler, sind Lektionen.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031246"
+    },
+    {
+      "english": "Every word, builds worlds.",
+      "german": "Jedes Wort, schafft Welten.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031247"
+    },
+    {
+      "english": "Practice, makes progress.",
+      "german": "Übung, bringt Fortschritt.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031248"
+    },
+    {
+      "english": "Listen first, speak later.",
+      "german": "Erst hören, dann sprechen.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031249"
+    },
+    {
+      "english": "Mistakes, are your friends.",
+      "german": "Fehler, sind deine Freunde.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031250"
+    },
+    {
+      "english": "New sounds, new thoughts.",
+      "german": "Neue Laute, neue Gedanken.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031251"
+    },
+    {
+      "english": "Persistence, wins games.",
+      "german": "Beharrlichkeit, gewinnt Spiele.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031252"
+    },
+    {
+      "english": "Every question, a pathway.",
+      "german": "Jede Frage, ein Weg.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031253"
+    },
+    {
+      "english": "Speak German, feel German.",
+      "german": "Deutsch sprechen, Deutsch fühlen.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031254"
+    },
+    {
+      "english": "You learn, you grow.",
+      "german": "Du lernst, du wächst.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031255"
+    },
+    {
+      "english": "Your brain, loves learning.",
+      "german": "Dein Gehirn, liebt Lernen.",
+      "category": "Inspiration",
+      "generated_at": "2026-08-08T02:57:51.031256"
     }
   ],
-  "last_updated": "2026-08-07T03:54:34.168144"
+  "last_updated": "2026-08-08T02:57:51.031258"
 }
