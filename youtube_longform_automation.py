@@ -36,8 +36,8 @@ for d in [OUTPUT_DIR, IMAGES_DIR, AUDIO_DIR, VIDEO_DIR, HISTORY_DIR, LONGFORM_DI
 VIDEO_WIDTH = 1920
 VIDEO_HEIGHT = 1080
 FPS = 30
-TARGET_DURATION_MINUTES = 5  # Target 5-minute videos (60 phrases)
-TARGET_PHRASES = 120
+TARGET_DURATION_MINUTES = 15  # Target ~15-minute videos (~170 phrases)
+TARGET_PHRASES = 170  # Number of phrases to generate
 
 # English category names (for American/European learners)
 CATEGORIES_ENGLISH = [
@@ -906,11 +906,12 @@ def generate_title_description(category_english: str, category_german: str, phra
     """Generate viral YouTube title and description with all phrases - COMBINED in one file"""
     
     # Generate viral title variations
+    duration_label = f"{int(round(duration_minutes))}" if duration_minutes >= 10 else f"{duration_minutes:.0f}"
     titles = [
-        f"Learn German in 10 Minutes | {category_english} Phrases Every Beginner NEEDS to Know! ({category_german})",
+        f"Learn German in {duration_label} Minutes | {category_english} Phrases Every Beginner NEEDS to Know! ({category_german})",
         f"60 German Phrases for {category_english} | Speak German Like a Native! ({category_german})",
         f"Master German {category_english} | 60 Essential Phrases with Pronunciation | Velocity German",
-        f"German Learning Made Easy | {category_english} Vocabulary | 10 Minute Lesson",
+        f"German Learning Made Easy | {category_english} Vocabulary | {duration_label} Minute Lesson",
         f"Speak German Fluently | {category_english} Phrases | English + German + Pronunciation",
     ]
 
