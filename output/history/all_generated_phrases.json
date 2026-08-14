@@ -18719,7 +18719,223 @@
       "german": "Gelassen, und zufrieden.",
       "category": "Joy",
       "generated_at": "2026-08-12T03:25:41.380193"
+    },
+    {
+      "english": "Nailed it, you did!",
+      "german": "Hast du, gerockt!",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:26:15.326833"
+    },
+    {
+      "english": "Almost there, keep going!",
+      "german": "Fast geschafft, weiter so!",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:26:15.326841"
+    },
+    {
+      "english": "You’ve got this, promise!",
+      "german": "Das schaffst du, echt!",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:26:15.326844"
+    },
+    {
+      "english": "Boom, you aced it!",
+      "german": "Bäm, hast du gemacht!",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:26:15.326846"
+    },
+    {
+      "english": "Big brain, little genius!",
+      "german": "Großes Hirn, kleines Genie!",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:26:15.326848"
+    },
+    {
+      "english": "That’s the way, uh-huh!",
+      "german": "So geht’s, yeah!",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:26:15.326862"
+    },
+    {
+      "english": "Level up, my friend!",
+      "german": "Level hoch, mein Freund!",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:26:15.326864"
+    },
+    {
+      "english": "Nailed the landing, nice!",
+      "german": "Gut gelandet, super!",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:26:15.326868"
+    },
+    {
+      "english": "One more, you can do it!",
+      "german": "Noch einer, schaffst du!",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:26:15.326870"
+    },
+    {
+      "english": "You’re shining, so bright!",
+      "german": "Du strahlst, so hell!",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:26:15.326872"
+    },
+    {
+      "english": "Magic happened, wow!",
+      "german": "Magie geschah, wow!",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:26:15.326873"
+    },
+    {
+      "english": "Yes! You did it!",
+      "german": "Ja! Du hast es!",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:26:15.326875"
+    },
+    {
+      "english": "That’s a win, for sure!",
+      "german": "Das ist ein Sieg, klar!",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:26:15.326876"
+    },
+    {
+      "english": "Right on track, buddy!",
+      "german": "Genau richtig, Kumpel!",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:26:15.326878"
+    },
+    {
+      "english": "You cracked it, clever!",
+      "german": "Du hast es geknackt, schlau!",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:26:15.326879"
+    },
+    {
+      "english": "On fire, right now!",
+      "german": "Brennst, gerade jetzt!",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:26:15.326880"
+    },
+    {
+      "english": "Perfect score, amazing!",
+      "german": "Perfekte Punktzahl, toll!",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:26:15.326882"
+    },
+    {
+      "english": "You’re awesome, truly!",
+      "german": "Du bist toll, wirklich!",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:26:15.326883"
+    },
+    {
+      "english": "Task complete, bravo!",
+      "german": "Aufgabe erledigt, bravo!",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:26:15.326885"
+    },
+    {
+      "english": "What a success, hooray!",
+      "german": "Was für ein Erfolg, juhu!",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:26:15.326886"
+    },
+    {
+      "english": "You nailed, the question!",
+      "german": "Du hast die Frage, getroffen!",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:26:15.326887"
+    },
+    {
+      "english": "Victory is yours, yay!",
+      "german": "Der Sieg ist dein, juhu!",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:26:15.326888"
+    },
+    {
+      "english": "Keep that energy, going!",
+      "german": "Behalte die Energie, bei!",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:26:15.326889"
+    },
+    {
+      "english": "You’re a star, indeed!",
+      "german": "Du bist ein Star, wirklich!",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:26:15.326891"
+    },
+    {
+      "english": "Super job, well done!",
+      "german": "Super Arbeit, gut gemacht!",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:26:15.326894"
+    },
+    {
+      "english": "Achievement unlocked, yes!",
+      "german": "Erfolg freigeschaltet, ja!",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:26:15.326895"
+    },
+    {
+      "english": "That’s brilliant, mate!",
+      "german": "Das ist genial, Kumpel!",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:26:15.326897"
+    },
+    {
+      "english": "You did it, fantastic!",
+      "german": "Du hast es, fantastisch!",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:26:15.326898"
+    },
+    {
+      "english": "Pure progress, right here!",
+      "german": "Reiner Fortschritt, genau hier!",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:26:15.326908"
+    },
+    {
+      "english": "Genius move, my friend!",
+      "german": "Genialer Zug, mein Freund!",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:26:15.326910"
+    },
+    {
+      "english": "You slayed, it totally!",
+      "german": "Du hast es gerockt, total!",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:26:15.326911"
+    },
+    {
+      "english": "That’s how, it’s done!",
+      "german": "So, macht man das!",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:26:15.326914"
+    },
+    {
+      "english": "You’re killing it, wow!",
+      "german": "Du rockst es, wow!",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:26:15.326916"
+    },
+    {
+      "english": "Goal achieved, success!",
+      "german": "Ziel erreicht, Erfolg!",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:26:15.326917"
+    },
+    {
+      "english": "One step closer, nice!",
+      "german": "Ein Schritt näher, super!",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:26:15.326918"
+    },
+    {
+      "english": "You’re crushing it, yes!",
+      "german": "Du schlägst dich gut, ja!",
+      "category": "Success",
+      "generated_at": "2026-08-14T03:26:15.326919"
     }
   ],
-  "last_updated": "2026-08-12T03:25:41.380196"
+  "last_updated": "2026-08-14T03:26:15.326955"
 }
