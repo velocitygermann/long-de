@@ -18935,7 +18935,217 @@
       "german": "Du schlägst dich gut, ja!",
       "category": "Success",
       "generated_at": "2026-08-14T03:26:15.326919"
+    },
+    {
+      "english": "Speak more, slowly.",
+      "german": "Sprechen Sie mehr, langsam.",
+      "category": "Growth",
+      "generated_at": "2026-08-15T02:16:14.012202"
+    },
+    {
+      "english": "Try again, with me.",
+      "german": "Versuchen Sie es wieder, mit mir.",
+      "category": "Growth",
+      "generated_at": "2026-08-15T02:16:14.012215"
+    },
+    {
+      "english": "Listen very, carefully.",
+      "german": "Hören Sie sehr, aufmerksam zu.",
+      "category": "Growth",
+      "generated_at": "2026-08-15T02:16:14.012217"
+    },
+    {
+      "english": "Don't be, afraid to.",
+      "german": "Haben Sie keine, Angst zu.",
+      "category": "Growth",
+      "generated_at": "2026-08-15T02:16:14.012219"
+    },
+    {
+      "english": "You sound, much better.",
+      "german": "Sie klingen, viel besser.",
+      "category": "Growth",
+      "generated_at": "2026-08-15T02:16:14.012220"
+    },
+    {
+      "english": "Focus on, the ending.",
+      "german": "Konzentrieren Sie sich, auf das Ende.",
+      "category": "Growth",
+      "generated_at": "2026-08-15T02:16:14.012222"
+    },
+    {
+      "english": "That's almost, correct.",
+      "german": "Das ist fast, richtig.",
+      "category": "Growth",
+      "generated_at": "2026-08-15T02:16:14.012224"
+    },
+    {
+      "english": "Repeat after, me, please.",
+      "german": "Wiederholen Sie nach, mir, bitte.",
+      "category": "Growth",
+      "generated_at": "2026-08-15T02:16:14.012228"
+    },
+    {
+      "english": "A little softer, please.",
+      "german": "Etwas leiser, bitte.",
+      "category": "Growth",
+      "generated_at": "2026-08-15T02:16:14.012230"
+    },
+    {
+      "english": "Pronounce that, word again.",
+      "german": "Sprechen Sie dieses, Wort noch einmal.",
+      "category": "Growth",
+      "generated_at": "2026-08-15T02:16:14.012231"
+    },
+    {
+      "english": "You're getting, closer now.",
+      "german": "Sie kommen, jetzt näher.",
+      "category": "Growth",
+      "generated_at": "2026-08-15T02:16:14.012233"
+    },
+    {
+      "english": "Don't forget, the 'ch'.",
+      "german": "Vergessen Sie nicht, das 'ch'.",
+      "category": "Growth",
+      "generated_at": "2026-08-15T02:16:14.012235"
+    },
+    {
+      "english": "Good effort, keep going.",
+      "german": "Guter Versuch, weitermachen.",
+      "category": "Growth",
+      "generated_at": "2026-08-15T02:16:14.012236"
+    },
+    {
+      "english": "Try a different, verb.",
+      "german": "Versuchen Sie ein anderes, Verb.",
+      "category": "Growth",
+      "generated_at": "2026-08-15T02:16:14.012238"
+    },
+    {
+      "english": "This is, much clearer.",
+      "german": "Das ist, viel klarer.",
+      "category": "Growth",
+      "generated_at": "2026-08-15T02:16:14.012239"
+    },
+    {
+      "english": "Say it, a bit faster.",
+      "german": "Sagen Sie es, etwas schneller.",
+      "category": "Growth",
+      "generated_at": "2026-08-15T02:16:14.012240"
+    },
+    {
+      "english": "Think about, the meaning.",
+      "german": "Denken Sie über, die Bedeutung nach.",
+      "category": "Growth",
+      "generated_at": "2026-08-15T02:16:14.012241"
+    },
+    {
+      "english": "The accent, is good.",
+      "german": "Die Betonung, ist gut.",
+      "category": "Growth",
+      "generated_at": "2026-08-15T02:16:14.012243"
+    },
+    {
+      "english": "You are, progressing well.",
+      "german": "Sie machen, gute Fortschritte.",
+      "category": "Growth",
+      "generated_at": "2026-08-15T02:16:14.012244"
+    },
+    {
+      "english": "That's the, right way.",
+      "german": "Das ist der, richtige Weg.",
+      "category": "Growth",
+      "generated_at": "2026-08-15T02:16:14.012245"
+    },
+    {
+      "english": "Open your, mouth more.",
+      "german": "Öffnen Sie Ihren, Mund mehr.",
+      "category": "Growth",
+      "generated_at": "2026-08-15T02:16:14.012247"
+    },
+    {
+      "english": "Practice this, phrase often.",
+      "german": "Üben Sie diesen, Satz oft.",
+      "category": "Growth",
+      "generated_at": "2026-08-15T02:16:14.012248"
+    },
+    {
+      "english": "You sound, very natural.",
+      "german": "Sie klingen, sehr natürlich.",
+      "category": "Growth",
+      "generated_at": "2026-08-15T02:16:14.012249"
+    },
+    {
+      "english": "Read that, paragraph aloud.",
+      "german": "Lesen Sie diesen, Absatz laut.",
+      "category": "Growth",
+      "generated_at": "2026-08-15T02:16:14.012251"
+    },
+    {
+      "english": "This is, a common error.",
+      "german": "Das ist, ein häufiger Fehler.",
+      "category": "Growth",
+      "generated_at": "2026-08-15T02:16:14.012252"
+    },
+    {
+      "english": "The stress, is key.",
+      "german": "Die Betonung, ist wichtig.",
+      "category": "Growth",
+      "generated_at": "2026-08-15T02:16:14.012253"
+    },
+    {
+      "english": "You're improving, so much.",
+      "german": "Sie verbessern sich, sehr.",
+      "category": "Growth",
+      "generated_at": "2026-08-15T02:16:14.012254"
+    },
+    {
+      "english": "Let's try, a new one.",
+      "german": "Versuchen wir, ein neues.",
+      "category": "Growth",
+      "generated_at": "2026-08-15T02:16:14.012255"
+    },
+    {
+      "english": "Focus on, pronunciation.",
+      "german": "Konzentrieren Sie sich, auf die Aussprache.",
+      "category": "Growth",
+      "generated_at": "2026-08-15T02:16:14.012257"
+    },
+    {
+      "english": "This sounds, much better now.",
+      "german": "Das klingt, jetzt viel besser.",
+      "category": "Growth",
+      "generated_at": "2026-08-15T02:16:14.012258"
+    },
+    {
+      "english": "Don't forget, the article.",
+      "german": "Vergessen Sie nicht, den Artikel.",
+      "category": "Growth",
+      "generated_at": "2026-08-15T02:16:14.012259"
+    },
+    {
+      "english": "Try to flow, more smoothly.",
+      "german": "Versuchen Sie, flüssiger zu sprechen.",
+      "category": "Growth",
+      "generated_at": "2026-08-15T02:16:14.012260"
+    },
+    {
+      "english": "That vowel, is perfect.",
+      "german": "Dieser Vokal, ist perfekt.",
+      "category": "Growth",
+      "generated_at": "2026-08-15T02:16:14.012262"
+    },
+    {
+      "english": "You have, good rhythm.",
+      "german": "Sie haben, einen guten Rhythmus.",
+      "category": "Growth",
+      "generated_at": "2026-08-15T02:16:14.012263"
+    },
+    {
+      "english": "Keep the pace, steady.",
+      "german": "Halten Sie das Tempo, gleichmäßig.",
+      "category": "Growth",
+      "generated_at": "2026-08-15T02:16:14.012264"
     }
   ],
-  "last_updated": "2026-08-14T03:26:15.326955"
+  "last_updated": "2026-08-15T02:16:14.012294"
 }
