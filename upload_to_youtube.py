@@ -40,7 +40,7 @@ def compress_thumbnail(img_path, max_size=2097152):
 
 
 
-def ensure_playlist(youtube, title="Velocity German - German Phrases", description="All German phrases videos in one playlist. Learn German with Velocity German!"):
+def ensure_playlist(youtube, title="Learn German Phrases for Beginners | Velocity German", description="All German phrases videos in one playlist. Learn German with Velocity German!"):
     """Find an existing playlist by title or create a new one. Returns playlist_id."""
     try:
         req = youtube.playlists().list(part="snippet", mine=True, maxResults=50)
