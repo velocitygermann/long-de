@@ -21851,7 +21851,283 @@
       "german": "Sprich es, mit Gefühl.",
       "category": "Confidence",
       "generated_at": "2026-08-27T11:05:17.060688"
+    },
+    {
+      "english": "Speak slowly, first.",
+      "german": "Sprechen Sie langsam, zuerst.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894639"
+    },
+    {
+      "english": "Listen well, then speak.",
+      "german": "Hören Sie gut, dann sprechen Sie.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894649"
+    },
+    {
+      "english": "Don't fear, mistakes.",
+      "german": "Fürchten Sie keine, Fehler.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894651"
+    },
+    {
+      "english": "Use your hands, perhaps.",
+      "german": "Benutzen Sie Ihre Hände, vielleicht.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894652"
+    },
+    {
+      "english": "Think in German, now.",
+      "german": "Denken Sie auf Deutsch, jetzt.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894653"
+    },
+    {
+      "english": "Just try, one word.",
+      "german": "Versuchen Sie nur, ein Wort.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894654"
+    },
+    {
+      "english": "Repeat that, clearly.",
+      "german": "Wiederholen Sie das, deutlich.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894655"
+    },
+    {
+      "english": "That word, is key.",
+      "german": "Dieses Wort, ist wichtig.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894658"
+    },
+    {
+      "english": "Less haste, more sense.",
+      "german": "Weniger Eile, mehr Sinn.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894659"
+    },
+    {
+      "english": "Pronounce it, like this.",
+      "german": "Sprechen Sie es aus, so.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894660"
+    },
+    {
+      "english": "Ask the question, again.",
+      "german": "Stellen Sie die Frage, nochmal.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894661"
+    },
+    {
+      "english": "Focus on the sounds.",
+      "german": "Konzentrieren Sie sich auf die Laute.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894662"
+    },
+    {
+      "english": "What does that, mean?",
+      "german": "Was bedeutet das, genau?",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894663"
+    },
+    {
+      "english": "You understood, partly.",
+      "german": "Sie haben teilweise, verstanden.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894664"
+    },
+    {
+      "english": "Combine the two, words.",
+      "german": "Kombinieren Sie die beiden, Wörter.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894664"
+    },
+    {
+      "english": "Say it, out loud.",
+      "german": "Sagen Sie es, laut.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894665"
+    },
+    {
+      "english": "Find the right, noun.",
+      "german": "Finden Sie das richtige, Substantiv.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894666"
+    },
+    {
+      "english": "Practice makes, perfect.",
+      "german": "Übung macht, perfekt.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894667"
+    },
+    {
+      "english": "That's a good, start.",
+      "german": "Das ist ein guter, Anfang.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894668"
+    },
+    {
+      "english": "How do you, say this?",
+      "german": "Wie sagt man, das?",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894669"
+    },
+    {
+      "english": "Try saying, 'hello'.",
+      "german": "Versuchen Sie 'Hallo' zu sagen.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894670"
+    },
+    {
+      "english": "You're almost, there.",
+      "german": "Sie sind fast, dort.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894670"
+    },
+    {
+      "english": "The vowels, are tricky.",
+      "german": "Die Vokale, sind knifflig.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894671"
+    },
+    {
+      "english": "Remember this, rule.",
+      "german": "Erinnern Sie sich an diese, Regel.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894672"
+    },
+    {
+      "english": "Let's improve, this.",
+      "german": "Lassen Sie uns, das verbessern.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894672"
+    },
+    {
+      "english": "Can you repeat, that?",
+      "german": "Können Sie das, wiederholen?",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894673"
+    },
+    {
+      "english": "Focus on the, ending.",
+      "german": "Konzentrieren Sie sich auf das, Ende.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894674"
+    },
+    {
+      "english": "Say it, softer, please.",
+      "german": "Sagen Sie es, leiser, bitte.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894675"
+    },
+    {
+      "english": "The grammar, is tricky.",
+      "german": "Die Grammatik, ist schwierig.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894675"
+    },
+    {
+      "english": "Think of the, context.",
+      "german": "Denken Sie an den, Kontext.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894676"
+    },
+    {
+      "english": "Speak with, confidence.",
+      "german": "Sprechen Sie mit, Zuversicht.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894677"
+    },
+    {
+      "english": "Speak German, often.",
+      "german": "Sprich Deutsch, oft.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894700"
+    },
+    {
+      "english": "Mistakes help, you learn.",
+      "german": "Fehler helfen, dir.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894700"
+    },
+    {
+      "english": "Listen well, speak better.",
+      "german": "Höre gut, sprich besser.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894701"
+    },
+    {
+      "english": "Don't fear, the grammar.",
+      "german": "Hab keine Angst, vor Grammatik.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894702"
+    },
+    {
+      "english": "Every word, counts.",
+      "german": "Jedes Wort, zählt.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894703"
+    },
+    {
+      "english": "Start simple, build up.",
+      "german": "Fange einfach an, baue auf.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894703"
+    },
+    {
+      "english": "Repetition is, key.",
+      "german": "Wiederholung ist, der Schlüssel.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894704"
+    },
+    {
+      "english": "Ask questions, always.",
+      "german": "Frage immer, nach.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894705"
+    },
+    {
+      "english": "Understand context, first.",
+      "german": "Verstehe den Kontext, zuerst.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894705"
+    },
+    {
+      "english": "Read aloud, daily.",
+      "german": "Lies laut, jeden Tag.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894706"
+    },
+    {
+      "english": "Think in, German.",
+      "german": "Denke auf, Deutsch.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894707"
+    },
+    {
+      "english": "Find a language, partner.",
+      "german": "Finde einen Sprachpartner.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894707"
+    },
+    {
+      "english": "Use German, in life.",
+      "german": "Nutze Deutsch, im Leben.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894708"
+    },
+    {
+      "english": "Pronounce clearly, please.",
+      "german": "Sprich deutlich, bitte.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894709"
+    },
+    {
+      "english": "Imitate speakers, well.",
+      "german": "Imitiere Sprecher, gut.",
+      "category": "Wisdom",
+      "generated_at": "2026-08-28T12:38:19.894709"
     }
   ],
-  "last_updated": "2026-08-27T11:05:17.060690"
+  "last_updated": "2026-08-28T12:38:19.894711"
 }
