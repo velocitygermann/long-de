@@ -23903,7 +23903,211 @@
       "german": "Erfolg, wird täglich verdient.",
       "category": "Perseverance",
       "generated_at": "2026-09-06T05:44:05.807321"
+    },
+    {
+      "english": "Speak up, be heard.",
+      "german": "Sprich laut, sei gehört.",
+      "category": "Success",
+      "generated_at": "2026-09-07T05:53:56.418370"
+    },
+    {
+      "english": "Read often, understand better.",
+      "german": "Lies oft, versteh besser.",
+      "category": "Success",
+      "generated_at": "2026-09-07T05:53:56.418384"
+    },
+    {
+      "english": "Write it down, make it stick.",
+      "german": "Schreib es auf, mach es fest.",
+      "category": "Success",
+      "generated_at": "2026-09-07T05:53:56.418386"
+    },
+    {
+      "english": "Try new words, expand your reach.",
+      "german": "Versuch neue Wörter, erweitere deinen Radius.",
+      "category": "Success",
+      "generated_at": "2026-09-07T05:53:56.418388"
+    },
+    {
+      "english": "Think in German, from day one.",
+      "german": "Denk auf Deutsch, von Tag eins.",
+      "category": "Success",
+      "generated_at": "2026-09-07T05:53:56.418390"
+    },
+    {
+      "english": "Ask questions, get answers.",
+      "german": "Stell Fragen, krieg Antworten.",
+      "category": "Success",
+      "generated_at": "2026-09-07T05:53:56.418391"
+    },
+    {
+      "english": "Find a language partner, practice together.",
+      "german": "Finde einen Sprachpartner, übt zusammen.",
+      "category": "Success",
+      "generated_at": "2026-09-07T05:53:56.418393"
+    },
+    {
+      "english": "Watch German movies, enjoy the culture.",
+      "german": "Schau deutsche Filme, genieß die Kultur.",
+      "category": "Success",
+      "generated_at": "2026-09-07T05:53:56.418397"
+    },
+    {
+      "english": "Immerse yourself, dive right in.",
+      "german": "Tauch ein, stürz dich rein.",
+      "category": "Success",
+      "generated_at": "2026-09-07T05:53:56.418399"
+    },
+    {
+      "english": "Celebrate small victories, they add up.",
+      "german": "Feier kleine Siege, sie zählen sich.",
+      "category": "Success",
+      "generated_at": "2026-09-07T05:53:56.418401"
+    },
+    {
+      "english": "Don't be afraid, to sound silly.",
+      "german": "Hab keine Angst, komisch zu klingen.",
+      "category": "Success",
+      "generated_at": "2026-09-07T05:53:56.418402"
+    },
+    {
+      "english": "Your accent, is unique, embrace it.",
+      "german": "Dein Akzent, ist einzigartig, umarm ihn.",
+      "category": "Success",
+      "generated_at": "2026-09-07T05:53:56.418404"
+    },
+    {
+      "english": "Every conversation, a chance to grow.",
+      "german": "Jedes Gespräch, eine Chance zu wachsen.",
+      "category": "Success",
+      "generated_at": "2026-09-07T05:53:56.418405"
+    },
+    {
+      "english": "Grammar rules, will click, eventually.",
+      "german": "Grammatikregeln, werden klar, irgendwann.",
+      "category": "Success",
+      "generated_at": "2026-09-07T05:53:56.418406"
+    },
+    {
+      "english": "Say it out loud, feel the words.",
+      "german": "Sag es laut, fühl die Wörter.",
+      "category": "Success",
+      "generated_at": "2026-09-07T05:53:56.418408"
+    },
+    {
+      "english": "Connect with native speakers, learn naturally.",
+      "german": "Verbinde dich mit Muttersprachlern, lern natürlich.",
+      "category": "Success",
+      "generated_at": "2026-09-07T05:53:56.418409"
+    },
+    {
+      "english": "Use flashcards, for quick review.",
+      "german": "Benutz Karteikarten, zur schnellen Wiederholung.",
+      "category": "Success",
+      "generated_at": "2026-09-07T05:53:56.418411"
+    },
+    {
+      "english": "Take notes, on new phrases.",
+      "german": "Mach Notizen, zu neuen Phrasen.",
+      "category": "Success",
+      "generated_at": "2026-09-07T05:53:56.418412"
+    },
+    {
+      "english": "Review often, make it second nature.",
+      "german": "Wiederhole oft, mach es zur Gewohnheit.",
+      "category": "Success",
+      "generated_at": "2026-09-07T05:53:56.418413"
+    },
+    {
+      "english": "Be patient, with yourself, always.",
+      "german": "Sei geduldig, mit dir selbst, immer.",
+      "category": "Success",
+      "generated_at": "2026-09-07T05:53:56.418415"
+    },
+    {
+      "english": "Your goal, is within reach.",
+      "german": "Dein Ziel, ist in Reichweite.",
+      "category": "Success",
+      "generated_at": "2026-09-07T05:53:56.418416"
+    },
+    {
+      "english": "You are capable, of amazing things.",
+      "german": "Du bist fähig, zu erstaunlichen Dingen.",
+      "category": "Success",
+      "generated_at": "2026-09-07T05:53:56.418417"
+    },
+    {
+      "english": "Each day, you get stronger.",
+      "german": "Jeden Tag, wirst du stärker.",
+      "category": "Success",
+      "generated_at": "2026-09-07T05:53:56.418419"
+    },
+    {
+      "english": "Don't give up, the reward is sweet.",
+      "german": "Gib nicht auf, die Belohnung ist süß.",
+      "category": "Success",
+      "generated_at": "2026-09-07T05:53:56.418420"
+    },
+    {
+      "english": "Learn a bit, every single day.",
+      "german": "Lerne ein bisschen, jeden einzelnen Tag.",
+      "category": "Success",
+      "generated_at": "2026-09-07T05:53:56.418421"
+    },
+    {
+      "english": "Break it down, into small pieces.",
+      "german": "Teile es auf, in kleine Stücke.",
+      "category": "Success",
+      "generated_at": "2026-09-07T05:53:56.418422"
+    },
+    {
+      "english": "Focus on understanding, not perfection.",
+      "german": "Konzentrier dich auf Verstehen, nicht Perfektion.",
+      "category": "Success",
+      "generated_at": "2026-09-07T05:53:56.418423"
+    },
+    {
+      "english": "Repetition, builds the bridge.",
+      "german": "Wiederholung, baut die Brücke.",
+      "category": "Success",
+      "generated_at": "2026-09-07T05:53:56.418425"
+    },
+    {
+      "english": "Context is king, learn words in use.",
+      "german": "Kontext ist König, lern Wörter in Gebrauch.",
+      "category": "Success",
+      "generated_at": "2026-09-07T05:53:56.418426"
+    },
+    {
+      "english": "Be brave, try speaking.",
+      "german": "Sei mutig, versuch zu sprechen.",
+      "category": "Success",
+      "generated_at": "2026-09-07T05:53:56.418427"
+    },
+    {
+      "english": "Your brain, is a language sponge.",
+      "german": "Dein Gehirn, ist ein Sprachschwamm.",
+      "category": "Success",
+      "generated_at": "2026-09-07T05:53:56.418428"
+    },
+    {
+      "english": "Keep feeding it, with German.",
+      "german": "Füttere es weiter, mit Deutsch.",
+      "category": "Success",
+      "generated_at": "2026-09-07T05:53:56.418430"
+    },
+    {
+      "english": "You've got this, believe in yourself.",
+      "german": "Du schaffst das, glaub an dich.",
+      "category": "Success",
+      "generated_at": "2026-09-07T05:53:56.418431"
+    },
+    {
+      "english": "The journey is the lesson.",
+      "german": "Die Reise ist die Lektion.",
+      "category": "Success",
+      "generated_at": "2026-09-07T05:53:56.418432"
     }
   ],
-  "last_updated": "2026-09-06T05:44:05.807348"
+  "last_updated": "2026-09-07T05:53:56.418481"
 }
