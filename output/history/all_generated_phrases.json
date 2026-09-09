@@ -24107,7 +24107,157 @@
       "german": "Die Reise ist die Lektion.",
       "category": "Success",
       "generated_at": "2026-09-07T05:53:56.418432"
+    },
+    {
+      "english": "Thank you, very much.",
+      "german": "Danke, sehr.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-09T05:51:21.767938"
+    },
+    {
+      "english": "That helps, a lot.",
+      "german": "Das hilft, sehr.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-09T05:51:21.767950"
+    },
+    {
+      "english": "I appreciate, this.",
+      "german": "Ich schätze, das.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-09T05:51:21.767952"
+    },
+    {
+      "english": "You are kind, to do that.",
+      "german": "Sie sind nett, das zu tun.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-09T05:51:21.767954"
+    },
+    {
+      "english": "I'm grateful, for your help.",
+      "german": "Ich bin dankbar, für Ihre Hilfe.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-09T05:51:21.767956"
+    },
+    {
+      "english": "You made my day, thank you.",
+      "german": "Sie haben meinen Tag gemacht, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-09T05:51:21.767957"
+    },
+    {
+      "english": "This is so helpful, thank you.",
+      "german": "Das ist so hilfreich, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-09T05:51:21.767959"
+    },
+    {
+      "english": "I owe you, one.",
+      "german": "Ich bin Ihnen etwas schuldig.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-09T05:51:21.767962"
+    },
+    {
+      "english": "What a nice gesture, thank you.",
+      "german": "Was für eine nette Geste, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-09T05:51:21.767964"
+    },
+    {
+      "english": "I really, appreciate it.",
+      "german": "Ich weiß es, wirklich zu schätzen.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-09T05:51:21.767966"
+    },
+    {
+      "english": "That was very thoughtful, thanks.",
+      "german": "Das war sehr aufmerksam, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-09T05:51:21.767967"
+    },
+    {
+      "english": "This means, a lot to me.",
+      "german": "Das bedeutet, mir sehr viel.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-09T05:51:21.767969"
+    },
+    {
+      "english": "I'm so thankful, for this.",
+      "german": "Ich bin so dankbar, dafür.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-09T05:51:21.767970"
+    },
+    {
+      "english": "I'm indebted, to you.",
+      "german": "Ich stehe bei Ihnen, in der Schuld.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-09T05:51:21.767972"
+    },
+    {
+      "english": "That's so generous, thank you.",
+      "german": "Das ist so großzügig, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-09T05:51:21.767973"
+    },
+    {
+      "english": "This is exactly, what I needed.",
+      "german": "Das ist genau, was ich brauchte.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-09T05:51:21.767974"
+    },
+    {
+      "english": "You're the best, thank you.",
+      "german": "Sie sind der Beste, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-09T05:51:21.767976"
+    },
+    {
+      "english": "This is so kind, of you.",
+      "german": "Das ist so nett, von Ihnen.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-09T05:51:21.767977"
+    },
+    {
+      "english": "This is wonderful, truly.",
+      "german": "Das ist wunderbar, wirklich.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-09T05:51:21.767978"
+    },
+    {
+      "english": "You saved me, thank you.",
+      "german": "Sie haben mich gerettet, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-09T05:51:21.767979"
+    },
+    {
+      "english": "I'm so pleased, thank you.",
+      "german": "Ich bin so erfreut, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-09T05:51:21.767980"
+    },
+    {
+      "english": "You're a great help, thanks.",
+      "german": "Sie sind eine große Hilfe, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-09T05:51:21.767982"
+    },
+    {
+      "english": "I'm honored, thank you.",
+      "german": "Ich fühle mich geehrt, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-09T05:51:21.767983"
+    },
+    {
+      "english": "I'm so grateful, indeed.",
+      "german": "Ich bin so dankbar, in der Tat.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-09T05:51:21.767984"
+    },
+    {
+      "english": "I appreciate, your support.",
+      "german": "Ich schätze, Ihre Unterstützung.",
+      "category": "Gratitude",
+      "generated_at": "2026-09-09T05:51:21.767985"
     }
   ],
-  "last_updated": "2026-09-07T05:53:56.418481"
+  "last_updated": "2026-09-09T05:51:21.768017"
 }
