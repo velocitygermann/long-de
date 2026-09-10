@@ -24257,7 +24257,235 @@
       "german": "Ich schätze, Ihre Unterstützung.",
       "category": "Gratitude",
       "generated_at": "2026-09-09T05:51:21.767985"
+    },
+    {
+      "english": "Listen daily, learn faster.",
+      "german": "Höre täglich, lerne schneller.",
+      "category": "Purpose",
+      "generated_at": "2026-09-10T05:45:41.997292"
+    },
+    {
+      "english": "Speak slowly, with clarity.",
+      "german": "Sprich langsam, mit Klarheit.",
+      "category": "Purpose",
+      "generated_at": "2026-09-10T05:45:41.997308"
+    },
+    {
+      "english": "Don't fear mistakes, they teach.",
+      "german": "Hab keine Angst vor Fehlern, sie lehren.",
+      "category": "Purpose",
+      "generated_at": "2026-09-10T05:45:41.997311"
+    },
+    {
+      "english": "Read simple texts, build vocabulary.",
+      "german": "Lies einfache Texte, baue Wortschatz auf.",
+      "category": "Purpose",
+      "generated_at": "2026-09-10T05:45:41.997313"
+    },
+    {
+      "english": "Write short sentences, practice grammar.",
+      "german": "Schreibe kurze Sätze, übe Grammatik.",
+      "category": "Purpose",
+      "generated_at": "2026-09-10T05:45:41.997315"
+    },
+    {
+      "english": "Watch German shows, for immersion.",
+      "german": "Sieh deutsche Sendungen, zur Immersion.",
+      "category": "Purpose",
+      "generated_at": "2026-09-10T05:45:41.997316"
+    },
+    {
+      "english": "Sing along, with German songs.",
+      "german": "Sing mit, bei deutschen Liedern.",
+      "category": "Purpose",
+      "generated_at": "2026-09-10T05:45:41.997318"
+    },
+    {
+      "english": "Repeat phrases, from movies.",
+      "german": "Wiederhole Sätze, aus Filmen.",
+      "category": "Purpose",
+      "generated_at": "2026-09-10T05:45:41.997322"
+    },
+    {
+      "english": "Label your stuff, in German.",
+      "german": "Beschrifte deine Sachen, auf Deutsch.",
+      "category": "Purpose",
+      "generated_at": "2026-09-10T05:45:41.997324"
+    },
+    {
+      "english": "Think in German, when you can.",
+      "german": "Denke auf Deutsch, wenn du kannst.",
+      "category": "Purpose",
+      "generated_at": "2026-09-10T05:45:41.997326"
+    },
+    {
+      "english": "Ask questions, always learn.",
+      "german": "Stelle Fragen, lerne immerzu.",
+      "category": "Purpose",
+      "generated_at": "2026-09-10T05:45:41.997328"
+    },
+    {
+      "english": "Use a dictionary, for new words.",
+      "german": "Benutze ein Wörterbuch, für neue Wörter.",
+      "category": "Purpose",
+      "generated_at": "2026-09-10T05:45:41.997330"
+    },
+    {
+      "english": "Review regularly, retain more.",
+      "german": "Wiederhole regelmäßig, behalte mehr.",
+      "category": "Purpose",
+      "generated_at": "2026-09-10T05:45:41.997331"
+    },
+    {
+      "english": "Embrace the culture, understand more.",
+      "german": "Umarme die Kultur, verstehe mehr.",
+      "category": "Purpose",
+      "generated_at": "2026-09-10T05:45:41.997332"
+    },
+    {
+      "english": "Be patient, it takes time.",
+      "german": "Sei geduldig, es braucht Zeit.",
+      "category": "Purpose",
+      "generated_at": "2026-09-10T05:45:41.997335"
+    },
+    {
+      "english": "Celebrate small wins, stay motivated.",
+      "german": "Feiere kleine Siege, bleibe motiviert.",
+      "category": "Purpose",
+      "generated_at": "2026-09-10T05:45:41.997337"
+    },
+    {
+      "english": "Imitate native speakers, improve pronunciation.",
+      "german": "Imitiere Muttersprachler, verbessere Aussprache.",
+      "category": "Purpose",
+      "generated_at": "2026-09-10T05:45:41.997339"
+    },
+    {
+      "english": "Focus on one topic, learn deeply.",
+      "german": "Konzentriere dich auf ein Thema, lerne tief.",
+      "category": "Purpose",
+      "generated_at": "2026-09-10T05:45:41.997340"
+    },
+    {
+      "english": "Use flashcards, for memorization.",
+      "german": "Nutze Karteikarten, zum Auswendiglernen.",
+      "category": "Purpose",
+      "generated_at": "2026-09-10T05:45:41.997341"
+    },
+    {
+      "english": "Join a German class, get structure.",
+      "german": "Tritt einer Deutschklasse bei, bekomme Struktur.",
+      "category": "Purpose",
+      "generated_at": "2026-09-10T05:45:41.997343"
+    },
+    {
+      "english": "Teach someone else, solidify knowledge.",
+      "german": "Lehre jemand anderen, festige Wissen.",
+      "category": "Purpose",
+      "generated_at": "2026-09-10T05:45:41.997344"
+    },
+    {
+      "english": "Listen to podcasts, during commutes.",
+      "german": "Höre Podcasts, während der Fahrt.",
+      "category": "Purpose",
+      "generated_at": "2026-09-10T05:45:41.997345"
+    },
+    {
+      "english": "Change phone language, to German.",
+      "german": "Ändere die Handysprache, auf Deutsch.",
+      "category": "Purpose",
+      "generated_at": "2026-09-10T05:45:41.997347"
+    },
+    {
+      "english": "Explore German media, find interests.",
+      "german": "Erkunde deutsche Medien, finde Interessen.",
+      "category": "Purpose",
+      "generated_at": "2026-09-10T05:45:41.997348"
+    },
+    {
+      "english": "Practice conjugation, verb by verb.",
+      "german": "Übe die Konjugation, Verb für Verb.",
+      "category": "Purpose",
+      "generated_at": "2026-09-10T05:45:41.997349"
+    },
+    {
+      "english": "Learn common phrases, for daily life.",
+      "german": "Lerne gängige Sätze, für den Alltag.",
+      "category": "Purpose",
+      "generated_at": "2026-09-10T05:45:41.997350"
+    },
+    {
+      "english": "Record yourself, hear your progress.",
+      "german": "Nimm dich selbst auf, höre deinen Fortschritt.",
+      "category": "Purpose",
+      "generated_at": "2026-09-10T05:45:41.997351"
+    },
+    {
+      "english": "Don't get discouraged, keep going.",
+      "german": "Lass dich nicht entmutigen, mach weiter.",
+      "category": "Purpose",
+      "generated_at": "2026-09-10T05:45:41.997353"
+    },
+    {
+      "english": "Use German in real life, actively.",
+      "german": "Nutze Deutsch im echten Leben, aktiv.",
+      "category": "Purpose",
+      "generated_at": "2026-09-10T05:45:41.997354"
+    },
+    {
+      "english": "Visualize success, stay focused.",
+      "german": "Visualisiere Erfolg, bleibe fokussiert.",
+      "category": "Purpose",
+      "generated_at": "2026-09-10T05:45:41.997355"
+    },
+    {
+      "english": "Set daily goals, achieve them.",
+      "german": "Setze tägliche Ziele, erreiche sie.",
+      "category": "Purpose",
+      "generated_at": "2026-09-10T05:45:41.997356"
+    },
+    {
+      "english": "Listen for the rhythm, of the language.",
+      "german": "Höre auf den Rhythmus, der Sprache.",
+      "category": "Purpose",
+      "generated_at": "2026-09-10T05:45:41.997357"
+    },
+    {
+      "english": "Learn sentence structure, step by step.",
+      "german": "Lerne Satzbau, Schritt für Schritt.",
+      "category": "Purpose",
+      "generated_at": "2026-09-10T05:45:41.997359"
+    },
+    {
+      "english": "Read German news, stay informed.",
+      "german": "Lies deutsche Nachrichten, bleibe informiert.",
+      "category": "Purpose",
+      "generated_at": "2026-09-10T05:45:41.997360"
+    },
+    {
+      "english": "Practice asking, for directions.",
+      "german": "Übe zu fragen, nach dem Weg.",
+      "category": "Purpose",
+      "generated_at": "2026-09-10T05:45:41.997361"
+    },
+    {
+      "english": "Watch German YouTubers, for slang.",
+      "german": "Sieh deutsche YouTuber, für Umgangssprache.",
+      "category": "Purpose",
+      "generated_at": "2026-09-10T05:45:41.997362"
+    },
+    {
+      "english": "Don't give up, you're learning.",
+      "german": "Gib nicht auf, du lernst.",
+      "category": "Purpose",
+      "generated_at": "2026-09-10T05:45:41.997363"
+    },
+    {
+      "english": "Enjoy the process, have fun.",
+      "german": "Genieße den Prozess, hab Spaß.",
+      "category": "Purpose",
+      "generated_at": "2026-09-10T05:45:41.997365"
     }
   ],
-  "last_updated": "2026-09-09T05:51:21.768017"
+  "last_updated": "2026-09-10T05:45:41.997403"
 }
