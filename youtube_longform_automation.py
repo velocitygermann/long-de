@@ -78,7 +78,7 @@ CATEGORIES_GERMAN = {
 }
 
 # Edge TTS voices
-ENGLISH_VOICE = "en-US-AndrewNeural"
+ENGLISH_VOICE = "en-US-GuyNeural"
 GERMAN_VOICE = "de-DE-KatjaNeural"
 
 # Phrase history file (NEVER delete this!)
