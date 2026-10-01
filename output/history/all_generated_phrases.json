@@ -28043,7 +28043,241 @@
       "german": "Dein Frieden zählt.",
       "category": "Inner Peace",
       "generated_at": "2026-09-30T06:31:46.509768"
+    },
+    {
+      "english": "Ask for directions, then go.",
+      "german": "Frage nach dem Weg, dann geh.",
+      "category": "Success",
+      "generated_at": "2026-10-01T07:05:00.522553"
+    },
+    {
+      "english": "Order coffee, speak slowly.",
+      "german": "Bestelle Kaffee, sprich langsam.",
+      "category": "Success",
+      "generated_at": "2026-10-01T07:05:00.522558"
+    },
+    {
+      "english": "Buy a pretzel, enjoy it.",
+      "german": "Kaufe eine Brezel, genieße sie.",
+      "category": "Success",
+      "generated_at": "2026-10-01T07:05:00.522559"
+    },
+    {
+      "english": "Say 'Danke', smile often.",
+      "german": "Sage 'Danke', lächle oft.",
+      "category": "Success",
+      "generated_at": "2026-10-01T07:05:00.522560"
+    },
+    {
+      "english": "Use 'Bitte', be polite.",
+      "german": "Benutze 'Bitte', sei höflich.",
+      "category": "Success",
+      "generated_at": "2026-10-01T07:05:00.522561"
+    },
+    {
+      "english": "Point at signs, ask why.",
+      "german": "Zeige auf Schilder, frage warum.",
+      "category": "Success",
+      "generated_at": "2026-10-01T07:05:00.522562"
+    },
+    {
+      "english": "Listen to street names, learn.",
+      "german": "Höre Straßennamen, lerne.",
+      "category": "Success",
+      "generated_at": "2026-10-01T07:05:00.522563"
+    },
+    {
+      "english": "Try a local bakery, yes?",
+      "german": "Probiere eine lokale Bäckerei, ja?",
+      "category": "Success",
+      "generated_at": "2026-10-01T07:05:00.522565"
+    },
+    {
+      "english": "Watch the trains, listen.",
+      "german": "Sieh dir die Züge an, höre.",
+      "category": "Success",
+      "generated_at": "2026-10-01T07:05:00.522567"
+    },
+    {
+      "english": "Say 'Entschuldigung', excuse me.",
+      "german": "Sage 'Entschuldigung', Verzeihung.",
+      "category": "Success",
+      "generated_at": "2026-10-01T07:05:00.522568"
+    },
+    {
+      "english": "Buy a ticket, stand in line.",
+      "german": "Kaufe ein Ticket, stehe an.",
+      "category": "Success",
+      "generated_at": "2026-10-01T07:05:00.522569"
+    },
+    {
+      "english": "Ask for the 'Toilette', important.",
+      "german": "Frage nach der Toilette, wichtig.",
+      "category": "Success",
+      "generated_at": "2026-10-01T07:05:00.522570"
+    },
+    {
+      "english": "Learn basic greetings, use them.",
+      "german": "Lerne einfache Grüße, nutze sie.",
+      "category": "Success",
+      "generated_at": "2026-10-01T07:05:00.522571"
+    },
+    {
+      "english": "Enjoy the scenery, take photos.",
+      "german": "Genieße die Landschaft, mache Fotos.",
+      "category": "Success",
+      "generated_at": "2026-10-01T07:05:00.522572"
+    },
+    {
+      "english": "Try German sausage, delicious.",
+      "german": "Probiere deutsche Wurst, lecker.",
+      "category": "Success",
+      "generated_at": "2026-10-01T07:05:00.522572"
+    },
+    {
+      "english": "Ask 'Wie viel?', how much?",
+      "german": "Frage 'Wie viel?', wie teuer?",
+      "category": "Success",
+      "generated_at": "2026-10-01T07:05:00.522573"
+    },
+    {
+      "english": "Say 'Ja' and 'Nein', simple.",
+      "german": "Sage 'Ja' und 'Nein', einfach.",
+      "category": "Success",
+      "generated_at": "2026-10-01T07:05:00.522574"
+    },
+    {
+      "english": "Point to food, order it.",
+      "german": "Zeige auf Essen, bestelle es.",
+      "category": "Success",
+      "generated_at": "2026-10-01T07:05:00.522575"
+    },
+    {
+      "english": "Watch locals, copy gestures.",
+      "german": "Beobachte Einheimische, kopiere Gesten.",
+      "category": "Success",
+      "generated_at": "2026-10-01T07:05:00.522575"
+    },
+    {
+      "english": "Say 'Auf Wiedersehen', goodbye.",
+      "german": "Sage 'Auf Wiedersehen', leb wohl.",
+      "category": "Success",
+      "generated_at": "2026-10-01T07:05:00.522576"
+    },
+    {
+      "english": "Learn 'Ich bin...', I am.",
+      "german": "Lerne 'Ich bin...', ich bin.",
+      "category": "Success",
+      "generated_at": "2026-10-01T07:05:00.522577"
+    },
+    {
+      "english": "Ask for a 'Getränk', drink.",
+      "german": "Frage nach einem Getränk, Trank.",
+      "category": "Success",
+      "generated_at": "2026-10-01T07:05:00.522578"
+    },
+    {
+      "english": "Use street smarts, explore.",
+      "german": "Nutze Straßenwissen, erkunde.",
+      "category": "Success",
+      "generated_at": "2026-10-01T07:05:00.522578"
+    },
+    {
+      "english": "Say 'Guten Tag', good day.",
+      "german": "Sage 'Guten Tag', guten Tag.",
+      "category": "Success",
+      "generated_at": "2026-10-01T07:05:00.522579"
+    },
+    {
+      "english": "Ask 'Wo ist?', where is?",
+      "german": "Frage 'Wo ist?', wo ist?",
+      "category": "Success",
+      "generated_at": "2026-10-01T07:05:00.522580"
+    },
+    {
+      "english": "Buy a newspaper, read it.",
+      "german": "Kaufe eine Zeitung, lies sie.",
+      "category": "Success",
+      "generated_at": "2026-10-01T07:05:00.522580"
+    },
+    {
+      "english": "Try local pastries, sweet.",
+      "german": "Probiere lokale Süßigkeiten, süß.",
+      "category": "Success",
+      "generated_at": "2026-10-01T07:05:00.522581"
+    },
+    {
+      "english": "Say 'Hilfe!', if needed.",
+      "german": "Sage 'Hilfe!', wenn nötig.",
+      "category": "Success",
+      "generated_at": "2026-10-01T07:05:00.522582"
+    },
+    {
+      "english": "Observe conversations, listen well.",
+      "german": "Beobachte Gespräche, höre gut zu.",
+      "category": "Success",
+      "generated_at": "2026-10-01T07:05:00.522582"
+    },
+    {
+      "english": "Ask for 'Wasser', water.",
+      "german": "Frage nach Wasser, Wasser.",
+      "category": "Success",
+      "generated_at": "2026-10-01T07:05:00.522583"
+    },
+    {
+      "english": "Use your map, follow it.",
+      "german": "Benutze deine Karte, folge ihr.",
+      "category": "Success",
+      "generated_at": "2026-10-01T07:05:00.522584"
+    },
+    {
+      "english": "Say 'Prost!', when toasting.",
+      "german": "Sage 'Prost!', beim Anstoßen.",
+      "category": "Success",
+      "generated_at": "2026-10-01T07:05:00.522584"
+    },
+    {
+      "english": "Ask for the 'Rechnung', bill.",
+      "german": "Frage nach der Rechnung, Rechnung.",
+      "category": "Success",
+      "generated_at": "2026-10-01T07:05:00.522585"
+    },
+    {
+      "english": "Try simple German phrases, practice.",
+      "german": "Probiere einfache deutsche Sätze, übe.",
+      "category": "Success",
+      "generated_at": "2026-10-01T07:05:00.522586"
+    },
+    {
+      "english": "Ask 'Sprechen Sie Englisch?', please?",
+      "german": "Frage 'Sprechen Sie Englisch?', bitte?",
+      "category": "Success",
+      "generated_at": "2026-10-01T07:05:00.522586"
+    },
+    {
+      "english": "Say 'Ich verstehe nicht', help.",
+      "german": "Sage 'Ich verstehe nicht', hilf.",
+      "category": "Success",
+      "generated_at": "2026-10-01T07:05:00.522587"
+    },
+    {
+      "english": "Look for signs, read them.",
+      "german": "Suche nach Schildern, lies sie.",
+      "category": "Success",
+      "generated_at": "2026-10-01T07:05:00.522588"
+    },
+    {
+      "english": "Enjoy a 'Bier', a beer.",
+      "german": "Genieße ein Bier, ein Bier.",
+      "category": "Success",
+      "generated_at": "2026-10-01T07:05:00.522588"
+    },
+    {
+      "english": "Say 'Guten Abend', good evening.",
+      "german": "Sage 'Guten Abend', guten Abend.",
+      "category": "Success",
+      "generated_at": "2026-10-01T07:05:00.522589"
     }
   ],
-  "last_updated": "2026-09-30T06:31:46.509791"
+  "last_updated": "2026-10-01T07:05:00.522604"
 }
