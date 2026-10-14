@@ -31307,7 +31307,727 @@
       "german": "Nicht zu steif, entspann dich.",
       "category": "Balance",
       "generated_at": "2026-10-13T07:34:38.697247"
+    },
+    {
+      "english": "You shine, so bright.",
+      "german": "Du strahlst, so hell.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936275"
+    },
+    {
+      "english": "Your smile, it's magic.",
+      "german": "Dein Lächeln, es ist Magie.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936284"
+    },
+    {
+      "english": "Lost in your eyes, always.",
+      "german": "Verloren, in deinen Augen, immer.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936285"
+    },
+    {
+      "english": "My heart skips, for you.",
+      "german": "Mein Herz springt, für dich.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936287"
+    },
+    {
+      "english": "Together, we're better.",
+      "german": "Zusammen, sind wir besser.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936288"
+    },
+    {
+      "english": "Just thinking, of you.",
+      "german": "Nur denken, an dich.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936289"
+    },
+    {
+      "english": "Can I know, your name?",
+      "german": "Kann ich wissen, deinen Namen?",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936291"
+    },
+    {
+      "english": "You look amazing, tonight.",
+      "german": "Du siehst toll aus, heute Abend.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936294"
+    },
+    {
+      "english": "My day starts, with you.",
+      "german": "Mein Tag beginnt, mit dir.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936295"
+    },
+    {
+      "english": "You have, a special glow.",
+      "german": "Du hast, ein besonderes Leuchten.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936297"
+    },
+    {
+      "english": "You make life, sweeter.",
+      "german": "Du machst das Leben, süßer.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936298"
+    },
+    {
+      "english": "It's nice, seeing you.",
+      "german": "Es ist schön, dich zu sehen.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936300"
+    },
+    {
+      "english": "You are, like a dream.",
+      "german": "Du bist, wie ein Traum.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936301"
+    },
+    {
+      "english": "A moment, with you, please.",
+      "german": "Ein Moment, mit dir, bitte.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936302"
+    },
+    {
+      "english": "You make me, smile a lot.",
+      "german": "Du bringst mich, viel zum Lächeln.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936303"
+    },
+    {
+      "english": "You have, such charm.",
+      "german": "Du hast, so viel Charme.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936304"
+    },
+    {
+      "english": "Lost in your laughter, happily.",
+      "german": "Verloren, in deinem Lachen, glücklich.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936306"
+    },
+    {
+      "english": "You make, things better.",
+      "german": "Du machst, die Dinge besser.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936307"
+    },
+    {
+      "english": "Just being, near you, is nice.",
+      "german": "Nur sein, in deiner Nähe, ist schön.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936308"
+    },
+    {
+      "english": "I could, watch you, forever.",
+      "german": "Ich könnte, dich beobachten, für immer.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936309"
+    },
+    {
+      "english": "You add, sparkle, to life.",
+      "german": "Du fügst, Glanz hinzu, zum Leben.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936310"
+    },
+    {
+      "english": "You make, my day, complete.",
+      "german": "Du machst, meinen Tag, komplett.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936311"
+    },
+    {
+      "english": "Your presence, feels right.",
+      "german": "Deine Anwesenheit, fühlt sich richtig an.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936312"
+    },
+    {
+      "english": "I enjoy, your company.",
+      "german": "Ich genieße, deine Gesellschaft.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936313"
+    },
+    {
+      "english": "My heart, feels light, with you.",
+      "german": "Mein Herz, fühlt sich leicht, mit dir.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936314"
+    },
+    {
+      "english": "You shine, so bright.",
+      "german": "Du strahlst, so hell.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936316"
+    },
+    {
+      "english": "Your smile, it's magic.",
+      "german": "Dein Lächeln, es ist Magie.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936317"
+    },
+    {
+      "english": "Lost in your eyes, always.",
+      "german": "Verloren, in deinen Augen, immer.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936318"
+    },
+    {
+      "english": "My heart skips, for you.",
+      "german": "Mein Herz springt, für dich.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936319"
+    },
+    {
+      "english": "Together, we're better.",
+      "german": "Zusammen, sind wir besser.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936321"
+    },
+    {
+      "english": "Just thinking, of you.",
+      "german": "Nur denken, an dich.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936322"
+    },
+    {
+      "english": "Can I know, your name?",
+      "german": "Kann ich wissen, deinen Namen?",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936323"
+    },
+    {
+      "english": "You look amazing, tonight.",
+      "german": "Du siehst toll aus, heute Abend.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936324"
+    },
+    {
+      "english": "My day starts, with you.",
+      "german": "Mein Tag beginnt, mit dir.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936325"
+    },
+    {
+      "english": "You have, a special glow.",
+      "german": "Du hast, ein besonderes Leuchten.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936326"
+    },
+    {
+      "english": "You make life, sweeter.",
+      "german": "Du machst das Leben, süßer.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936327"
+    },
+    {
+      "english": "It's nice, seeing you.",
+      "german": "Es ist schön, dich zu sehen.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936328"
+    },
+    {
+      "english": "You are, like a dream.",
+      "german": "Du bist, wie ein Traum.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936330"
+    },
+    {
+      "english": "A moment, with you, please.",
+      "german": "Ein Moment, mit dir, bitte.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936331"
+    },
+    {
+      "english": "You make me, smile a lot.",
+      "german": "Du bringst mich, viel zum Lächeln.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936332"
+    },
+    {
+      "english": "You have, such charm.",
+      "german": "Du hast, so viel Charme.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936333"
+    },
+    {
+      "english": "Lost in your laughter, happily.",
+      "german": "Verloren, in deinem Lachen, glücklich.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936334"
+    },
+    {
+      "english": "You make, things better.",
+      "german": "Du machst, die Dinge besser.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936335"
+    },
+    {
+      "english": "Just being, near you, is nice.",
+      "german": "Nur sein, in deiner Nähe, ist schön.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936336"
+    },
+    {
+      "english": "I could, watch you, forever.",
+      "german": "Ich könnte, dich beobachten, für immer.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936337"
+    },
+    {
+      "english": "You add, sparkle, to life.",
+      "german": "Du fügst, Glanz hinzu, zum Leben.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936338"
+    },
+    {
+      "english": "You make, my day, complete.",
+      "german": "Du machst, meinen Tag, komplett.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936340"
+    },
+    {
+      "english": "Your presence, feels right.",
+      "german": "Deine Anwesenheit, fühlt sich richtig an.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936341"
+    },
+    {
+      "english": "I enjoy, your company.",
+      "german": "Ich genieße, deine Gesellschaft.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936342"
+    },
+    {
+      "english": "My heart, feels light, with you.",
+      "german": "Mein Herz, fühlt sich leicht, mit dir.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936343"
+    },
+    {
+      "english": "You shine, so bright.",
+      "german": "Du strahlst, so hell.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936344"
+    },
+    {
+      "english": "Your smile, it's magic.",
+      "german": "Dein Lächeln, es ist Magie.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936345"
+    },
+    {
+      "english": "Lost in your eyes, always.",
+      "german": "Verloren, in deinen Augen, immer.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936347"
+    },
+    {
+      "english": "My heart skips, for you.",
+      "german": "Mein Herz springt, für dich.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936348"
+    },
+    {
+      "english": "Together, we're better.",
+      "german": "Zusammen, sind wir besser.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936349"
+    },
+    {
+      "english": "Just thinking, of you.",
+      "german": "Nur denken, an dich.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936350"
+    },
+    {
+      "english": "Can I know, your name?",
+      "german": "Kann ich wissen, deinen Namen?",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936352"
+    },
+    {
+      "english": "You look amazing, tonight.",
+      "german": "Du siehst toll aus, heute Abend.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936353"
+    },
+    {
+      "english": "My day starts, with you.",
+      "german": "Mein Tag beginnt, mit dir.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936354"
+    },
+    {
+      "english": "You have, a special glow.",
+      "german": "Du hast, ein besonderes Leuchten.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936355"
+    },
+    {
+      "english": "You make life, sweeter.",
+      "german": "Du machst das Leben, süßer.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936356"
+    },
+    {
+      "english": "It's nice, seeing you.",
+      "german": "Es ist schön, dich zu sehen.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936357"
+    },
+    {
+      "english": "You are, like a dream.",
+      "german": "Du bist, wie ein Traum.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936358"
+    },
+    {
+      "english": "A moment, with you, please.",
+      "german": "Ein Moment, mit dir, bitte.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936359"
+    },
+    {
+      "english": "You make me, smile a lot.",
+      "german": "Du bringst mich, viel zum Lächeln.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936360"
+    },
+    {
+      "english": "You have, such charm.",
+      "german": "Du hast, so viel Charme.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936362"
+    },
+    {
+      "english": "Lost in your laughter, happily.",
+      "german": "Verloren, in deinem Lachen, glücklich.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936363"
+    },
+    {
+      "english": "You make, things better.",
+      "german": "Du machst, die Dinge besser.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936364"
+    },
+    {
+      "english": "Just being, near you, is nice.",
+      "german": "Nur sein, in deiner Nähe, ist schön.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936365"
+    },
+    {
+      "english": "I could, watch you, forever.",
+      "german": "Ich könnte, dich beobachten, für immer.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936366"
+    },
+    {
+      "english": "You add, sparkle, to life.",
+      "german": "Du fügst, Glanz hinzu, zum Leben.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936367"
+    },
+    {
+      "english": "You make, my day, complete.",
+      "german": "Du machst, meinen Tag, komplett.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936368"
+    },
+    {
+      "english": "Your presence, feels right.",
+      "german": "Deine Anwesenheit, fühlt sich richtig an.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936369"
+    },
+    {
+      "english": "I enjoy, your company.",
+      "german": "Ich genieße, deine Gesellschaft.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936370"
+    },
+    {
+      "english": "My heart, feels light, with you.",
+      "german": "Mein Herz, fühlt sich leicht, mit dir.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936371"
+    },
+    {
+      "english": "You shine, so bright.",
+      "german": "Du strahlst, so hell.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936372"
+    },
+    {
+      "english": "Your smile, it's magic.",
+      "german": "Dein Lächeln, es ist Magie.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936373"
+    },
+    {
+      "english": "Lost in your eyes, always.",
+      "german": "Verloren, in deinen Augen, immer.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936374"
+    },
+    {
+      "english": "My heart skips, for you.",
+      "german": "Mein Herz springt, für dich.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936375"
+    },
+    {
+      "english": "Together, we're better.",
+      "german": "Zusammen, sind wir besser.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936376"
+    },
+    {
+      "english": "Just thinking, of you.",
+      "german": "Nur denken, an dich.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936377"
+    },
+    {
+      "english": "Can I know, your name?",
+      "german": "Kann ich wissen, deinen Namen?",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936378"
+    },
+    {
+      "english": "You look amazing, tonight.",
+      "german": "Du siehst toll aus, heute Abend.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936379"
+    },
+    {
+      "english": "My day starts, with you.",
+      "german": "Mein Tag beginnt, mit dir.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936380"
+    },
+    {
+      "english": "You have, a special glow.",
+      "german": "Du hast, ein besonderes Leuchten.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936381"
+    },
+    {
+      "english": "You make life, sweeter.",
+      "german": "Du machst das Leben, süßer.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936382"
+    },
+    {
+      "english": "It's nice, seeing you.",
+      "german": "Es ist schön, dich zu sehen.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936383"
+    },
+    {
+      "english": "You are, like a dream.",
+      "german": "Du bist, wie ein Traum.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936384"
+    },
+    {
+      "english": "A moment, with you, please.",
+      "german": "Ein Moment, mit dir, bitte.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936385"
+    },
+    {
+      "english": "You make me, smile a lot.",
+      "german": "Du bringst mich, viel zum Lächeln.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936386"
+    },
+    {
+      "english": "You have, such charm.",
+      "german": "Du hast, so viel Charme.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936387"
+    },
+    {
+      "english": "Lost in your laughter, happily.",
+      "german": "Verloren, in deinem Lachen, glücklich.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936389"
+    },
+    {
+      "english": "You make, things better.",
+      "german": "Du machst, die Dinge besser.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936390"
+    },
+    {
+      "english": "Just being, near you, is nice.",
+      "german": "Nur sein, in deiner Nähe, ist schön.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936391"
+    },
+    {
+      "english": "I could, watch you, forever.",
+      "german": "Ich könnte, dich beobachten, für immer.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936392"
+    },
+    {
+      "english": "You add, sparkle, to life.",
+      "german": "Du fügst, Glanz hinzu, zum Leben.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936393"
+    },
+    {
+      "english": "You make, my day, complete.",
+      "german": "Du machst, meinen Tag, komplett.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936394"
+    },
+    {
+      "english": "Your presence, feels right.",
+      "german": "Deine Anwesenheit, fühlt sich richtig an.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936395"
+    },
+    {
+      "english": "I enjoy, your company.",
+      "german": "Ich genieße, deine Gesellschaft.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936396"
+    },
+    {
+      "english": "My heart, feels light, with you.",
+      "german": "Mein Herz, fühlt sich leicht, mit dir.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936397"
+    },
+    {
+      "english": "You shine, so bright.",
+      "german": "Du strahlst, so hell.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936398"
+    },
+    {
+      "english": "Your smile, it's magic.",
+      "german": "Dein Lächeln, es ist Magie.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936399"
+    },
+    {
+      "english": "Lost in your eyes, always.",
+      "german": "Verloren, in deinen Augen, immer.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936400"
+    },
+    {
+      "english": "My heart skips, for you.",
+      "german": "Mein Herz springt, für dich.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936401"
+    },
+    {
+      "english": "Together, we're better.",
+      "german": "Zusammen, sind wir besser.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936403"
+    },
+    {
+      "english": "Just thinking, of you.",
+      "german": "Nur denken, an dich.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936404"
+    },
+    {
+      "english": "Can I know, your name?",
+      "german": "Kann ich wissen, deinen Namen?",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936405"
+    },
+    {
+      "english": "You look amazing, tonight.",
+      "german": "Du siehst toll aus, heute Abend.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936406"
+    },
+    {
+      "english": "My day starts, with you.",
+      "german": "Mein Tag beginnt, mit dir.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936407"
+    },
+    {
+      "english": "You have, a special glow.",
+      "german": "Du hast, ein besonderes Leuchten.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936408"
+    },
+    {
+      "english": "You make life, sweeter.",
+      "german": "Du machst das Leben, süßer.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936409"
+    },
+    {
+      "english": "It's nice, seeing you.",
+      "german": "Es ist schön, dich zu sehen.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936410"
+    },
+    {
+      "english": "You are, like a dream.",
+      "german": "Du bist, wie ein Traum.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936411"
+    },
+    {
+      "english": "A moment, with you, please.",
+      "german": "Ein Moment, mit dir, bitte.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936412"
+    },
+    {
+      "english": "You make me, smile a lot.",
+      "german": "Du bringst mich, viel zum Lächeln.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936413"
+    },
+    {
+      "english": "You have, such charm.",
+      "german": "Du hast, so viel Charme.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936414"
+    },
+    {
+      "english": "Lost in your laughter, happily.",
+      "german": "Verloren, in deinem Lachen, glücklich.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936416"
+    },
+    {
+      "english": "You make, things better.",
+      "german": "Du machst, die Dinge besser.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936417"
+    },
+    {
+      "english": "Just being, near you, is nice.",
+      "german": "Nur sein, in deiner Nähe, ist schön.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936418"
+    },
+    {
+      "english": "I could, watch you, forever.",
+      "german": "Ich könnte, dich beobachten, für immer.",
+      "category": "Purpose",
+      "generated_at": "2026-10-14T05:58:45.936419"
     }
   ],
-  "last_updated": "2026-10-13T07:34:38.697248"
+  "last_updated": "2026-10-14T05:58:45.936421"
 }
