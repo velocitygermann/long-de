@@ -6425,7 +6425,727 @@
       "german": "Sprich laut, sei gehört, jeden Tag.",
       "category": "Motivation",
       "generated_at": "2026-07-14T08:48:09.604604"
+    },
+    {
+      "english": "What's up, man?",
+      "german": "Was geht ab, Alter?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708340"
+    },
+    {
+      "english": "No way, really?",
+      "german": "Echt jetzt, oder?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708354"
+    },
+    {
+      "english": "Totally, I agree.",
+      "german": "Voll, da stimme ich zu.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708358"
+    },
+    {
+      "english": "That's awesome, dude.",
+      "german": "Das ist ja der Hammer.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708361"
+    },
+    {
+      "english": "I'm so tired, man.",
+      "german": "Ich bin fix und fertig.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708364"
+    },
+    {
+      "english": "Let's go, come on!",
+      "german": "Auf geht's, komm mit!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708369"
+    },
+    {
+      "english": "What a mess, seriously.",
+      "german": "So ein Mist, echt jetzt.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708372"
+    },
+    {
+      "english": "No problem, no worries.",
+      "german": "Kein Ding, mach dir nix draus.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708378"
+    },
+    {
+      "english": "I'm hungry, starving.",
+      "german": "Ich hab' Kohldampf.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708381"
+    },
+    {
+      "english": "Just chill, relax.",
+      "german": "Mach mal locker.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708385"
+    },
+    {
+      "english": "That's cool, neat.",
+      "german": "Das ist ja top.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708387"
+    },
+    {
+      "english": "I'm broke, no cash.",
+      "german": "Ich bin pleite.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708390"
+    },
+    {
+      "english": "See ya later, bye.",
+      "german": "Bis später, mach's gut.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708393"
+    },
+    {
+      "english": "That's crazy, wild.",
+      "german": "Das ist ja der Wahnsinn.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708396"
+    },
+    {
+      "english": "Don't mess with me.",
+      "german": "Veräppel mich nicht.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708398"
+    },
+    {
+      "english": "I'm out, gotta go.",
+      "german": "Ich hau ab.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708401"
+    },
+    {
+      "english": "That sucks, lame.",
+      "german": "Das ist ja doof.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708404"
+    },
+    {
+      "english": "You got it, sure.",
+      "german": "Alles klar, passt schon.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708406"
+    },
+    {
+      "english": "What's the plan?",
+      "german": "Was ist der Plan?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708409"
+    },
+    {
+      "english": "I'm excited, pumped.",
+      "german": "Ich hab' Bock drauf.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708412"
+    },
+    {
+      "english": "That's a shame, pity.",
+      "german": "Schade drum.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708414"
+    },
+    {
+      "english": "Hold on a sec.",
+      "german": "Moment mal kurz.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708417"
+    },
+    {
+      "english": "I'm confused, lost.",
+      "german": "Ich steh' auf dem Schlauch.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708420"
+    },
+    {
+      "english": "It's all good, fine.",
+      "german": "Alles gut, alles paletti.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708424"
+    },
+    {
+      "english": "Let's do this, go!",
+      "german": "Legen wir los!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708427"
+    },
+    {
+      "english": "That's crazy, nuts.",
+      "german": "Das ist ja verrückt.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708431"
+    },
+    {
+      "english": "I'm tired, exhausted.",
+      "german": "Ich bin total kaputt.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708434"
+    },
+    {
+      "english": "What's new, what's happening?",
+      "german": "Was gibt's Neues?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708437"
+    },
+    {
+      "english": "It's a deal, agreed.",
+      "german": "Abgemacht, Deal!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708440"
+    },
+    {
+      "english": "What do you think, then?",
+      "german": "Was meinst du, also?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708443"
+    },
+    {
+      "english": "Can you explain that?",
+      "german": "Kannst du das erklären?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708448"
+    },
+    {
+      "english": "Any ideas, perhaps?",
+      "german": "Irgendwelche Ideen, vielleicht?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708451"
+    },
+    {
+      "english": "What's going on here?",
+      "german": "Was ist hier los?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708454"
+    },
+    {
+      "english": "Do you have a moment?",
+      "german": "Hast du einen Moment Zeit?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708456"
+    },
+    {
+      "english": "Could you repeat that?",
+      "german": "Könntest du das wiederholen?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708459"
+    },
+    {
+      "english": "What's your opinion, really?",
+      "german": "Was ist deine Meinung, echt?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708462"
+    },
+    {
+      "english": "Are you sure about this?",
+      "german": "Bist du dir da sicher?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708465"
+    },
+    {
+      "english": "What should we do now?",
+      "german": "Was sollen wir jetzt machen?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708469"
+    },
+    {
+      "english": "Any advice for me?",
+      "german": "Hast du einen Rat für mich?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708472"
+    },
+    {
+      "english": "What's the current situation?",
+      "german": "Wie ist die Lage gerade?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708474"
+    },
+    {
+      "english": "Can I ask something?",
+      "german": "Darf ich was fragen?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708477"
+    },
+    {
+      "english": "What do you suggest?",
+      "german": "Was schlägst du vor?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708479"
+    },
+    {
+      "english": "Is everything alright?",
+      "german": "Ist alles in Ordnung?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708482"
+    },
+    {
+      "english": "What's the matter with you?",
+      "german": "Was ist los mit dir?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708484"
+    },
+    {
+      "english": "How was your day?",
+      "german": "Wie war dein Tag?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708487"
+    },
+    {
+      "english": "Could you help me, please?",
+      "german": "Kannst du mir bitte helfen?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708489"
+    },
+    {
+      "english": "What are we waiting for?",
+      "german": "Worauf warten wir?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708492"
+    },
+    {
+      "english": "Do you understand me?",
+      "german": "Verstehst du mich?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708494"
+    },
+    {
+      "english": "What's the main point?",
+      "german": "Was ist der Kernpunkt?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708499"
+    },
+    {
+      "english": "Any news from them?",
+      "german": "Gibt's Neuigkeiten von denen?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708501"
+    },
+    {
+      "english": "What's the story here?",
+      "german": "Was ist die Geschichte hier?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708504"
+    },
+    {
+      "english": "Are you following me?",
+      "german": "Folgt du mir?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708506"
+    },
+    {
+      "english": "What's on your mind?",
+      "german": "Was geht dir durch den Kopf?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708509"
+    },
+    {
+      "english": "Do you need anything?",
+      "german": "Brauchst du irgendwas?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708511"
+    },
+    {
+      "english": "What's the big deal?",
+      "german": "Was ist das Problem?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708514"
+    },
+    {
+      "english": "Are we on the same page?",
+      "german": "Sind wir auf einer Wellenlänge?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708516"
+    },
+    {
+      "english": "What's the goal here?",
+      "german": "Was ist das Ziel hier?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708519"
+    },
+    {
+      "english": "Can we talk about this?",
+      "german": "Können wir darüber reden?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708521"
+    },
+    {
+      "english": "You've got this, totally.",
+      "german": "Du schaffst das, locker.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708524"
+    },
+    {
+      "english": "That's a brilliant idea!",
+      "german": "Das ist ja genial!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708527"
+    },
+    {
+      "english": "You're doing great, really.",
+      "german": "Du machst das super, echt.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708530"
+    },
+    {
+      "english": "Just believe in yourself.",
+      "german": "Glaub einfach an dich.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708533"
+    },
+    {
+      "english": "Give it your best shot.",
+      "german": "Gib dein Bestes.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708535"
+    },
+    {
+      "english": "You'll get there, for sure.",
+      "german": "Du kommst da an, bestimmt.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708538"
+    },
+    {
+      "english": "Stay positive, always.",
+      "german": "Bleib positiv, immer.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708541"
+    },
+    {
+      "english": "That's a big step, wow.",
+      "german": "Das ist ein großer Schritt, wow.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708544"
+    },
+    {
+      "english": "Never give up, promise.",
+      "german": "Gib niemals auf, versprochen.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708546"
+    },
+    {
+      "english": "You're on the right track.",
+      "german": "Du bist auf dem richtigen Weg.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708549"
+    },
+    {
+      "english": "That's fantastic news!",
+      "german": "Das sind ja tolle Nachrichten!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708552"
+    },
+    {
+      "english": "You can do anything.",
+      "german": "Du kannst alles schaffen.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708556"
+    },
+    {
+      "english": "Keep up the great work.",
+      "german": "Mach weiter so.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708559"
+    },
+    {
+      "english": "That's really impressive.",
+      "german": "Das ist echt beeindruckend.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708561"
+    },
+    {
+      "english": "You're a true champion.",
+      "german": "Du bist ein echter Champion.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708564"
+    },
+    {
+      "english": "Think positive thoughts.",
+      "german": "Denk positiv.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708566"
+    },
+    {
+      "english": "This will work out.",
+      "german": "Das wird schon klappen.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708571"
+    },
+    {
+      "english": "You're making progress, nice.",
+      "german": "Du kommst voran, gut.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708574"
+    },
+    {
+      "english": "Stay strong, always.",
+      "german": "Bleib stark, immer.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708577"
+    },
+    {
+      "english": "That's a great attitude.",
+      "german": "Das ist eine tolle Einstellung.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708579"
+    },
+    {
+      "english": "You're almost there.",
+      "german": "Du bist fast da.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708582"
+    },
+    {
+      "english": "Just keep trying, okay?",
+      "german": "Versuch's einfach weiter, okay?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708585"
+    },
+    {
+      "english": "That's a fantastic result.",
+      "german": "Das ist ein super Ergebnis.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708587"
+    },
+    {
+      "english": "You are capable of more.",
+      "german": "Du kannst mehr.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708590"
+    },
+    {
+      "english": "You've earned this.",
+      "german": "Das hast du dir verdient.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708593"
+    },
+    {
+      "english": "Never doubt yourself.",
+      "german": "Zweifle nie an dir.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708595"
+    },
+    {
+      "english": "You're doing awesome!",
+      "german": "Du machst das klasse!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708597"
+    },
+    {
+      "english": "It's a deep thought, really.",
+      "german": "Das ist ein tiefer Gedanke, ehrlich.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708600"
+    },
+    {
+      "english": "I'm just reflecting, you know.",
+      "german": "Ich sinniere nur, weißt du.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708603"
+    },
+    {
+      "english": "Take your time, no rush.",
+      "german": "Lass dir Zeit, keine Eile.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708606"
+    },
+    {
+      "english": "That hits deep, man.",
+      "german": "Das geht mir echt nah.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708609"
+    },
+    {
+      "english": "It makes you think, huh?",
+      "german": "Das regt zum Nachdenken an, ne?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708611"
+    },
+    {
+      "english": "I'm trying to process this.",
+      "german": "Ich versuche, das zu verarbeiten.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708614"
+    },
+    {
+      "english": "It's all part of the journey.",
+      "german": "Das gehört alles zur Reise.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708618"
+    },
+    {
+      "english": "I'm just feeling it out.",
+      "german": "Ich taste mich da ran.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708621"
+    },
+    {
+      "english": "That’s a real gut feeling.",
+      "german": "Das ist ein echtes Bauchgefühl.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708625"
+    },
+    {
+      "english": "Let it sink in slowly.",
+      "german": "Lass es langsam sacken.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708628"
+    },
+    {
+      "english": "It's a bit overwhelming, I admit.",
+      "german": "Es ist etwas viel, ich geb's zu.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708630"
+    },
+    {
+      "english": "I need some quiet time, you know.",
+      "german": "Ich brauch mal meine Ruhe, verstehst du?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708633"
+    },
+    {
+      "english": "This is more than just surface.",
+      "german": "Das geht tiefer als die Oberfläche.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708636"
+    },
+    {
+      "english": "It’s a complex situation.",
+      "german": "Das ist eine verzwickte Lage.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708639"
+    },
+    {
+      "english": "Just letting my thoughts wander.",
+      "german": "Ich lass meine Gedanken schweifen.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708642"
+    },
+    {
+      "english": "I'm contemplating the meaning.",
+      "german": "Ich erwäge den Sinn.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708648"
+    },
+    {
+      "english": "That's a heavy realization.",
+      "german": "Das ist eine schwere Erkenntnis.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708651"
+    },
+    {
+      "english": "Just taking a moment to breathe.",
+      "german": "Ich nehme mir kurz Zeit zum Atmen.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708653"
+    },
+    {
+      "english": "It's making me feel something.",
+      "german": "Das löst was in mir aus.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708656"
+    },
+    {
+      "english": "I'm really considering it.",
+      "german": "Ich denke ernsthaft drüber nach.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708659"
+    },
+    {
+      "english": "This requires some reflection.",
+      "german": "Das erfordert Nachdenken.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708661"
+    },
+    {
+      "english": "It's not that simple, is it?",
+      "german": "Das ist nicht so einfach, oder?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708664"
+    },
+    {
+      "english": "I need to mull this over.",
+      "german": "Ich muss das erst mal sacken lassen.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708667"
+    },
+    {
+      "english": "It’s about inner peace.",
+      "german": "Es geht um innere Ruhe.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708670"
+    },
+    {
+      "english": "That’s a profound statement.",
+      "german": "Das ist eine tiefgründige Aussage.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708674"
+    },
+    {
+      "english": "I’m just letting it flow.",
+      "german": "Ich lass es einfach fließen.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708677"
+    },
+    {
+      "english": "It's a matter of trust.",
+      "german": "Das ist Vertrauenssache.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708680"
+    },
+    {
+      "english": "I'm trying to stay calm.",
+      "german": "Ich versuche, ruhig zu bleiben.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708682"
+    },
+    {
+      "english": "That's how I feel, truly.",
+      "german": "So fühl ich mich, wirklich.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708685"
+    },
+    {
+      "english": "Let's get this done, quick!",
+      "german": "Packen wir's an, zackig!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708688"
+    },
+    {
+      "english": "Just wing it, you'll see.",
+      "german": "Einfach improvisieren, du schaffst das.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708691"
+    },
+    {
+      "english": "Don't overthink it, go!",
+      "german": "Nicht lange fackeln, los geht's!",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708694"
+    },
+    {
+      "english": "Got it? Simple, right?",
+      "german": "Kapiert? Ganz easy, oder?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708697"
+    },
+    {
+      "english": "It's no big deal, really.",
+      "german": "Das ist doch kein Hexenwerk.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708699"
+    },
+    {
+      "english": "Just try your best, okay?",
+      "german": "Gib einfach dein Bestes, passt?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-10-17T05:27:51.708702"
     }
   ],
-  "last_updated": "2026-07-14T08:48:09.604604"
+  "last_updated": "2026-10-17T05:27:51.708704"
 }
