@@ -7145,7 +7145,727 @@
       "german": "Gib einfach dein Bestes, passt?",
       "category": "Common Native Slang",
       "generated_at": "2026-10-17T05:27:51.708702"
+    },
+    {
+      "english": "That's so nice, of you.",
+      "german": "Das ist sehr nett, von dir.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244034"
+    },
+    {
+      "english": "You're really kind, thank you.",
+      "german": "Du bist wirklich lieb, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244047"
+    },
+    {
+      "english": "Wow, thanks a bunch!",
+      "german": "Wow, vielen Dank!",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244051"
+    },
+    {
+      "english": "That means a lot, really.",
+      "german": "Das bedeutet viel, ehrlich.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244054"
+    },
+    {
+      "english": "How thoughtful, of you!",
+      "german": "Wie aufmerksam, von dir!",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244057"
+    },
+    {
+      "english": "I owe you one, big time.",
+      "german": "Ich bin dir was schuldig, sehr.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244060"
+    },
+    {
+      "english": "You're the best, seriously.",
+      "german": "Du bist der/die Beste, echt.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244065"
+    },
+    {
+      "english": "So glad, you could make it.",
+      "german": "Froh, dass du es geschafft hast.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244070"
+    },
+    {
+      "english": "That's incredibly helpful, thanks.",
+      "german": "Das ist unglaublich hilfreich, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244074"
+    },
+    {
+      "english": "A big thank you, to you.",
+      "german": "Ein großes Dankeschön, an dich.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244077"
+    },
+    {
+      "english": "You're a star, honestly.",
+      "german": "Du bist ein Star, ehrlich.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244080"
+    },
+    {
+      "english": "I'm touched, by your gesture.",
+      "german": "Ich bin gerührt, von deiner Geste.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244083"
+    },
+    {
+      "english": "That was perfect, thank you.",
+      "german": "Das war perfekt, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244086"
+    },
+    {
+      "english": "You always come through, wow.",
+      "german": "Du bist immer für mich da, wow.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244088"
+    },
+    {
+      "english": "What a relief, thank goodness.",
+      "german": "Eine Erleichterung, Gott sei Dank.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244091"
+    },
+    {
+      "english": "Couldn't have done it, without you.",
+      "german": "Ohne dich hätte ich es nicht geschafft.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244094"
+    },
+    {
+      "english": "You saved the day, truly.",
+      "german": "Du hast den Tag gerettet, wirklich.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244097"
+    },
+    {
+      "english": "This is amazing, thank you.",
+      "german": "Das ist fantastisch, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244099"
+    },
+    {
+      "english": "I'm so glad, you're here.",
+      "german": "Ich bin so froh, dass du da bist.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244102"
+    },
+    {
+      "english": "Your effort, is noticed.",
+      "german": "Deine Mühe, wird gesehen.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244134"
+    },
+    {
+      "english": "You're a lifesaver, honestly.",
+      "german": "Du bist ein Lebensretter/eine Lebensretterin, ehrlich.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244141"
+    },
+    {
+      "english": "That's incredibly generous, thank you.",
+      "german": "Das ist unglaublich großzügig, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244147"
+    },
+    {
+      "english": "I really appreciate this, a lot.",
+      "german": "Ich schätze das wirklich, sehr.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244152"
+    },
+    {
+      "english": "So happy, you came along.",
+      "german": "So froh, dass du mitgekommen bist.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244157"
+    },
+    {
+      "english": "You're amazing, really.",
+      "german": "Du bist toll, wirklich.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244163"
+    },
+    {
+      "english": "This gesture, means the world.",
+      "german": "Diese Geste, bedeutet die Welt.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244169"
+    },
+    {
+      "english": "You're too good, to me.",
+      "german": "Du bist zu gut, zu mir.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244172"
+    },
+    {
+      "english": "I'm deeply grateful, for this.",
+      "german": "Ich bin zutiefst dankbar, dafür.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244175"
+    },
+    {
+      "english": "May I ask, a favor?",
+      "german": "Darf ich, um einen Gefallen bitten?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244177"
+    },
+    {
+      "english": "Could you help, me with this?",
+      "german": "Könnten Sie, mir damit helfen?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244180"
+    },
+    {
+      "english": "Any advice, would be great.",
+      "german": "Jeder Rat, wäre toll.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244183"
+    },
+    {
+      "english": "How can I, return this kindness?",
+      "german": "Wie kann ich, diese Freundlichkeit erwidern?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244186"
+    },
+    {
+      "english": "Is it okay, if I ask?",
+      "german": "Ist es in Ordnung, wenn ich frage?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244189"
+    },
+    {
+      "english": "Do you mind, if I join?",
+      "german": "Stört es Sie, wenn ich mitkomme?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244192"
+    },
+    {
+      "english": "Could you explain, this to me?",
+      "german": "Könnten Sie, mir das erklären?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244195"
+    },
+    {
+      "english": "What's your opinion, on this?",
+      "german": "Was ist Ihre Meinung, dazu?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244198"
+    },
+    {
+      "english": "I'd love your input, please.",
+      "german": "Ich hätte gerne Ihren Input, bitte.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244201"
+    },
+    {
+      "english": "Can I ask, one more thing?",
+      "german": "Darf ich, noch eine Sache fragen?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244244"
+    },
+    {
+      "english": "What's the best way, to do this?",
+      "german": "Was ist der beste Weg, das zu tun?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244250"
+    },
+    {
+      "english": "Could you show, me how?",
+      "german": "Könnten Sie, mir zeigen wie?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244253"
+    },
+    {
+      "english": "I'm curious, about this.",
+      "german": "Ich bin neugierig, darauf.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244256"
+    },
+    {
+      "english": "Would you mind, repeating that?",
+      "german": "Würden Sie es, wiederholen?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244258"
+    },
+    {
+      "english": "Is there another option?",
+      "german": "Gibt es eine andere Option?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244261"
+    },
+    {
+      "english": "Your help, is appreciated.",
+      "german": "Ihre Hilfe, wird geschätzt.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244263"
+    },
+    {
+      "english": "I appreciate, your time.",
+      "german": "Ich schätze, Ihre Zeit.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244266"
+    },
+    {
+      "english": "How do you feel, about it?",
+      "german": "Wie fühlen Sie, sich dabei?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244270"
+    },
+    {
+      "english": "Can we discuss, this later?",
+      "german": "Können wir, das später besprechen?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244273"
+    },
+    {
+      "english": "What are your thoughts, on this?",
+      "german": "Was sind Ihre Gedanken, dazu?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244275"
+    },
+    {
+      "english": "I'm open, to suggestions.",
+      "german": "Ich bin offen, für Vorschläge.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244278"
+    },
+    {
+      "english": "Could you clarify, please?",
+      "german": "Könnten Sie, das bitte erläutern?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244281"
+    },
+    {
+      "english": "This is very helpful, thank you.",
+      "german": "Das ist sehr hilfreich, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244284"
+    },
+    {
+      "english": "I value, your opinion.",
+      "german": "Ich schätze, Ihre Meinung.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244286"
+    },
+    {
+      "english": "Any tips, for a beginner?",
+      "german": "Irgendwelche Tipps, für einen Anfänger?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244289"
+    },
+    {
+      "english": "What would you do, in my place?",
+      "german": "Was würden Sie, an meiner Stelle tun?",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244291"
+    },
+    {
+      "english": "Thanks for the chat, friend.",
+      "german": "Danke für das Gespräch, Freund.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244295"
+    },
+    {
+      "english": "You've been so patient, thank you.",
+      "german": "Sie waren so geduldig, danke.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244298"
+    },
+    {
+      "english": "Your positivity, is inspiring.",
+      "german": "Deine Positivität, ist inspirierend.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244301"
+    },
+    {
+      "english": "Keep shining, bright.",
+      "german": "Leuchte weiter, hell.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244304"
+    },
+    {
+      "english": "You motivate, me a lot.",
+      "german": "Du motivierst, mich sehr.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244307"
+    },
+    {
+      "english": "That’s a great, idea!",
+      "german": "Das ist eine tolle, Idee!",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244311"
+    },
+    {
+      "english": "I’m proud, of you.",
+      "german": "Ich bin stolz, auf dich.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244314"
+    },
+    {
+      "english": "That's truly, wonderful.",
+      "german": "Das ist wirklich, wunderbar.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244317"
+    },
+    {
+      "english": "You have, a good heart.",
+      "german": "Du hast, ein gutes Herz.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244320"
+    },
+    {
+      "english": "Focus on, the good.",
+      "german": "Konzentriere dich, auf das Gute.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244323"
+    },
+    {
+      "english": "Every step, counts.",
+      "german": "Jeder Schritt, zählt.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244326"
+    },
+    {
+      "english": "Your effort, counts too.",
+      "german": "Deine Mühe, zählt auch.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244328"
+    },
+    {
+      "english": "That’s very, thoughtful.",
+      "german": "Das ist sehr, aufmerksam.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244332"
+    },
+    {
+      "english": "Keep up, the good work.",
+      "german": "Mach weiter, so gut.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244335"
+    },
+    {
+      "english": "You make, things better.",
+      "german": "Du machst, Dinge besser.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244337"
+    },
+    {
+      "english": "This outlook, is great.",
+      "german": "Diese Einstellung, ist super.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244341"
+    },
+    {
+      "english": "Your perspective, helps.",
+      "german": "Deine Perspektive, hilft.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244346"
+    },
+    {
+      "english": "You’re growing, so much.",
+      "german": "Du entwickelst, dich sehr.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244351"
+    },
+    {
+      "english": "That’s a, brilliant move.",
+      "german": "Das ist ein, genialer Zug.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244354"
+    },
+    {
+      "english": "I admire, your spirit.",
+      "german": "Ich bewundere, deinen Geist.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244357"
+    },
+    {
+      "english": "You handle, this well.",
+      "german": "Du gehst, gut damit um.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244360"
+    },
+    {
+      "english": "Your strength, is notable.",
+      "german": "Deine Stärke, ist bemerkenswert.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244362"
+    },
+    {
+      "english": "You’re a great, example.",
+      "german": "Du bist, ein tolles Vorbild.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244365"
+    },
+    {
+      "english": "Keep up, that courage.",
+      "german": "Behalte, diesen Mut.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244368"
+    },
+    {
+      "english": "Your kindness, shines through.",
+      "german": "Deine Freundlichkeit, strahlt.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244370"
+    },
+    {
+      "english": "You bring, joy to others.",
+      "german": "Du bringst, Freude zu anderen.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244373"
+    },
+    {
+      "english": "This growth, is awesome.",
+      "german": "Dieses Wachstum, ist klasse.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244375"
+    },
+    {
+      "english": "You’re an inspiration, truly.",
+      "german": "Du bist, eine Inspiration, wirklich.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244379"
+    },
+    {
+      "english": "Your mindset, is winning.",
+      "german": "Deine Denkweise, gewinnt.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244381"
+    },
+    {
+      "english": "I'm learning, to be more patient.",
+      "german": "Ich lerne, geduldiger zu sein.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244384"
+    },
+    {
+      "english": "This means, a lot to me.",
+      "german": "Das bedeutet, mir sehr viel.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244387"
+    },
+    {
+      "english": "I'm truly, thankful for this.",
+      "german": "Ich bin aufrichtig, dankbar dafür.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244389"
+    },
+    {
+      "english": "Your presence, makes a difference.",
+      "german": "Deine Anwesenheit, macht einen Unterschied.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244392"
+    },
+    {
+      "english": "I reflect, on your kindness.",
+      "german": "Ich denke, über deine Güte nach.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244395"
+    },
+    {
+      "english": "This moment, feels special.",
+      "german": "Dieser Moment, fühlt sich besonders an.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244397"
+    },
+    {
+      "english": "I appreciate, the quiet understanding.",
+      "german": "Ich schätze, das stille Einverständnis.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244400"
+    },
+    {
+      "english": "You helped, me grow a lot.",
+      "german": "Du hast mir, sehr geholfen zu wachsen.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244403"
+    },
+    {
+      "english": "My heart, is full right now.",
+      "german": "Mein Herz, ist gerade voller Dankbarkeit.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244405"
+    },
+    {
+      "english": "Thank you, for believing in me.",
+      "german": "Danke, dass du an mich glaubst.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244408"
+    },
+    {
+      "english": "I feel, genuine gratitude.",
+      "german": "Ich empfinde, echte Dankbarkeit.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244411"
+    },
+    {
+      "english": "This is, deeply touching.",
+      "german": "Das ist, tief berührend.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244413"
+    },
+    {
+      "english": "Your support, means everything.",
+      "german": "Deine Unterstützung, bedeutet mir alles.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244416"
+    },
+    {
+      "english": "This brings, me so much joy.",
+      "german": "Das bringt, mir so viel Freude.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244419"
+    },
+    {
+      "english": "I'm learning, to let go.",
+      "german": "Ich lerne, loszulassen.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244422"
+    },
+    {
+      "english": "Your wisdom, is a gift.",
+      "german": "Deine Weisheit, ist ein Geschenk.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244427"
+    },
+    {
+      "english": "This feels, so right.",
+      "german": "Das fühlt, sich so richtig an.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244429"
+    },
+    {
+      "english": "I'm grateful, for your honesty.",
+      "german": "Ich bin dankbar, für deine Ehrlichkeit.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244432"
+    },
+    {
+      "english": "This is, a peaceful feeling.",
+      "german": "Das ist, ein friedliches Gefühl.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244437"
+    },
+    {
+      "english": "I value, this connection.",
+      "german": "Ich schätze, diese Verbindung.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244439"
+    },
+    {
+      "english": "You inspire, my inner peace.",
+      "german": "Du inspirierst, meinen inneren Frieden.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244442"
+    },
+    {
+      "english": "Thank you, for listening so well.",
+      "german": "Danke, dass du so gut zuhörst.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244445"
+    },
+    {
+      "english": "This perspective, is valuable.",
+      "german": "Diese Perspektive, ist wertvoll.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244447"
+    },
+    {
+      "english": "I'm thankful, for slow progress.",
+      "german": "Ich bin dankbar, für langsamen Fortschritt.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244450"
+    },
+    {
+      "english": "Your encouragement, lifts me.",
+      "german": "Deine Ermutigung, hebt mich.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244453"
+    },
+    {
+      "english": "This clarity, is a blessing.",
+      "german": "Diese Klarheit, ist ein Segen.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244455"
+    },
+    {
+      "english": "I feel, deeply understood.",
+      "german": "Ich fühle mich, tief verstanden.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244458"
+    },
+    {
+      "english": "Your gentle way, helps me.",
+      "german": "Deine sanfte Art, hilft mir.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244460"
+    },
+    {
+      "english": "This reflection, is profound.",
+      "german": "Diese Reflexion, ist tiefgründig.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244463"
+    },
+    {
+      "english": "Thanks for showing me, how this works.",
+      "german": "Danke fürs Zeigen, wie das geht.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244466"
+    },
+    {
+      "english": "I really appreciate, your patience here.",
+      "german": "Ich schätze deine Geduld, sehr.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244469"
+    },
+    {
+      "english": "This little trick, is super helpful.",
+      "german": "Dieser kleine Trick, ist super hilfreich.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244472"
+    },
+    {
+      "english": "What a smart idea, thank you!",
+      "german": "Was für eine schlaue Idee, danke!",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244474"
+    },
+    {
+      "english": "Good thinking, I'm glad you asked.",
+      "german": "Gut gedacht, ich bin froh, dass du fragst.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244477"
+    },
+    {
+      "english": "You saved me, a lot of trouble.",
+      "german": "Du hast mir, viel Ärger erspart.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244480"
+    },
+    {
+      "english": "Thanks for the heads-up, very kind.",
+      "german": "Danke für den Tipp, sehr nett.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244483"
+    },
+    {
+      "english": "That advice, was spot on.",
+      "german": "Dieser Rat, war genau richtig.",
+      "category": "Gratitude",
+      "generated_at": "2026-10-18T05:39:23.244486"
     }
   ],
-  "last_updated": "2026-10-17T05:27:51.708704"
+  "last_updated": "2026-10-18T05:39:23.244488"
 }
