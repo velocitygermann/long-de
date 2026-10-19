@@ -7865,7 +7865,727 @@
       "german": "Dieser Rat, war genau richtig.",
       "category": "Gratitude",
       "generated_at": "2026-10-18T05:39:23.244486"
+    },
+    {
+      "english": "Hello, I have a reservation.",
+      "german": "Hallo, ich habe eine Reservierung.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328831"
+    },
+    {
+      "english": "Do you have any vacancies?",
+      "german": "Haben Sie noch Zimmer frei?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328846"
+    },
+    {
+      "english": "I'd like to check in.",
+      "german": "Ich möchte gerne einchecken.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328850"
+    },
+    {
+      "english": "What's the Wi-Fi password?",
+      "german": "Wie ist das WLAN-Passwort?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328853"
+    },
+    {
+      "english": "Can I have the room key?",
+      "german": "Kann ich den Zimmerschlüssel haben?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328856"
+    },
+    {
+      "english": "Where is the elevator?",
+      "german": "Wo ist der Aufzug?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328858"
+    },
+    {
+      "english": "My room number is...",
+      "german": "Meine Zimmernummer ist...",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328861"
+    },
+    {
+      "english": "Is breakfast included?",
+      "german": "Ist das Frühstück inklusive?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328868"
+    },
+    {
+      "english": "What time is breakfast?",
+      "german": "Um wie viel Uhr gibt es Frühstück?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328871"
+    },
+    {
+      "english": "Can I get a receipt?",
+      "german": "Kann ich eine Quittung bekommen?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328874"
+    },
+    {
+      "english": "I need to check out.",
+      "german": "Ich muss auschecken.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328877"
+    },
+    {
+      "english": "Can I leave my luggage?",
+      "german": "Kann ich mein Gepäck hier lassen?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328879"
+    },
+    {
+      "english": "Is there a restaurant here?",
+      "german": "Gibt es hier ein Restaurant?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328882"
+    },
+    {
+      "english": "Can I have an extra towel?",
+      "german": "Kann ich noch ein Handtuch haben?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328884"
+    },
+    {
+      "english": "The room is very clean.",
+      "german": "Das Zimmer ist sehr sauber.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328887"
+    },
+    {
+      "english": "The view is amazing.",
+      "german": "Die Aussicht ist toll.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328889"
+    },
+    {
+      "english": "I need a wake-up call.",
+      "german": "Ich brauche einen Weckruf.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328891"
+    },
+    {
+      "english": "Can you call a taxi?",
+      "german": "Können Sie ein Taxi rufen?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328894"
+    },
+    {
+      "english": "What time is check-out?",
+      "german": "Um wie viel Uhr ist Check-out?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328896"
+    },
+    {
+      "english": "Where can I find the lobby?",
+      "german": "Wo finde ich die Lobby?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328899"
+    },
+    {
+      "english": "Is there a pool?",
+      "german": "Gibt es einen Pool?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328901"
+    },
+    {
+      "english": "I have a problem with...",
+      "german": "Ich habe ein Problem mit...",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328904"
+    },
+    {
+      "english": "Can I get a different room?",
+      "german": "Kann ich ein anderes Zimmer bekommen?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328906"
+    },
+    {
+      "english": "This is too noisy.",
+      "german": "Das ist zu laut.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328908"
+    },
+    {
+      "english": "I'm satisfied with everything.",
+      "german": "Ich bin mit allem zufrieden.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328911"
+    },
+    {
+      "english": "Thank you for your help.",
+      "german": "Danke für Ihre Hilfe.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328913"
+    },
+    {
+      "english": "Have a nice day!",
+      "german": "Schönen Tag noch!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328916"
+    },
+    {
+      "english": "See you later!",
+      "german": "Bis später!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328918"
+    },
+    {
+      "english": "Is there parking available?",
+      "german": "Gibt es Parkplätze?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328922"
+    },
+    {
+      "english": "I need a quiet room.",
+      "german": "Ich brauche ein ruhiges Zimmer.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328925"
+    },
+    {
+      "english": "How late is the reception open?",
+      "german": "Wie lange hat die Rezeption geöffnet?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328928"
+    },
+    {
+      "english": "Is it possible to get a late check-out?",
+      "german": "Ist ein später Check-out möglich?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328931"
+    },
+    {
+      "english": "Do you have a map of the city?",
+      "german": "Haben Sie eine Stadtkarte?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328934"
+    },
+    {
+      "english": "Where can I charge my phone?",
+      "german": "Wo kann ich mein Handy aufladen?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328937"
+    },
+    {
+      "english": "Can you recommend a good restaurant nearby?",
+      "german": "Können Sie ein gutes Restaurant empfehlen?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328940"
+    },
+    {
+      "english": "What are the opening hours for the gym?",
+      "german": "Wann öffnet das Fitnessstudio?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328942"
+    },
+    {
+      "english": "I'm looking for the nearest supermarket.",
+      "german": "Ich suche den nächsten Supermarkt.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328945"
+    },
+    {
+      "english": "Is there a shuttle service to the airport?",
+      "german": "Gibt es einen Shuttleservice zum Flughafen?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328947"
+    },
+    {
+      "english": "Could you help me with my luggage?",
+      "german": "Könnten Sie mir mit dem Gepäck helfen?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328950"
+    },
+    {
+      "english": "How do I get to the train station?",
+      "german": "Wie komme ich zum Bahnhof?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328954"
+    },
+    {
+      "english": "Is the air conditioning working properly?",
+      "german": "Funktioniert die Klimaanlage richtig?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328957"
+    },
+    {
+      "english": "Can I have some more hangers, please?",
+      "german": "Kann ich bitte noch ein paar Kleiderbügel haben?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328960"
+    },
+    {
+      "english": "What's the best way to the city center?",
+      "german": "Was ist der beste Weg ins Zentrum?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328962"
+    },
+    {
+      "english": "Do you have any recommendations for sightseeing?",
+      "german": "Haben Sie Ausflugstipps?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328965"
+    },
+    {
+      "english": "Is it possible to book a guided tour?",
+      "german": "Kann man eine Führung buchen?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328968"
+    },
+    {
+      "english": "Where is the nearest pharmacy?",
+      "german": "Wo ist die nächste Apotheke?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328971"
+    },
+    {
+      "english": "Could you please turn up the heat?",
+      "german": "Könnten Sie bitte die Heizung höher stellen?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328974"
+    },
+    {
+      "english": "What time does the bar close?",
+      "german": "Um wie viel Uhr schließt die Bar?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328976"
+    },
+    {
+      "english": "Is there a laundry service available?",
+      "german": "Gibt es einen Wäscheservice?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328979"
+    },
+    {
+      "english": "Can I get some local recommendations?",
+      "german": "Können Sie mir lokale Tipps geben?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328981"
+    },
+    {
+      "english": "What's the Wi-Fi speed like?",
+      "german": "Wie schnell ist das WLAN?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328984"
+    },
+    {
+      "english": "Is it safe to drink the tap water?",
+      "german": "Kann man das Leitungswasser trinken?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328987"
+    },
+    {
+      "english": "Where can I buy souvenirs?",
+      "german": "Wo kann ich Souvenirs kaufen?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328989"
+    },
+    {
+      "english": "Could you point me in the right direction?",
+      "german": "Können Sie mir die Richtung zeigen?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328992"
+    },
+    {
+      "english": "Is there a doctor on call?",
+      "german": "Gibt es einen Bereitschaftsarzt?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328994"
+    },
+    {
+      "english": "What's the best way to explore the area?",
+      "german": "Wie erkundet man die Gegend am besten?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328997"
+    },
+    {
+      "english": "Can I borrow a phone charger?",
+      "german": "Kann ich mir ein Ladekabel leihen?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.328999"
+    },
+    {
+      "english": "Are there any good cafes nearby?",
+      "german": "Gibt es hier gute Cafés?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329002"
+    },
+    {
+      "english": "How do I access the hotel's amenities?",
+      "german": "Wie nutze ich die Hoteleinrichtungen?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329004"
+    },
+    {
+      "english": "Believe in your language skills, you've got this!",
+      "german": "Glaube an deine Sprachkenntnisse, du schaffst das!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329009"
+    },
+    {
+      "english": "Every little phrase learned, is a small victory.",
+      "german": "Jeder gelernte Satz, ist ein kleiner Sieg.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329012"
+    },
+    {
+      "english": "Don't be afraid to try, mistakes are learning.",
+      "german": "Hab keine Angst zu versuchen, Fehler sind Lernen.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329015"
+    },
+    {
+      "english": "You are doing great, keep the momentum going!",
+      "german": "Du machst das super, halt die Dynamik!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329018"
+    },
+    {
+      "english": "Progress, not perfection, is the goal.",
+      "german": "Fortschritt, nicht Perfektion, ist das Ziel.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329021"
+    },
+    {
+      "english": "Your effort is truly commendable, well done!",
+      "german": "Dein Einsatz ist lobenswert, gut gemacht!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329024"
+    },
+    {
+      "english": "Embrace the challenge, grow stronger each day.",
+      "german": "Umarme die Herausforderung, werde stärker.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329027"
+    },
+    {
+      "english": "Positive vibes, positive learning experience.",
+      "german": "Positive Gedanken, positive Lernerfahrung.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329030"
+    },
+    {
+      "english": "You're a quick learner, impressive!",
+      "german": "Du bist ein schneller Lerner, beeindruckend!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329034"
+    },
+    {
+      "english": "Every conversation builds your confidence.",
+      "german": "Jedes Gespräch stärkt dein Selbstvertrauen.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329037"
+    },
+    {
+      "english": "Focus on understanding, not just memorizing.",
+      "german": "Konzentriere dich auf Verstehen, nicht nur Auswendiglernen.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329040"
+    },
+    {
+      "english": "You're making real progress, pat yourself on the back.",
+      "german": "Du machst echte Fortschritte, klopf dir auf die Schulter.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329045"
+    },
+    {
+      "english": "Small steps forward, big leaps later.",
+      "german": "Kleine Schritte vorwärts, große Sprünge später.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329047"
+    },
+    {
+      "english": "Your determination is admirable, keep going!",
+      "german": "Deine Entschlossenheit ist bewundernswert, weiter so!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329050"
+    },
+    {
+      "english": "Learning a language is an adventure.",
+      "german": "Eine Sprache lernen ist ein Abenteuer.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329053"
+    },
+    {
+      "english": "You're communicating effectively, that's fantastic!",
+      "german": "Du kommunizierst gut, das ist fantastisch!",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329056"
+    },
+    {
+      "english": "Embrace the beauty of new words.",
+      "german": "Umarme die Schönheit neuer Wörter.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329058"
+    },
+    {
+      "english": "Trust your intuition, it's often right.",
+      "german": "Vertraue deiner Intuition, sie liegt oft richtig.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329061"
+    },
+    {
+      "english": "You're mastering this, one word at a time.",
+      "german": "Du meisterst das, Wort für Wort.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329064"
+    },
+    {
+      "english": "Every attempt is a step towards fluency.",
+      "german": "Jeder Versuch ist ein Schritt zur Flüssigkeit.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329067"
+    },
+    {
+      "english": "Don't give up, your goal is close.",
+      "german": "Gib nicht auf, dein Ziel ist nah.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329070"
+    },
+    {
+      "english": "Celebrate your achievements, big and small.",
+      "german": "Feiere deine Erfolge, groß und klein.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329072"
+    },
+    {
+      "english": "You're building valuable connections.",
+      "german": "Du baust wertvolle Verbindungen auf.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329077"
+    },
+    {
+      "english": "Your bravery in speaking is inspiring.",
+      "german": "Deine Sprech-Mut ist inspirierend.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329079"
+    },
+    {
+      "english": "Keep that positive language learning mindset.",
+      "german": "Behalte diese positive Lern-Einstellung.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329082"
+    },
+    {
+      "english": "You're becoming a confident communicator.",
+      "german": "Du wirst ein sicherer Kommunikator.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329085"
+    },
+    {
+      "english": "Learning is a journey, enjoy the ride.",
+      "german": "Lernen ist eine Reise, genieße die Fahrt.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329087"
+    },
+    {
+      "english": "Your dedication shines through.",
+      "german": "Deine Hingabe strahlt.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329090"
+    },
+    {
+      "english": "You're unlocking new experiences.",
+      "german": "Du erschließt neue Erfahrungen.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329093"
+    },
+    {
+      "english": "Every word you say counts.",
+      "german": "Jedes Wort zählt.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329095"
+    },
+    {
+      "english": "This place feels like home, really.",
+      "german": "Dieser Ort fühlt sich wirklich wie Zuhause an.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329098"
+    },
+    {
+      "english": "I appreciate the quiet atmosphere here.",
+      "german": "Ich schätze die ruhige Atmosphäre hier.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329100"
+    },
+    {
+      "english": "It's a small hotel, but so charming.",
+      "german": "Es ist ein kleines Hotel, aber so charmant.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329103"
+    },
+    {
+      "english": "The staff is incredibly thoughtful, truly.",
+      "german": "Das Personal ist unglaublich aufmerksam, wirklich.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329106"
+    },
+    {
+      "english": "I'm so glad I chose this accommodation.",
+      "german": "Ich bin so froh, diese Unterkunft gewählt zu haben.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329109"
+    },
+    {
+      "english": "It's a peaceful escape, exactly what I needed.",
+      "german": "Es ist eine friedliche Auszeit, genau was ich brauchte.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329112"
+    },
+    {
+      "english": "The local vibe here is very authentic.",
+      "german": "Die lokale Atmosphäre hier ist sehr authentisch.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329115"
+    },
+    {
+      "english": "I'm taking a moment to just absorb this.",
+      "german": "Ich nehme mir einen Moment, um das einfach aufzusaugen.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329118"
+    },
+    {
+      "english": "This view, it makes you pause, doesn't it?",
+      "german": "Diese Aussicht, sie lässt einen innehalten, nicht wahr?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329121"
+    },
+    {
+      "english": "I feel genuinely relaxed, surprisingly.",
+      "german": "Ich fühle mich aufrichtig entspannt, überraschend.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329124"
+    },
+    {
+      "english": "The hospitality here is heartwarming.",
+      "german": "Die Gastfreundschaft hier ist herzerwärmend.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329126"
+    },
+    {
+      "english": "I could stay here much longer, honestly.",
+      "german": "Ich könnte ehrlich gesagt viel länger hier bleiben.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329129"
+    },
+    {
+      "english": "It's the little details that count, you know?",
+      "german": "Es sind die kleinen Details, die zählen, weißt du?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329132"
+    },
+    {
+      "english": "This trip is exactly what my soul needed.",
+      "german": "Diese Reise ist genau das, was meine Seele brauchte.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329136"
+    },
+    {
+      "english": "I'm grateful for this peaceful moment.",
+      "german": "Ich bin dankbar für diesen friedlichen Moment.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329139"
+    },
+    {
+      "english": "The ambiance here is truly special.",
+      "german": "Das Ambiente hier ist wirklich besonders.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329142"
+    },
+    {
+      "english": "I'm reflecting on how nice this is.",
+      "german": "Ich denke darüber nach, wie schön das ist.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329144"
+    },
+    {
+      "english": "This quiet is a welcome change.",
+      "german": "Diese Ruhe ist eine willkommene Abwechslung.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329147"
+    },
+    {
+      "english": "It's good to just be present here.",
+      "german": "Es ist gut, einfach präsent zu sein hier.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329150"
+    },
+    {
+      "english": "I'm soaking in the local culture, bit by bit.",
+      "german": "Ich sauge die lokale Kultur auf, Stück für Stück.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329152"
+    },
+    {
+      "english": "The genuine kindness of people stands out.",
+      "german": "Die ehrliche Freundlichkeit der Menschen fällt auf.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329155"
+    },
+    {
+      "english": "I feel a sense of calm, finally.",
+      "german": "Ich fühle endlich eine Art von Ruhe.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329158"
+    },
+    {
+      "english": "This experience is deeply meaningful.",
+      "german": "Diese Erfahrung ist tief bedeutsam.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329162"
+    },
+    {
+      "english": "It's wonderful to feel so welcome.",
+      "german": "Es ist wunderbar, sich so willkommen zu fühlen.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329165"
+    },
+    {
+      "english": "I'm truly enjoying this slow pace.",
+      "german": "Ich genieße wirklich dieses langsame Tempo.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329167"
+    },
+    {
+      "english": "I'm appreciating the simplicity here.",
+      "german": "Ich schätze die Einfachheit hier.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329170"
+    },
+    {
+      "english": "It's a precious memory in the making.",
+      "german": "Das ist eine wertvolle Erinnerung, die entsteht.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329172"
+    },
+    {
+      "english": "I'm finding a new perspective here.",
+      "german": "Ich finde hier eine neue Perspektive.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329175"
+    },
+    {
+      "english": "Where is the nearest supermarket, please?",
+      "german": "Wo ist der nächste Supermarkt, bitte?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329178"
+    },
+    {
+      "english": "Can I get a taxi, quickly?",
+      "german": "Kann ich bitte ein Taxi haben?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329180"
+    },
+    {
+      "english": "Is breakfast included, or extra?",
+      "german": "Ist Frühstück inklusive, oder extra?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-10-19T05:57:06.329183"
     }
   ],
-  "last_updated": "2026-10-18T05:39:23.244488"
+  "last_updated": "2026-10-19T05:57:06.329185"
 }
