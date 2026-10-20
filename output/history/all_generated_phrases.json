@@ -8585,7 +8585,727 @@
       "german": "Ist Frühstück inklusive, oder extra?",
       "category": "Hotel & Accommodation",
       "generated_at": "2026-10-19T05:57:06.329183"
+    },
+    {
+      "english": "You have serious power.",
+      "german": "Du hast echt Kraft.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186878"
+    },
+    {
+      "english": "That's impressive strength.",
+      "german": "Das ist beeindruckende Stärke.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186892"
+    },
+    {
+      "english": "You're so resilient.",
+      "german": "Du bist so widerstandsfähig.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186894"
+    },
+    {
+      "english": "Your willpower is amazing.",
+      "german": "Dein Wille ist erstaunlich.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186896"
+    },
+    {
+      "english": "You handle things well.",
+      "german": "Du kommst gut zurecht.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186898"
+    },
+    {
+      "english": "You're a strong person.",
+      "german": "Du bist eine starke Person.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186899"
+    },
+    {
+      "english": "I admire your strength.",
+      "german": "Ich bewundere deine Stärke.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186901"
+    },
+    {
+      "english": "You are very capable.",
+      "german": "Du bist sehr fähig.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186905"
+    },
+    {
+      "english": "That takes real strength.",
+      "german": "Das erfordert wahre Stärke.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186908"
+    },
+    {
+      "english": "You're incredibly tough.",
+      "german": "Du bist unglaublich zäh.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186910"
+    },
+    {
+      "english": "Your inner strength shines.",
+      "german": "Deine innere Stärke strahlt.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186912"
+    },
+    {
+      "english": "You possess great fortitude.",
+      "german": "Du besitzt große Standhaftigkeit.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186913"
+    },
+    {
+      "english": "You can endure anything.",
+      "german": "Du hältst alles aus.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186914"
+    },
+    {
+      "english": "Your spirit is unbreakable.",
+      "german": "Dein Geist ist unzerbrechlich.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186916"
+    },
+    {
+      "english": "You're a rock, truly.",
+      "german": "Du bist ein Fels, wirklich.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186917"
+    },
+    {
+      "english": "You always find a way.",
+      "german": "Du findest immer einen Weg.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186919"
+    },
+    {
+      "english": "That's pure determination.",
+      "german": "Das ist reine Entschlossenheit.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186920"
+    },
+    {
+      "english": "You have a powerful presence.",
+      "german": "Du hast eine starke Präsenz.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186923"
+    },
+    {
+      "english": "You're incredibly strong-willed.",
+      "german": "Du bist unglaublich willensstark.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186925"
+    },
+    {
+      "english": "You overcome obstacles easily.",
+      "german": "Du überwindest Hindernisse leicht.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186927"
+    },
+    {
+      "english": "Your energy is immense.",
+      "german": "Deine Energie ist immens.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186928"
+    },
+    {
+      "english": "You have a mighty spirit.",
+      "german": "Du hast einen mächtigen Geist.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186929"
+    },
+    {
+      "english": "You're a force to reckon with.",
+      "german": "Mit dir ist zu rechnen.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186931"
+    },
+    {
+      "english": "That shows great courage.",
+      "german": "Das zeigt großen Mut.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186932"
+    },
+    {
+      "english": "You stand your ground.",
+      "german": "Du bleibst standhaft.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186933"
+    },
+    {
+      "english": "Your resilience is inspiring.",
+      "german": "Deine Widerstandsfähigkeit inspiriert.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186935"
+    },
+    {
+      "english": "You're built tough.",
+      "german": "Du bist hart im Nehmen.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186936"
+    },
+    {
+      "english": "You have a strong character.",
+      "german": "Du hast einen starken Charakter.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186938"
+    },
+    {
+      "english": "You never give up.",
+      "german": "Du gibst niemals auf.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186939"
+    },
+    {
+      "english": "Your backbone is solid.",
+      "german": "Dein Rückgrat ist solide.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186940"
+    },
+    {
+      "english": "How do you stay so focused?",
+      "german": "Wie bleibst du so konzentriert?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186942"
+    },
+    {
+      "english": "What fuels your drive?",
+      "german": "Was treibt dich an?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186944"
+    },
+    {
+      "english": "Any advice for tough times?",
+      "german": "Tipps für schwere Zeiten?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186945"
+    },
+    {
+      "english": "Where does your courage come from?",
+      "german": "Woher kommt dein Mut?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186947"
+    },
+    {
+      "english": "What helps you push through?",
+      "german": "Was hilft dir, durchzuhalten?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186950"
+    },
+    {
+      "english": "Do you believe in yourself?",
+      "german": "Glaubst du an dich?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186951"
+    },
+    {
+      "english": "How do you handle pressure?",
+      "german": "Wie gehst du mit Druck um?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186953"
+    },
+    {
+      "english": "What's your secret to success?",
+      "german": "Was ist dein Erfolgsgeheimnis?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186955"
+    },
+    {
+      "english": "Can I ask for your opinion?",
+      "german": "Darf ich um deine Meinung bitten?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186956"
+    },
+    {
+      "english": "What's your strategy for challenges?",
+      "german": "Deine Strategie bei Herausforderungen?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186958"
+    },
+    {
+      "english": "How do you find inner peace?",
+      "german": "Wie findest du innere Ruhe?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186959"
+    },
+    {
+      "english": "Could you share some wisdom?",
+      "german": "Kannst du etwas Weisheit teilen?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186961"
+    },
+    {
+      "english": "What keeps you motivated daily?",
+      "german": "Was motiviert dich täglich?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186962"
+    },
+    {
+      "english": "How do you bounce back?",
+      "german": "Wie kommst du wieder auf die Beine?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186964"
+    },
+    {
+      "english": "Tell me, what makes you tick?",
+      "german": "Sag mal, was treibt dich an?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186965"
+    },
+    {
+      "english": "What's your mental game plan?",
+      "german": "Dein mentaler Spielplan?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186967"
+    },
+    {
+      "english": "How do you manage stress effectively?",
+      "german": "Wie meisterst du Stress?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186968"
+    },
+    {
+      "english": "What's your approach to goals?",
+      "german": "Wie gehst du Ziele an?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186971"
+    },
+    {
+      "english": "Do you ever feel doubt?",
+      "german": "Zweifelst du jemals?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186973"
+    },
+    {
+      "english": "How do you build self-confidence?",
+      "german": "Wie baust du Selbstvertrauen auf?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186976"
+    },
+    {
+      "english": "What inspires your resilience?",
+      "german": "Was inspiriert deine Widerstandskraft?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186977"
+    },
+    {
+      "english": "Can you give me some guidance?",
+      "german": "Kannst du mir Rat geben?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186978"
+    },
+    {
+      "english": "What's your biggest lesson learned?",
+      "german": "Was ist deine größte Lektion?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186980"
+    },
+    {
+      "english": "How do you stay grounded?",
+      "german": "Wie bleibst du bodenständig?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186982"
+    },
+    {
+      "english": "What's your philosophy on strength?",
+      "german": "Deine Stärke-Philosophie?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186983"
+    },
+    {
+      "english": "Do you seek advice often?",
+      "german": "Suchst du oft Rat?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186985"
+    },
+    {
+      "english": "How do you overcome fear?",
+      "german": "Wie überwindest du Angst?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186986"
+    },
+    {
+      "english": "What makes a person truly strong?",
+      "german": "Was macht jemanden wirklich stark?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186987"
+    },
+    {
+      "english": "Could you explain that further?",
+      "german": "Kannst du das genauer erklären?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186989"
+    },
+    {
+      "english": "What's your perspective on this?",
+      "german": "Deine Sicht der Dinge?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186990"
+    },
+    {
+      "english": "Tough as nails, you are.",
+      "german": "Hart wie Kruppstahl, bist du.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186992"
+    },
+    {
+      "english": "He's got nerves of steel.",
+      "german": "Er hat Nerven aus Stahl.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186993"
+    },
+    {
+      "english": "She's got grit, for sure.",
+      "german": "Sie hat Biss, ganz klar.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186996"
+    },
+    {
+      "english": "A steady hand, in crises.",
+      "german": "Eine ruhige Hand, in Krisen.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186998"
+    },
+    {
+      "english": "He pulls himself up by his bootstraps.",
+      "german": "Er zieht sich am eigenen Schopf hoch.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.186999"
+    },
+    {
+      "english": "She's a real go-getter.",
+      "german": "Sie ist eine Macherin.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187001"
+    },
+    {
+      "english": "Never back down, from a challenge.",
+      "german": "Niemals zurückschrecken, vor einer Herausforderung.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187003"
+    },
+    {
+      "english": "He stands like an oak tree.",
+      "german": "Er steht wie eine Eiche.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187004"
+    },
+    {
+      "english": "Her spirit is unbreakable.",
+      "german": "Ihr Geist ist unzerbrechlich.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187006"
+    },
+    {
+      "english": "They have a lion's heart.",
+      "german": "Sie haben das Herz eines Löwen.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187008"
+    },
+    {
+      "english": "He's got staying power.",
+      "german": "Er hat Ausdauer.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187009"
+    },
+    {
+      "english": "She can take a punch.",
+      "german": "Sie kann was einstecken.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187011"
+    },
+    {
+      "english": "A will of iron, she possesses.",
+      "german": "Ein eiserner Wille, sie besitzt.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187012"
+    },
+    {
+      "english": "He's tough, through and through.",
+      "german": "Er ist durch und durch hart.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187014"
+    },
+    {
+      "english": "That takes real guts.",
+      "german": "Das gehört Mut dazu.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187015"
+    },
+    {
+      "english": "She carries her burdens well.",
+      "german": "Sie trägt ihre Lasten gut.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187017"
+    },
+    {
+      "english": "He's a rock, in troubled times.",
+      "german": "Er ist ein Fels, in stürmischen Zeiten.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187019"
+    },
+    {
+      "english": "Her inner strength shines through.",
+      "german": "Ihre innere Stärke strahlt durch.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187020"
+    },
+    {
+      "english": "They don't break easily.",
+      "german": "Sie zerbrechen nicht leicht.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187022"
+    },
+    {
+      "english": "He holds his own, always.",
+      "german": "Er behauptet sich, immer.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187024"
+    },
+    {
+      "english": "She’s got backbone.",
+      "german": "Sie hat Rückgrat.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187027"
+    },
+    {
+      "english": "A person of substance, he is.",
+      "german": "Eine Person von Format, er ist.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187029"
+    },
+    {
+      "english": "Her resolve is firm.",
+      "german": "Ihr Entschluss ist fest.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187030"
+    },
+    {
+      "english": "He faces things head-on.",
+      "german": "Er stellt sich den Dingen direkt.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187032"
+    },
+    {
+      "english": "She's got staying power.",
+      "german": "Sie ist ausdauernd.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187033"
+    },
+    {
+      "english": "A strong will, is key.",
+      "german": "Ein starker Wille, ist entscheidend.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187035"
+    },
+    {
+      "english": "He's made of sterner stuff.",
+      "german": "Er ist aus härterem Holz geschnitzt.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187036"
+    },
+    {
+      "english": "Her spirit never wavers.",
+      "german": "Ihr Geist wankt nie.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187038"
+    },
+    {
+      "english": "They push through obstacles.",
+      "german": "Sie stoßen durch Hindernisse.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187039"
+    },
+    {
+      "english": "He’s got the strength of ten.",
+      "german": "Er hat die Kraft von zehn.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187041"
+    },
+    {
+      "english": "Inner peace, builds true strength.",
+      "german": "Innere Ruhe, baut wahre Stärke.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187044"
+    },
+    {
+      "english": "Acceptance brings calm, and power.",
+      "german": "Akzeptanz bringt Ruhe, und Kraft.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187046"
+    },
+    {
+      "english": "True strength, is often quiet.",
+      "german": "Wahre Stärke, ist oft leise.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187048"
+    },
+    {
+      "english": "Be patient, with your own growth.",
+      "german": "Sei geduldig, mit deinem Wachstum.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187049"
+    },
+    {
+      "english": "Embrace vulnerability, it's a strength.",
+      "german": "Umarme Verletzlichkeit, das ist Stärke.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187051"
+    },
+    {
+      "english": "Honesty with yourself, is vital.",
+      "german": "Ehrlichkeit zu dir selbst, ist wichtig.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187053"
+    },
+    {
+      "english": "Reflection, makes us wiser.",
+      "german": "Nachdenken, macht uns weiser.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187054"
+    },
+    {
+      "english": "Learn from mistakes, don't dwell.",
+      "german": "Lerne aus Fehlern, verweile nicht.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187056"
+    },
+    {
+      "english": "Your feelings are valid, express them.",
+      "german": "Deine Gefühle sind gültig, zeige sie.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187058"
+    },
+    {
+      "english": "Deeper thoughts, require calm.",
+      "german": "Tiefere Gedanken, brauchen Ruhe.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187059"
+    },
+    {
+      "english": "Strength is also kindness.",
+      "german": "Stärke ist auch Freundlichkeit.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187061"
+    },
+    {
+      "english": "How do you find your calm?",
+      "german": "Wie findest du deine Ruhe?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187062"
+    },
+    {
+      "english": "Sincerity matters, in all things.",
+      "german": "Aufrichtigkeit zählt, in allem.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187064"
+    },
+    {
+      "english": "Give yourself grace, sometimes.",
+      "german": "Schenke dir Gnade, manchmal.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187066"
+    },
+    {
+      "english": "Trust your intuition, always.",
+      "german": "Vertraue deiner Intuition, immer.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187067"
+    },
+    {
+      "english": "Emotional honesty, is liberating.",
+      "german": "Emotionale Ehrlichkeit, befreit.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187069"
+    },
+    {
+      "english": "What helps you stay centered?",
+      "german": "Was hilft dir, zentriert zu bleiben?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187070"
+    },
+    {
+      "english": "Real strength, comes from within.",
+      "german": "Wahre Stärke, kommt von innen.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187072"
+    },
+    {
+      "english": "Patience, is a powerful tool.",
+      "german": "Geduld, ist ein starkes Werkzeug.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187073"
+    },
+    {
+      "english": "Self-compassion, fuels resilience.",
+      "german": "Selbstmitgefühl, stärkt die Widerstandskraft.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187076"
+    },
+    {
+      "english": "Don't be afraid to feel.",
+      "german": "Habe keine Angst zu fühlen.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187078"
+    },
+    {
+      "english": "Reflect often, grow daily.",
+      "german": "Denke oft nach, wachse täglich.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187079"
+    },
+    {
+      "english": "Strength is understanding, others.",
+      "german": "Stärke ist das Verstehen, anderer.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187082"
+    },
+    {
+      "english": "What nourishes your soul?",
+      "german": "Was nährt deine Seele?",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187084"
+    },
+    {
+      "english": "True strength accepts weakness.",
+      "german": "Wahre Stärke akzeptiert Schwäche.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187085"
+    },
+    {
+      "english": "Kindness is never weakness.",
+      "german": "Freundlichkeit ist niemals Schwäche.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187086"
+    },
+    {
+      "english": "Trust the process, patiently.",
+      "german": "Vertraue dem Prozess, geduldig.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187088"
+    },
+    {
+      "english": "Your inner world, is powerful.",
+      "german": "Deine innere Welt, ist mächtig.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187091"
+    },
+    {
+      "english": "Keep going, even when it's tough.",
+      "german": "Mach weiter, auch wenn es schwer ist.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187093"
+    },
+    {
+      "english": "Small steps, lead to big results.",
+      "german": "Klay-ne shrit-te, ly-ten tsu gro-se re-zul-tah-te.",
+      "category": "Strength",
+      "generated_at": "2026-10-20T05:49:17.187094"
     }
   ],
-  "last_updated": "2026-10-19T05:57:06.329185"
+  "last_updated": "2026-10-20T05:49:17.187096"
 }
