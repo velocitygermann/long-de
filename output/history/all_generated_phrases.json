@@ -9305,7 +9305,727 @@
       "german": "Klay-ne shrit-te, ly-ten tsu gro-se re-zul-tah-te.",
       "category": "Strength",
       "generated_at": "2026-10-20T05:49:17.187094"
+    },
+    {
+      "english": "Why are we doing this?",
+      "german": "Warum machen wir das?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148273"
+    },
+    {
+      "english": "For a good reason, surely.",
+      "german": "Aus gutem Grund, sicher.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148286"
+    },
+    {
+      "english": "It's worth the effort.",
+      "german": "Es ist die Mühe wert.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148288"
+    },
+    {
+      "english": "To achieve something great.",
+      "german": "Um etwas Großes zu erreichen.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148290"
+    },
+    {
+      "english": "What's the intention?",
+      "german": "Was ist die Absicht?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148291"
+    },
+    {
+      "english": "Just for fun, maybe.",
+      "german": "Nur zum Spaß, vielleicht.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148293"
+    },
+    {
+      "english": "To make things better.",
+      "german": "Um die Dinge besser zu machen.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148294"
+    },
+    {
+      "english": "What's the point of it?",
+      "german": "Was ist der Sinn davon?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148298"
+    },
+    {
+      "english": "For a change of pace.",
+      "german": "Für eine Abwechslung.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148301"
+    },
+    {
+      "english": "To learn something new.",
+      "german": "Um etwas Neues zu lernen.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148303"
+    },
+    {
+      "english": "What are we aiming for?",
+      "german": "Was streben wir an?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148304"
+    },
+    {
+      "english": "For the experience, of course.",
+      "german": "Für die Erfahrung, natürlich.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148306"
+    },
+    {
+      "english": "To see what happens.",
+      "german": "Um zu sehen, was passiert.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148308"
+    },
+    {
+      "english": "What's the objective?",
+      "german": "Was ist das Ziel?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148309"
+    },
+    {
+      "english": "Just because I can.",
+      "german": "Einfach weil ich kann.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148311"
+    },
+    {
+      "english": "To explore possibilities.",
+      "german": "Um Möglichkeiten zu erkunden.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148312"
+    },
+    {
+      "english": "Why this way?",
+      "german": "Warum dieser Weg?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148314"
+    },
+    {
+      "english": "Because it feels right.",
+      "german": "Weil es sich richtig anfühlt.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148317"
+    },
+    {
+      "english": "What's the motive?",
+      "german": "Was ist das Motiv?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148318"
+    },
+    {
+      "english": "To challenge myself.",
+      "german": "Um mich selbst herauszufordern.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148320"
+    },
+    {
+      "english": "For a better future.",
+      "german": "Für eine bessere Zukunft.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148321"
+    },
+    {
+      "english": "What's the purpose?",
+      "german": "Was ist der Zweck?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148323"
+    },
+    {
+      "english": "Simply to try.",
+      "german": "Einfach um es zu versuchen.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148326"
+    },
+    {
+      "english": "To prove a point.",
+      "german": "Um einen Punkt zu beweisen.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148327"
+    },
+    {
+      "english": "Why all this fuss?",
+      "german": "Warum der ganze Aufwand?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148330"
+    },
+    {
+      "english": "For the sheer joy of it.",
+      "german": "Aus reiner Freude daran.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148331"
+    },
+    {
+      "english": "What's the bigger picture?",
+      "german": "Was ist das Gesamtbild?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148333"
+    },
+    {
+      "english": "To make a difference.",
+      "german": "Um etwas zu bewirken.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148334"
+    },
+    {
+      "english": "What's the aim, really?",
+      "german": "Was ist das Ziel, wirklich?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148336"
+    },
+    {
+      "english": "Tell me, why this path?",
+      "german": "Sag mir, warum dieser Weg?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148338"
+    },
+    {
+      "english": "Is there a reason, perhaps?",
+      "german": "Gibt es einen Grund, vielleicht?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148340"
+    },
+    {
+      "english": "What drives you, to do this?",
+      "german": "Was treibt dich an, das zu tun?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148342"
+    },
+    {
+      "english": "Could you explain, your thinking?",
+      "german": "Kannst du erklären, dein Denken?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148344"
+    },
+    {
+      "english": "What is the underlying idea?",
+      "german": "Was ist die zugrundeliegende Idee?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148346"
+    },
+    {
+      "english": "Help me understand, the goal.",
+      "german": "Hilf mir zu verstehen, das Ziel.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148349"
+    },
+    {
+      "english": "What are we building towards?",
+      "german": "Worauf bauen wir auf?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148351"
+    },
+    {
+      "english": "Is this for a specific outcome?",
+      "german": "Ist das für ein bestimmtes Ergebnis?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148353"
+    },
+    {
+      "english": "What's the main objective here?",
+      "german": "Was ist das Hauptziel hier?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148354"
+    },
+    {
+      "english": "Why are we investing time?",
+      "german": "Warum investieren wir Zeit?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148356"
+    },
+    {
+      "english": "What benefit do you foresee?",
+      "german": "Welchen Nutzen siehst du voraus?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148357"
+    },
+    {
+      "english": "Can you share, your vision?",
+      "german": "Kannst du teilen, deine Vision?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148359"
+    },
+    {
+      "english": "What's the intended result?",
+      "german": "Was ist das beabsichtigte Ergebnis?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148361"
+    },
+    {
+      "english": "Is there a deeper meaning?",
+      "german": "Gibt es eine tiefere Bedeutung?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148362"
+    },
+    {
+      "english": "What are we hoping to achieve?",
+      "german": "Was hoffen wir zu erreichen?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148364"
+    },
+    {
+      "english": "Could you clarify, the reason?",
+      "german": "Könntest du klären, den Grund?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148366"
+    },
+    {
+      "english": "Why this specific approach?",
+      "german": "Warum dieser spezielle Ansatz?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148367"
+    },
+    {
+      "english": "What lies ahead, for us?",
+      "german": "Was liegt vor uns?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148369"
+    },
+    {
+      "english": "Is there a strategy behind this?",
+      "german": "Gibt es eine Strategie dahinter?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148370"
+    },
+    {
+      "english": "What's the desired impact?",
+      "german": "Was ist die gewünschte Auswirkung?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148372"
+    },
+    {
+      "english": "Can you explain, the intention?",
+      "german": "Kannst du erklären, die Absicht?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148375"
+    },
+    {
+      "english": "What's the bigger aspiration?",
+      "german": "Was ist die größere Bestrebung?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148378"
+    },
+    {
+      "english": "Why this particular focus?",
+      "german": "Warum dieser spezielle Fokus?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148379"
+    },
+    {
+      "english": "What's the overarching aim?",
+      "german": "Was ist das übergeordnete Ziel?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148381"
+    },
+    {
+      "english": "Tell me, what's the rationale?",
+      "german": "Sag mir, was ist die Begründung?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148382"
+    },
+    {
+      "english": "Believe in your own power.",
+      "german": "Glaub an deine eigene Stärke.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148384"
+    },
+    {
+      "english": "You can do amazing things.",
+      "german": "Du kannst Erstaunliches vollbringen.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148386"
+    },
+    {
+      "english": "Your journey, is your own.",
+      "german": "Dein Weg, ist dein eigener.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148387"
+    },
+    {
+      "english": "Keep pushing forward, always.",
+      "german": "Geh immer weiter voran.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148389"
+    },
+    {
+      "english": "Embrace every small win.",
+      "german": "Feiere jeden kleinen Erfolg.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148391"
+    },
+    {
+      "english": "Your effort, is valuable.",
+      "german": "Deine Mühe, ist wertvoll.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148393"
+    },
+    {
+      "english": "Never underestimate yourself.",
+      "german": "Unterschätze dich niemals.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148395"
+    },
+    {
+      "english": "Stay focused on your goals.",
+      "german": "Bleib fokussiert auf deine Ziele.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148397"
+    },
+    {
+      "english": "What inspires you today?",
+      "german": "Was inspiriert dich heute?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148398"
+    },
+    {
+      "english": "You're doing great, keep going.",
+      "german": "Du machst das toll, mach weiter.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148400"
+    },
+    {
+      "english": "You've got this, believe it.",
+      "german": "Du schaffst das, glaub es.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148402"
+    },
+    {
+      "english": "Your determination is key.",
+      "german": "Deine Entschlossenheit ist entscheidend.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148404"
+    },
+    {
+      "english": "Chase your dreams, boldly.",
+      "german": "Jage deine Träume, mutig.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148406"
+    },
+    {
+      "english": "Positive thoughts attract success.",
+      "german": "Positive Gedanken ziehen Erfolg an.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148407"
+    },
+    {
+      "english": "You are stronger than you think.",
+      "german": "Du bist stärker, als du denkst.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148409"
+    },
+    {
+      "english": "What drives your spirit?",
+      "german": "Was treibt deinen Geist an?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148410"
+    },
+    {
+      "english": "Celebrate your progress, often.",
+      "german": "Feiere deinen Fortschritt, oft.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148412"
+    },
+    {
+      "english": "Your vision, is worth it.",
+      "german": "Deine Vision, ist es wert.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148414"
+    },
+    {
+      "english": "Keep learning, keep growing.",
+      "german": "Lerne weiter, wachse weiter.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148415"
+    },
+    {
+      "english": "You make a real impact.",
+      "german": "Du hast einen echten Einfluss.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148417"
+    },
+    {
+      "english": "What motivates your soul?",
+      "german": "Was motiviert deine Seele?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148418"
+    },
+    {
+      "english": "Your potential, is limitless.",
+      "german": "Dein Potenzial, ist grenzenlos.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148420"
+    },
+    {
+      "english": "Feel proud of yourself.",
+      "german": "Sei stolz auf dich.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148423"
+    },
+    {
+      "english": "Find purpose in small things.",
+      "german": "Finde Sinn in kleinen Dingen.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148425"
+    },
+    {
+      "english": "Your efforts, create change.",
+      "german": "Deine Bemühungen, schaffen Veränderung.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148427"
+    },
+    {
+      "english": "Dare to be magnificent.",
+      "german": "Wage es, großartig zu sein.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148428"
+    },
+    {
+      "english": "What truly moves you?",
+      "german": "Was bewegt dich wirklich?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148431"
+    },
+    {
+      "english": "Tell me, your heart's desire.",
+      "german": "Sag mir, deines Herzens Wunsch.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148432"
+    },
+    {
+      "english": "What makes your soul sing?",
+      "german": "Was bringt deine Seele zum Singen?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148434"
+    },
+    {
+      "english": "Share your deepest hopes.",
+      "german": "Teile deine tiefsten Hoffnungen.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148436"
+    },
+    {
+      "english": "What sparks your inner fire?",
+      "german": "Was entfacht dein inneres Feuer?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148437"
+    },
+    {
+      "english": "Where does this passion lead?",
+      "german": "Wohin führt diese Leidenschaft?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148439"
+    },
+    {
+      "english": "What's your quiet ambition?",
+      "german": "Was ist dein leiser Ehrgeiz?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148440"
+    },
+    {
+      "english": "What feeling guides you now?",
+      "german": "Welches Gefühl leitet dich jetzt?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148442"
+    },
+    {
+      "english": "Be honest, what do you need?",
+      "german": "Sei ehrlich, was brauchst du?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148445"
+    },
+    {
+      "english": "What do you feel deep inside?",
+      "german": "Was fühlst du tief drinnen?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148446"
+    },
+    {
+      "english": "What is your true calling?",
+      "german": "Was ist dein wahrer Ruf?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148448"
+    },
+    {
+      "english": "What brings you genuine joy?",
+      "german": "Was bringt dir echte Freude?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148449"
+    },
+    {
+      "english": "What thought keeps you awake?",
+      "german": "Welcher Gedanke hält dich wach?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148451"
+    },
+    {
+      "english": "What whispers your heart's truth?",
+      "german": "Was flüstert deines Herzens Wahrheit?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148453"
+    },
+    {
+      "english": "What are you reflecting on?",
+      "german": "Worüber denkst du nach?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148454"
+    },
+    {
+      "english": "What brings peace to your mind?",
+      "german": "Was bringt Frieden in deinen Geist?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148456"
+    },
+    {
+      "english": "What nourishes your spirit?",
+      "german": "Was nährt deinen Geist?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148458"
+    },
+    {
+      "english": "What belief do you hold dear?",
+      "german": "Welchen Glauben hältst du wert?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148459"
+    },
+    {
+      "english": "What makes you feel alive?",
+      "german": "Was lässt dich lebendig fühlen?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148461"
+    },
+    {
+      "english": "What's your heartfelt purpose?",
+      "german": "Was ist dein Herzenszweck?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148462"
+    },
+    {
+      "english": "What emotion drives you forward?",
+      "german": "Welche Emotion treibt dich an?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148464"
+    },
+    {
+      "english": "What are you grateful for today?",
+      "german": "Wofür bist du heute dankbar?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148466"
+    },
+    {
+      "english": "What does your intuition say?",
+      "german": "Was sagt deine Intuition?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148469"
+    },
+    {
+      "english": "What lesson did you learn?",
+      "german": "Welche Lektion hast du gelernt?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148471"
+    },
+    {
+      "english": "What matters most to you?",
+      "german": "Was ist dir am wichtigsten?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148472"
+    },
+    {
+      "english": "What's your inner compass pointing?",
+      "german": "Wohin zeigt dein innerer Kompass?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148474"
+    },
+    {
+      "english": "What makes your heart feel full?",
+      "german": "Was füllt dein Herz aus?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148476"
+    },
+    {
+      "english": "What reflection brings you clarity?",
+      "german": "Welche Reflexion bringt dir Klarheit?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148477"
+    },
+    {
+      "english": "What is your authentic self?",
+      "german": "Was ist dein authentisches Ich?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148479"
+    },
+    {
+      "english": "What dream do you cherish?",
+      "german": "Welchen Traum hegst du?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148480"
+    },
+    {
+      "english": "What makes your day, really great?",
+      "german": "Was macht deinen Tag, richtig toll?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148482"
+    },
+    {
+      "english": "Focus on one small step, today.",
+      "german": "Konzentrier dich, auf einen kleinen Schritt, heute.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148484"
+    },
+    {
+      "english": "What small act, helps another?",
+      "german": "Welche kleine Tat, hilft einem anderen?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148487"
+    },
+    {
+      "english": "Give your best effort, always.",
+      "german": "Gib dein Bestes, immer.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148489"
+    },
+    {
+      "english": "How can you, help out more?",
+      "german": "Wie kannst du, mehr helfen?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148491"
+    },
+    {
+      "english": "Find joy, in the routine.",
+      "german": "Finde Freude, in der Routine.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148492"
+    },
+    {
+      "english": "What problem, can you solve?",
+      "german": "Welches Problem, kannst du lösen?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148494"
+    },
+    {
+      "english": "Share a skill, with someone.",
+      "german": "Teile eine Fähigkeit, mit jemandem.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148496"
+    },
+    {
+      "english": "What are you thankful for?",
+      "german": "Wofür bist du dankbar?",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148498"
+    },
+    {
+      "english": "Make a plan, for tomorrow.",
+      "german": "Mach einen Plan, für morgen.",
+      "category": "Purpose",
+      "generated_at": "2026-10-21T05:53:06.148499"
     }
   ],
-  "last_updated": "2026-10-20T05:49:17.187096"
+  "last_updated": "2026-10-21T05:53:06.148501"
 }
