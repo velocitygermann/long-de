@@ -10025,7 +10025,727 @@
       "german": "Mach einen Plan, für morgen.",
       "category": "Purpose",
       "generated_at": "2026-10-21T05:53:06.148499"
+    },
+    {
+      "english": "Excuse me, where is...?",
+      "german": "Entschuldigung, wo ist...?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556503"
+    },
+    {
+      "english": "Can you help me, please?",
+      "german": "Können Sie mir helfen, bitte?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556517"
+    },
+    {
+      "english": "I'm looking for...",
+      "german": "Ich suche nach...",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556521"
+    },
+    {
+      "english": "Where can I find...?",
+      "german": "Wo finde ich...?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556524"
+    },
+    {
+      "english": "Is it far from here?",
+      "german": "Ist es weit von hier?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556527"
+    },
+    {
+      "english": "How do I get to...?",
+      "german": "Wie komme ich zu...?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556530"
+    },
+    {
+      "english": "Could you show me on the map?",
+      "german": "Könnten Sie es mir auf der Karte zeigen?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556532"
+    },
+    {
+      "english": "Which way is...?",
+      "german": "Welcher Weg ist...?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556538"
+    },
+    {
+      "english": "I'm a bit lost.",
+      "german": "Ich habe mich ein bisschen verirrt.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556544"
+    },
+    {
+      "english": "Is this the right way for...?",
+      "german": "Ist das der richtige Weg nach...?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556547"
+    },
+    {
+      "english": "What's the address of...?",
+      "german": "Was ist die Adresse von...?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556552"
+    },
+    {
+      "english": "I don't understand.",
+      "german": "Ich verstehe nicht.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556555"
+    },
+    {
+      "english": "Could you speak slower, please?",
+      "german": "Könnten Sie bitte langsamer sprechen?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556558"
+    },
+    {
+      "english": "You're welcome.",
+      "german": "Gern geschehen.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556563"
+    },
+    {
+      "english": "Is it near the train station?",
+      "german": "Ist es in der Nähe vom Bahnhof?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556565"
+    },
+    {
+      "english": "How far is the city center?",
+      "german": "Wie weit ist das Stadtzentrum?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556568"
+    },
+    {
+      "english": "Where is the nearest U-Bahn station?",
+      "german": "Wo ist die nächste U-Bahn-Station?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556571"
+    },
+    {
+      "english": "I need to get to the airport.",
+      "german": "Ich muss zum Flughafen.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556573"
+    },
+    {
+      "english": "Can I walk there?",
+      "german": "Kann ich dorthin laufen?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556576"
+    },
+    {
+      "english": "Is it on the left or right?",
+      "german": "Ist es links oder rechts?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556578"
+    },
+    {
+      "english": "How long does it take to get there?",
+      "german": "Wie lange dauert es dorthin?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556581"
+    },
+    {
+      "english": "Where can I get a taxi?",
+      "german": "Wo bekomme ich ein Taxi?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556584"
+    },
+    {
+      "english": "Is there a bus stop nearby?",
+      "german": "Gibt es hier in der Nähe eine Bushaltestelle?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556586"
+    },
+    {
+      "english": "I'm trying to find a pharmacy.",
+      "german": "Ich versuche, eine Apotheke zu finden.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556589"
+    },
+    {
+      "english": "Is that street in this area?",
+      "german": "Ist diese Straße hier in der Gegend?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556591"
+    },
+    {
+      "english": "Could you write it down for me?",
+      "german": "Könnten Sie es mir aufschreiben?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556594"
+    },
+    {
+      "english": "Which street leads, to the old town?",
+      "german": "Welche Straße führt, zur Altstadt?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556596"
+    },
+    {
+      "english": "Could you clarify, the route, please?",
+      "german": "Könnten Sie die Route, bitte, erläutern?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556600"
+    },
+    {
+      "english": "Is this the quickest, way to the museum?",
+      "german": "Ist das der schnellste, Weg zum Museum?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556603"
+    },
+    {
+      "english": "I need to reach, the main square.",
+      "german": "Ich muss den Marktplatz, erreichen.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556606"
+    },
+    {
+      "english": "Could you recommend, a shortcut?",
+      "german": "Können Sie eine Abkürzung, empfehlen?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556608"
+    },
+    {
+      "english": "What's a good landmark, nearby?",
+      "german": "Was ist ein gutes, Wahrzeichen, hier in der Nähe?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556612"
+    },
+    {
+      "english": "How do I cross, this busy road?",
+      "german": "Wie überquere ich, diese vielbefahrene Straße?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556614"
+    },
+    {
+      "english": "Could you describe, the turnings?",
+      "german": "Könnten Sie die Abbiegungen, beschreiben?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556617"
+    },
+    {
+      "english": "Am I going, towards the river?",
+      "german": "Gehe ich, in Richtung Fluss?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556620"
+    },
+    {
+      "english": "Is there a pedestrian, zone ahead?",
+      "german": "Gibt es eine Fußgängerzone, voraus?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556623"
+    },
+    {
+      "english": "Could you confirm, my current location?",
+      "german": "Könnten Sie meinen, aktuellen Standort bestätigen?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556626"
+    },
+    {
+      "english": "Which bus goes, to the harbor?",
+      "german": "Welcher Bus fährt, zum Hafen?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556628"
+    },
+    {
+      "english": "Is this path, accessible by car?",
+      "german": "Ist dieser Weg, mit dem Auto befahrbar?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556631"
+    },
+    {
+      "english": "Where can I find, public toilets?",
+      "german": "Wo finde ich, öffentliche Toiletten?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556634"
+    },
+    {
+      "english": "Could you gesture, the way?",
+      "german": "Könnten Sie mir, den Weg zeigen?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556640"
+    },
+    {
+      "english": "Is that building, the post office?",
+      "german": "Ist dieses Gebäude, die Post?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556643"
+    },
+    {
+      "english": "How do I navigate, this intersection?",
+      "german": "Wie navigiere ich, diese Kreuzung?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556645"
+    },
+    {
+      "english": "Is there a map, displayed here?",
+      "german": "Gibt es hier, eine Karte ausgestellt?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556648"
+    },
+    {
+      "english": "Could you repeat, that last turn?",
+      "german": "Könnten Sie die letzte, Abbiegung wiederholen?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556650"
+    },
+    {
+      "english": "I'm heading, towards the university.",
+      "german": "Ich bin auf dem Weg, zur Universität.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556653"
+    },
+    {
+      "english": "Is there a shortcut, through the park?",
+      "german": "Gibt es eine Abkürzung, durch den Park?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556656"
+    },
+    {
+      "english": "Could you point out, the cathedral?",
+      "german": "Könnten Sie den Dom, zeigen?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556659"
+    },
+    {
+      "english": "Which route avoids, heavy traffic?",
+      "german": "Welche Route vermeidet, starken Verkehr?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556661"
+    },
+    {
+      "english": "Is this road, a dead end?",
+      "german": "Ist diese Straße, eine Sackgasse?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556664"
+    },
+    {
+      "english": "Where can I ask, for further help?",
+      "german": "Wo kann ich, um weitere Hilfe bitten?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556667"
+    },
+    {
+      "english": "Could you direct me, to the nearest ATM?",
+      "german": "Könnten Sie mich, zum nächsten Geldautomaten leiten?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556670"
+    },
+    {
+      "english": "Is that building, the town hall?",
+      "german": "Ist jenes Gebäude, das Rathaus?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556672"
+    },
+    {
+      "english": "Which direction, is south?",
+      "german": "Welche Richtung, ist Süden?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556675"
+    },
+    {
+      "english": "Could you possibly, draw a small map?",
+      "german": "Könnten Sie vielleicht, eine kleine Skizze malen?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556678"
+    },
+    {
+      "english": "Every step is progress, don't worry.",
+      "german": "Jeder Schritt ist Fortschritt, keine Sorge.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556681"
+    },
+    {
+      "english": "Learning German takes time, be patient.",
+      "german": "Deutsch lernen braucht Zeit, sei geduldig.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556684"
+    },
+    {
+      "english": "Mistakes are part of learning, it's okay.",
+      "german": "Fehler sind Teil des Lernens, das ist okay.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556687"
+    },
+    {
+      "english": "You're getting braver, asking more!",
+      "german": "Du wirst mutiger, fragst mehr!",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556690"
+    },
+    {
+      "english": "That was a good try, well done!",
+      "german": "Das war gut versucht, toll gemacht!",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556692"
+    },
+    {
+      "english": "Keep practicing, you'll improve.",
+      "german": "Übe weiter, du wirst besser.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556695"
+    },
+    {
+      "english": "Asking is the first step, excellent!",
+      "german": "Fragen ist der erste Schritt, prima!",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556698"
+    },
+    {
+      "english": "Don't be afraid, just ask kindly.",
+      "german": "Hab keine Angst, frag einfach nett.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556701"
+    },
+    {
+      "english": "Your German is improving, I hear it.",
+      "german": "Dein Deutsch wird besser, ich höre es.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556703"
+    },
+    {
+      "english": "This challenge is making you stronger.",
+      "german": "Diese Herausforderung macht dich stärker.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556706"
+    },
+    {
+      "english": "You are very persistent, good for you!",
+      "german": "Du bist sehr beharrlich, gut so!",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556709"
+    },
+    {
+      "english": "Focus on understanding, not perfection.",
+      "german": "Konzentriere dich aufs Verstehen, nicht Perfektion.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556712"
+    },
+    {
+      "english": "A small victory, every successful question.",
+      "german": "Ein kleiner Sieg, jede gelungene Frage.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556715"
+    },
+    {
+      "english": "Breathe deeply, and try again.",
+      "german": "Atme tief durch, und versuch's nochmal.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556718"
+    },
+    {
+      "english": "Don't give up, you're almost there.",
+      "german": "Gib nicht auf, du bist fast am Ziel.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556721"
+    },
+    {
+      "english": "Confidence grows with each attempt.",
+      "german": "Selbstvertrauen wächst mit jedem Versuch.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556723"
+    },
+    {
+      "english": "You're a natural at this, almost!",
+      "german": "Das liegt dir, fast schon!",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556728"
+    },
+    {
+      "english": "This is a great learning opportunity.",
+      "german": "Das ist eine tolle Lernmöglichkeit.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556731"
+    },
+    {
+      "english": "You're making good progress, fantastic!",
+      "german": "Du machst gute Fortschritte, fantastisch!",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556734"
+    },
+    {
+      "english": "One question at a time, you can.",
+      "german": "Eine Frage nach der anderen, du schaffst das.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556736"
+    },
+    {
+      "english": "Embrace the journey, it's rewarding.",
+      "german": "Genieß die Reise, sie lohnt sich.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556764"
+    },
+    {
+      "english": "You're learning useful skills, great job!",
+      "german": "Du lernst nützliche Fähigkeiten, super!",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556775"
+    },
+    {
+      "english": "Stay positive, it helps a lot.",
+      "german": "Bleib positiv, das hilft sehr.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556784"
+    },
+    {
+      "english": "You're building connections, that's wonderful.",
+      "german": "Du knüpfst Kontakte, das ist toll.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556791"
+    },
+    {
+      "english": "Every interaction is a win.",
+      "german": "Jede Interaktion ist ein Gewinn.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556796"
+    },
+    {
+      "english": "Don't overthink, just communicate.",
+      "german": "Nicht zu viel nachdenken, einfach reden.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556801"
+    },
+    {
+      "english": "You're doing better than you think.",
+      "german": "Du bist besser als du denkst.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556806"
+    },
+    {
+      "english": "This is trickier than I thought.",
+      "german": "Das ist kniffliger als gedacht.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556810"
+    },
+    {
+      "english": "My internal compass failed me.",
+      "german": "Mein innerer Kompass hat mich verlassen.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556815"
+    },
+    {
+      "english": "Let's try this way, perhaps?",
+      "german": "Versuchen wir es mal so, vielleicht?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556820"
+    },
+    {
+      "english": "I hope this is the right direction.",
+      "german": "Ich hoffe, das ist die richtige Richtung.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556825"
+    },
+    {
+      "english": "Feeling a little overwhelmed now.",
+      "german": "Ich fühle mich jetzt etwas überfordert.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556829"
+    },
+    {
+      "english": "Sometimes, getting lost is okay.",
+      "german": "Manchmal ist es auch in Ordnung, sich zu verirren.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556834"
+    },
+    {
+      "english": "Deep breaths, let's re-evaluate.",
+      "german": "Tief durchatmen, neu überlegen.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556840"
+    },
+    {
+      "english": "This journey has many turns.",
+      "german": "Diese Reise hat viele Wendungen.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556844"
+    },
+    {
+      "english": "I'm feeling more confident now.",
+      "german": "Ich fühle mich jetzt sicherer.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556849"
+    },
+    {
+      "english": "Let's trust our intuition a bit.",
+      "german": "Vertrauen wir ein wenig unserer Intuition.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556854"
+    },
+    {
+      "english": "It's a humbling experience, really.",
+      "german": "Es ist eine demütigende Erfahrung, wirklich.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556859"
+    },
+    {
+      "english": "I need a moment to process this.",
+      "german": "Ich brauche einen Moment, um das zu verarbeiten.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556863"
+    },
+    {
+      "english": "Maybe we should ask again?",
+      "german": "Vielleicht sollten wir nochmal fragen?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556868"
+    },
+    {
+      "english": "This city is quite confusing.",
+      "german": "Diese Stadt ist ziemlich verwirrend.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556873"
+    },
+    {
+      "english": "I'm trying to stay optimistic.",
+      "german": "Ich versuche, optimistisch zu bleiben.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556877"
+    },
+    {
+      "english": "It feels good to make progress.",
+      "german": "Es fühlt sich gut an, Fortschritte zu machen.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556882"
+    },
+    {
+      "english": "This detour is adding adventure.",
+      "german": "Dieser Umweg sorgt für Abenteuer.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556887"
+    },
+    {
+      "english": "Let's think logically, step by step.",
+      "german": "Denken wir logisch, Schritt für Schritt.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556892"
+    },
+    {
+      "english": "It’s okay to not know everything.",
+      "german": "Es ist in Ordnung, nicht alles zu wissen.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556898"
+    },
+    {
+      "english": "This requires some serious concentration.",
+      "german": "Das erfordert ernste Konzentration.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556903"
+    },
+    {
+      "english": "I trust you to guide me.",
+      "german": "Ich vertraue darauf, dass Sie mich leiten.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556908"
+    },
+    {
+      "english": "Perhaps a landmark nearby?",
+      "german": "Vielleicht ein Orientierungspunkt in der Nähe?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556917"
+    },
+    {
+      "english": "Lost and learning, that's life.",
+      "german": "Verloren und lernend, das ist das Leben.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556921"
+    },
+    {
+      "english": "My sense of direction is weak.",
+      "german": "Mein Orientierungssinn ist schwach.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556923"
+    },
+    {
+      "english": "Let's embrace this challenge.",
+      "german": "Nehmen wir diese Herausforderung an.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556928"
+    },
+    {
+      "english": "I'm reflecting on the best path.",
+      "german": "Ich denke über den besten Weg nach.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556931"
+    },
+    {
+      "english": "This helps me grow, I think.",
+      "german": "Das hilft mir zu wachsen, glaube ich.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556934"
+    },
+    {
+      "english": "We will find it eventually.",
+      "german": "Wir werden es schließlich finden.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556937"
+    },
+    {
+      "english": "Excuse me, where is the nearest bakery?",
+      "german": "Entschuldigung, wo ist die nächste Bäckerei?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556940"
+    },
+    {
+      "english": "I'm looking for the train station.",
+      "german": "Ich suche den Bahnhof.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556942"
+    },
+    {
+      "english": "How do I get to the main square?",
+      "german": "Wie komme ich zum Marktplatz?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556945"
+    },
+    {
+      "english": "I need to find a pharmacy.",
+      "german": "Ich muss eine Apotheke finden.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556948"
+    },
+    {
+      "english": "Turn left at the next corner.",
+      "german": "An der nächsten Ecke links abbiegen.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556950"
+    },
+    {
+      "english": "Go straight ahead, then right.",
+      "german": "Gehen Sie geradeaus, dann rechts.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556953"
+    },
+    {
+      "english": "Where is the nearest ATM?",
+      "german": "Wo ist der nächste Geldautomat?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556955"
+    },
+    {
+      "english": "I'm a bit lost, can you help?",
+      "german": "Ich habe mich etwas verirrt, können Sie helfen?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556958"
+    },
+    {
+      "english": "Is there a supermarket nearby?",
+      "german": "Gibt es hier in der Nähe einen Supermarkt?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556963"
+    },
+    {
+      "english": "Follow this street for five minutes.",
+      "german": "Folgen Sie dieser Straße fünf Minuten.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-10-22T05:56:14.556966"
     }
   ],
-  "last_updated": "2026-10-21T05:53:06.148501"
+  "last_updated": "2026-10-22T05:56:14.556968"
 }
