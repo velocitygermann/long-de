@@ -10745,7 +10745,727 @@
       "german": "Folgen Sie dieser Straße fünf Minuten.",
       "category": "Asking for Directions",
       "generated_at": "2026-10-22T05:56:14.556966"
+    },
+    {
+      "english": "Excuse me, where is the next stop?",
+      "german": "Entschuldigung, wo ist die nächste Haltestelle?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216264"
+    },
+    {
+      "english": "Does this bus go to the city center?",
+      "german": "Fährt dieser Bus ins Stadtzentrum?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216278"
+    },
+    {
+      "english": "When is the next train to Berlin?",
+      "german": "Wann fährt der nächste Zug nach Berlin?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216281"
+    },
+    {
+      "english": "I need a ticket for one person.",
+      "german": "Ich brauche eine Fahrkarte für eine Person.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216284"
+    },
+    {
+      "english": "How much is a day ticket?",
+      "german": "Was kostet eine Tageskarte?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216287"
+    },
+    {
+      "english": "Where can I buy tickets?",
+      "german": "Wo kann ich Fahrkarten kaufen?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216291"
+    },
+    {
+      "english": "Is this seat taken?",
+      "german": "Ist dieser Platz frei?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216294"
+    },
+    {
+      "english": "Can I sit here?",
+      "german": "Kann ich mich hier hinsetzen?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216300"
+    },
+    {
+      "english": "Please, stand clear of the doors.",
+      "german": "Bitte, halten Sie Abstand von den Türen.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216304"
+    },
+    {
+      "english": "The train is delayed.",
+      "german": "Der Zug hat Verspätung.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216307"
+    },
+    {
+      "english": "We are running late.",
+      "german": "Wir kommen zu spät.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216309"
+    },
+    {
+      "english": "This is my stop.",
+      "german": "Das ist meine Station.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216311"
+    },
+    {
+      "english": "I missed my connection.",
+      "german": "Ich habe den Anschluss verpasst.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216314"
+    },
+    {
+      "english": "Is there a direct connection?",
+      "german": "Gibt es eine Direktverbindung?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216316"
+    },
+    {
+      "english": "How long is the journey?",
+      "german": "Wie lange dauert die Fahrt?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216318"
+    },
+    {
+      "english": "I need to get off here.",
+      "german": "Ich muss hier aussteigen.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216321"
+    },
+    {
+      "english": "Where is the platform?",
+      "german": "Wo ist der Bahnsteig?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216323"
+    },
+    {
+      "english": "I'm looking for the subway.",
+      "german": "Ich suche die U-Bahn.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216326"
+    },
+    {
+      "english": "What time does it arrive?",
+      "german": "Um wie viel Uhr kommt er an?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216328"
+    },
+    {
+      "english": "Can I pay by card?",
+      "german": "Kann ich mit Karte bezahlen?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216330"
+    },
+    {
+      "english": "Is there a toilet on board?",
+      "german": "Gibt es eine Toilette an Bord?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216333"
+    },
+    {
+      "english": "This is very crowded.",
+      "german": "Das ist sehr voll hier.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216336"
+    },
+    {
+      "english": "I need to change trains.",
+      "german": "Ich muss umsteigen.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216338"
+    },
+    {
+      "english": "Where do I get off?",
+      "german": "Wo steige ich aus?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216340"
+    },
+    {
+      "english": "Is this a valid ticket?",
+      "german": "Ist das eine gültige Fahrkarte?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216343"
+    },
+    {
+      "english": "Enjoy your trip!",
+      "german": "Gute Fahrt!",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216345"
+    },
+    {
+      "english": "Could you tell me, which bus it is?",
+      "german": "Könnten Sie mir sagen, welcher Bus das ist?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216348"
+    },
+    {
+      "english": "Is this the right way, to the main station?",
+      "german": "Ist das der richtige Weg, zum Hauptbahnhof?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216351"
+    },
+    {
+      "english": "Do you know, when the last tram leaves?",
+      "german": "Wissen Sie, wann die letzte Straßenbahn fährt?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216354"
+    },
+    {
+      "english": "Where can I get information, about routes?",
+      "german": "Wo bekomme ich Informationen, über Routen?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216357"
+    },
+    {
+      "english": "Is there a timetable, available here?",
+      "german": "Gibt es einen Fahrplan, hier irgendwo?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216360"
+    },
+    {
+      "english": "How do I get to the airport, from here?",
+      "german": "Wie komme ich zum Flughafen, von hier?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216362"
+    },
+    {
+      "english": "Could you recommend, a good route?",
+      "german": "Könnten Sie eine gute Route, empfehlen?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216365"
+    },
+    {
+      "english": "Is there a discount, for groups?",
+      "german": "Gibt es einen Rabatt, für Gruppen?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216368"
+    },
+    {
+      "english": "Do I need, a special ticket?",
+      "german": "Brauche ich, ein Sonderticket?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216371"
+    },
+    {
+      "english": "What's the best way, to reach the museum?",
+      "german": "Was ist der beste Weg, zum Museum?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216373"
+    },
+    {
+      "english": "Can I use my phone, as a ticket?",
+      "german": "Kann ich mein Handy, als Ticket benutzen?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216377"
+    },
+    {
+      "english": "Is this line, usually very busy?",
+      "german": "Ist diese Linie, oft sehr voll?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216380"
+    },
+    {
+      "english": "Where can I validate, my ticket?",
+      "german": "Wo kann ich mein Ticket, entwerten?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216382"
+    },
+    {
+      "english": "Does this stop, go to the old town?",
+      "german": "Fährt diese Haltestelle, in die Altstadt?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216385"
+    },
+    {
+      "english": "How often, do the buses run?",
+      "german": "Wie oft, fahren die Busse?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216388"
+    },
+    {
+      "english": "Can I get a transfer ticket, please?",
+      "german": "Kann ich eine Anschlussfahrkarte, bekommen?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216391"
+    },
+    {
+      "english": "Is there Wi-Fi, on this train?",
+      "german": "Gibt es WLAN, in diesem Zug?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216394"
+    },
+    {
+      "english": "What is the next station, called?",
+      "german": "Wie heißt die nächste Station?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216396"
+    },
+    {
+      "english": "Is this bus, a local service?",
+      "german": "Ist dieser Bus, ein Nahverkehrsbus?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216399"
+    },
+    {
+      "english": "Where do I change, for line five?",
+      "german": "Wo steige ich um, für Linie fünf?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216402"
+    },
+    {
+      "english": "Is there a bike rack, on the bus?",
+      "german": "Gibt es einen Fahrradständer, am Bus?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216404"
+    },
+    {
+      "english": "How do I signal, the driver?",
+      "german": "Wie signalisiere ich, dem Fahrer?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216407"
+    },
+    {
+      "english": "Is this tram, going downtown?",
+      "german": "Fährt diese Tram, in die Innenstadt?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216409"
+    },
+    {
+      "english": "Can I take luggage, with me?",
+      "german": "Darf ich Gepäck, mitnehmen?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216412"
+    },
+    {
+      "english": "What's the fare, to the university?",
+      "german": "Was kostet die Fahrt, zur Universität?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216414"
+    },
+    {
+      "english": "Is this the correct platform, for the express?",
+      "german": "Ist das Gleis, für den Express?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216417"
+    },
+    {
+      "english": "Can I get off, at the next stop?",
+      "german": "Kann ich, an der nächsten Haltestelle aussteigen?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216421"
+    },
+    {
+      "english": "Every journey, starts with a single step.",
+      "german": "Jede Reise, beginnt mit dem ersten Schritt.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216424"
+    },
+    {
+      "english": "Don't worry, you've got this.",
+      "german": "Keine Sorge, du schaffst das.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216427"
+    },
+    {
+      "english": "Just breathe, and relax.",
+      "german": "Atme einfach, und entspanne dich.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216430"
+    },
+    {
+      "english": "Navigating public transport, is a skill.",
+      "german": "Öffentliche Verkehrsmittel meistern, ist eine Fähigkeit.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216432"
+    },
+    {
+      "english": "This is a great learning experience.",
+      "german": "Das ist eine tolle Lernerfahrung.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216435"
+    },
+    {
+      "english": "You are becoming a pro!",
+      "german": "Du wirst zum Profi!",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216437"
+    },
+    {
+      "english": "It's okay, if you get lost.",
+      "german": "Es ist okay, wenn du dich verfährst.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216440"
+    },
+    {
+      "english": "Every trip, is a new adventure.",
+      "german": "Jede Fahrt, ist ein neues Abenteuer.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216443"
+    },
+    {
+      "english": "Stay positive, you can do it.",
+      "german": "Bleib positiv, du schaffst das.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216446"
+    },
+    {
+      "english": "Embrace the challenge, it's rewarding.",
+      "german": "Nimm die Herausforderung an, es lohnt sich.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216449"
+    },
+    {
+      "english": "You're getting the hang of it.",
+      "german": "Du kriegst den Dreh raus.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216452"
+    },
+    {
+      "english": "Think positive, feel confident.",
+      "german": "Denk positiv, fühl dich sicher.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216454"
+    },
+    {
+      "english": "This will be easy, soon.",
+      "german": "Das wird bald einfach.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216457"
+    },
+    {
+      "english": "You are a great explorer!",
+      "german": "Du bist ein toller Entdecker!",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216459"
+    },
+    {
+      "english": "Focus on your progress.",
+      "german": "Konzentrier dich auf deinen Fortschritt.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216461"
+    },
+    {
+      "english": "You've made so much progress!",
+      "german": "Du hast so viel Fortschritt gemacht!",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216466"
+    },
+    {
+      "english": "This is a good step forward.",
+      "german": "Das ist ein guter Schritt nach vorn.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216468"
+    },
+    {
+      "english": "You're handling this, really well.",
+      "german": "Du meisterst das, richtig gut.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216471"
+    },
+    {
+      "english": "Believe in yourself, you can.",
+      "german": "Glaub an dich, du kannst das.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216474"
+    },
+    {
+      "english": "Just be patient, it's worth it.",
+      "german": "Sei einfach geduldig, es lohnt sich.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216476"
+    },
+    {
+      "english": "You're doing fantastic, really!",
+      "german": "Du machst das fantastisch, wirklich!",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216479"
+    },
+    {
+      "english": "This is a new skill, unlocked.",
+      "german": "Das ist eine neue Fähigkeit, freigeschaltet.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216482"
+    },
+    {
+      "english": "You've got the spirit!",
+      "german": "Du hast den Dreh raus!",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216484"
+    },
+    {
+      "english": "Keep exploring, you'll manage.",
+      "german": "Erkunde weiter, du schaffst das.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216487"
+    },
+    {
+      "english": "Is the next train, running late?",
+      "german": "Hat der nächste Zug, Verspätung?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216490"
+    },
+    {
+      "english": "This line, is packed like sardines.",
+      "german": "Diese Linie, ist brechend voll.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216492"
+    },
+    {
+      "english": "Let's grab a seat, if we can.",
+      "german": "Schnappen wir uns, einen Platz, wenn möglich.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216495"
+    },
+    {
+      "english": "Does this bus, have a charging port?",
+      "german": "Hat dieser Bus, eine Ladestation?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216498"
+    },
+    {
+      "english": "Watch out for the gap, between train and platform.",
+      "german": "Achten Sie auf den Spalt, zwischen Zug und Bahnsteig.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216502"
+    },
+    {
+      "english": "I'm getting off, at the next stop.",
+      "german": "Ich steige aus, an der nächsten Haltestelle.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216504"
+    },
+    {
+      "english": "Can we find, a quieter spot?",
+      "german": "Finden wir, eine ruhigere Ecke?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216507"
+    },
+    {
+      "english": "This fare, seems a bit steep.",
+      "german": "Dieser Fahrpreis, kommt mir teuer vor.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216510"
+    },
+    {
+      "english": "Is there a restroom, on the train?",
+      "german": "Gibt es eine Toilette, im Zug?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216512"
+    },
+    {
+      "english": "Keep your belongings, close to you.",
+      "german": "Behalten Sie Ihr Gepäck, nah bei sich.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216515"
+    },
+    {
+      "english": "This ride, is surprisingly smooth.",
+      "german": "Diese Fahrt, ist überraschend ruhig.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216517"
+    },
+    {
+      "english": "I need to make, a quick transfer.",
+      "german": "Ich muss schnell, umsteigen.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216520"
+    },
+    {
+      "english": "Are we there, yet?",
+      "german": "Sind wir schon, da?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216523"
+    },
+    {
+      "english": "This schedule, is a bit confusing.",
+      "german": "Dieser Fahrplan, ist etwas unübersichtlich.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216525"
+    },
+    {
+      "english": "Let's get off, before it's too crowded.",
+      "german": "Steigen wir aus, bevor es zu voll wird.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216528"
+    },
+    {
+      "english": "This is the, last stop.",
+      "german": "Das ist die, Endstation.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216531"
+    },
+    {
+      "english": "Can I get, a day pass?",
+      "german": "Kann ich eine, Tageskarte bekommen?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216533"
+    },
+    {
+      "english": "The driver, seems friendly.",
+      "german": "Der Fahrer, wirkt nett.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216536"
+    },
+    {
+      "english": "We should hurry, for the next bus.",
+      "german": "Wir sollten uns beeilen, für den nächsten Bus.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216538"
+    },
+    {
+      "english": "This journey, is quite scenic.",
+      "german": "Diese Strecke, ist recht malerisch.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216541"
+    },
+    {
+      "english": "Can I pay, with card?",
+      "german": "Kann ich mit Karte, bezahlen?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216544"
+    },
+    {
+      "english": "This is the, shortest route.",
+      "german": "Das ist die, kürzeste Verbindung.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216546"
+    },
+    {
+      "english": "Are there, any discounts?",
+      "german": "Gibt es, Ermäßigungen?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216549"
+    },
+    {
+      "english": "Let's check the, departure board.",
+      "german": "Schauen wir aufs, Abfahrtgleis.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216552"
+    },
+    {
+      "english": "This tram, is quite old.",
+      "german": "Diese Straßenbahn, ist schon recht alt.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216555"
+    },
+    {
+      "english": "Enjoy the ride, folks!",
+      "german": "Gute Fahrt, allerseits!",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216558"
+    },
+    {
+      "english": "Don't miss your connection, check the times.",
+      "german": "Verpasse nicht deine Verbindung, prüfe die Zeiten.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216561"
+    },
+    {
+      "english": "This app shows real-time delays, super useful.",
+      "german": "Diese App zeigt Echtzeit-Verspätungen, super nützlich.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216564"
+    },
+    {
+      "english": "Ah, my ticket is valid, thankfully.",
+      "german": "Ach, mein Ticket ist gültig, glücklicherweise.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216567"
+    },
+    {
+      "english": "I always have my phone charger ready.",
+      "german": "Ich habe immer mein Handy-Ladegerät bereit.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216570"
+    },
+    {
+      "english": "Let's stand near the door, for faster exit.",
+      "german": "Lass uns bei der Tür stehen, für schnelleren Ausstieg.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216573"
+    },
+    {
+      "english": "We should buy the weekly pass, it's cheaper.",
+      "german": "Wir sollten die Wochenkarte kaufen, sie ist günstiger.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216576"
+    },
+    {
+      "english": "This seat is occupied, unfortunately.",
+      "german": "Dieser Platz ist besetzt, leider.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216578"
+    },
+    {
+      "english": "Keep your noise-cancelling headphones handy.",
+      "german": "Halte deine Noise-Cancelling-Kopfhörer bereit.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216581"
+    },
+    {
+      "english": "Maybe we can ask someone, for directions.",
+      "german": "Vielleicht können wir jemanden fragen, nach dem Weg.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216584"
+    },
+    {
+      "english": "The station has free Wi-Fi, good to know.",
+      "german": "Der Bahnhof hat kostenloses WLAN, gut zu wissen.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216587"
+    },
+    {
+      "english": "Can you help me, validate my ticket?",
+      "german": "Kannst du mir helfen, mein Ticket zu entwerten?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216589"
+    },
+    {
+      "english": "I prefer the underground, it's faster.",
+      "german": "Ich bevorzuge die U-Bahn, sie ist schneller.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216592"
+    },
+    {
+      "english": "This route avoids the main traffic jams.",
+      "german": "Diese Route vermeidet die Hauptverkehrsstaus.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216594"
+    },
+    {
+      "english": "Always check the destination, board carefully.",
+      "german": "Prüfe immer das Ziel, genau.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216597"
+    },
+    {
+      "english": "I’m learning to read the maps now.",
+      "german": "Ich lerne jetzt, die Karten zu lesen.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216601"
+    },
+    {
+      "english": "This express bus, skips many stops.",
+      "german": "Dieser Expressbus, lässt viele Haltestellen aus.",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216605"
+    },
+    {
+      "english": "Where is the nearest stop, for my hotel?",
+      "german": "Wo ist die nächste Haltestelle, für mein Hotel?",
+      "category": "Public Transportation",
+      "generated_at": "2026-10-23T07:29:50.216607"
     }
   ],
-  "last_updated": "2026-10-22T05:56:14.556968"
+  "last_updated": "2026-10-23T07:29:50.216609"
 }
