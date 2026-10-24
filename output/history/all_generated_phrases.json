@@ -11465,7 +11465,727 @@
       "german": "Wo ist die nächste Haltestelle, für mein Hotel?",
       "category": "Public Transportation",
       "generated_at": "2026-10-23T07:29:50.216607"
+    },
+    {
+      "english": "Great job, really well done!",
+      "german": "Super gemacht, wirklich gut!",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521313"
+    },
+    {
+      "english": "You've got this, absolutely!",
+      "german": "Das schaffst du, absolut!",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521328"
+    },
+    {
+      "english": "That's the spirit, keep it up!",
+      "german": "Das ist der Geist, weitermachen!",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521331"
+    },
+    {
+      "english": "Fantastic progress, I see!",
+      "german": "Fantastischer Fortschritt, sehe ich!",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521333"
+    },
+    {
+      "english": "On the right track, definitely!",
+      "german": "Auf dem richtigen Weg, definitiv!",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521335"
+    },
+    {
+      "english": "Well said, very insightful!",
+      "german": "Gut gesagt, sehr aufschlussreich!",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521337"
+    },
+    {
+      "english": "Impressive work, truly!",
+      "german": "Beeindruckende Arbeit, wirklich!",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521339"
+    },
+    {
+      "english": "You're doing great, seriously!",
+      "german": "Du machst das toll, ehrlich!",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521344"
+    },
+    {
+      "english": "Keep up the excellent effort!",
+      "german": "Behalt die exzellente Anstrengung bei!",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521348"
+    },
+    {
+      "english": "That's a smart move, yes!",
+      "german": "Das ist ein kluger Zug, ja!",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521351"
+    },
+    {
+      "english": "You’re getting it, slowly but surely!",
+      "german": "Du verstehst es, langsam aber sicher!",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521354"
+    },
+    {
+      "english": "Nailed it, perfectly executed!",
+      "german": "Perfekt getroffen, genau ausgeführt!",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521356"
+    },
+    {
+      "english": "That’s how it’s done, yes!",
+      "german": "So wird das gemacht, ja!",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521359"
+    },
+    {
+      "english": "Full marks, outstanding performance!",
+      "german": "Volle Punktzahl, herausragende Leistung!",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521362"
+    },
+    {
+      "english": "That’s quite the achievement!",
+      "german": "Das ist eine beachtliche Leistung!",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521364"
+    },
+    {
+      "english": "You’re on fire, keep burning!",
+      "german": "Du brennst, bleib glühend!",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521366"
+    },
+    {
+      "english": "Excellent thinking, very astute!",
+      "german": "Exzellentes Denken, sehr scharfsinnig!",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521369"
+    },
+    {
+      "english": "That’s a victory, celebrate!",
+      "german": "Das ist ein Sieg, feiere!",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521371"
+    },
+    {
+      "english": "You’re making waves, fantastic!",
+      "german": "Du machst Wellen, fantastisch!",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521374"
+    },
+    {
+      "english": "Spot on, exactly right!",
+      "german": "Genau richtig, exakt richtig!",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521376"
+    },
+    {
+      "english": "That’s what I call progress!",
+      "german": "Das nenne ich Fortschritt!",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521378"
+    },
+    {
+      "english": "You shine, truly brilliant!",
+      "german": "Du glänzt, wirklich brillant!",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521380"
+    },
+    {
+      "english": "A job well done, my friend!",
+      "german": "Eine gut gemachte Arbeit, mein Freund!",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521382"
+    },
+    {
+      "english": "You’re exceeding expectations!",
+      "german": "Du übertrifft die Erwartungen!",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521385"
+    },
+    {
+      "english": "That’s the key, you found it!",
+      "german": "Das ist der Schlüssel, du hast ihn gefunden!",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521387"
+    },
+    {
+      "english": "Pure talent, evident!",
+      "german": "Pures Talent, offensichtlich!",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521389"
+    },
+    {
+      "english": "You’re mastering it, slowly!",
+      "german": "Du meisterst es, langsam!",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521392"
+    },
+    {
+      "english": "Well played, strategic!",
+      "german": "Gut gespielt, strategisch!",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521393"
+    },
+    {
+      "english": "That's a win, absolutely!",
+      "german": "Das ist ein Gewinn, absolut!",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521397"
+    },
+    {
+      "english": "Keep that momentum going!",
+      "german": "Behalte diesen Schwung bei!",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521399"
+    },
+    {
+      "english": "What are your goals, for today?",
+      "german": "Was sind deine Ziele, für heute?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521401"
+    },
+    {
+      "english": "How can I help, you succeed?",
+      "german": "Wie kann ich dir helfen, erfolgreich zu sein?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521404"
+    },
+    {
+      "english": "Do you need advice, on this?",
+      "german": "Brauchst du einen Rat, dazu?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521406"
+    },
+    {
+      "english": "What's your next step, toward success?",
+      "german": "Was ist dein nächster Schritt, zum Erfolg?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521409"
+    },
+    {
+      "english": "Tell me your plan, please.",
+      "german": "Erzähl mir deinen Plan, bitte.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521411"
+    },
+    {
+      "english": "Are you ready, for the challenge?",
+      "german": "Bist du bereit, für die Herausforderung?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521415"
+    },
+    {
+      "english": "What are you learning, right now?",
+      "german": "Was lernst du, gerade?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521418"
+    },
+    {
+      "english": "Who inspires you, to achieve more?",
+      "german": "Wer inspiriert dich, zu mehr?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521420"
+    },
+    {
+      "english": "Can we brainstorm, together?",
+      "german": "Können wir zusammen brainstormen?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521422"
+    },
+    {
+      "english": "What obstacles, do you face?",
+      "german": "Welchen Hindernissen, stehst du gegenüber?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521425"
+    },
+    {
+      "english": "How do you handle, setbacks?",
+      "german": "Wie gehst du mit, Rückschlägen um?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521427"
+    },
+    {
+      "english": "What support, do you need?",
+      "german": "Welche Unterstützung, brauchst du?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521429"
+    },
+    {
+      "english": "Are you feeling, motivated today?",
+      "german": "Fühlst du dich, heute motiviert?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521432"
+    },
+    {
+      "english": "What is your biggest, dream?",
+      "german": "Was ist dein größter, Traum?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521434"
+    },
+    {
+      "english": "How did you overcome, that?",
+      "german": "Wie hast du das, überwunden?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521436"
+    },
+    {
+      "english": "What keeps you going, strong?",
+      "german": "Was hält dich, stark?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521438"
+    },
+    {
+      "english": "Do you have questions, for me?",
+      "german": "Hast du Fragen, an mich?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521442"
+    },
+    {
+      "english": "What did you achieve, yesterday?",
+      "german": "Was hast du, gestern erreicht?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521444"
+    },
+    {
+      "english": "Can you explain, this concept?",
+      "german": "Kannst du, dieses Konzept erklären?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521446"
+    },
+    {
+      "english": "What's your strategy, for success?",
+      "german": "Was ist deine Strategie, für Erfolg?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521448"
+    },
+    {
+      "english": "Are you proud, of your work?",
+      "german": "Bist du stolz, auf deine Arbeit?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521450"
+    },
+    {
+      "english": "How do you define, success?",
+      "german": "Wie definierst du, Erfolg?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521452"
+    },
+    {
+      "english": "What are your strengths, truly?",
+      "german": "Was sind deine Stärken, wirklich?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521454"
+    },
+    {
+      "english": "What motivates you, most?",
+      "german": "Was motiviert dich, am meisten?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521456"
+    },
+    {
+      "english": "What are your aspirations, high?",
+      "german": "Was sind deine Bestrebungen, hoch?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521458"
+    },
+    {
+      "english": "How can we improve, together?",
+      "german": "Wie können wir uns, verbessern?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521461"
+    },
+    {
+      "english": "What goal, are you aiming for?",
+      "german": "Welches Ziel, verfolgst du?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521463"
+    },
+    {
+      "english": "Are you happy, with progress?",
+      "german": "Bist du zufrieden, mit dem Fortschritt?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521465"
+    },
+    {
+      "english": "Believe in yourself, always.",
+      "german": "Glaube an dich, immer.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521467"
+    },
+    {
+      "english": "You've got this, no doubt.",
+      "german": "Du schaffst das, kein Zweifel.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521470"
+    },
+    {
+      "english": "That's a great start, yes!",
+      "german": "Das ist ein toller Anfang, ja!",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521473"
+    },
+    {
+      "english": "Your effort shows, amazing.",
+      "german": "Dein Einsatz zeigt sich, super.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521477"
+    },
+    {
+      "english": "You're doing wonderfully, friend.",
+      "german": "Du machst das wunderbar, Freund.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521480"
+    },
+    {
+      "english": "Never give up, ever.",
+      "german": "Gib niemals auf, wirklich niemals.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521482"
+    },
+    {
+      "english": "That idea is brilliant, wow.",
+      "german": "Diese Idee ist genial, wow.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521484"
+    },
+    {
+      "english": "You're capable of much.",
+      "german": "Du bist zu vielem fähig.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521486"
+    },
+    {
+      "english": "That's how you learn, great!",
+      "german": "So lernt man, super!",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521489"
+    },
+    {
+      "english": "Keep that positive energy.",
+      "german": "Behalte diese positive Energie.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521491"
+    },
+    {
+      "english": "You inspire others, truly.",
+      "german": "Du inspirierst andere, ehrlich.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521493"
+    },
+    {
+      "english": "You're a natural learner.",
+      "german": "Du bist ein geborener Lerner.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521495"
+    },
+    {
+      "english": "Every step counts, you know.",
+      "german": "Jeder Schritt zählt, weißt du.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521505"
+    },
+    {
+      "english": "Your dedication is clear.",
+      "german": "Deine Hingabe ist offensichtlich.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521507"
+    },
+    {
+      "english": "You're growing fast, fantastic.",
+      "german": "Du wächst schnell, fantastisch.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521509"
+    },
+    {
+      "english": "That's the spirit, yes!",
+      "german": "Das ist der Geist, ja!",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521512"
+    },
+    {
+      "english": "Keep pushing your limits.",
+      "german": "Erweitere deine Grenzen weiter.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521513"
+    },
+    {
+      "english": "This is progress, see?",
+      "german": "Das ist Fortschritt, siehst du?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521515"
+    },
+    {
+      "english": "Your persistence pays off.",
+      "german": "Deine Ausdauer zahlt sich aus.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521517"
+    },
+    {
+      "english": "You have potential, huge.",
+      "german": "Du hast Potenzial, riesig.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521520"
+    },
+    {
+      "english": "Keep that fire burning.",
+      "german": "Behalte dieses Feuer am Brennen.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521522"
+    },
+    {
+      "english": "You're a quick study, yes.",
+      "german": "Du lernst schnell, ja.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521524"
+    },
+    {
+      "english": "Your understanding grows, great.",
+      "german": "Dein Verständnis wächst, toll.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521526"
+    },
+    {
+      "english": "You are achieving great things.",
+      "german": "Du erreichst große Dinge.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521529"
+    },
+    {
+      "english": "What truly moves you, deep inside?",
+      "german": "Was bewegt dich wirklich, tief im Inneren?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521531"
+    },
+    {
+      "english": "Be honest with yourself, about progress.",
+      "german": "Sei ehrlich zu dir selbst, über den Fortschritt.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521533"
+    },
+    {
+      "english": "It's okay, to feel uncertain sometimes.",
+      "german": "Es ist okay, sich manchmal unsicher zu fühlen.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521535"
+    },
+    {
+      "english": "Take a moment, to breathe deeply.",
+      "german": "Nimm dir einen Moment, tief durchzuatmen.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521538"
+    },
+    {
+      "english": "What wisdom have you gained, lately?",
+      "german": "Welchen Weisheit hast du gewonnen, in letzter Zeit?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521540"
+    },
+    {
+      "english": "Reflect on the lessons, learned.",
+      "german": "Reflektiere über die Lektionen, die du gelernt hast.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521542"
+    },
+    {
+      "english": "Patience, is a quiet strength.",
+      "german": "Geduld, ist eine stille Stärke.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521546"
+    },
+    {
+      "english": "Trust the process, unfolding slowly.",
+      "german": "Vertraue dem Prozess, der sich langsam entfaltet.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521548"
+    },
+    {
+      "english": "What are your true feelings, now?",
+      "german": "Was sind deine wahren Gefühle, jetzt?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521550"
+    },
+    {
+      "english": "Embrace the journey, with an open heart.",
+      "german": "Umarme die Reise, mit offenem Herzen.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521552"
+    },
+    {
+      "english": "Sometimes, less is more, truly.",
+      "german": "Manchmal ist weniger mehr, wirklich.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521556"
+    },
+    {
+      "english": "What has surprised you, most recently?",
+      "german": "Was hat dich überrascht, in jüngster Zeit?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521558"
+    },
+    {
+      "english": "Inner peace, is a great success.",
+      "german": "Innerer Frieden, ist ein großer Erfolg.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521560"
+    },
+    {
+      "english": "Acknowledge your growth, quietly.",
+      "german": "Anerkenne dein Wachstum, leise.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521563"
+    },
+    {
+      "english": "What does success mean, to your soul?",
+      "german": "Was bedeutet Erfolg, für deine Seele?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521565"
+    },
+    {
+      "english": "Listen to your intuition, always.",
+      "german": "Höre auf deine Intuition, immer.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521567"
+    },
+    {
+      "english": "Share your vulnerability, it's human.",
+      "german": "Teile deine Verletzlichkeit, das ist menschlich.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521569"
+    },
+    {
+      "english": "The quiet moments, hold deep meaning.",
+      "german": "Die stillen Momente, bergen tiefe Bedeutung.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521571"
+    },
+    {
+      "english": "Allow yourself, to simply be.",
+      "german": "Erlaube dir, einfach zu sein.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521574"
+    },
+    {
+      "english": "Honesty with oneself, is key.",
+      "german": "Ehrlichkeit zu sich selbst, ist der Schlüssel.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521576"
+    },
+    {
+      "english": "Sincerity in effort, shines through.",
+      "german": "Aufrichtigkeit in der Anstrengung, strahlt durch.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521578"
+    },
+    {
+      "english": "What lessons, stick with you?",
+      "german": "Welche Lektionen, bleiben bei dir?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521580"
+    },
+    {
+      "english": "Find strength, in quiet reflection.",
+      "german": "Finde Kraft, in stiller Reflexion.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521582"
+    },
+    {
+      "english": "How do you nurture, your spirit?",
+      "german": "Wie nährst du, deinen Geist?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521584"
+    },
+    {
+      "english": "True success, feels peaceful.",
+      "german": "Wahrer Erfolg, fühlt sich friedlich an.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521587"
+    },
+    {
+      "english": "What wisdom, are you seeking?",
+      "german": "Welche Weisheit, suchst du?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521589"
+    },
+    {
+      "english": "Your inner voice, matters deeply.",
+      "german": "Deine innere Stimme, zählt sehr.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521591"
+    },
+    {
+      "english": "Start your day, with intention.",
+      "german": "Beginne deinen Tag, mit Absicht.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521595"
+    },
+    {
+      "english": "Ask for help, when needed.",
+      "german": "Bitte um Hilfe, wenn nötig.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521597"
+    },
+    {
+      "english": "Listen more, talk less, learn.",
+      "german": "Höre mehr zu, rede weniger, lerne.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521600"
+    },
+    {
+      "english": "Small steps, make big journeys.",
+      "german": "Kleine Schritte, machen große Reisen.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521602"
+    },
+    {
+      "english": "Practice makes perfect, remember.",
+      "german": "Übung macht den Meister, denk dran.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521604"
+    },
+    {
+      "english": "Celebrate small wins, daily.",
+      "german": "Feiere kleine Siege, täglich.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521605"
+    },
+    {
+      "english": "What is your main goal, today?",
+      "german": "Was ist dein Hauptziel, heute?",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521608"
+    },
+    {
+      "english": "Use new words, actively.",
+      "german": "Nutze neue Wörter, aktiv.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521610"
+    },
+    {
+      "english": "Connect with native speakers.",
+      "german": "Verbinde dich mit Muttersprachlern.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521612"
+    },
+    {
+      "english": "Review your notes, regularly.",
+      "german": "Wiederhole deine Notizen, regelmäßig.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521615"
+    },
+    {
+      "english": "Be patient, with your progress.",
+      "german": "Sei geduldig, mit deinem Fortschritt.",
+      "category": "Success",
+      "generated_at": "2026-10-24T05:37:27.521618"
     }
   ],
-  "last_updated": "2026-10-23T07:29:50.216609"
+  "last_updated": "2026-10-24T05:37:27.521619"
 }
