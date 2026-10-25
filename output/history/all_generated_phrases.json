@@ -12185,7 +12185,727 @@
       "german": "Sei geduldig, mit deinem Fortschritt.",
       "category": "Success",
       "generated_at": "2026-10-24T05:37:27.521618"
+    },
+    {
+      "english": "Slow down, take a pause.",
+      "german": "Entschleunige dich, mach eine Pause.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616760"
+    },
+    {
+      "english": "Just be here, right now.",
+      "german": "Sei einfach hier, genau jetzt.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616774"
+    },
+    {
+      "english": "Notice the quiet, around you.",
+      "german": "Nimm die Ruhe wahr, um dich herum.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616778"
+    },
+    {
+      "english": "What do you hear, really hear?",
+      "german": "Was hörst du, wirklich hörst?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616781"
+    },
+    {
+      "english": "Feel your breath, going in, out.",
+      "german": "Fühl deinen Atem, rein, raus.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616784"
+    },
+    {
+      "english": "Let thoughts come, and go.",
+      "german": "Lass Gedanken kommen, und gehen.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616787"
+    },
+    {
+      "english": "This moment, is enough, for now.",
+      "german": "Dieser Moment, reicht, für jetzt.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616790"
+    },
+    {
+      "english": "Stand still, feel the earth.",
+      "german": "Steh still, spür die Erde.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616795"
+    },
+    {
+      "english": "Observe without judgment, friend.",
+      "german": "Beobachte ohne Urteil, Freund.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616799"
+    },
+    {
+      "english": "Your body, knows what it needs.",
+      "german": "Dein Körper, weiß, was er braucht.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616802"
+    },
+    {
+      "english": "A deep breath, can change things.",
+      "german": "Ein tiefer Atemzug, kann viel ändern.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616805"
+    },
+    {
+      "english": "Focus on one thing, clearly.",
+      "german": "Konzentriere dich auf eins, klar.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616808"
+    },
+    {
+      "english": "Just watch, don't react.",
+      "german": "Schau nur, reagiere nicht.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616811"
+    },
+    {
+      "english": "What's happening, right now?",
+      "german": "Was passiert, gerade jetzt?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616816"
+    },
+    {
+      "english": "Feel the air, on your skin.",
+      "german": "Fühl die Luft, auf deiner Haut.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616818"
+    },
+    {
+      "english": "Release what you're holding, gently.",
+      "german": "Lass los, was du festhältst, sanft.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616823"
+    },
+    {
+      "english": "Every breath, a new start.",
+      "german": "Jeder Atemzug, ein Neuanfang.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616826"
+    },
+    {
+      "english": "Find peace, in the small things.",
+      "german": "Finde Frieden, im Kleinen.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616829"
+    },
+    {
+      "english": "Stay grounded, stay centered.",
+      "german": "Bleib geerdet, bleib zentriert.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616832"
+    },
+    {
+      "english": "Your mind wanders, that's okay.",
+      "german": "Dein Geist schweift ab, das ist okay.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616835"
+    },
+    {
+      "english": "Notice sensations, in your body.",
+      "german": "Nimm Empfindungen wahr, in deinem Körper.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616838"
+    },
+    {
+      "english": "The present, is a gift.",
+      "german": "Die Gegenwart, ist ein Geschenk.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616840"
+    },
+    {
+      "english": "Just breathe, through it all.",
+      "german": "Atme einfach, durch alles hindurch.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616843"
+    },
+    {
+      "english": "Let go, of expectations.",
+      "german": "Lass Erwartungen los.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616845"
+    },
+    {
+      "english": "See the beauty, all around.",
+      "german": "Sieh die Schönheit, ringsum.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616848"
+    },
+    {
+      "english": "Feel the rhythm, of life.",
+      "german": "Fühl den Rhythmus, des Lebens.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616851"
+    },
+    {
+      "english": "A moment of calm, now.",
+      "german": "Ein Moment der Ruhe, jetzt.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616853"
+    },
+    {
+      "english": "Accept what is, peacefully.",
+      "german": "Akzeptiere, was ist, friedlich.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616856"
+    },
+    {
+      "english": "How are you feeling, today?",
+      "german": "Wie fühlst du dich, heute?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616859"
+    },
+    {
+      "english": "Can you tell me, what's on your mind?",
+      "german": "Kannst du mir sagen, was dich bewegt?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616862"
+    },
+    {
+      "english": "Is there anything, I can help with?",
+      "german": "Gibt es etwas, womit ich helfen kann?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616865"
+    },
+    {
+      "english": "What do you think, about this?",
+      "german": "Was denkst du, darüber?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616868"
+    },
+    {
+      "english": "How can we find, more calm?",
+      "german": "Wie können wir, mehr Ruhe finden?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616871"
+    },
+    {
+      "english": "Are you okay, with this, perhaps?",
+      "german": "Ist das so in Ordnung, für dich?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616874"
+    },
+    {
+      "english": "What helps you, to relax?",
+      "german": "Was hilft dir, dich zu entspannen?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616877"
+    },
+    {
+      "english": "Shall we try, something different?",
+      "german": "Sollen wir, etwas anderes versuchen?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616879"
+    },
+    {
+      "english": "Do you have, a suggestion?",
+      "german": "Hast du einen Vorschlag?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616882"
+    },
+    {
+      "english": "What's your favorite, quiet place?",
+      "german": "Was ist dein liebster, ruhiger Ort?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616885"
+    },
+    {
+      "english": "Could you show me, please?",
+      "german": "Kannst du mir das, bitte zeigen?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616888"
+    },
+    {
+      "english": "Is this a good, time, perhaps?",
+      "german": "Ist das ein guter, Zeitpunkt, vielleicht?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616891"
+    },
+    {
+      "english": "What should I focus, on?",
+      "german": "Worauf soll ich, mich konzentrieren?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616894"
+    },
+    {
+      "english": "How do you stay, present?",
+      "german": "Wie bleibst du, präsent?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616897"
+    },
+    {
+      "english": "Can we talk, about it?",
+      "german": "Können wir darüber, reden?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616900"
+    },
+    {
+      "english": "What did you learn, today?",
+      "german": "Was hast du, heute gelernt?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616905"
+    },
+    {
+      "english": "Do you need, a break?",
+      "german": "Brauchst du, eine Pause?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616907"
+    },
+    {
+      "english": "What's important, to you?",
+      "german": "Was ist dir, wichtig?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616912"
+    },
+    {
+      "english": "How do you handle, difficult feelings?",
+      "german": "Wie gehst du mit schwierigen Gefühlen um?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616915"
+    },
+    {
+      "english": "What do you wish, for?",
+      "german": "Was wünschst du dir?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616917"
+    },
+    {
+      "english": "Can I help, you, somehow?",
+      "german": "Kann ich dir, irgendwie helfen?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616920"
+    },
+    {
+      "english": "Believe in your progress, little by little.",
+      "german": "Glaube an deinen Fortschritt, Schritt für Schritt.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616923"
+    },
+    {
+      "english": "Every small step, counts towards your goal.",
+      "german": "Jeder kleine Schritt, zählt zu deinem Ziel.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616926"
+    },
+    {
+      "english": "You've got this, I know you can.",
+      "german": "Du schaffst das, ich weiß, du kannst.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616931"
+    },
+    {
+      "english": "Trust the process, and be patient.",
+      "german": "Vertraue dem Prozess, und sei geduldig.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616934"
+    },
+    {
+      "english": "Your inner strength, will guide you.",
+      "german": "Deine innere Stärke, wird dich leiten.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616937"
+    },
+    {
+      "english": "Celebrate your victories, no matter how small.",
+      "german": "Feiere deine Erfolge, egal wie klein.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616940"
+    },
+    {
+      "english": "You are learning, and growing every day.",
+      "german": "Du lernst, und wächst jeden Tag.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616942"
+    },
+    {
+      "english": "Your effort, is truly appreciated.",
+      "german": "Dein Einsatz, wird wirklich geschätzt.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616945"
+    },
+    {
+      "english": "Keep pushing forward, with courage.",
+      "german": "Mach weiter vorwärts, mit Mut.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616948"
+    },
+    {
+      "english": "You are doing great, just keep going.",
+      "german": "Du machst das toll, mach einfach weiter.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616951"
+    },
+    {
+      "english": "This moment, is full of possibility.",
+      "german": "Dieser Moment, ist voller Möglichkeiten.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616953"
+    },
+    {
+      "english": "You have the power, within you.",
+      "german": "Du hast die Kraft, in dir.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616956"
+    },
+    {
+      "english": "Let go of doubt, embrace belief.",
+      "german": "Lass Zweifel los, umarme den Glauben.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616959"
+    },
+    {
+      "english": "Your journey, is unique and valuable.",
+      "german": "Deine Reise, ist einzigartig und wertvoll.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616962"
+    },
+    {
+      "english": "You are capable, of amazing things.",
+      "german": "Du bist fähig, zu erstaunlichen Dingen.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616964"
+    },
+    {
+      "english": "Positive thoughts, create positive outcomes.",
+      "german": "Positive Gedanken, schaffen positive Ergebnisse.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616967"
+    },
+    {
+      "english": "Feel proud, of who you are.",
+      "german": "Sei stolz, auf den, der du bist.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616970"
+    },
+    {
+      "english": "You are enough, just as you are.",
+      "german": "Du bist genug, so wie du bist.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616973"
+    },
+    {
+      "english": "Trust your intuition, it's wise.",
+      "german": "Vertraue deiner Intuition, sie ist weise.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616976"
+    },
+    {
+      "english": "You are resilient, you can bounce back.",
+      "german": "Du bist widerstandsfähig, du kommst wieder hoch.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616978"
+    },
+    {
+      "english": "Embrace challenges, they make you grow.",
+      "german": "Umarme Herausforderungen, sie lassen dich wachsen.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616981"
+    },
+    {
+      "english": "Your inner peace, is your greatest asset.",
+      "german": "Dein innerer Frieden, ist dein größter Schatz.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616984"
+    },
+    {
+      "english": "You are doing better, than yesterday.",
+      "german": "Du machst es besser, als gestern.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616987"
+    },
+    {
+      "english": "Focus on solutions, not problems.",
+      "german": "Konzentriere dich auf Lösungen, nicht Probleme.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616989"
+    },
+    {
+      "english": "Your optimism, is contagious.",
+      "german": "Dein Optimismus, ist ansteckend.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616992"
+    },
+    {
+      "english": "Keep that positive mindset, alive.",
+      "german": "Halte diese positive Denkweise, lebendig.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616994"
+    },
+    {
+      "english": "Take a deep breath, and let go.",
+      "german": "Atme tief durch, und lass los.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.616997"
+    },
+    {
+      "english": "What's on your mind, right now?",
+      "german": "Was geht dir, gerade durch den Kopf?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.617000"
+    },
+    {
+      "english": "Enjoy the little things, always.",
+      "german": "Genieß die kleinen Dinge, immer.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.617006"
+    },
+    {
+      "english": "Be here, and nowhere else.",
+      "german": "Sei hier, und nirgendswo anders.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.617009"
+    },
+    {
+      "english": "Find your calm, within the chaos.",
+      "german": "Finde deine Ruhe, im Chaos.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.617012"
+    },
+    {
+      "english": "It is what it is, accept it.",
+      "german": "Es ist, wie es ist, nimm es an.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.617014"
+    },
+    {
+      "english": "Slow down, and notice more.",
+      "german": "Mach langsamer, und bemerke mehr.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.617017"
+    },
+    {
+      "english": "Feel the ground, beneath your feet.",
+      "german": "Fühl den Boden, unter deinen Füßen.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.617022"
+    },
+    {
+      "english": "Observe your thoughts, without judgment.",
+      "german": "Beobachte deine Gedanken, ohne Urteil.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.617025"
+    },
+    {
+      "english": "Find peace, in simple stillness.",
+      "german": "Finde Frieden, in einfacher Stille.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.617027"
+    },
+    {
+      "english": "Just be, without doing anything.",
+      "german": "Sei einfach, ohne etwas zu tun.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.617030"
+    },
+    {
+      "english": "What do you feel, in your body?",
+      "german": "Was fühlst du, in deinem Körper?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.617033"
+    },
+    {
+      "english": "Let the present, unfold naturally.",
+      "german": "Lass die Gegenwart, sich entfalten.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.617035"
+    },
+    {
+      "english": "Breathe in, breathe out, repeat.",
+      "german": "Atme ein, atme aus, wiederhole.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.617039"
+    },
+    {
+      "english": "Your mind is a garden, tend it.",
+      "german": "Dein Geist ist ein Garten, pflege ihn.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.617041"
+    },
+    {
+      "english": "Release the need, to control.",
+      "german": "Lass das Bedürfnis los, zu kontrollieren.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.617044"
+    },
+    {
+      "english": "Silence the noise, find clarity.",
+      "german": "Schalte den Lärm ab, finde Klarheit.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.617047"
+    },
+    {
+      "english": "Each breath, a new beginning.",
+      "german": "Jeder Atemzug, ein neuer Anfang.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.617049"
+    },
+    {
+      "english": "Savor this moment, fully.",
+      "german": "Genieße diesen Moment, vollkommen.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.617052"
+    },
+    {
+      "english": "Let it be, let it flow.",
+      "german": "Lass es sein, lass es fließen.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.617055"
+    },
+    {
+      "english": "Find stillness, in movement.",
+      "german": "Finde Stille, in der Bewegung.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.617057"
+    },
+    {
+      "english": "Your peace, is your power.",
+      "german": "Dein Frieden, ist deine Kraft.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.617060"
+    },
+    {
+      "english": "Be present, for yourself.",
+      "german": "Sei präsent, für dich selbst.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.617062"
+    },
+    {
+      "english": "What truly matters, now?",
+      "german": "Was zählt wirklich, jetzt?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.617065"
+    },
+    {
+      "english": "What am I truly feeling, today?",
+      "german": "Was fühle ich gerade, wirklich?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.617068"
+    },
+    {
+      "english": "My emotions, are valid signals.",
+      "german": "Meine Gefühle, sind echte Signale.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.617071"
+    },
+    {
+      "english": "I allow myself, to be vulnerable.",
+      "german": "Ich erlaube mir, verletzlich zu sein.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.617073"
+    },
+    {
+      "english": "Patience with myself, is key.",
+      "german": "Geduld mit mir, ist der Schlüssel.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.617076"
+    },
+    {
+      "english": "This thought, does not define me.",
+      "german": "Dieser Gedanke, definiert mich nicht.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.617079"
+    },
+    {
+      "english": "What wisdom, hides in this pause?",
+      "german": "Welche Weisheit, steckt in dieser Pause?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.617083"
+    },
+    {
+      "english": "I listen, to my inner voice.",
+      "german": "Ich höre, auf meine innere Stimme.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.617086"
+    },
+    {
+      "english": "Honesty with myself, first.",
+      "german": "Ehrlichkeit mit mir, zuerst.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.617088"
+    },
+    {
+      "english": "It's okay, to not be okay.",
+      "german": "Es ist okay, nicht okay zu sein.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.617092"
+    },
+    {
+      "english": "What do I need, right now?",
+      "german": "Was brauche ich, gerade jetzt?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.617094"
+    },
+    {
+      "english": "This feeling, will pass too.",
+      "german": "Dieses Gefühl, wird auch vorübergehen.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.617099"
+    },
+    {
+      "english": "My boundaries, are important.",
+      "german": "Meine Grenzen, sind wichtig.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.617101"
+    },
+    {
+      "english": "What can I learn, from this?",
+      "german": "Was kann ich lernen, daraus?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.617104"
+    },
+    {
+      "english": "I choose, my reaction.",
+      "german": "Ich wähle, meine Reaktion.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.617107"
+    },
+    {
+      "english": "Deep breaths, bring calm.",
+      "german": "Tiefe Atemzüge, bringen Ruhe.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.617110"
+    },
+    {
+      "english": "Where does this tension, live?",
+      "german": "Wo wohnt diese Spannung?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.617112"
+    },
+    {
+      "english": "I release, old patterns.",
+      "german": "Ich lasse, alte Muster los.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.617115"
+    },
+    {
+      "english": "Gratitude, fills my heart.",
+      "german": "Dankbarkeit, erfüllt mein Herz.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.617119"
+    },
+    {
+      "english": "What truly nourishes me?",
+      "german": "Was nährt mich, wirklich?",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.617122"
+    },
+    {
+      "english": "I am present, for myself.",
+      "german": "Ich bin da, für mich selbst.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.617125"
+    },
+    {
+      "english": "This moment, is a gift.",
+      "german": "Dieser Moment, ist ein Geschenk.",
+      "category": "Mindfulness",
+      "generated_at": "2026-10-25T05:52:19.617127"
     }
   ],
-  "last_updated": "2026-10-24T05:37:27.521619"
+  "last_updated": "2026-10-25T05:52:19.617129"
 }
