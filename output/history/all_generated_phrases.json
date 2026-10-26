@@ -12905,7 +12905,727 @@
       "german": "Dieser Moment, ist ein Geschenk.",
       "category": "Mindfulness",
       "generated_at": "2026-10-25T05:52:19.617127"
+    },
+    {
+      "english": "Hello, who is speaking?",
+      "german": "Hallo, wer spricht bitte?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446201"
+    },
+    {
+      "english": "Can you hear me well?",
+      "german": "Kannst du mich gut hören?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446215"
+    },
+    {
+      "english": "I can't hear you, sorry.",
+      "german": "Ich höre dich nicht, Entschuldigung.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446219"
+    },
+    {
+      "english": "Please speak louder, a bit.",
+      "german": "Bitte sprich lauter, ein bisschen.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446222"
+    },
+    {
+      "english": "The connection is bad, unfortunately.",
+      "german": "Die Verbindung ist leider schlecht.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446225"
+    },
+    {
+      "english": "One moment, please, hold on.",
+      "german": "Einen Moment bitte, dranbleiben.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446230"
+    },
+    {
+      "english": "Is this a private number?",
+      "german": "Ist das eine private Nummer?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446233"
+    },
+    {
+      "english": "I'll call you back later.",
+      "german": "Ich rufe dich später zurück.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446239"
+    },
+    {
+      "english": "Did you get my message?",
+      "german": "Hast du meine Nachricht bekommen?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446243"
+    },
+    {
+      "english": "Yes, I saw it, thanks.",
+      "german": "Ja, ich habe sie gesehen, danke.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446247"
+    },
+    {
+      "english": "I'll send you a text now.",
+      "german": "Ich schicke dir jetzt eine SMS.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446249"
+    },
+    {
+      "english": "Can you repeat that, please?",
+      "german": "Kannst du das wiederholen, bitte?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446252"
+    },
+    {
+      "english": "I'm on my way, almost there.",
+      "german": "Ich bin unterwegs, bin gleich da.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446257"
+    },
+    {
+      "english": "What's your number again?",
+      "german": "Wie ist deine Nummer nochmal?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446260"
+    },
+    {
+      "english": "Let's talk about this later.",
+      "german": "Lass uns später darüber reden.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446263"
+    },
+    {
+      "english": "I'm calling about the appointment.",
+      "german": "Ich rufe wegen des Termins an.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446265"
+    },
+    {
+      "english": "Can I leave a message?",
+      "german": "Kann ich eine Nachricht hinterlassen?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446268"
+    },
+    {
+      "english": "This is not the right number.",
+      "german": "Das ist nicht die richtige Nummer.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446271"
+    },
+    {
+      "english": "I'll call you from a landline.",
+      "german": "Ich rufe vom Festnetz an.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446273"
+    },
+    {
+      "english": "My phone is dead, sorry.",
+      "german": "Mein Akku ist leer, tut mir leid.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446276"
+    },
+    {
+      "english": "Let's quickly arrange this.",
+      "german": "Lass uns das kurz absprechen.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446279"
+    },
+    {
+      "english": "Are you busy right now?",
+      "german": "Hast du gerade Zeit?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446283"
+    },
+    {
+      "english": "I need to tell you something.",
+      "german": "Ich muss dir etwas erzählen.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446285"
+    },
+    {
+      "english": "Can you send me the address?",
+      "german": "Kannst du mir die Adresse schicken?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446288"
+    },
+    {
+      "english": "I'll be there in five minutes.",
+      "german": "Ich bin in fünf Minuten da.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446290"
+    },
+    {
+      "english": "Don't call this number anymore.",
+      "german": "Ruf diese Nummer nicht mehr an.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446293"
+    },
+    {
+      "english": "Is everything okay there?",
+      "german": "Ist bei dir alles in Ordnung?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446295"
+    },
+    {
+      "english": "What time should I call?",
+      "german": "Wann soll ich anrufen?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446298"
+    },
+    {
+      "english": "I'm currently unavailable.",
+      "german": "Ich bin gerade nicht erreichbar.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446300"
+    },
+    {
+      "english": "Please leave your name.",
+      "german": "Bitte hinterlassen Sie Ihren Namen.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446303"
+    },
+    {
+      "english": "Is this a good time to chat?",
+      "german": "Passt es dir gerade zum Reden?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446307"
+    },
+    {
+      "english": "Can I ask for your advice?",
+      "german": "Darf ich um deinen Rat bitten?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446311"
+    },
+    {
+      "english": "Did you understand what I meant?",
+      "german": "Hast du verstanden, was ich meinte?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446313"
+    },
+    {
+      "english": "Could you explain that again?",
+      "german": "Könntest du das nochmal erklären?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446316"
+    },
+    {
+      "english": "What do you think is best?",
+      "german": "Was denkst du, was am besten ist?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446318"
+    },
+    {
+      "english": "Is there anything else I can do?",
+      "german": "Kann ich sonst noch etwas tun?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446321"
+    },
+    {
+      "english": "Shall we discuss this on the phone?",
+      "german": "Sollen wir das mal telefonisch besprechen?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446324"
+    },
+    {
+      "english": "What's the best way to proceed?",
+      "german": "Wie gehen wir am besten vor?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446327"
+    },
+    {
+      "english": "Could you give me a quick update?",
+      "german": "Kannst du mir ein kurzes Update geben?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446329"
+    },
+    {
+      "english": "Are you free for a short call?",
+      "german": "Bist du frei für einen kurzen Anruf?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446332"
+    },
+    {
+      "english": "What's the latest news on this?",
+      "german": "Was gibt es Neues dazu?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446335"
+    },
+    {
+      "english": "Do you have a moment to talk?",
+      "german": "Hast du einen Moment Zeit zum Reden?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446337"
+    },
+    {
+      "english": "What's your opinion on the matter?",
+      "german": "Was ist deine Meinung dazu?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446340"
+    },
+    {
+      "english": "Is there a better time to reach you?",
+      "german": "Gibt es eine bessere Zeit, dich zu erreichen?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446343"
+    },
+    {
+      "english": "What outcome did you expect?",
+      "german": "Welches Ergebnis hast du erwartet?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446345"
+    },
+    {
+      "english": "Can we brainstorm some ideas?",
+      "german": "Können wir Ideen sammeln?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446348"
+    },
+    {
+      "english": "What's the plan from here?",
+      "german": "Was ist der weitere Plan?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446351"
+    },
+    {
+      "english": "Did you get the notification?",
+      "german": "Hast du die Benachrichtigung erhalten?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446353"
+    },
+    {
+      "english": "Could you send me the details?",
+      "german": "Kannst du mir die Einzelheiten schicken?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446356"
+    },
+    {
+      "english": "What's the status of the project?",
+      "german": "Wie ist der Stand des Projekts?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446358"
+    },
+    {
+      "english": "Can I forward this message?",
+      "german": "Darf ich diese Nachricht weiterleiten?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446361"
+    },
+    {
+      "english": "What's your immediate reaction?",
+      "german": "Was ist deine unmittelbare Reaktion?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446363"
+    },
+    {
+      "english": "Is there anything unclear?",
+      "german": "Gibt es noch etwas Unklares?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446366"
+    },
+    {
+      "english": "What should I do next?",
+      "german": "Was soll ich als Nächstes tun?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446370"
+    },
+    {
+      "english": "Could we schedule a quick call?",
+      "german": "Können wir einen kurzen Anruf planen?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446372"
+    },
+    {
+      "english": "Did you receive my email?",
+      "german": "Hast du meine E-Mail bekommen?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446375"
+    },
+    {
+      "english": "What's your availability like?",
+      "german": "Wie sieht deine Verfügbarkeit aus?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446377"
+    },
+    {
+      "english": "Don't give up, you've got this.",
+      "german": "Gib nicht auf, du schaffst das.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446380"
+    },
+    {
+      "english": "Focus on your progress, not perfection.",
+      "german": "Konzentrier dich auf Fortschritt, nicht Perfektion.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446383"
+    },
+    {
+      "english": "Take a deep breath, you can do it.",
+      "german": "Atme tief durch, du kannst das.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446388"
+    },
+    {
+      "english": "Positive thoughts bring positive results.",
+      "german": "Positive Gedanken bringen positive Ergebnisse.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446391"
+    },
+    {
+      "english": "You've learned so much already.",
+      "german": "Du hast schon so viel gelernt.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446394"
+    },
+    {
+      "english": "Keep that positive attitude going.",
+      "german": "Behalte diese positive Einstellung bei.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446396"
+    },
+    {
+      "english": "This challenge will make you stronger.",
+      "german": "Diese Herausforderung macht dich stärker.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446399"
+    },
+    {
+      "english": "One step at a time, you'll get there.",
+      "german": "Ein Schritt nach dem anderen, du schaffst es.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446402"
+    },
+    {
+      "english": "Your determination is inspiring.",
+      "german": "Deine Entschlossenheit ist inspirierend.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446404"
+    },
+    {
+      "english": "Think positive, stay motivated.",
+      "german": "Denk positiv, bleib motiviert.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446407"
+    },
+    {
+      "english": "Never underestimate your own strength.",
+      "german": "Unterschätze niemals deine eigene Stärke.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446411"
+    },
+    {
+      "english": "Keep pushing forward, never stop.",
+      "german": "Drück dich weiter vorwärts, hör niemals auf.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446414"
+    },
+    {
+      "english": "Your hard work will pay off.",
+      "german": "Deine harte Arbeit wird sich auszahlen.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446417"
+    },
+    {
+      "english": "Stay focused, you're almost there.",
+      "german": "Bleib konzentriert, du bist fast da.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446419"
+    },
+    {
+      "english": "You've overcome so much before.",
+      "german": "Du hast schon so viel überstanden.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446422"
+    },
+    {
+      "english": "Embrace the journey, learn and grow.",
+      "german": "Umarme die Reise, lerne und wachse.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446425"
+    },
+    {
+      "english": "Trust the process, it's working.",
+      "german": "Vertraue dem Prozess, er funktioniert.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446428"
+    },
+    {
+      "english": "You are a valuable person.",
+      "german": "Du bist eine wertvolle Person.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446430"
+    },
+    {
+      "english": "Celebrate your small victories.",
+      "german": "Feiere deine kleinen Siege.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446433"
+    },
+    {
+      "english": "You are making excellent progress.",
+      "german": "Du machst ausgezeichnete Fortschritte.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446435"
+    },
+    {
+      "english": "Every day is a new chance.",
+      "german": "Jeder Tag ist eine neue Chance.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446438"
+    },
+    {
+      "english": "Just checking in, what's up?",
+      "german": "Nur kurz nachgehakt, was gibt's?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446442"
+    },
+    {
+      "english": "I'll give you a buzz later.",
+      "german": "Ich geb' dir später einen Ping.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446445"
+    },
+    {
+      "english": "Talk to you soon, bye!",
+      "german": "Bis bald, mach's gut!",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446448"
+    },
+    {
+      "english": "Sorry, bad connection here.",
+      "german": "Sorry, schlechte Verbindung hier.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446451"
+    },
+    {
+      "english": "Is the line free now?",
+      "german": "Ist die Leitung jetzt frei?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446453"
+    },
+    {
+      "english": "My phone died, sorry.",
+      "german": "Mein Akku war leer, sorry.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446456"
+    },
+    {
+      "english": "Who's calling, please?",
+      "german": "Wer ist da bitte?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446459"
+    },
+    {
+      "english": "Got your message, thanks.",
+      "german": "Nachricht erhalten, danke.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446463"
+    },
+    {
+      "english": "It's urgent, pick up!",
+      "german": "Es ist dringend, nimm ab!",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446466"
+    },
+    {
+      "english": "I'm on my way now.",
+      "german": "Ich bin jetzt unterwegs.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446469"
+    },
+    {
+      "english": "Let's catch up soon.",
+      "german": "Lass uns bald quatschen.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446473"
+    },
+    {
+      "english": "Call me back when free.",
+      "german": "Ruf mich zurück, wenn du Zeit hast.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446475"
+    },
+    {
+      "english": "Is this a wrong number?",
+      "german": "Ist hier eine Falschnummer?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446478"
+    },
+    {
+      "english": "I'm cutting out a bit.",
+      "german": "Du brichst gerade ab.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446481"
+    },
+    {
+      "english": "Leave a message, please.",
+      "german": "Hinterlass eine Nachricht, bitte.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446483"
+    },
+    {
+      "english": "Can you hear the background noise?",
+      "german": "Hörst du die Nebengeräusche?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446486"
+    },
+    {
+      "english": "I'm having trouble reaching you.",
+      "german": "Ich erreiche dich schlecht.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446489"
+    },
+    {
+      "english": "Let's take this offline.",
+      "german": "Lass uns das später besprechen.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446491"
+    },
+    {
+      "english": "This call is being recorded.",
+      "german": "Dieses Gespräch wird aufgezeichnet.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446494"
+    },
+    {
+      "english": "Are you on speakerphone?",
+      "german": "Bist du auf Lautsprecher?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446496"
+    },
+    {
+      "english": "I'll send an emoji reaction.",
+      "german": "Ich schicke eine Emoji-Reaktion.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446499"
+    },
+    {
+      "english": "That sounds like a plan.",
+      "german": "Das klingt nach einem Plan.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446501"
+    },
+    {
+      "english": "I didn't quite catch that.",
+      "german": "Ich habe das nicht ganz verstanden.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446504"
+    },
+    {
+      "english": "What time works best for you?",
+      "german": "Welche Zeit passt Ihnen am besten?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446506"
+    },
+    {
+      "english": "My phone battery is low.",
+      "german": "Mein Akku ist fast leer.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446509"
+    },
+    {
+      "english": "Is there a better signal here?",
+      "german": "Gibt es hier besseren Empfang?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446511"
+    },
+    {
+      "english": "Let's reschedule our call.",
+      "german": "Lass uns unseren Anruf verschieben.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446514"
+    },
+    {
+      "english": "I'm having connection issues.",
+      "german": "Ich habe Verbindungsprobleme.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446516"
+    },
+    {
+      "english": "Please send a voice message.",
+      "german": "Bitte schicken Sie eine Sprachnachricht.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446519"
+    },
+    {
+      "english": "I'm not available right now.",
+      "german": "Ich bin gerade nicht erreichbar.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446522"
+    },
+    {
+      "english": "Can we chat briefly later?",
+      "german": "Können wir später kurz reden?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446524"
+    },
+    {
+      "english": "I'll message you the details.",
+      "german": "Ich schreibe Ihnen die Details.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446527"
+    },
+    {
+      "english": "The line is busy, try again.",
+      "german": "Die Leitung ist besetzt, versuchen Sie es erneut.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446530"
+    },
+    {
+      "english": "Did you get my last text?",
+      "german": "Hast du meine letzte Nachricht bekommen?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446532"
+    },
+    {
+      "english": "I'm currently in a meeting.",
+      "german": "Ich bin gerade in einer Besprechung.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446535"
+    },
+    {
+      "english": "Let's talk face to face.",
+      "german": "Lassen Sie uns persönlich sprechen.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446537"
+    },
+    {
+      "english": "I need to confirm the address.",
+      "german": "Ich muss die Adresse bestätigen.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446542"
+    },
+    {
+      "english": "I'm in a noisy place now.",
+      "german": "Ich bin gerade an einem lauten Ort.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446544"
+    },
+    {
+      "english": "Please dial the correct number.",
+      "german": "Bitte wählen Sie die richtige Nummer.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446547"
+    },
+    {
+      "english": "Is it a quick question?",
+      "german": "Ist es eine schnelle Frage?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446551"
+    },
+    {
+      "english": "I'll ring you later today.",
+      "german": "Ich rufe Sie später am Tag an.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446554"
+    },
+    {
+      "english": "Can you send the file via email?",
+      "german": "Können Sie die Datei per E-Mail schicken?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-10-26T05:56:04.446556"
     }
   ],
-  "last_updated": "2026-10-25T05:52:19.617129"
+  "last_updated": "2026-10-26T05:56:04.446558"
 }
