@@ -13625,7 +13625,727 @@
       "german": "Können Sie die Datei per E-Mail schicken?",
       "category": "Phone Calls & Messages",
       "generated_at": "2026-10-26T05:56:04.446556"
+    },
+    {
+      "english": "What's the local custom, please?",
+      "german": "Was ist hier die lokale Sitte, bitte?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317332"
+    },
+    {
+      "english": "How do people greet each other here?",
+      "german": "Wie begrüßt man sich hier?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317347"
+    },
+    {
+      "english": "Is it rude to do that?",
+      "german": "Ist das unhöflich, das zu tun?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317351"
+    },
+    {
+      "english": "I want to experience the real culture.",
+      "german": "Ich möchte die echte Kultur erleben.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317353"
+    },
+    {
+      "english": "What should I try, food-wise?",
+      "german": "Was sollte ich essen, kulinarisch?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317354"
+    },
+    {
+      "english": "Are there any special festivals soon?",
+      "german": "Gibt es bald besondere Feste?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317356"
+    },
+    {
+      "english": "Where can I find traditional crafts?",
+      "german": "Wo finde ich traditionelles Handwerk?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317357"
+    },
+    {
+      "english": "How do locals celebrate holidays?",
+      "german": "Wie feiern die Einheimischen Feste?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317361"
+    },
+    {
+      "english": "Can you explain this tradition?",
+      "german": "Kannst du diese Tradition erklären?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317363"
+    },
+    {
+      "english": "I'm trying to be respectful.",
+      "german": "Ich versuche, respektvoll zu sein.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317365"
+    },
+    {
+      "english": "What's considered polite behavior?",
+      "german": "Was gilt als höfliches Benehmen?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317366"
+    },
+    {
+      "english": "Is tipping expected here?",
+      "german": "Wird hier Trinkgeld erwartet?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317368"
+    },
+    {
+      "english": "How should I dress for this?",
+      "german": "Wie soll ich mich dafür kleiden?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317369"
+    },
+    {
+      "english": "What's a typical daily routine?",
+      "german": "Was ist eine typische Tagesroutine?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317371"
+    },
+    {
+      "english": "I'm interested in local music.",
+      "german": "Ich interessiere mich für lokale Musik.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317372"
+    },
+    {
+      "english": "Are there etiquette rules for meals?",
+      "german": "Gibt es Tischmanieren?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317374"
+    },
+    {
+      "english": "This is a fascinating tradition.",
+      "german": "Das ist eine faszinierende Tradition.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317375"
+    },
+    {
+      "english": "How do people shop locally?",
+      "german": "Wie kaufen die Leute hier ein?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317377"
+    },
+    {
+      "english": "What's a common local greeting?",
+      "german": "Was ist eine übliche Begrüßung?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317378"
+    },
+    {
+      "english": "I want to avoid cultural mistakes.",
+      "german": "Ich möchte kulturelle Fehler vermeiden.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317380"
+    },
+    {
+      "english": "What are the social norms here?",
+      "german": "Was sind die sozialen Normen hier?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317381"
+    },
+    {
+      "english": "Is it okay to take photos?",
+      "german": "Darf ich hier Fotos machen?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317384"
+    },
+    {
+      "english": "What's the pace of life like?",
+      "german": "Wie ist hier das Lebenstempo?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317386"
+    },
+    {
+      "english": "I'm curious about local history.",
+      "german": "Ich bin neugierig auf die lokale Geschichte.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317388"
+    },
+    {
+      "english": "What's a good souvenir to buy?",
+      "german": "Was ist ein gutes Souvenir zum Kaufen?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317390"
+    },
+    {
+      "english": "How do you show gratitude?",
+      "german": "Wie zeigt man Dankbarkeit?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317391"
+    },
+    {
+      "english": "What are common gestures used?",
+      "german": "Welche Gesten werden oft benutzt?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317392"
+    },
+    {
+      "english": "I'm learning local etiquette.",
+      "german": "Ich lerne die örtliche Etikette.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317394"
+    },
+    {
+      "english": "Tell me something unique here.",
+      "german": "Erzähl mir etwas Einzigartiges hier.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317395"
+    },
+    {
+      "english": "Could you tell me, what's customary?",
+      "german": "Können Sie mir sagen, was üblich ist?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317397"
+    },
+    {
+      "english": "What's the best way, to ask for advice?",
+      "german": "Wie fragt man hier am besten um Rat?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317399"
+    },
+    {
+      "english": "How do people, normally interact here?",
+      "german": "Wie interagiert man hier normalerweise?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317401"
+    },
+    {
+      "english": "Is there something, I shouldn't miss?",
+      "german": "Gibt es etwas, das ich nicht verpassen darf?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317404"
+    },
+    {
+      "english": "What do locals, usually do in the evenings?",
+      "german": "Was machen die Einheimischen abends so?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317405"
+    },
+    {
+      "english": "Can you recommend, a local experience?",
+      "german": "Können Sie ein lokales Erlebnis empfehlen?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317407"
+    },
+    {
+      "english": "What are typical, Sunday activities here?",
+      "german": "Was sind typische Sonntagsaktivitäten hier?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317409"
+    },
+    {
+      "english": "How do you say, 'thank you very much'?",
+      "german": "Wie sagt man 'vielen Dank'?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317412"
+    },
+    {
+      "english": "What's the polite way, to decline an offer?",
+      "german": "Wie lehnt man höflich ab?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317413"
+    },
+    {
+      "english": "Are there any, specific taboos here?",
+      "german": "Gibt es hier irgendwelche Tabus?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317415"
+    },
+    {
+      "english": "What's a common, way to start a conversation?",
+      "german": "Womit fängt man hier gut ein Gespräch an?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317417"
+    },
+    {
+      "english": "How do people, show appreciation?",
+      "german": "Wie zeigt man hier Wertschätzung?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317419"
+    },
+    {
+      "english": "Could you explain, the meaning behind this?",
+      "german": "Können Sie die Bedeutung dahinter erklären?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317421"
+    },
+    {
+      "english": "What's considered, good conversation etiquette?",
+      "german": "Was gilt als gute Gesprächsetikette?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317422"
+    },
+    {
+      "english": "Is it acceptable, to ask personal questions?",
+      "german": "Ist es in Ordnung, persönliche Fragen zu stellen?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317424"
+    },
+    {
+      "english": "What's the local approach, to punctuality?",
+      "german": "Wie wird Pünktlichkeit hier gehandhabt?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317426"
+    },
+    {
+      "english": "How do you politely, interrupt someone?",
+      "german": "Wie unterbricht man jemanden höflich?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317427"
+    },
+    {
+      "english": "What's the custom, for gift-giving?",
+      "german": "Was ist die Sitte beim Geschenkegeben?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317429"
+    },
+    {
+      "english": "Can you suggest, a local phrase?",
+      "german": "Können Sie eine lokale Redewendung vorschlagen?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317431"
+    },
+    {
+      "english": "What are families, like here?",
+      "german": "Wie sind Familien hier so?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317433"
+    },
+    {
+      "english": "How do locals, express disagreement?",
+      "german": "Wie äußern Einheimische ihre Meinungsverschiedenheit?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317434"
+    },
+    {
+      "english": "What's the general, vibe of the city?",
+      "german": "Wie ist die allgemeine Stimmung hier?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317436"
+    },
+    {
+      "english": "Is it common, to ask for help?",
+      "german": "Ist es üblich, um Hilfe zu bitten?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317437"
+    },
+    {
+      "english": "What are the social rules, for public transport?",
+      "german": "Was sind die sozialen Regeln im Nahverkehr?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317439"
+    },
+    {
+      "english": "How do you greet, someone you know well?",
+      "german": "Wie begrüßt man jemanden, den man gut kennt?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317442"
+    },
+    {
+      "english": "What should I say, when leaving?",
+      "german": "Was sollte ich sagen, wenn ich gehe?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317443"
+    },
+    {
+      "english": "What's the feeling, about tourists here?",
+      "german": "Wie stehen die Einheimischen zu Touristen?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317445"
+    },
+    {
+      "english": "Is it okay, to join a group?",
+      "german": "Ist es in Ordnung, sich einer Gruppe anzuschließen?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317446"
+    },
+    {
+      "english": "What are the local, dating customs?",
+      "german": "Was sind die lokalen Verhaltensweisen beim Dating?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317448"
+    },
+    {
+      "english": "Trust your journey, it's unique.",
+      "german": "Vertrau deinem Weg, er ist einzigartig.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317450"
+    },
+    {
+      "english": "Embrace the learning process, slowly.",
+      "german": "Umarme den Lernprozess, langsam.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317453"
+    },
+    {
+      "english": "Every small step counts, forward.",
+      "german": "Jeder kleine Schritt zählt, nach vorn.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317455"
+    },
+    {
+      "english": "Be patient, with yourself and others.",
+      "german": "Sei geduldig, mit dir und anderen.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317458"
+    },
+    {
+      "english": "Your effort is noticed, and appreciated.",
+      "german": "Deine Mühe wird gesehen, und geschätzt.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317461"
+    },
+    {
+      "english": "See challenges, as opportunities.",
+      "german": "Sieh Herausforderungen, als Chancen.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317463"
+    },
+    {
+      "english": "Believe in your progress, always.",
+      "german": "Glaube an deinen Fortschritt, immer.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317465"
+    },
+    {
+      "english": "Celebrate small victories, enthusiastically.",
+      "german": "Feiere kleine Erfolge, begeistert.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317467"
+    },
+    {
+      "english": "A positive attitude, opens doors.",
+      "german": "Eine positive Einstellung, öffnet Türen.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317469"
+    },
+    {
+      "english": "You have the strength, within you.",
+      "german": "Du hast die Stärke, in dir.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317471"
+    },
+    {
+      "english": "Mistakes are learning moments, embrace them.",
+      "german": "Fehler sind Lernmomente, umarme sie.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317473"
+    },
+    {
+      "english": "Stay curious, and open-minded.",
+      "german": "Bleib neugierig, und aufgeschlossen.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317475"
+    },
+    {
+      "english": "Your perspective, is valuable here.",
+      "german": "Deine Perspektive, ist hier wertvoll.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317477"
+    },
+    {
+      "english": "Encourage yourself, daily.",
+      "german": "Ermutige dich, täglich.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317478"
+    },
+    {
+      "english": "Adaptation is key, be flexible.",
+      "german": "Anpassung ist wichtig, sei flexibel.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317480"
+    },
+    {
+      "english": "Focus on connection, not perfection.",
+      "german": "Konzentriere dich auf Verbindung, nicht Perfektion.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317482"
+    },
+    {
+      "english": "Every experience, enriches your understanding.",
+      "german": "Jede Erfahrung, bereichert dein Verständnis.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317484"
+    },
+    {
+      "english": "Your willingness, is half the battle.",
+      "german": "Deine Bereitschaft, ist die halbe Miete.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317485"
+    },
+    {
+      "english": "Listen actively, learn more.",
+      "german": "Höre aufmerksam zu, lerne mehr.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317487"
+    },
+    {
+      "english": "It's okay, to ask for clarification.",
+      "german": "Es ist okay, um Klärung zu bitten.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317489"
+    },
+    {
+      "english": "Your open heart, connects you.",
+      "german": "Dein offenes Herz, verbindet dich.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317490"
+    },
+    {
+      "english": "The locals appreciate, your effort.",
+      "german": "Die Einheimischen schätzen, deine Bemühung.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317492"
+    },
+    {
+      "english": "Grow through, what you go through.",
+      "german": "Wachse durch, was du durchmachst.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317493"
+    },
+    {
+      "english": "Keep an open mind, observe.",
+      "german": "Behalte einen offenen Geist, beobachte.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317495"
+    },
+    {
+      "english": "It takes time, to understand traditions.",
+      "german": "Es braucht Zeit, Traditionen zu verstehen.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317496"
+    },
+    {
+      "english": "I feel more connected, now.",
+      "german": "Ich fühle mich verbundener, jetzt.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317498"
+    },
+    {
+      "english": "This custom, feels very warm.",
+      "german": "Dieser Brauch, fühlt sich sehr warm an.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317500"
+    },
+    {
+      "english": "What’s your honest, first impression?",
+      "german": "Was ist dein ehrlicher, erster Eindruck?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317503"
+    },
+    {
+      "english": "I’m reflecting, on this experience.",
+      "german": "Ich reflektiere, über diese Erfahrung.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317505"
+    },
+    {
+      "english": "It’s a deep, meaningful moment.",
+      "german": "Es ist ein tiefer, bedeutungsvoller Moment.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317507"
+    },
+    {
+      "english": "Patience truly, pays off here.",
+      "german": "Geduld zahlt sich hier, wirklich aus.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317509"
+    },
+    {
+      "english": "My feelings about it, are complex.",
+      "german": "Meine Gefühle dazu, sind komplex.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317511"
+    },
+    {
+      "english": "I’m learning, to appreciate nuances.",
+      "german": "Ich lerne, Nuancen wertzuschätzen.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317513"
+    },
+    {
+      "english": "This makes me think, deeply.",
+      "german": "Das regt mich, tief zum Nachdenken an.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317514"
+    },
+    {
+      "english": "My heart understands, this ritual.",
+      "german": "Mein Herz versteht, dieses Ritual.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317516"
+    },
+    {
+      "english": "What emotion, does this evoke?",
+      "german": "Welche Emotion, löst das aus?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317519"
+    },
+    {
+      "english": "This tradition, touches my soul.",
+      "german": "Diese Tradition, berührt meine Seele.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317520"
+    },
+    {
+      "english": "I’m processing, this new insight.",
+      "german": "Ich verarbeite, diese neue Erkenntnis.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317522"
+    },
+    {
+      "english": "Genuine connection, is the goal.",
+      "german": "Echte Verbindung, ist das Ziel.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317524"
+    },
+    {
+      "english": "Your vulnerability, is respected.",
+      "german": "Deine Verletzlichkeit, wird respektiert.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317525"
+    },
+    {
+      "english": "This requires, much introspection.",
+      "german": "Das erfordert, viel Selbstreflexion.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317527"
+    },
+    {
+      "english": "I’m feeling, a sense of belonging.",
+      "german": "Ich spüre, ein Gefühl der Zugehörigkeit.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317529"
+    },
+    {
+      "english": "We are all, on a learning curve.",
+      "german": "Wir sind alle, auf einer Lernkurve.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317530"
+    },
+    {
+      "english": "How does this, make you feel?",
+      "german": "Wie fühlst du dich, dabei?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317532"
+    },
+    {
+      "english": "Honest reflection, is valuable.",
+      "german": "Ehrliche Reflexion, ist wertvoll.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317534"
+    },
+    {
+      "english": "Let’s share, our true thoughts.",
+      "german": "Lasst uns, unsere echten Gedanken teilen.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317536"
+    },
+    {
+      "english": "This resonates, deeply with me.",
+      "german": "Das resoniert, tief in mir.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317537"
+    },
+    {
+      "english": "Understanding takes, empathy.",
+      "german": "Verständnis braucht, Empathie.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317539"
+    },
+    {
+      "english": "I’m moved, by this gesture.",
+      "german": "Ich bin gerührt, von dieser Geste.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317541"
+    },
+    {
+      "english": "What’s the emotional, significance?",
+      "german": "Was ist die emotionale, Bedeutung?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317543"
+    },
+    {
+      "english": "This brings me, inner peace.",
+      "german": "Das bringt mir, inneren Frieden.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317544"
+    },
+    {
+      "english": "Letting go, is part of it.",
+      "german": "Loslassen, ist Teil davon.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317546"
+    },
+    {
+      "english": "I feel a sense, of wonder.",
+      "german": "Ich empfinde, ein Gefühl des Staunens.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317548"
+    },
+    {
+      "english": "Start small, observe often.",
+      "german": "Fange klein an, beobachte oft.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317549"
+    },
+    {
+      "english": "Ask locals, for tips.",
+      "german": "Frag Einheimische, nach Tipps.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317551"
+    },
+    {
+      "english": "Learn simple phrases, first.",
+      "german": "Lerne zuerst, einfache Sätze.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317552"
+    },
+    {
+      "english": "Understand the unspoken rules.",
+      "german": "Verstehe die ungeschriebenen Regeln.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317554"
+    },
+    {
+      "english": "Adapt your behavior, slowly.",
+      "german": "Passe dein Verhalten, langsam an.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317556"
+    },
+    {
+      "english": "Show respect, for customs.",
+      "german": "Zeige Respekt, vor Bräuchen.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317557"
+    },
+    {
+      "english": "It’s a learning process, be patient.",
+      "german": "Es ist ein Lernprozess, sei geduldig.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317560"
+    },
+    {
+      "english": "Embrace the differences, openly.",
+      "german": "Umarme die Unterschiede, offen.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317562"
+    },
+    {
+      "english": "Participate, when invited.",
+      "german": "Nimm teil, wenn du eingeladen wirst.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-10-27T06:08:02.317564"
     }
   ],
-  "last_updated": "2026-10-26T05:56:04.446558"
+  "last_updated": "2026-10-27T06:08:02.317565"
 }
