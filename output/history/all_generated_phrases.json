@@ -15785,7 +15785,727 @@
       "german": "Lerne aus Fehlern, wiederhole sie nicht.",
       "category": "Wisdom",
       "generated_at": "2026-10-29T06:53:46.975958"
+    },
+    {
+      "english": "Help, please, I need help!",
+      "german": "Hilfe, bitte, ich brauche Hilfe!",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.678876"
+    },
+    {
+      "english": "Call the police, quickly!",
+      "german": "Rufen Sie die Polizei, schnell!",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.678889"
+    },
+    {
+      "english": "I feel unwell, very unwell.",
+      "german": "Mir ist nicht gut, sehr nicht gut.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.678893"
+    },
+    {
+      "english": "Where is the nearest doctor?",
+      "german": "Wo ist der nächste Arzt?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.678898"
+    },
+    {
+      "english": "I have pain, here, in my chest.",
+      "german": "Ich habe Schmerzen, hier, in meiner Brust.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.678901"
+    },
+    {
+      "english": "Is there a pharmacy nearby?",
+      "german": "Gibt es hier eine Apotheke?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.678904"
+    },
+    {
+      "english": "I need a doctor, urgently.",
+      "german": "Ich brauche einen Arzt, dringend.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.678907"
+    },
+    {
+      "english": "This is an emergency, understand?",
+      "german": "Das ist ein Notfall, verstehen Sie?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.678912"
+    },
+    {
+      "english": "My head hurts, a lot.",
+      "german": "Mein Kopf tut weh, sehr.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.678916"
+    },
+    {
+      "english": "Can you call an ambulance?",
+      "german": "Können Sie einen Krankenwagen rufen?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.678919"
+    },
+    {
+      "english": "I think I broke my arm.",
+      "german": "Ich glaube, ich habe meinen Arm gebrochen.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.678922"
+    },
+    {
+      "english": "What happened? Tell me.",
+      "german": "Was ist passiert? Sagen Sie es mir.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.678925"
+    },
+    {
+      "english": "I am allergic to, many things.",
+      "german": "Ich bin allergisch, gegen viele Dinge.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.678928"
+    },
+    {
+      "english": "Do you have a first-aid kit?",
+      "german": "Haben Sie einen Verbandskasten?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.678930"
+    },
+    {
+      "english": "I feel dizzy, I need to sit.",
+      "german": "Mir ist schwindelig, ich muss sitzen.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.678933"
+    },
+    {
+      "english": "Is anyone a doctor here?",
+      "german": "Ist hier jemand Arzt?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.678936"
+    },
+    {
+      "english": "My leg is injured, badly.",
+      "german": "Mein Bein ist verletzt, schlimm.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.678939"
+    },
+    {
+      "english": "I need medicine, for my cough.",
+      "german": "Ich brauche Medizin, gegen meinen Husten.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.678941"
+    },
+    {
+      "english": "Is the hospital far from here?",
+      "german": "Ist das Krankenhaus weit von hier?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.678944"
+    },
+    {
+      "english": "I have a fever, I'm hot.",
+      "german": "Ich habe Fieber, mir ist heiß.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.678949"
+    },
+    {
+      "english": "Please stay calm, everything's okay.",
+      "german": "Bitte bleiben Sie ruhig, alles ist gut.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.678952"
+    },
+    {
+      "english": "I can't breathe, help me!",
+      "german": "Ich kann nicht atmen, helfen Sie!",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.678955"
+    },
+    {
+      "english": "Where is the emergency room?",
+      "german": "Wo ist die Notaufnahme?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.678957"
+    },
+    {
+      "english": "My stomach hurts, a lot.",
+      "german": "Mein Magen tut weh, sehr.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.678959"
+    },
+    {
+      "english": "Do you need an ambulance?",
+      "german": "Brauchen Sie einen Krankenwagen?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.678962"
+    },
+    {
+      "english": "I feel weak, very weak.",
+      "german": "Ich fühle mich schwach, sehr schwach.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.678964"
+    },
+    {
+      "english": "What is your name? Tell me.",
+      "german": "Wie heißen Sie? Sagen Sie es mir.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.678967"
+    },
+    {
+      "english": "I have a wound, it's bleeding.",
+      "german": "Ich habe eine Wunde, sie blutet.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.678970"
+    },
+    {
+      "english": "We need a doctor, immediately.",
+      "german": "Wir brauchen einen Arzt, sofort.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.678973"
+    },
+    {
+      "english": "Are you okay? Answer me.",
+      "german": "Ist alles in Ordnung? Antworten Sie.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.678979"
+    },
+    {
+      "english": "What seems to be the problem?",
+      "german": "Was scheint das Problem zu sein?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.678982"
+    },
+    {
+      "english": "Do you speak English, perhaps?",
+      "german": "Sprechen Sie vielleicht Englisch?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.678985"
+    },
+    {
+      "english": "Is there a doctor available?",
+      "german": "Ist ein Arzt verfügbar?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.678988"
+    },
+    {
+      "english": "I need some advice, please.",
+      "german": "Ich brauche einen Rat, bitte.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.678991"
+    },
+    {
+      "english": "How do I get there?",
+      "german": "Wie komme ich dorthin?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.678993"
+    },
+    {
+      "english": "Could you call someone for me?",
+      "german": "Könnten Sie jemanden für mich rufen?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.678996"
+    },
+    {
+      "english": "Are you feeling any better?",
+      "german": "Fühlen Sie sich besser?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.678998"
+    },
+    {
+      "english": "Take a deep breath, slowly.",
+      "german": "Atmen Sie tief ein, langsam.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679001"
+    },
+    {
+      "english": "Don't worry, we will help.",
+      "german": "Machen Sie sich keine Sorgen, wir helfen.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679004"
+    },
+    {
+      "english": "What are your symptoms, exactly?",
+      "german": "Was sind Ihre Symptome, genau?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679007"
+    },
+    {
+      "english": "I need to lie down, for a bit.",
+      "german": "Ich muss mich hinlegen, kurz.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679010"
+    },
+    {
+      "english": "Is someone with you?",
+      "german": "Ist jemand bei Ihnen?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679012"
+    },
+    {
+      "english": "Can you describe the pain?",
+      "german": "Können Sie den Schmerz beschreiben?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679015"
+    },
+    {
+      "english": "Do you have any allergies?",
+      "german": "Haben Sie Allergien?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679017"
+    },
+    {
+      "english": "I need to see a specialist.",
+      "german": "Ich brauche einen Spezialisten.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679019"
+    },
+    {
+      "english": "Is this a serious condition?",
+      "german": "Ist das eine ernste Lage?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679022"
+    },
+    {
+      "english": "What is the best course of action?",
+      "german": "Was ist der beste Vorgehen?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679025"
+    },
+    {
+      "english": "I need some water, please.",
+      "german": "Ich brauche etwas Wasser, bitte.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679027"
+    },
+    {
+      "english": "Can you feel your fingers?",
+      "german": "Können Sie Ihre Finger spüren?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679030"
+    },
+    {
+      "english": "Should I go to the hospital?",
+      "german": "Sollte ich ins Krankenhaus?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679032"
+    },
+    {
+      "english": "Is there a pharmacy open now?",
+      "german": "Hat eine Apotheke jetzt offen?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679035"
+    },
+    {
+      "english": "I feel a bit nauseous.",
+      "german": "Mir ist etwas Übel.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679037"
+    },
+    {
+      "english": "Could you recommend a remedy?",
+      "german": "Können Sie ein Mittel empfehlen?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679040"
+    },
+    {
+      "english": "What did the doctor say?",
+      "german": "Was sagte der Arzt?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679042"
+    },
+    {
+      "english": "I need to rest, for a while.",
+      "german": "Ich muss mich ausruhen, etwas.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679045"
+    },
+    {
+      "english": "Is there an emergency number?",
+      "german": "Gibt es eine Notrufnummer?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679049"
+    },
+    {
+      "english": "What medication do you take?",
+      "german": "Welche Medikamente nehmen Sie?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679052"
+    },
+    {
+      "english": "You are strong, very strong.",
+      "german": "Du bist stark, sehr stark.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679055"
+    },
+    {
+      "english": "We will manage this, together.",
+      "german": "Wir schaffen das, zusammen.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679057"
+    },
+    {
+      "english": "Positive thoughts, help healing.",
+      "german": "Positive Gedanken, helfen heilen.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679060"
+    },
+    {
+      "english": "Believe in your recovery, truly.",
+      "german": "Glaube an deine Heilung, wirklich.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679063"
+    },
+    {
+      "english": "Take it one day, at a time.",
+      "german": "Nimm es Tag für Tag.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679068"
+    },
+    {
+      "english": "Your courage inspires, me.",
+      "german": "Dein Mut inspiriert, mich.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679071"
+    },
+    {
+      "english": "This is a challenge, not the end.",
+      "german": "Das ist eine Herausforderung, nicht das Ende.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679073"
+    },
+    {
+      "english": "You are resilient, you can do it.",
+      "german": "Du bist widerstandsfähig, du schaffst das.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679076"
+    },
+    {
+      "english": "Small victories, matter a lot.",
+      "german": "Kleine Siege, zählen sehr.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679079"
+    },
+    {
+      "english": "Hope is powerful, medicine.",
+      "german": "Hoffnung ist starke Medizin.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679082"
+    },
+    {
+      "english": "You are not alone, in this.",
+      "german": "Du bist nicht allein, damit.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679085"
+    },
+    {
+      "english": "Every breath, is a new chance.",
+      "german": "Jeder Atemzug, ist eine neue Chance.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679087"
+    },
+    {
+      "english": "Your body, is amazing.",
+      "german": "Dein Körper, ist erstaunlich.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679090"
+    },
+    {
+      "english": "Let go, of what you can't control.",
+      "german": "Lass los, was du nicht kontrollieren kannst.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679093"
+    },
+    {
+      "english": "You are loved, remember that.",
+      "german": "Du wirst geliebt, vergiss das nicht.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679096"
+    },
+    {
+      "english": "Patience, is a virtue.",
+      "german": "Geduld, ist eine Tugend.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679098"
+    },
+    {
+      "english": "Focus on healing, not fear.",
+      "german": "Konzentriere dich aufs Heilen, nicht auf Angst.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679101"
+    },
+    {
+      "english": "We believe, in you.",
+      "german": "Wir glauben, an dich.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679104"
+    },
+    {
+      "english": "You are getting better, each day.",
+      "german": "Du wirst besser, jeden Tag.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679106"
+    },
+    {
+      "english": "Keep that spirit, alive.",
+      "german": "Halte diesen Geist, lebendig.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679109"
+    },
+    {
+      "english": "You are doing, your best.",
+      "german": "Du gibst dein Bestes.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679111"
+    },
+    {
+      "english": "One day at a time, okay?",
+      "german": "Ein Tag nach dem anderen, ja?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679114"
+    },
+    {
+      "english": "Your will to live, is strong.",
+      "german": "Dein Lebenswille, ist stark.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679116"
+    },
+    {
+      "english": "We are here, for support.",
+      "german": "Wir sind hier, zur Unterstützung.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679119"
+    },
+    {
+      "english": "Never give up, hope.",
+      "german": "Gib die Hoffnung, nie auf.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679124"
+    },
+    {
+      "english": "I'm worried, a little bit.",
+      "german": "Ich mache mir, ein bisschen Sorgen.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679127"
+    },
+    {
+      "english": "How do you feel, truly?",
+      "german": "Wie fühlst du dich, wirklich?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679129"
+    },
+    {
+      "english": "This is tough, I know.",
+      "german": "Das ist hart, ich weiß.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679132"
+    },
+    {
+      "english": "Let's take a deep breath.",
+      "german": "Lass uns tief durchatmen.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679135"
+    },
+    {
+      "english": "We need more time, right?",
+      "german": "Wir brauchen mehr Zeit, oder?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679140"
+    },
+    {
+      "english": "Try to stay calm, please.",
+      "german": "Versuch ruhig zu bleiben, bitte.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679142"
+    },
+    {
+      "english": "What helps you, feel better?",
+      "german": "Was hilft dir, dich besser zu fühlen?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679145"
+    },
+    {
+      "english": "It will get better, eventually.",
+      "german": "Es wird besser, irgendwann.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679148"
+    },
+    {
+      "english": "Just focus, on recovery.",
+      "german": "Konzentrier dich, nur auf die Heilung.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679150"
+    },
+    {
+      "english": "I need your patience, please.",
+      "german": "Ich brauche deine Geduld, bitte.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679153"
+    },
+    {
+      "english": "This takes time, a lot.",
+      "german": "Das braucht Zeit, viel.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679156"
+    },
+    {
+      "english": "I understand, your struggle.",
+      "german": "Ich verstehe, deinen Kampf.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679160"
+    },
+    {
+      "english": "Let's keep hoping, always.",
+      "german": "Lasst uns weiter hoffen, immer.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679163"
+    },
+    {
+      "english": "Are you in pain, right now?",
+      "german": "Hast du Schmerzen, gerade jetzt?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679166"
+    },
+    {
+      "english": "What can I do, to help?",
+      "german": "Was kann ich tun, um zu helfen?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679168"
+    },
+    {
+      "english": "Don't give up, fighting.",
+      "german": "Gib nicht auf, im Kampf.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679171"
+    },
+    {
+      "english": "We're all here, for you.",
+      "german": "Wir sind alle da, für dich.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679174"
+    },
+    {
+      "english": "This is a difficult phase.",
+      "german": "Das ist eine schwere Phase.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679176"
+    },
+    {
+      "english": "Your strength impresses, me.",
+      "german": "Deine Stärke beeindruckt, mich.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679179"
+    },
+    {
+      "english": "Listen to your body, now.",
+      "german": "Hör auf deinen Körper, jetzt.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679181"
+    },
+    {
+      "english": "We'll get through this, somehow.",
+      "german": "Wir kommen da durch, irgendwie.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679184"
+    },
+    {
+      "english": "Take your time, healing.",
+      "german": "Nimm dir Zeit, zum Heilen.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679187"
+    },
+    {
+      "english": "I have a bad feeling.",
+      "german": "Ich habe ein ungutes Gefühl.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679189"
+    },
+    {
+      "english": "Let's stay positive, okay?",
+      "german": "Bleiben wir positiv, okay?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679192"
+    },
+    {
+      "english": "This needs more thought, seriously.",
+      "german": "Das braucht mehr Nachdenken, ehrlich.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679195"
+    },
+    {
+      "english": "I am a bit scared.",
+      "german": "Ich bin ein wenig ängstlich.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679199"
+    },
+    {
+      "english": "We need to be patient.",
+      "german": "Wir müssen geduldig sein.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679202"
+    },
+    {
+      "english": "My hotel address is, this.",
+      "german": "Meine Hoteladresse ist, diese.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679204"
+    },
+    {
+      "english": "I lost my medication, unfortunately.",
+      "german": "Ich habe meine Medikamente verloren, leider.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679207"
+    },
+    {
+      "english": "What is the emergency number, please?",
+      "german": "Was ist die Notrufnummer, bitte?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679210"
+    },
+    {
+      "english": "I feel quite unwell, today.",
+      "german": "Ich fühle mich ziemlich schlecht, heute.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679212"
+    },
+    {
+      "english": "Is there a hospital nearby, do you know?",
+      "german": "Gibt es ein Krankenhaus in der Nähe, wissen Sie?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679215"
+    },
+    {
+      "english": "I need help, right now.",
+      "german": "Ich brauche Hilfe, sofort.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679218"
+    },
+    {
+      "english": "Where can I buy bandages, maybe?",
+      "german": "Wo kann ich Verbandszeug kaufen, vielleicht?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679220"
+    },
+    {
+      "english": "I have a terrible headache.",
+      "german": "Ich habe furchtbare Kopfschmerzen.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679223"
+    },
+    {
+      "english": "Could you write that down, please?",
+      "german": "Könnten Sie das aufschreiben, bitte?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679225"
+    },
+    {
+      "english": "I need a quiet place, to rest.",
+      "german": "Ich brauche einen ruhigen Ort, zum Ausruhen.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679228"
+    },
+    {
+      "english": "My phone is not working, sadly.",
+      "german": "Mein Handy funktioniert nicht, leider.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-10-30T06:57:07.679231"
     }
   ],
-  "last_updated": "2026-10-29T06:53:46.975959"
+  "last_updated": "2026-10-30T06:57:07.679233"
 }
