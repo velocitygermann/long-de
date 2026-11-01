@@ -17225,7 +17225,727 @@
       "german": "Versuch zu sprechen, auch unvollkommen.",
       "category": "Growth",
       "generated_at": "2026-10-31T06:51:40.031383"
+    },
+    {
+      "english": "You've got this, believe in yourself.",
+      "german": "Du schaffst das, glaub an dich.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442500"
+    },
+    {
+      "english": "Don't give up, not yet.",
+      "german": "Gib nicht auf, noch nicht.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442515"
+    },
+    {
+      "english": "Almost there, keep pushing.",
+      "german": "Fast geschafft, weiter so.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442518"
+    },
+    {
+      "english": "Feel the progress, it's real.",
+      "german": "Spür den Fortschritt, er ist echt.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442522"
+    },
+    {
+      "english": "Your effort, makes a difference.",
+      "german": "Deine Mühe, macht einen Unterschied.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442524"
+    },
+    {
+      "english": "You're learning so fast, amazing!",
+      "german": "Du lernst so schnell, super!",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442528"
+    },
+    {
+      "english": "Embrace the challenge, it's fun.",
+      "german": "Nimm die Herausforderung an, das macht Spaß.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442531"
+    },
+    {
+      "english": "One step at a time, my friend.",
+      "german": "Ein Schritt nach dem anderen, mein Freund.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442536"
+    },
+    {
+      "english": "Your German, is getting better.",
+      "german": "Dein Deutsch, wird immer besser.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442539"
+    },
+    {
+      "english": "Stay focused, stay motivated.",
+      "german": "Bleib fokussiert, bleib motiviert.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442542"
+    },
+    {
+      "english": "You're so close, to your goal.",
+      "german": "Du bist so nah, an deinem Ziel.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442545"
+    },
+    {
+      "english": "Think positive, speak German.",
+      "german": "Denk positiv, sprich Deutsch.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442548"
+    },
+    {
+      "english": "Don't be afraid, to speak.",
+      "german": "Hab keine Angst, zu sprechen.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442553"
+    },
+    {
+      "english": "You're making great progress.",
+      "german": "Du machst tolle Fortschritte.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442555"
+    },
+    {
+      "english": "Just keep practicing, you'll see.",
+      "german": "Üb einfach weiter, du wirst sehen.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442559"
+    },
+    {
+      "english": "Let's do this, together.",
+      "german": "Lass uns das machen, zusammen.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442562"
+    },
+    {
+      "english": "Feel the motivation, flowing.",
+      "german": "Fühl die Motivation, fließen.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442565"
+    },
+    {
+      "english": "Success is near, keep going.",
+      "german": "Erfolg ist nah, weiter so.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442567"
+    },
+    {
+      "english": "You're capable, of anything.",
+      "german": "Du bist fähig, zu allem.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442570"
+    },
+    {
+      "english": "Embrace mistakes, as lessons.",
+      "german": "Nimm Fehler an, als Lektionen.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442572"
+    },
+    {
+      "english": "Your journey, is worth it.",
+      "german": "Deine Reise, ist es wert.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442575"
+    },
+    {
+      "english": "You are a star, shining.",
+      "german": "Du bist ein Star, am Glänzen.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442577"
+    },
+    {
+      "english": "What drives you, to learn German?",
+      "german": "Was treibt dich an, Deutsch zu lernen?",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442582"
+    },
+    {
+      "english": "What helps you, when you feel stuck?",
+      "german": "Was hilft dir, wenn du feststeckst?",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442585"
+    },
+    {
+      "english": "Can you share, a learning tip?",
+      "german": "Kannst du einen Lerntipp teilen?",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442588"
+    },
+    {
+      "english": "What's your favorite German word, and why?",
+      "german": "Was ist dein Lieblingswort, und warum?",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442590"
+    },
+    {
+      "english": "Do you practice speaking, with others?",
+      "german": "Übst du das Sprechen, mit anderen?",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442593"
+    },
+    {
+      "english": "What challenges, do you face learning?",
+      "german": "Welchen Herausforderungen stehst du gegenüber?",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442596"
+    },
+    {
+      "english": "How do you celebrate, small wins?",
+      "german": "Wie feierst du kleine Erfolge?",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442599"
+    },
+    {
+      "english": "What's your goal, with German fluency?",
+      "german": "Was ist dein Ziel, mit Deutschkenntnissen?",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442601"
+    },
+    {
+      "english": "What's a good way, to remember words?",
+      "german": "Was ist ein guter Weg, sich Wörter zu merken?",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442604"
+    },
+    {
+      "english": "How do you handle, grammar confusion?",
+      "german": "Wie gehst du mit Grammatikverwirrung um?",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442607"
+    },
+    {
+      "english": "What motivates you, most right now?",
+      "german": "Was motiviert dich, gerade am meisten?",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442609"
+    },
+    {
+      "english": "Do you listen to German music?",
+      "german": "Hörst du deutsche Musik?",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442612"
+    },
+    {
+      "english": "What's a common mistake, learners make?",
+      "german": "Was ist ein häufiger Fehler, den Lerner machen?",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442615"
+    },
+    {
+      "english": "How can I improve, my pronunciation?",
+      "german": "Wie kann ich meine Aussprache verbessern?",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442617"
+    },
+    {
+      "english": "What German movies, do you recommend?",
+      "german": "Welche deutschen Filme, kannst du empfehlen?",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442620"
+    },
+    {
+      "english": "Is it hard, to understand native speakers?",
+      "german": "Ist es schwer, Muttersprachler zu verstehen?",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442624"
+    },
+    {
+      "english": "How do you practice, listening skills?",
+      "german": "Wie trainierst du dein Hörverständnis?",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442627"
+    },
+    {
+      "english": "What makes learning German, fun for you?",
+      "german": "Was macht Deutschlernen für dich spaßig?",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442630"
+    },
+    {
+      "english": "Do you think, about speaking German daily?",
+      "german": "Denkst du daran, täglich Deutsch zu sprechen?",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442632"
+    },
+    {
+      "english": "What resources, do you use often?",
+      "german": "Welche Ressourcen nutzt du oft?",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442635"
+    },
+    {
+      "english": "How can we help, each other learn?",
+      "german": "Wie können wir uns gegenseitig helfen?",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442638"
+    },
+    {
+      "english": "What are your expectations, for this week?",
+      "german": "Was sind deine Erwartungen, für diese Woche?",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442640"
+    },
+    {
+      "english": "What helped you, overcome a language barrier?",
+      "german": "Was hat dir geholfen, eine Sprachbarriere zu überwinden?",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442645"
+    },
+    {
+      "english": "Are you enjoying, this learning journey?",
+      "german": "Genießt du diese Lernreise?",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442647"
+    },
+    {
+      "english": "What's one thing, you learned today?",
+      "german": "Was hast du heute gelernt?",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442650"
+    },
+    {
+      "english": "This is your moment, seize it.",
+      "german": "Das ist dein Moment, pack ihn.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442653"
+    },
+    {
+      "english": "Every little bit, counts.",
+      "german": "Jedes kleine bisschen, zählt.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442655"
+    },
+    {
+      "english": "Your dedication, is inspiring.",
+      "german": "Deine Hingabe, ist inspirierend.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442658"
+    },
+    {
+      "english": "Stay curious, stay learning.",
+      "german": "Bleib neugierig, bleib lernend.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442661"
+    },
+    {
+      "english": "You're building something, amazing.",
+      "german": "Du baust etwas, Großartiges.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442665"
+    },
+    {
+      "english": "Don't give up, now.",
+      "german": "Gib jetzt nicht auf.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442668"
+    },
+    {
+      "english": "Your persistence, is key.",
+      "german": "Deine Beharrlichkeit, ist der Schlüssel.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442671"
+    },
+    {
+      "english": "You are a language hero.",
+      "german": "Du bist ein Sprachheld.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442674"
+    },
+    {
+      "english": "Today is a good day, to learn.",
+      "german": "Heute ist ein guter Tag, zum Lernen.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442676"
+    },
+    {
+      "english": "Keep that positive vibe.",
+      "german": "Behalt diese positive Energie.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442679"
+    },
+    {
+      "english": "You're doing wonderfully, truly.",
+      "german": "Du machst das wunderbar, wirklich.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442682"
+    },
+    {
+      "english": "Embrace the challenge, learn.",
+      "german": "Nimm die Herausforderung an, lerne.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442686"
+    },
+    {
+      "english": "Your determination, shines through.",
+      "german": "Deine Entschlossenheit, strahlt.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442689"
+    },
+    {
+      "english": "Trust the process, unfold.",
+      "german": "Vertrau dem Prozess, er entfaltet sich.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442692"
+    },
+    {
+      "english": "Keep your goals, in sight.",
+      "german": "Behalte deine Ziele, im Blick.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442694"
+    },
+    {
+      "english": "You've unlocked, new potential.",
+      "german": "Du hast neues Potenzial, freigeschaltet.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442697"
+    },
+    {
+      "english": "Your mind, is expanding.",
+      "german": "Dein Geist, erweitert sich.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442700"
+    },
+    {
+      "english": "Stay brave, stay fluent.",
+      "german": "Bleib mutig, bleib flüssig.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442702"
+    },
+    {
+      "english": "You're a language learner, icon.",
+      "german": "Du bist eine Sprachlern-Ikone.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442705"
+    },
+    {
+      "english": "Your future, is speaking German.",
+      "german": "Deine Zukunft, spricht Deutsch.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442708"
+    },
+    {
+      "english": "Little strokes, fell great oaks.",
+      "german": "Viele kleine Striche, fällen große Eichen.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442711"
+    },
+    {
+      "english": "Practice makes perfect, you know.",
+      "german": "Übung macht den Meister, weißt du.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442713"
+    },
+    {
+      "english": "A watched pot, never boils.",
+      "german": "Was lange währt, wird endlich gut.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442716"
+    },
+    {
+      "english": "Don't lose heart, when it's tough.",
+      "german": "Verlier nicht den Mut, wenn es schwer ist.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442719"
+    },
+    {
+      "english": "Small progress, is still progress.",
+      "german": "Kleiner Fortschritt, ist trotzdem Fortschritt.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442721"
+    },
+    {
+      "english": "Success is the sum, of small efforts.",
+      "german": "Erfolg ist die Summe, kleiner Bemühungen.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442724"
+    },
+    {
+      "english": "Think big, start small.",
+      "german": "Denk groß, fang klein an.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442726"
+    },
+    {
+      "english": "Don't let mistakes, discourage you.",
+      "german": "Lass dich von Fehlern, nicht entmutigen.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442729"
+    },
+    {
+      "english": "Each day is, a new chance.",
+      "german": "Jeder Tag ist, eine neue Chance.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442732"
+    },
+    {
+      "english": "It's never too late, to learn.",
+      "german": "Es ist nie zu spät, zu lernen.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442737"
+    },
+    {
+      "english": "Never say never, to learning.",
+      "german": "Sag niemals nie, zum Lernen.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442739"
+    },
+    {
+      "english": "A goal without a plan, is just a wish.",
+      "german": "Ein Ziel ohne Plan, ist nur ein Wunsch.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442742"
+    },
+    {
+      "english": "Keep the spark, alive.",
+      "german": "Halte den Funken, am Leben.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442744"
+    },
+    {
+      "english": "Enjoy the ride, it's your journey.",
+      "german": "Genieß die Fahrt, es ist deine Reise.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442747"
+    },
+    {
+      "english": "This feels hard, but I'm growing.",
+      "german": "Das fühlt sich schwer an, aber ich wachse.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442770"
+    },
+    {
+      "english": "My patience, is being tested.",
+      "german": "Meine Geduld, wird auf die Probe gestellt.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442772"
+    },
+    {
+      "english": "I need to be kinder, to myself.",
+      "german": "Ich muss freundlicher, zu mir selbst sein.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442775"
+    },
+    {
+      "english": "Feeling overwhelmed, is normal sometimes.",
+      "german": "Überfordert zu sein, ist manchmal normal.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442777"
+    },
+    {
+      "english": "This journey, has its ups and downs.",
+      "german": "Diese Reise, hat ihre Höhen und Tiefen.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442780"
+    },
+    {
+      "english": "I'm learning to accept, the uncertainty.",
+      "german": "Ich lerne, die Ungewissheit zu akzeptieren.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442783"
+    },
+    {
+      "english": "It's okay, to feel discouraged.",
+      "german": "Es ist okay, sich entmutigt zu fühlen.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442792"
+    },
+    {
+      "english": "I'm finding joy, in the small wins.",
+      "german": "Ich finde Freude, in den kleinen Siegen.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442794"
+    },
+    {
+      "english": "This takes time, real time.",
+      "german": "Das braucht Zeit, echte Zeit.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442797"
+    },
+    {
+      "english": "I'm honest, about my struggles.",
+      "german": "Ich bin ehrlich, über meine Schwierigkeiten.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442800"
+    },
+    {
+      "english": "My inner voice, is getting stronger.",
+      "german": "Meine innere Stimme, wird stärker.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442802"
+    },
+    {
+      "english": "Reflecting on progress, keeps me going.",
+      "german": "Über Fortschritte nachzudenken, hält mich bei Laune.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442805"
+    },
+    {
+      "english": "I allow myself, to be imperfect.",
+      "german": "Ich erlaube mir, unvollkommen zu sein.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442808"
+    },
+    {
+      "english": "This deep dive, is revealing.",
+      "german": "Dieser tiefe Einblick, ist aufschlussreich.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442810"
+    },
+    {
+      "english": "I trust my intuition, more now.",
+      "german": "Ich vertraue meiner Intuition, mehr jetzt.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442813"
+    },
+    {
+      "english": "The silence, helps me understand.",
+      "german": "Die Stille, hilft mir zu verstehen.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442815"
+    },
+    {
+      "english": "I'm releasing, the pressure.",
+      "german": "Ich lasse, den Druck los.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442818"
+    },
+    {
+      "english": "This process, requires deep breaths.",
+      "german": "Dieser Prozess, erfordert tiefe Atemzüge.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442821"
+    },
+    {
+      "english": "I'm embracing, the quiet moments.",
+      "german": "Ich nehme, die ruhigen Momente an.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442823"
+    },
+    {
+      "english": "Authenticity, is my goal.",
+      "german": "Authentizität, ist mein Ziel.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442827"
+    },
+    {
+      "english": "Letting go, of perfectionism.",
+      "german": "Perfektionismus, loslassen.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442830"
+    },
+    {
+      "english": "My inner dialogue, is shifting.",
+      "german": "Mein innerer Dialog, verändert sich.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442832"
+    },
+    {
+      "english": "I feel vulnerable, and strong.",
+      "german": "Ich fühle mich verletzlich, und stark.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442835"
+    },
+    {
+      "english": "This understanding, is profound.",
+      "german": "Dieses Verständnis, ist tiefgründig.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442837"
+    },
+    {
+      "english": "I'm celebrating, the small shifts.",
+      "german": "Ich feiere, die kleinen Veränderungen.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442840"
+    },
+    {
+      "english": "My heart, is open to learning.",
+      "german": "Mein Herz, ist offen zum Lernen.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442843"
+    },
+    {
+      "english": "This feels right, for me now.",
+      "german": "Das fühlt sich richtig an, für mich jetzt.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442848"
+    },
+    {
+      "english": "I'm trusting, the unfolding journey.",
+      "german": "Ich vertraue, der sich entfaltenden Reise.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442851"
+    },
+    {
+      "english": "Learn a little, every single day.",
+      "german": "Lerne jeden Tag ein bisschen.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442853"
+    },
+    {
+      "english": "Don't stop, until it feels easy.",
+      "german": "Hör nicht auf, bis es leicht fällt.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442856"
+    },
+    {
+      "english": "Make German part, of your routine.",
+      "german": "Mach Deutsch zur Routine, jeden Tag.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442859"
+    },
+    {
+      "english": "Find a language buddy, for practice.",
+      "german": "Finde einen Lernpartner, zum Üben.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442861"
+    },
+    {
+      "english": "Ask for help, when you're stuck.",
+      "german": "Frag nach Hilfe, wenn du nicht weiterweißt.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442864"
+    },
+    {
+      "english": "Reward yourself, for small wins.",
+      "german": "Belohne dich, für kleine Erfolge.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442866"
+    },
+    {
+      "english": "Mistakes are proof, that you're trying.",
+      "german": "Fehler sind der Beweis, dass du übst.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442869"
+    },
+    {
+      "english": "Immersion is key, even at home.",
+      "german": "Eintauchen ist wichtig, auch zu Hause.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442872"
+    },
+    {
+      "english": "Understand the grammar, step by step.",
+      "german": "Verstehe die Grammatik, Schritt für Schritt.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442875"
+    },
+    {
+      "english": "Listen to German, whenever possible.",
+      "german": "Höre Deutsch, wann immer es geht.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442879"
+    },
+    {
+      "english": "Don't be afraid, to sound silly.",
+      "german": "Hab keine Angst, albern zu klingen.",
+      "category": "Motivation",
+      "generated_at": "2026-11-01T07:18:54.442882"
     }
   ],
-  "last_updated": "2026-10-31T06:51:40.031385"
+  "last_updated": "2026-11-01T07:18:54.442884"
 }
