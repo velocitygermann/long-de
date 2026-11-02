@@ -17945,7 +17945,727 @@
       "german": "Hab keine Angst, albern zu klingen.",
       "category": "Motivation",
       "generated_at": "2026-11-01T07:18:54.442882"
+    },
+    {
+      "english": "Oh, that's wonderful, really!",
+      "german": "Oh, das ist ja wunderbar, wirklich!",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046174"
+    },
+    {
+      "english": "What a pleasant surprise!",
+      "german": "Was für eine angenehme Überraschung!",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046187"
+    },
+    {
+      "english": "I'm so pleased, honestly.",
+      "german": "Ich freue mich so, ehrlich gesagt.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046191"
+    },
+    {
+      "english": "This makes me incredibly happy.",
+      "german": "Das macht mich unglaublich glücklich.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046194"
+    },
+    {
+      "english": "What a joyful moment, yes!",
+      "german": "Was für ein freudiger Moment, ja!",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046197"
+    },
+    {
+      "english": "I feel really good, thank you.",
+      "german": "Ich fühle mich wirklich gut, danke.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046200"
+    },
+    {
+      "english": "This is absolutely delightful!",
+      "german": "Das ist absolut entzückend!",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046202"
+    },
+    {
+      "english": "My heart is full of joy.",
+      "german": "Mein Herz ist voller Freude.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046209"
+    },
+    {
+      "english": "What a splendid day!",
+      "german": "Was für ein prächtiger Tag!",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046213"
+    },
+    {
+      "english": "This is pure bliss, indeed.",
+      "german": "Das ist pures Glück, tatsächlich.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046216"
+    },
+    {
+      "english": "I'm beaming with happiness.",
+      "german": "Ich strahle vor Glück.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046218"
+    },
+    {
+      "english": "This is simply marvelous!",
+      "german": "Das ist einfach wunderbar!",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046221"
+    },
+    {
+      "english": "What a great achievement!",
+      "german": "Was für eine tolle Leistung!",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046223"
+    },
+    {
+      "english": "This feels incredibly right.",
+      "german": "Das fühlt sich unglaublich richtig an.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046225"
+    },
+    {
+      "english": "I'm in such a good mood.",
+      "german": "Ich bin in so guter Laune.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046228"
+    },
+    {
+      "english": "This is pure delight, wow!",
+      "german": "Das ist pure Freude, wow!",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046232"
+    },
+    {
+      "english": "What a happy coincidence!",
+      "german": "Was für ein glücklicher Zufall!",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046235"
+    },
+    {
+      "english": "I'm thrilled with this.",
+      "german": "Ich bin begeistert davon.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046237"
+    },
+    {
+      "english": "This is truly inspiring, yes.",
+      "german": "Das ist wirklich inspirierend, ja.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046240"
+    },
+    {
+      "english": "What a beautiful experience!",
+      "german": "Was für eine schöne Erfahrung!",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046242"
+    },
+    {
+      "english": "I feel so uplifted now.",
+      "german": "Ich fühle mich jetzt so beflügelt.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046245"
+    },
+    {
+      "english": "This brings me great joy.",
+      "german": "Das bringt mir große Freude.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046247"
+    },
+    {
+      "english": "What a delightful outcome!",
+      "german": "Was für ein erfreuliches Ergebnis!",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046249"
+    },
+    {
+      "english": "This is simply the best!",
+      "german": "Das ist einfach das Beste!",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046252"
+    },
+    {
+      "english": "I'm overjoyed, truly.",
+      "german": "Ich bin überglücklich, wirklich.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046254"
+    },
+    {
+      "english": "What a wonderful feeling!",
+      "german": "Was für ein herrliches Gefühl!",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046257"
+    },
+    {
+      "english": "This is pure exhilaration!",
+      "german": "Das ist pure Hochstimmung!",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046259"
+    },
+    {
+      "english": "I'm so happy right now.",
+      "german": "Ich bin gerade so glücklich.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046261"
+    },
+    {
+      "english": "What a perfect moment!",
+      "german": "Was für ein perfekter Moment!",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046264"
+    },
+    {
+      "english": "What made you smile today?",
+      "german": "Was hat dich heute zum Lächeln gebracht?",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046266"
+    },
+    {
+      "english": "Are you excited about this?",
+      "german": "Bist du deswegen aufgeregt?",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046269"
+    },
+    {
+      "english": "What's your happy place?",
+      "german": "Wo ist dein glücklicher Ort?",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046272"
+    },
+    {
+      "english": "Did something good happen?",
+      "german": "Ist etwas Gutes passiert?",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046274"
+    },
+    {
+      "english": "Tell me, what brings joy?",
+      "german": "Erzähl mir, was Freude bringt?",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046277"
+    },
+    {
+      "english": "Is this idea good?",
+      "german": "Ist diese Idee gut?",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046292"
+    },
+    {
+      "english": "What's your favorite hobby?",
+      "german": "Was ist dein Lieblingshobby?",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046295"
+    },
+    {
+      "english": "Did you have fun?",
+      "german": "Hattest du Spaß?",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046297"
+    },
+    {
+      "english": "What makes you laugh?",
+      "german": "Was bringt dich zum Lachen?",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046300"
+    },
+    {
+      "english": "What do you recommend?",
+      "german": "Was empfiehlst du?",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046302"
+    },
+    {
+      "english": "Is that okay with you?",
+      "german": "Ist das in Ordnung für dich?",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046307"
+    },
+    {
+      "english": "Are you happy with this?",
+      "german": "Bist du damit zufrieden?",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046311"
+    },
+    {
+      "english": "Shall we go together?",
+      "german": "Gehen wir zusammen?",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046313"
+    },
+    {
+      "english": "What's new and exciting?",
+      "german": "Was gibt's Neues und Spannendes?",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046316"
+    },
+    {
+      "english": "Are you looking forward to it?",
+      "german": "Freust du dich darauf?",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046318"
+    },
+    {
+      "english": "What's your favorite part?",
+      "german": "Was ist dein Lieblingsteil?",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046321"
+    },
+    {
+      "english": "Did you enjoy the event?",
+      "german": "Hat dir die Veranstaltung gefallen?",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046323"
+    },
+    {
+      "english": "Could you explain this?",
+      "german": "Könntest du das erklären?",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046325"
+    },
+    {
+      "english": "What makes you feel good?",
+      "german": "Was gibt dir ein gutes Gefühl?",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046328"
+    },
+    {
+      "english": "What are you hoping for?",
+      "german": "Worauf hoffst du?",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046330"
+    },
+    {
+      "english": "Do you have any questions?",
+      "german": "Hast du Fragen?",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046332"
+    },
+    {
+      "english": "What's the best part?",
+      "german": "Was ist der beste Teil?",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046336"
+    },
+    {
+      "english": "That's a fantastic idea, really!",
+      "german": "Das ist eine tolle Idee, wirklich!",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046340"
+    },
+    {
+      "english": "This attitude is contagious, wow!",
+      "german": "Diese Einstellung ist ansteckend, wow!",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046342"
+    },
+    {
+      "english": "You're learning so quickly, nice!",
+      "german": "Du lernst so schnell, schön!",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046345"
+    },
+    {
+      "english": "That spark in your eyes, I see it.",
+      "german": "Dieses Funkeln in deinen Augen, ich sehe es.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046348"
+    },
+    {
+      "english": "You're handling this perfectly.",
+      "german": "Du meisterst das perfekt.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046351"
+    },
+    {
+      "english": "That's the spirit, exactly!",
+      "german": "Das ist der richtige Geist, genau!",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046353"
+    },
+    {
+      "english": "What a lovely effort, thank you.",
+      "german": "Was für eine schöne Anstrengung, danke.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046356"
+    },
+    {
+      "english": "Your determination is admirable.",
+      "german": "Deine Entschlossenheit ist bewundernswert.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046359"
+    },
+    {
+      "english": "This is exactly how it's done!",
+      "german": "So wird das gemacht, genau!",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046361"
+    },
+    {
+      "english": "You're making real headway now.",
+      "german": "Du machst jetzt richtig Fortschritte.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046364"
+    },
+    {
+      "english": "That smile says it all.",
+      "german": "Dieses Lächeln sagt alles.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046366"
+    },
+    {
+      "english": "That energy is fantastic, wow!",
+      "german": "Diese Energie ist fantastisch, wow!",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046369"
+    },
+    {
+      "english": "You're shining so bright today.",
+      "german": "Du strahlst heute so hell.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046372"
+    },
+    {
+      "english": "You make learning fun, seriously.",
+      "german": "Du machst das Lernen lustig, ernsthaft.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046374"
+    },
+    {
+      "english": "This feeling is golden, yes.",
+      "german": "Dieses Gefühl ist golden, ja.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046377"
+    },
+    {
+      "english": "You're blooming, it's beautiful.",
+      "german": "Du blühst auf, das ist schön.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046380"
+    },
+    {
+      "english": "That's pure genius, honestly.",
+      "german": "Das ist pures Genie, ehrlich.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046384"
+    },
+    {
+      "english": "You're nailing it, totally.",
+      "german": "Du triffst den Nagel auf den Kopf, total.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046387"
+    },
+    {
+      "english": "This enthusiasm is infectious!",
+      "german": "Dieser Enthusiasmus ist ansteckend!",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046389"
+    },
+    {
+      "english": "You've got such a good heart.",
+      "german": "Du hast so ein gutes Herz.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046392"
+    },
+    {
+      "english": "This makes my day, truly.",
+      "german": "Das versüßt mir den Tag, wirklich.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046396"
+    },
+    {
+      "english": "Pure joy, like a kid!",
+      "german": "Pure Freude, wie ein Kind!",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046399"
+    },
+    {
+      "english": "My heart is full, truly.",
+      "german": "Mein Herz ist voll, ehrlich.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046401"
+    },
+    {
+      "english": "A moment of pure bliss.",
+      "german": "Ein Moment pure Glückseligkeit.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046404"
+    },
+    {
+      "english": "Feeling on top of the world.",
+      "german": "Ich fühle mich wie auf Wolke Sieben.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046406"
+    },
+    {
+      "english": "What a delightful surprise!",
+      "german": "Was für eine schöne Überraschung!",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046408"
+    },
+    {
+      "english": "This is just wonderful.",
+      "german": "Das ist einfach wunderbar.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046411"
+    },
+    {
+      "english": "A smile lights up my face.",
+      "german": "Ein Lächeln erhellt mein Gesicht.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046413"
+    },
+    {
+      "english": "I'm bursting with happiness.",
+      "german": "Ich platze fast vor Glück.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046416"
+    },
+    {
+      "english": "This feels like a dream.",
+      "german": "Das fühlt sich wie ein Traum an.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046418"
+    },
+    {
+      "english": "So pleased with this outcome.",
+      "german": "Sehr erfreut über dieses Ergebnis.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046421"
+    },
+    {
+      "english": "My spirits are lifted, yes.",
+      "german": "Meine Laune ist gehoben, ja.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046423"
+    },
+    {
+      "english": "Pure delight, cannot complain.",
+      "german": "Pure Wonne, ich kann nicht klagen.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046426"
+    },
+    {
+      "english": "This is pure gold, honestly.",
+      "german": "Das ist pures Gold, ehrlich.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046428"
+    },
+    {
+      "english": "I'm in seventh heaven right now.",
+      "german": "Ich bin im siebten Himmel gerade.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046431"
+    },
+    {
+      "english": "This brings so much cheer.",
+      "german": "Das bringt so viel Heiterkeit.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046434"
+    },
+    {
+      "english": "A truly happy moment, indeed.",
+      "german": "Ein wirklich glücklicher Moment, in der Tat.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046436"
+    },
+    {
+      "english": "Overflowing with joy, yes!",
+      "german": "Überglücklich, ja!",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046439"
+    },
+    {
+      "english": "This is such a good vibe.",
+      "german": "Das ist so eine gute Stimmung.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046441"
+    },
+    {
+      "english": "My heart sings with delight.",
+      "german": "Mein Herz singt vor Freude.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046443"
+    },
+    {
+      "english": "Feeling light as a feather.",
+      "german": "Ich fühle mich federleicht.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046445"
+    },
+    {
+      "english": "So content, right here, now.",
+      "german": "So zufrieden, genau hier, jetzt.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046450"
+    },
+    {
+      "english": "A feeling of pure euphoria.",
+      "german": "Ein Gefühl purer Euphorie.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046453"
+    },
+    {
+      "english": "This is simply sublime.",
+      "german": "Das ist schlichtweg erhaben.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046455"
+    },
+    {
+      "english": "Radiating happiness, I am.",
+      "german": "Ich strahle Glück aus.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046457"
+    },
+    {
+      "english": "This makes my day, for sure.",
+      "german": "Das versüßt mir den Tag, auf jeden Fall.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046460"
+    },
+    {
+      "english": "It's a joy to be here.",
+      "german": "Es ist eine Freude, hier zu sein.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046462"
+    },
+    {
+      "english": "Unadulterated happiness, yes.",
+      "german": "Ungetrübtes Glück, ja.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046465"
+    },
+    {
+      "english": "This inner peace, it's amazing.",
+      "german": "Dieser innere Frieden, er ist erstaunlich.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046468"
+    },
+    {
+      "english": "Finding joy, in small things.",
+      "german": "Freude finden, in kleinen Dingen.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046470"
+    },
+    {
+      "english": "This quiet contentment, feels so right.",
+      "german": "Diese stille Zufriedenheit, fühlt sich so richtig an.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046473"
+    },
+    {
+      "english": "A deep sense of well-being.",
+      "german": "Ein tiefes Gefühl des Wohlbefindens.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046477"
+    },
+    {
+      "english": "This feeling, it truly nourishes me.",
+      "german": "Dieses Gefühl, es nährt mich wirklich.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046480"
+    },
+    {
+      "english": "I'm so grateful, for this moment.",
+      "german": "Ich bin so dankbar, für diesen Moment.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046483"
+    },
+    {
+      "english": "This inner light, it shines so bright.",
+      "german": "Dieses innere Licht, es leuchtet so hell.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046485"
+    },
+    {
+      "english": "A quiet happiness, is brewing.",
+      "german": "Ein leises Glück, braut sich zusammen.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046488"
+    },
+    {
+      "english": "This profound joy, it's unexpected.",
+      "german": "Diese tiefe Freude, sie ist unerwartet.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046496"
+    },
+    {
+      "english": "My soul feels light, today.",
+      "german": "Meine Seele fühlt sich leicht an, heute.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046499"
+    },
+    {
+      "english": "This gentle happiness, is precious.",
+      "german": "Dieses sanfte Glück, es ist kostbar.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046502"
+    },
+    {
+      "english": "This feeling, it warms my heart.",
+      "german": "Dieses Gefühl, es wärmt mein Herz.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046504"
+    },
+    {
+      "english": "True happiness, comes from acceptance.",
+      "german": "Wahre Freude, kommt von Akzeptanz.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046507"
+    },
+    {
+      "english": "I feel a quiet joy, settling in.",
+      "german": "Ich spüre eine stille Freude, die sich einnistet.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046509"
+    },
+    {
+      "english": "This moment, is pure contentment.",
+      "german": "Dieser Moment, ist reine Zufriedenheit.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046512"
+    },
+    {
+      "english": "Joy found, in deep reflection.",
+      "german": "Freude gefunden, in tiefer Reflexion.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046517"
+    },
+    {
+      "english": "A genuine sense of inner joy.",
+      "german": "Ein echtes Gefühl von innerer Freude.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046519"
+    },
+    {
+      "english": "This sweet feeling, it's so grounding.",
+      "german": "Dieses süße Gefühl, es ist so erdend.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046522"
+    },
+    {
+      "english": "My heart is at ease, truly.",
+      "german": "Mein Herz ist beruhigt, wirklich.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046525"
+    },
+    {
+      "english": "This subtle joy, it's powerful.",
+      "german": "Diese subtile Freude, sie ist mächtig.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046527"
+    },
+    {
+      "english": "A deep feeling, of pure happiness.",
+      "german": "Ein tiefes Gefühl, von purer Glückseligkeit.",
+      "category": "Joy",
+      "generated_at": "2026-11-02T07:32:13.046530"
     }
   ],
-  "last_updated": "2026-11-01T07:18:54.442884"
+  "last_updated": "2026-11-02T07:32:13.046532"
 }
