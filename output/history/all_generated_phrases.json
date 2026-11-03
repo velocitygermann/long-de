@@ -18665,7 +18665,727 @@
       "german": "Ein tiefes Gefühl, von purer Glückseligkeit.",
       "category": "Joy",
       "generated_at": "2026-11-02T07:32:13.046530"
+    },
+    {
+      "english": "Hey, are you okay, want some tea?",
+      "german": "Hey, bist du okay, willst du Tee?",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876805"
+    },
+    {
+      "english": "No worries, we can figure it out.",
+      "german": "Kein Stress, wir kriegen das hin.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876818"
+    },
+    {
+      "english": "You did your best, that counts.",
+      "german": "Du hast dein Bestes gegeben, das zählt.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876822"
+    },
+    {
+      "english": "Take your time, I’m right here.",
+      "german": "Nimm dir Zeit, ich bin da.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876826"
+    },
+    {
+      "english": "Thanks for speaking up, that’s brave.",
+      "german": "Danke, dass du was sagst, das ist mutig.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876830"
+    },
+    {
+      "english": "I got you, I’ll handle the next step.",
+      "german": "Ich nehm das, ich mach den nächsten Schritt.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876834"
+    },
+    {
+      "english": "Slow down, you’re doing great already.",
+      "german": "Mach langsam, du machst das schon gut.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876838"
+    },
+    {
+      "english": "That’s tough, but you’re not alone.",
+      "german": "Das ist schwer, aber du bist nicht allein.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876844"
+    },
+    {
+      "english": "Want to talk, no pressure at all?",
+      "german": "Willst du reden, ohne Druck, ganz ehrlich?",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876847"
+    },
+    {
+      "english": "I appreciate you, seriously, it means a lot.",
+      "german": "Ich schätze dich, wirklich, das bedeutet viel.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876851"
+    },
+    {
+      "english": "Let’s keep it calm, we’ll solve this.",
+      "german": "Bleib ruhig, wir kriegen das hin.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876854"
+    },
+    {
+      "english": "Good job, small wins count too.",
+      "german": "Gute Arbeit, kleine Erfolge zählen auch.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876857"
+    },
+    {
+      "english": "If you need help, just say so.",
+      "german": "Wenn du Hilfe brauchst, sag einfach Bescheid.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876859"
+    },
+    {
+      "english": "I’m listening, really, go on.",
+      "german": "Ich hör zu, wirklich, erzähl weiter.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876863"
+    },
+    {
+      "english": "That was kind, thank you for that.",
+      "german": "Das war lieb, danke dir dafür.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876865"
+    },
+    {
+      "english": "I believe in you, step by step.",
+      "german": "Ich glaub an dich, Schritt für Schritt.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876870"
+    },
+    {
+      "english": "We’ll get through this together, okay?",
+      "german": "Wir schaffen das zusammen, okay?",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876873"
+    },
+    {
+      "english": "You can vent, I won’t judge.",
+      "german": "Du darfst dich auslassen, ich bewerte nicht.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876877"
+    },
+    {
+      "english": "Let’s be fair, everyone has reasons.",
+      "german": "Lass uns fair bleiben, jeder hat Gründe.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876881"
+    },
+    {
+      "english": "Nice try, keep going, you’ve got this.",
+      "german": "Guter Versuch, bleib dran, du schaffst das.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876886"
+    },
+    {
+      "english": "I’m proud of you, don’t forget that.",
+      "german": "Ich bin stolz auf dich, vergiss das nicht.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876889"
+    },
+    {
+      "english": "Let’s take a break, breathe for a sec.",
+      "german": "Lass uns kurz pausieren, einmal durchatmen.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876892"
+    },
+    {
+      "english": "Thanks for helping out, that matters.",
+      "german": "Danke, dass du geholfen hast, das ist wichtig.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876895"
+    },
+    {
+      "english": "I’m sorry, that wasn’t fair to you.",
+      "german": "Es tut mir leid, das war nicht fair.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876898"
+    },
+    {
+      "english": "You’re safe with me, tell me honestly.",
+      "german": "Bei mir bist du sicher, sag’s mir ehrlich.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876901"
+    },
+    {
+      "english": "Can I help, just a little right now?",
+      "german": "Kann ich helfen, nur kurz gerade?",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876903"
+    },
+    {
+      "english": "It’s okay to feel that way, really.",
+      "german": "Es ist okay, so zu fühlen, wirklich.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876906"
+    },
+    {
+      "english": "You remembered, that’s thoughtful, thank you.",
+      "german": "Du hast’s dir gemerkt, das ist aufmerksam, danke.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876912"
+    },
+    {
+      "english": "Let’s do this gently, step by step.",
+      "german": "Lass uns das sanft machen, Schritt für Schritt.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876916"
+    },
+    {
+      "english": "Do you want to talk about it?",
+      "german": "Möchtest du darüber reden?",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876918"
+    },
+    {
+      "english": "What happened, and how can I help?",
+      "german": "Was ist passiert, und wie kann ich helfen?",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876921"
+    },
+    {
+      "english": "Is now a good time to ask?",
+      "german": "Ist jetzt ein guter Zeitpunkt zum Fragen?",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876924"
+    },
+    {
+      "english": "Could you share what you need today?",
+      "german": "Kannst du mir sagen, was du heute brauchst?",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876926"
+    },
+    {
+      "english": "How do you feel right now, really?",
+      "german": "Wie fühlst du dich gerade, wirklich?",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876929"
+    },
+    {
+      "english": "Would you like advice, or just listening?",
+      "german": "Willst du Rat, oder einfach nur Zuhören?",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876932"
+    },
+    {
+      "english": "What’s the kindest thing I can do?",
+      "german": "Was wäre das Netteste, das ich tun kann?",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876935"
+    },
+    {
+      "english": "Can I check in with you later?",
+      "german": "Darf ich später mal bei dir nachfragen?",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876937"
+    },
+    {
+      "english": "Do you want comfort, or a plan?",
+      "german": "Suchst du Trost, oder einen Plan?",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876940"
+    },
+    {
+      "english": "Are you okay with a quick suggestion?",
+      "german": "Ist eine kurze Idee für dich okay?",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876943"
+    },
+    {
+      "english": "What would make this easier for you?",
+      "german": "Was würde dir hier leichter machen?",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876945"
+    },
+    {
+      "english": "Can we talk, in a calm way?",
+      "german": "Können wir ruhig reden, bitte?",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876947"
+    },
+    {
+      "english": "How can we fix this together?",
+      "german": "Wie lösen wir das zusammen?",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876950"
+    },
+    {
+      "english": "Would you mind telling me your side?",
+      "german": "Kannst du mir deine Sicht erklären?",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876952"
+    },
+    {
+      "english": "Do you want me to stay, or go?",
+      "german": "Soll ich bleiben, oder lieber gehen?",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876955"
+    },
+    {
+      "english": "What’s one small step that helps?",
+      "german": "Was ist ein kleiner Schritt, der hilft?",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876958"
+    },
+    {
+      "english": "Can I offer help, just for now?",
+      "german": "Kann ich dir kurz unter die Arme greifen?",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876960"
+    },
+    {
+      "english": "How can I make your day lighter?",
+      "german": "Wie kann ich deinen Tag leichter machen?",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876963"
+    },
+    {
+      "english": "Do you need space, or company?",
+      "german": "Braucht du Ruhe, oder lieber Gesellschaft?",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876967"
+    },
+    {
+      "english": "Should we take this step by step?",
+      "german": "Sollen wir das Schritt für Schritt machen?",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876969"
+    },
+    {
+      "english": "Can you tell me what you prefer?",
+      "german": "Kannst du mir sagen, was du lieber magst?",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876972"
+    },
+    {
+      "english": "May I ask, what’s the real issue?",
+      "german": "Darf ich fragen, was der Kern ist?",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876975"
+    },
+    {
+      "english": "Do you want feedback, or kindness only?",
+      "german": "Willst du Feedback, oder nur Freundlichkeit?",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876978"
+    },
+    {
+      "english": "What would feel fair to you here?",
+      "german": "Was wäre für dich hier fair?",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876980"
+    },
+    {
+      "english": "Can we make a gentle plan together?",
+      "german": "Können wir einen sanften Plan machen?",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876983"
+    },
+    {
+      "english": "Do you want me to repeat that?",
+      "german": "Soll ich das nochmal sagen?",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876985"
+    },
+    {
+      "english": "How can I support you today, specifically?",
+      "german": "Wie kann ich dir heute konkret helfen?",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876987"
+    },
+    {
+      "english": "Would it help if we talk it through?",
+      "german": "Würde es helfen, wenn wir darüber reden?",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876990"
+    },
+    {
+      "english": "Is there anything you want from me?",
+      "german": "Gibt es etwas, das du von mir brauchst?",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876992"
+    },
+    {
+      "english": "You’ve got this, with kindness first.",
+      "german": "Du schaffst das, mit Freundlichkeit zuerst.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876995"
+    },
+    {
+      "english": "Say it soft, you’ll win hearts.",
+      "german": "Sag’s sanft, du gewinnst Herzen.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.876999"
+    },
+    {
+      "english": "Look for the good, it shows.",
+      "german": "Such das Gute, dann siehst du’s.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877004"
+    },
+    {
+      "english": "I see your effort, and I notice.",
+      "german": "Ich sehe deinen Einsatz, und ich merk’s.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877006"
+    },
+    {
+      "english": "You’re doing better, and I’m here.",
+      "german": "Du wirst besser, und ich bin da.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877012"
+    },
+    {
+      "english": "Be proud, kindness looks good on you.",
+      "german": "Sei stolz, Freundlichkeit steht dir.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877015"
+    },
+    {
+      "english": "Keep your tone warm, it changes everything.",
+      "german": "Halte deinen Ton warm, das macht’s besser.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877017"
+    },
+    {
+      "english": "You don’t have to be perfect, just kind.",
+      "german": "Du musst nicht perfekt sein, nur freundlich.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877021"
+    },
+    {
+      "english": "Small help counts, seriously, it matters.",
+      "german": "Kleine Hilfe zählt, wirklich, sie zählt.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877024"
+    },
+    {
+      "english": "Let your words lift them up.",
+      "german": "Lass deine Worte sie hochheben.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877026"
+    },
+    {
+      "english": "You’re brave for trying, I mean it.",
+      "german": "Du bist mutig zu versuchen, wirklich.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877030"
+    },
+    {
+      "english": "Thanks for being you, it helps.",
+      "german": "Danke, dass du du bist, das hilft.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877032"
+    },
+    {
+      "english": "Gentle beats loud, trust me.",
+      "german": "Sanft schlägt laut, glaub mir.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877035"
+    },
+    {
+      "english": "You make things lighter, just by showing up.",
+      "german": "Du machst alles leichter, einfach weil du da bist.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877040"
+    },
+    {
+      "english": "Let’s keep it kind, no stress.",
+      "german": "Lass uns freundlich bleiben, kein Stress.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877043"
+    },
+    {
+      "english": "Your calm helps more than you think.",
+      "german": "Deine Ruhe hilft mehr, als du denkst.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877046"
+    },
+    {
+      "english": "You’re safe here, take your time.",
+      "german": "Hier bist du sicher, nimm dir Zeit.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877049"
+    },
+    {
+      "english": "Choose patience, it always pays off.",
+      "german": "Wähle Geduld, sie zahlt sich aus.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877051"
+    },
+    {
+      "english": "Compliments first, anger later, okay?",
+      "german": "Erst Komplimente, später weniger Wut, okay?",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877054"
+    },
+    {
+      "english": "You don’t need permission to be kind.",
+      "german": "Du brauchst keine Erlaubnis, um freundlich zu sein.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877057"
+    },
+    {
+      "english": "Keep going, your kindness will land.",
+      "german": "Mach weiter, deine Freundlichkeit kommt an.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877061"
+    },
+    {
+      "english": "You’re not alone, kindness connects us.",
+      "german": "Du bist nicht allein, Freundlichkeit verbindet.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877064"
+    },
+    {
+      "english": "Let’s celebrate effort, not just results.",
+      "german": "Feiern wir Einsatz, nicht nur Ergebnisse.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877068"
+    },
+    {
+      "english": "Relax, you’re already doing the right thing.",
+      "german": "Atme durch, du machst das Richtige schon.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877071"
+    },
+    {
+      "english": "Your words can heal, use them gently.",
+      "german": "Deine Worte können heilen, nutz sie sanft.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877074"
+    },
+    {
+      "english": "Be the good energy, it spreads fast.",
+      "german": "Sei gute Energie, die breitet sich schnell aus.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877077"
+    },
+    {
+      "english": "I believe in you, that’s my honest take.",
+      "german": "Ich glaube an dich, das ist mein ehrlicher Punkt.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877080"
+    },
+    {
+      "english": "Thanks for choosing kindness, I notice it.",
+      "german": "Danke, dass du Freundlichkeit wählst, ich merk’s.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877082"
+    },
+    {
+      "english": "Stay soft inside, you’ll handle this.",
+      "german": "Bleib innen sanft, dann schaffst du das.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877085"
+    },
+    {
+      "english": "I feel safe when we speak honestly, gently.",
+      "german": "Ich fühle mich sicher, wenn wir ehrlich und sanft sprechen.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877088"
+    },
+    {
+      "english": "I notice your patience, and it helps me.",
+      "german": "Ich merke deine Geduld, und das hilft mir.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877090"
+    },
+    {
+      "english": "Sometimes I’m quiet, because I care.",
+      "german": "Manchmal bin ich still, weil mir das wichtig ist.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877094"
+    },
+    {
+      "english": "I want to be kinder, starting with me.",
+      "german": "Ich will freundlicher sein, und zwar bei mir.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877096"
+    },
+    {
+      "english": "I’m not perfect, but I mean it.",
+      "german": "Ich bin nicht perfekt, aber ich meine es ernst.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877099"
+    },
+    {
+      "english": "Take a breath, we can try again.",
+      "german": "Nimm einen Atemzug, wir probieren es nochmal.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877102"
+    },
+    {
+      "english": "I don’t want drama, I just want clarity.",
+      "german": "Ich will keinen Stress, ich will einfach Klarheit.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877105"
+    },
+    {
+      "english": "Thanks for listening, that’s really kind of you.",
+      "german": "Danke fürs Zuhören, das ist wirklich nett von dir.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877108"
+    },
+    {
+      "english": "I’m grateful you said it, calmly and true.",
+      "german": "Ich bin dir dankbar, dass du es ruhig sagst.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877111"
+    },
+    {
+      "english": "Let’s be honest, I’m still learning.",
+      "german": "Seien wir ehrlich, ich lerne noch.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877115"
+    },
+    {
+      "english": "I can’t rush this, I need time.",
+      "german": "Ich kann das nicht sofort, ich brauche Zeit.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877118"
+    },
+    {
+      "english": "Your words matter, so choose them gently.",
+      "german": "Deine Worte zählen, also wähl sie sanft.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877120"
+    },
+    {
+      "english": "I hear you, and I’m not judging.",
+      "german": "Ich höre dir zu, ich werte nicht.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877124"
+    },
+    {
+      "english": "I’m proud of your effort, not just results.",
+      "german": "Ich bin stolz auf deinen Einsatz, nicht nur auf das Ergebnis.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877129"
+    },
+    {
+      "english": "I might be wrong, but I’ll stay kind.",
+      "german": "Ich kann mich irren, aber ich bleibe freundlich.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877132"
+    },
+    {
+      "english": "Be patient with yourself, kindness starts there.",
+      "german": "Hab Geduld mit dir selbst, da beginnt Freundlichkeit.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877134"
+    },
+    {
+      "english": "I’m here, even if it’s messy today.",
+      "german": "Ich bin da, auch wenn es heute chaotisch ist.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877137"
+    },
+    {
+      "english": "We can slow down, your feelings are valid.",
+      "german": "Wir können langsamer werden, deine Gefühle sind okay.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877140"
+    },
+    {
+      "english": "I’m trying, and that’s enough for now.",
+      "german": "Ich versuche, und das reicht erstmal.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877143"
+    },
+    {
+      "english": "Let’s check in, how are you really doing?",
+      "german": "Lass uns kurz checken, wie geht’s dir wirklich?",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877147"
+    },
+    {
+      "english": "I’ll speak softer, because you’re overwhelmed.",
+      "german": "Ich spreche leiser, weil du gerade überfordert bist.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877150"
+    },
+    {
+      "english": "I’m reflecting, because respect changes everything.",
+      "german": "Ich denke nach, weil Respekt alles verändert.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877154"
+    },
+    {
+      "english": "Your honesty helps, even when it’s hard.",
+      "german": "Deine Ehrlichkeit hilft, auch wenn es schwer ist.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877157"
+    },
+    {
+      "english": "I don’t need to win, I need to connect.",
+      "german": "Ich muss nicht gewinnen, ich will verbinden.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877162"
+    },
+    {
+      "english": "I’ll take responsibility, even if it’s tough.",
+      "german": "Ich übernehme Verantwortung, auch wenn’s schwerfällt.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877165"
+    },
+    {
+      "english": "You can be real here, no masks needed.",
+      "german": "Du kannst hier echt sein, du brauchst keine Maske.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877168"
+    },
+    {
+      "english": "I’m trying to understand, not just react.",
+      "german": "Ich versuche zu verstehen, nicht nur zu reagieren.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877171"
+    },
+    {
+      "english": "Let’s keep it kind, I’ll own my part.",
+      "german": "Bleiben wir freundlich, ich stehe zu meinem Teil.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877174"
+    },
+    {
+      "english": "I’m learning to pause, before I speak.",
+      "german": "Ich lerne zu pausieren, bevor ich rede.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877177"
+    },
+    {
+      "english": "Your feelings are real, and I respect them.",
+      "german": "Deine Gefühle sind echt, und ich respektiere sie.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877180"
+    },
+    {
+      "english": "Hey, do you want a hand, really?",
+      "german": "Hey, willst du Hilfe, ganz ehrlich?",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877183"
+    },
+    {
+      "english": "Take your time, no pressure from me.",
+      "german": "Nimm dir Zeit, kein Druck von mir.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877185"
+    },
+    {
+      "english": "Let’s do it step by step, together.",
+      "german": "Wir machen das Schritt für Schritt, zusammen.",
+      "category": "Kindness",
+      "generated_at": "2026-11-03T07:47:02.877189"
     }
   ],
-  "last_updated": "2026-11-02T07:32:13.046532"
+  "last_updated": "2026-11-03T07:47:02.877190"
 }
