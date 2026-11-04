@@ -19385,7 +19385,727 @@
       "german": "Wir machen das Schritt für Schritt, zusammen.",
       "category": "Kindness",
       "generated_at": "2026-11-03T07:47:02.877189"
+    },
+    {
+      "english": "Okay, I’ll wait, no problem.",
+      "german": "Okay, ich warte, kein Problem.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865059"
+    },
+    {
+      "english": "Give me a minute, I’m on it.",
+      "german": "Gib mir eine Minute, ich bin dran.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865074"
+    },
+    {
+      "english": "Let’s slow down, we’ll figure it out.",
+      "german": "Lass uns langsamer machen, wir kriegen das hin.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865079"
+    },
+    {
+      "english": "I get it, take your time.",
+      "german": "Ich verstehe, nimm dir Zeit.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865082"
+    },
+    {
+      "english": "No stress, just keep going calmly.",
+      "german": "Kein Stress, einfach ruhig weitermachen.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865085"
+    },
+    {
+      "english": "Hold on, I’ll be right there.",
+      "german": "Warte kurz, ich bin gleich da.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865088"
+    },
+    {
+      "english": "I’ll wait, you’re doing fine.",
+      "german": "Ich warte, du machst das gut.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865091"
+    },
+    {
+      "english": "Take it easy, we can redo it.",
+      "german": "Nimm’s locker, wir können es nochmal machen.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865097"
+    },
+    {
+      "english": "Wait a sec, I’m checking now.",
+      "german": "Warte mal kurz, ich schaue gerade nach.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865101"
+    },
+    {
+      "english": "Okay, one step at a time.",
+      "german": "Okay, Schritt für Schritt.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865104"
+    },
+    {
+      "english": "We’ll get there, stay positive.",
+      "german": "Wir schaffen das, bleib positiv.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865107"
+    },
+    {
+      "english": "Just breathe, it’ll work out.",
+      "german": "Atme kurz durch, das wird schon.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865113"
+    },
+    {
+      "english": "Not yet, but it’s coming.",
+      "german": "Noch nicht, aber es kommt.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865116"
+    },
+    {
+      "english": "Give it time, then we decide.",
+      "german": "Gib dem Zeit, dann entscheiden wir.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865119"
+    },
+    {
+      "english": "Easy now, don’t panic, please.",
+      "german": "Ganz ruhig, bitte kein Stress.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865122"
+    },
+    {
+      "english": "All good, we’re on schedule.",
+      "german": "Alles gut, wir sind im Plan.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865127"
+    },
+    {
+      "english": "Wait, I need to think.",
+      "german": "Moment, ich muss kurz nachdenken.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865130"
+    },
+    {
+      "english": "We can try again later, okay?",
+      "german": "Wir probieren’s später nochmal, okay?",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865133"
+    },
+    {
+      "english": "Calm down, you’re learning fast.",
+      "german": "Beruhig dich, du lernst schnell.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865136"
+    },
+    {
+      "english": "I’ll be patient, promise.",
+      "german": "Ich bin geduldig, versprochen.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865140"
+    },
+    {
+      "english": "Let’s wait and see, then act.",
+      "german": "Warten wir ab, dann handeln wir.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865143"
+    },
+    {
+      "english": "Slow is fine, keep your rhythm.",
+      "german": "Langsam ist okay, behalte deinen Rhythmus.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865146"
+    },
+    {
+      "english": "Just stay with it, you’ll notice.",
+      "german": "Bleib dran, dann merkst du’s.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865149"
+    },
+    {
+      "english": "No rush, you’ve got time.",
+      "german": "Kein Stress, du hast Zeit.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865152"
+    },
+    {
+      "english": "Wait for the signal, then go.",
+      "german": "Warte auf das Signal, dann los.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865154"
+    },
+    {
+      "english": "I’m here, we’ll sort it out.",
+      "german": "Ich bin da, wir kriegen das hin.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865158"
+    },
+    {
+      "english": "Let it pass, don’t take it personally.",
+      "german": "Lass das vorbei ziehen, nimm’s nicht persönlich.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865161"
+    },
+    {
+      "english": "Be gentle with yourself, keep trying.",
+      "german": "Sei sanft zu dir, versuch’s weiter.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865163"
+    },
+    {
+      "english": "We’ll handle it, later is fine.",
+      "german": "Wir machen das später, später ist okay.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865167"
+    },
+    {
+      "english": "Patience, it’s normal to be stuck.",
+      "german": "Geduld, es ist normal, wenn man feststeckt.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865169"
+    },
+    {
+      "english": "What do you recommend, take your time?",
+      "german": "Was empfiehlst du, soll ich warten?",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865172"
+    },
+    {
+      "english": "How long will it take, roughly?",
+      "german": "Wie lange dauert das ungefähr?",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865175"
+    },
+    {
+      "english": "Do we have to do it now?",
+      "german": "Müssen wir das jetzt sofort machen?",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865178"
+    },
+    {
+      "english": "May I ask, is this the right pace?",
+      "german": "Darf ich fragen, ist das das richtige Tempo?",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865181"
+    },
+    {
+      "english": "Where should I start, step by step?",
+      "german": "Wo soll ich anfangen, Schritt für Schritt?",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865183"
+    },
+    {
+      "english": "Can we pause, I’m getting confused.",
+      "german": "Können wir kurz pausieren, ich bin verwirrt.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865187"
+    },
+    {
+      "english": "How do you stay calm during mistakes?",
+      "german": "Wie bleibst du ruhig, wenn du Fehler machst?",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865189"
+    },
+    {
+      "english": "Should I redo it, or wait?",
+      "german": "Soll ich es nochmal machen, oder warten?",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865192"
+    },
+    {
+      "english": "Do you have time for a quick question?",
+      "german": "Hast du kurz Zeit für eine Frage?",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865195"
+    },
+    {
+      "english": "Can you show me, I’ll follow slowly?",
+      "german": "Kannst du es mir zeigen, ich folge langsam?",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865199"
+    },
+    {
+      "english": "Is it okay if I take longer?",
+      "german": "Ist es okay, wenn ich länger brauche?",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865201"
+    },
+    {
+      "english": "What’s your trick for not rushing?",
+      "german": "Was ist dein Trick, nicht zu hetzen?",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865206"
+    },
+    {
+      "english": "I’m stuck, can we talk it through?",
+      "german": "Ich bin festgefahren, können wir das besprechen?",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865210"
+    },
+    {
+      "english": "Could you check my progress, please?",
+      "german": "Kannst du meinen Fortschritt kurz checken?",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865212"
+    },
+    {
+      "english": "Do we get another chance, later?",
+      "german": "Gibt es später noch eine Chance?",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865215"
+    },
+    {
+      "english": "How should I respond, politely or direct?",
+      "german": "Wie soll ich antworten, höflich oder direkt?",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865218"
+    },
+    {
+      "english": "Can I ask you something, quickly?",
+      "german": "Darf ich dich kurz etwas fragen?",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865220"
+    },
+    {
+      "english": "If I’m slow, is it still fine?",
+      "german": "Wenn ich langsam bin, ist das trotzdem okay?",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865224"
+    },
+    {
+      "english": "What should I do first, then?",
+      "german": "Was mache ich zuerst, und dann?",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865226"
+    },
+    {
+      "english": "Could you guide me, bit by bit?",
+      "german": "Kannst du mich Schritt für Schritt führen?",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865229"
+    },
+    {
+      "english": "When will you have time to help?",
+      "german": "Wann hast du Zeit, um mir zu helfen?",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865231"
+    },
+    {
+      "english": "Is there a simpler way, maybe?",
+      "german": "Gibt es einen einfacheren Weg, vielleicht?",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865234"
+    },
+    {
+      "english": "Can I pause here, I need to think?",
+      "german": "Kann ich hier kurz pausieren, ich muss nachdenken?",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865237"
+    },
+    {
+      "english": "What if I don’t get it yet?",
+      "german": "Was, wenn ich es noch nicht verstehe?",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865242"
+    },
+    {
+      "english": "Can we adjust, I’m keeping up slowly?",
+      "german": "Können wir das anpassen, ich bleibe langsam dran?",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865245"
+    },
+    {
+      "english": "How do you handle waiting without stress?",
+      "german": "Wie gehst du mit dem Warten ohne Stress um?",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865248"
+    },
+    {
+      "english": "Should I write it down, for later?",
+      "german": "Soll ich das für später aufschreiben?",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865250"
+    },
+    {
+      "english": "Can you tell me the next step, please?",
+      "german": "Kannst du mir den nächsten Schritt sagen, bitte?",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865253"
+    },
+    {
+      "english": "Breathe, small progress still counts.",
+      "german": "Atme durch, kleiner Fortschritt zählt trotzdem.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865256"
+    },
+    {
+      "english": "Focus on the next move, not the deadline.",
+      "german": "Auf den nächsten Schritt fokussieren, nicht aufs Limit.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865259"
+    },
+    {
+      "english": "Keep going, your effort builds up.",
+      "german": "Mach weiter, deine Mühe wächst.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865262"
+    },
+    {
+      "english": "Mistakes happen, learn, then move on.",
+      "german": "Fehler passieren, lern, und geh weiter.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865265"
+    },
+    {
+      "english": "Stay curious, patience follows your focus.",
+      "german": "Bleib neugierig, dann kommt Geduld mit.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865267"
+    },
+    {
+      "english": "Today’s practice makes tomorrow easier.",
+      "german": "Übung heute, macht morgen leichter.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865271"
+    },
+    {
+      "english": "Even slow days are still training.",
+      "german": "Auch langsame Tage sind Training.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865273"
+    },
+    {
+      "english": "Give yourself credit, you’re improving.",
+      "german": "Gönn dir Anerkennung, du wirst besser.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865278"
+    },
+    {
+      "english": "It’s okay to pause, your brain resets.",
+      "german": "Pause ist okay, dein Kopf resetet.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865282"
+    },
+    {
+      "english": "Say it slowly in your head, then speak.",
+      "german": "Sprich es langsam im Kopf, dann sag’s laut.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865285"
+    },
+    {
+      "english": "You’re building confidence, not just words.",
+      "german": "Du baust Selbstvertrauen auf, nicht nur Wörter.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865288"
+    },
+    {
+      "english": "Small wins today, big gains later.",
+      "german": "Kleine Siege heute, große Sprünge später.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865291"
+    },
+    {
+      "english": "Let the rhythm guide you, not panic.",
+      "german": "Der Rhythmus führt dich, nicht die Panik.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865293"
+    },
+    {
+      "english": "Celebrate effort, results come after.",
+      "german": "Feiere deinen Einsatz, die Ergebnisse kommen später.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865296"
+    },
+    {
+      "english": "Keep it simple, patience loves clarity.",
+      "german": "Halte es simpel, Geduld mag Klarheit.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865299"
+    },
+    {
+      "english": "You don’t need speed, you need consistency.",
+      "german": "Du brauchst keine Eile, du brauchst Beständigkeit.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865304"
+    },
+    {
+      "english": "Start again, no shame, just momentum.",
+      "german": "Fang neu an, ohne Scham, nur mit Schwung.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865307"
+    },
+    {
+      "english": "Keep listening, your grammar will catch up.",
+      "german": "Hör weiter zu, die Grammatik holt auf.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865310"
+    },
+    {
+      "english": "Be proud you’re trying, that’s progress.",
+      "german": "Sei stolz, dass du versuchst, das ist Fortschritt.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865313"
+    },
+    {
+      "english": "When it’s hard, take it as practice.",
+      "german": "Wenn’s schwer wird, nimm’s als Training.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865316"
+    },
+    {
+      "english": "You’re allowed to learn slowly, really.",
+      "german": "Du darfst langsam lernen, ganz ehrlich.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865320"
+    },
+    {
+      "english": "Let’s build calm, then make it work.",
+      "german": "Wir bauen erst Ruhe auf, dann klappt’s.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865323"
+    },
+    {
+      "english": "Trust your timing, it improves with repetition.",
+      "german": "Vertrau deinem Timing, es wird mit Wiederholung besser.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865325"
+    },
+    {
+      "english": "If you pause, you’re not falling behind.",
+      "german": "Wenn du pausierst, bleibst du dran.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865329"
+    },
+    {
+      "english": "Try once more, with kinder expectations.",
+      "german": "Versuch’s noch mal, mit freundlicheren Erwartungen.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865331"
+    },
+    {
+      "english": "Your patience is a superpower, use it.",
+      "german": "Geduld ist deine Superkraft, nutz sie.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865334"
+    },
+    {
+      "english": "Focus on understanding, not perfecting.",
+      "german": "Verstehe zuerst, perfektioniere später.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865339"
+    },
+    {
+      "english": "Keep showing up, that’s the real trick.",
+      "german": "Komm dran, bleib dabei, das ist der Trick.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865342"
+    },
+    {
+      "english": "I feel calmer, when I take my time.",
+      "german": "Ich fühle mich ruhiger, wenn ich mir Zeit nehme.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865345"
+    },
+    {
+      "english": "Honestly, I need patience right now.",
+      "german": "Ganz ehrlich, ich brauche gerade Geduld.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865348"
+    },
+    {
+      "english": "I’m trying to be kinder to myself.",
+      "german": "Ich versuche, freundlicher zu mir selbst zu sein.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865351"
+    },
+    {
+      "english": "Some days, progress feels small, but real.",
+      "german": "Manche Tage fühlt sich Fortschritt klein an, aber echt.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865354"
+    },
+    {
+      "english": "I notice my stress drops, when I slow down.",
+      "german": "Ich merke, mein Stress wird weniger, wenn ich langsamer bin.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865357"
+    },
+    {
+      "english": "I’m not behind, I’m just learning gently.",
+      "german": "Ich bin nicht hinterher, ich lerne nur vorsichtig.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865360"
+    },
+    {
+      "english": "I speak slower, and my thoughts catch up.",
+      "german": "Ich spreche langsamer, dann holen meine Gedanken auf.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865363"
+    },
+    {
+      "english": "It’s okay to pause, I’m listening better.",
+      "german": "Es ist okay, ich höre besser hin.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865366"
+    },
+    {
+      "english": "I’m learning to stay calm, even unsure.",
+      "german": "Ich lerne, ruhig zu bleiben, auch wenn ich unsicher bin.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865369"
+    },
+    {
+      "english": "Deep inside, I know practice takes time.",
+      "german": "Tief drinnen weiß ich, Übung braucht Zeit.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865371"
+    },
+    {
+      "english": "I don’t rush, I let the meaning land.",
+      "german": "Ich eile nicht, ich lasse die Bedeutung ankommen.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865374"
+    },
+    {
+      "english": "When I doubt, I remind myself, keep going.",
+      "german": "Wenn ich zweifle, sag ich mir selbst: weitermachen.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865377"
+    },
+    {
+      "english": "I’m honest: I’m still figuring it out.",
+      "german": "Ehrlich gesagt, ich bin noch am Herausfinden.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865380"
+    },
+    {
+      "english": "I can feel myself improving, bit by bit.",
+      "german": "Ich merke, wie ich mich verbessere, Stück für Stück.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865383"
+    },
+    {
+      "english": "My heart learns slowly, and that’s fine.",
+      "german": "Mein Herz lernt langsam, und das ist okay.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865386"
+    },
+    {
+      "english": "I don’t need perfection, I need patience.",
+      "german": "Ich brauche keine Perfektion, ich brauche Geduld.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865390"
+    },
+    {
+      "english": "Even my mistakes teach me, without judging.",
+      "german": "Selbst meine Fehler lehren mich, ohne zu verurteilen.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865393"
+    },
+    {
+      "english": "I’m choosing calm, because words take time.",
+      "german": "Ich entscheide mich für Ruhe, weil Wörter Zeit brauchen.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865396"
+    },
+    {
+      "english": "I let my feelings be there, then continue.",
+      "german": "Ich lasse meine Gefühle da sein, dann gehe ich weiter.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865458"
+    },
+    {
+      "english": "I admit it’s hard, but I stay open.",
+      "german": "Ich gebe zu, es ist schwer, aber ich bleibe offen.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865465"
+    },
+    {
+      "english": "I’m proud of trying, even imperfectly.",
+      "german": "Ich bin stolz aufs Versuchen, auch wenn’s nicht perfekt ist.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865468"
+    },
+    {
+      "english": "I can handle slow days, they’re part of it.",
+      "german": "Ich kann langsame Tage aushalten, sie gehören dazu.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865473"
+    },
+    {
+      "english": "I breathe, then ask, what I can learn.",
+      "german": "Ich atme ein, dann frage ich mich, was ich lernen kann.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865477"
+    },
+    {
+      "english": "I keep my expectations realistic, and I relax.",
+      "german": "Ich halte meine Erwartungen realistisch, dann werde ich ruhiger.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865479"
+    },
+    {
+      "english": "When it’s confusing, I stay curious.",
+      "german": "Wenn es verwirrend ist, bleibe ich neugierig.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865483"
+    },
+    {
+      "english": "I’m letting time do its job, quietly.",
+      "german": "Ich lasse die Zeit ihre Arbeit machen, ganz still.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865486"
+    },
+    {
+      "english": "My goal is steady growth, not instant results.",
+      "german": "Mein Ziel ist stetiges Wachstum, nicht sofortige Ergebnisse.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865489"
+    },
+    {
+      "english": "I trust myself, I just need patience.",
+      "german": "Ich vertraue mir, ich brauche nur Geduld.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865491"
+    },
+    {
+      "english": "If I feel stuck, I take one small step.",
+      "german": "Wenn ich mich festgefahren fühle, mache ich einen kleinen Schritt.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865494"
+    },
+    {
+      "english": "In line, I breathe, and listen closely.",
+      "german": "In der Schlange, ich atme, und höre genau hin.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865497"
+    },
+    {
+      "english": "When someone interrupts, I pause, then respond.",
+      "german": "Wenn mich jemand unterbricht, ich pausiere, dann antworte.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865500"
+    },
+    {
+      "english": "Texting slow feels normal, not embarrassing.",
+      "german": "Langsam zu schreiben, fühlt sich normal an, nicht peinlich.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865502"
+    },
+    {
+      "english": "At work, I ask once more, politely.",
+      "german": "Bei der Arbeit frage ich einmal mehr, höflich.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865506"
+    },
+    {
+      "english": "Before meetings, I write a tiny plan.",
+      "german": "Vor Meetings schreibe ich einen Mini-Plan auf.",
+      "category": "Patience",
+      "generated_at": "2026-11-04T07:25:33.865508"
     }
   ],
-  "last_updated": "2026-11-03T07:47:02.877190"
+  "last_updated": "2026-11-04T07:25:33.865510"
 }
