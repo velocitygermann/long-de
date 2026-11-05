@@ -20105,7 +20105,727 @@
       "german": "Vor Meetings schreibe ich einen Mini-Plan auf.",
       "category": "Patience",
       "generated_at": "2026-11-04T07:25:33.865508"
+    },
+    {
+      "english": "Hi there, how’s it going?",
+      "german": "Hi, wie läuft’s so?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.412960"
+    },
+    {
+      "english": "Hey, nice to meet you!",
+      "german": "Hey, freut mich, dich kennenzulernen!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.412974"
+    },
+    {
+      "english": "Hello! Good to see you again.",
+      "german": "Hallo! Schön, dich wiederzusehen.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.412978"
+    },
+    {
+      "english": "Hey, what’s up, how are you?",
+      "german": "Hey, was geht, wie geht’s dir?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.412982"
+    },
+    {
+      "english": "Yo, long time no see!",
+      "german": "Hey, lange nix gesehen!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.412985"
+    },
+    {
+      "english": "Hi, I’m new here, nice meeting you.",
+      "german": "Hi, ich bin neu hier, schön, dich kennenzulernen.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.412989"
+    },
+    {
+      "english": "Oh, hi! Sorry, I’m running late.",
+      "german": "Oh, hallo! Sorry, ich bin gleich spät dran.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.412993"
+    },
+    {
+      "english": "Nice! Thanks for meeting me today.",
+      "german": "Super! Danke, dass du mich heute triffst.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.412998"
+    },
+    {
+      "english": "Great, let’s do this.",
+      "german": "Perfekt, los geht’s!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413003"
+    },
+    {
+      "english": "Wait, are you new around here?",
+      "german": "Moment mal, bist du neu hier?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413006"
+    },
+    {
+      "english": "Hey, you seem familiar, do we know each other?",
+      "german": "Hey, du kommst mir bekannt vor, kennen wir uns?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413011"
+    },
+    {
+      "english": "That’s awesome, I’m really glad you’re here.",
+      "german": "Das ist toll, ich freu mich, dass du da bist.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413015"
+    },
+    {
+      "english": "All good, thanks! How about you?",
+      "german": "Alles gut, danke! Und bei dir?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413018"
+    },
+    {
+      "english": "Not bad, just chilling, and you?",
+      "german": "Nicht schlecht, ich chill grad, und du?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413021"
+    },
+    {
+      "english": "Nice to see you, take a seat!",
+      "german": "Schön dich zu sehen, setz dich!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413024"
+    },
+    {
+      "english": "Excuse me, do you have a minute?",
+      "german": "Entschuldigung, hast du kurz Zeit?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413026"
+    },
+    {
+      "english": "Thanks, you’re kind, really appreciate it.",
+      "german": "Danke, du bist lieb, echt voll lieb von dir.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413030"
+    },
+    {
+      "english": "Oh wow, hi! I didn’t expect you.",
+      "german": "Oh wow, hallo! Ich hab dich nicht erwartet.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413034"
+    },
+    {
+      "english": "Hey, what’s your name?",
+      "german": "Hey, wie heißt du?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413037"
+    },
+    {
+      "english": "My name’s Alex, nice to meet you!",
+      "german": "Ich heiße Alex, freut mich!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413041"
+    },
+    {
+      "english": "Where are you from?",
+      "german": "Woher kommst du?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413043"
+    },
+    {
+      "english": "Cool, I’m into that too!",
+      "german": "Cool, ich bin da auch dabei!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413046"
+    },
+    {
+      "english": "Nice haircut! Where’d you get it?",
+      "german": "Tolle Frisur! Wo hast du die gemacht?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413049"
+    },
+    {
+      "english": "Sorry, I forgot your name.",
+      "german": "Entschuldigung, ich hab deinen Namen vergessen.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413054"
+    },
+    {
+      "english": "No worries, we’re fine!",
+      "german": "Kein Stress, ist alles gut!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413057"
+    },
+    {
+      "english": "Pleased to meet you, same here!",
+      "german": "Freut mich, freut mich auch!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413060"
+    },
+    {
+      "english": "Sorry again, I’m coming right now.",
+      "german": "Sorry nochmal, ich komme sofort.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413063"
+    },
+    {
+      "english": "Alright, let’s get started.",
+      "german": "Okay, dann legen wir los.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413066"
+    },
+    {
+      "english": "Catch you later, see you soon!",
+      "german": "Bis später, bis bald!",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413069"
+    },
+    {
+      "english": "Can you tell me where to go next?",
+      "german": "Kannst du mir sagen, wo ich als Nächstes hingehe?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413072"
+    },
+    {
+      "english": "What’s the quickest way to get there?",
+      "german": "Was ist der schnellste Weg, dorthin zu kommen?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413075"
+    },
+    {
+      "english": "Is it okay if I join you here?",
+      "german": "Ist es okay, wenn ich mich zu euch setze?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413078"
+    },
+    {
+      "english": "Do you mind if I ask a quick thing?",
+      "german": "Stört es dich, wenn ich kurz was frage?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413081"
+    },
+    {
+      "english": "How do people usually greet you here?",
+      "german": "Wie begrüßt man sich hier normalerweise?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413084"
+    },
+    {
+      "english": "Which person should I talk to first?",
+      "german": "Mit wem soll ich zuerst sprechen?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413086"
+    },
+    {
+      "english": "Do you have a moment for a question?",
+      "german": "Hast du kurz Zeit für eine Frage?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413089"
+    },
+    {
+      "english": "Where should I keep my stuff?",
+      "german": "Wo soll ich meine Sachen hinlegen?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413092"
+    },
+    {
+      "english": "Am I doing this right, or not yet?",
+      "german": "Mach ich das richtig, oder noch nicht?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413094"
+    },
+    {
+      "english": "How’s the vibe here, chill or busy?",
+      "german": "Wie ist die Stimmung hier, entspannt oder stressig?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413098"
+    },
+    {
+      "english": "What’s the best time to show up?",
+      "german": "Wann ist die beste Zeit, um zu erscheinen?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413101"
+    },
+    {
+      "english": "Can you repeat that, sorry, I missed it?",
+      "german": "Kannst du das wiederholen, sorry, ich hab’s verpasst?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413105"
+    },
+    {
+      "english": "Do we shake hands, or just nod?",
+      "german": "Schüttelt man hier die Hand, oder reicht ein Nicken?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413108"
+    },
+    {
+      "english": "Who’s the organizer, do you know?",
+      "german": "Wer ist der Organisator, weißt du das?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413113"
+    },
+    {
+      "english": "Is there a dress code for this?",
+      "german": "Gibt es einen Dresscode für diese Veranstaltung?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413116"
+    },
+    {
+      "english": "Can you point me to the right room?",
+      "german": "Kannst du mir den Weg zum richtigen Raum zeigen?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413118"
+    },
+    {
+      "english": "Do you have any tips for small talk?",
+      "german": "Hast du Tipps für Small Talk?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413121"
+    },
+    {
+      "english": "What should I say if I don’t know?",
+      "german": "Was sage ich, wenn ich’s nicht weiß?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413124"
+    },
+    {
+      "english": "How long does this usually take?",
+      "german": "Wie lange dauert das normalerweise?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413126"
+    },
+    {
+      "english": "Should I email you after, or now?",
+      "german": "Soll ich dir danach schreiben, oder jetzt?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413129"
+    },
+    {
+      "english": "What’s your best advice for beginners here?",
+      "german": "Was ist dein bester Tipp für Anfänger?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413132"
+    },
+    {
+      "english": "Could you help me, I’m a bit lost?",
+      "german": "Kannst du mir helfen, ich bin ein bisschen verloren?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413135"
+    },
+    {
+      "english": "Is it better to use 'du' or 'Sie'?",
+      "german": "Ist es besser, 'du' oder 'Sie' zu sagen?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413139"
+    },
+    {
+      "english": "Do you prefer quick chats, or longer ones?",
+      "german": "Bist du eher für kurze Gespräche, oder länger?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413141"
+    },
+    {
+      "english": "What did I miss, just in case?",
+      "german": "Was hab ich verpasst, nur für den Fall?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413144"
+    },
+    {
+      "english": "Any questions for me before we start?",
+      "german": "Hast du noch Fragen an mich, bevor wir starten?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413147"
+    },
+    {
+      "english": "Can we keep it simple, please?",
+      "german": "Können wir es bitte einfach halten?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413149"
+    },
+    {
+      "english": "How should I address you in German?",
+      "german": "Wie spreche ich dich auf Deutsch am besten an?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413152"
+    },
+    {
+      "english": "Thanks, you made this less awkward.",
+      "german": "Danke, das hat es viel weniger peinlich gemacht.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413154"
+    },
+    {
+      "english": "You’ve got this, just say hi first.",
+      "german": "Du schaffst das, sag einfach zuerst hi.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413158"
+    },
+    {
+      "english": "Small smile, big start, you’ll feel it.",
+      "german": "Kleines Lächeln, großer Start, du merkst es.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413163"
+    },
+    {
+      "english": "Relax, even greetings can be simple.",
+      "german": "Entspann dich, Grüßen darf auch einfach sein.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413167"
+    },
+    {
+      "english": "It’s okay to be a little nervous.",
+      "german": "Es ist okay, ein bisschen nervös zu sein.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413170"
+    },
+    {
+      "english": "Stay curious, people love friendly questions.",
+      "german": "Bleib neugierig, freundliche Fragen kommen gut an.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413173"
+    },
+    {
+      "english": "Keep it warm, your tone matters most.",
+      "german": "Bleib herzlich, deine Tonlage zählt am meisten.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413176"
+    },
+    {
+      "english": "Nice meeting you, and really glad you came.",
+      "german": "Schön, dich kennenzulernen, und ich freue mich.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413179"
+    },
+    {
+      "english": "Compliment something real, it breaks the ice fast.",
+      "german": "Lob etwas Echtes, das Eis bricht schnell.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413183"
+    },
+    {
+      "english": "Try “Guten Morgen”, it’s a safe opener.",
+      "german": "Probier „Guten Morgen“, das ist ein sicherer Start.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413187"
+    },
+    {
+      "english": "Trust yourself, your effort shows.",
+      "german": "Vertrau dir, man sieht deinen Einsatz.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413190"
+    },
+    {
+      "english": "Say it clearly, confidence sounds natural.",
+      "german": "Sag es klar, Sicherheit klingt ganz natürlich.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413193"
+    },
+    {
+      "english": "If you stumble, just smile and continue.",
+      "german": "Wenn du stolperst, lächel, und mach weiter.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413195"
+    },
+    {
+      "english": "Today’s your chance, start with a greeting.",
+      "german": "Heute ist deine Chance, starte mit einem Gruß.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413199"
+    },
+    {
+      "english": "Good energy attracts people, go with that.",
+      "german": "Gute Energie zieht Leute an, geh damit.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413202"
+    },
+    {
+      "english": "You don’t need perfect German, just be kind.",
+      "german": "Perfektes Deutsch brauchst du nicht, sei einfach freundlich.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413205"
+    },
+    {
+      "english": "Remember names, it feels personal and respectful.",
+      "german": "Merke dir Namen, das ist persönlich und höflich.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413208"
+    },
+    {
+      "english": "Celebrate small wins, greetings are practice.",
+      "german": "Feier die kleinen Erfolge, Grüßen ist Übung.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413212"
+    },
+    {
+      "english": "Ask one thing, and you’re already connected.",
+      "german": "Frag eine Sache, und schon seid ihr verbunden.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413216"
+    },
+    {
+      "english": "Start positive, even silence can be friendly.",
+      "german": "Starte positiv, auch stille Momente können freundlich sein.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413219"
+    },
+    {
+      "english": "You’re learning fast, keep showing up.",
+      "german": "Du lernst schnell, bleib einfach dran.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413222"
+    },
+    {
+      "english": "A warm tone can beat any grammar mistake.",
+      "german": "Ein warmer Ton schlägt jede Grammatikpanne.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413224"
+    },
+    {
+      "english": "Be brave, saying hello opens doors.",
+      "german": "Sei mutig, Hallo sagen öffnet Türen.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413227"
+    },
+    {
+      "english": "You’re making progress, don’t overthink it.",
+      "german": "Du machst Fortschritte, denk nicht zu viel nach.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413230"
+    },
+    {
+      "english": "Give praise, it makes the moment lighter.",
+      "german": "Gib Lob, das macht den Moment leichter.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413233"
+    },
+    {
+      "english": "Let your body language do half the work.",
+      "german": "Lass deine Körpersprache die Hälfte übernehmen.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413236"
+    },
+    {
+      "english": "Be yourself, authentic greetings feel easy.",
+      "german": "Sei du selbst, echte Grüße wirken mühelos.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413238"
+    },
+    {
+      "english": "You’re not late, you’re just starting now.",
+      "german": "Du bist nicht zu spät, du startest jetzt erst.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413242"
+    },
+    {
+      "english": "Keep it simple, warmth is always enough.",
+      "german": "Halte es einfach, Herzlichkeit reicht immer.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413244"
+    },
+    {
+      "english": "Take a breath, then greet them confidently.",
+      "german": "Atme kurz durch, dann begrüße sie sicher.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413247"
+    },
+    {
+      "english": "Honestly, I’m a little nervous, but I’m here.",
+      "german": "Ehrlich gesagt, ich bin ein bisschen nervös, aber ich bin da.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413251"
+    },
+    {
+      "english": "I’m glad we met, it feels really natural.",
+      "german": "Ich freue mich, dass wir uns getroffen haben, es fühlt sich echt natürlich an.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413254"
+    },
+    {
+      "english": "Thanks for being patient, I’m finding my words.",
+      "german": "Danke, dass du geduldig bist, ich suche gerade die Worte.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413258"
+    },
+    {
+      "english": "I just wanted to say hi, no pressure.",
+      "german": "Ich wollte einfach nur hallo sagen, kein Druck.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413261"
+    },
+    {
+      "english": "I like your vibe, it makes me relax.",
+      "german": "Ich mag deine Ausstrahlung, die macht mich ruhig.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413263"
+    },
+    {
+      "english": "I’m taking it slow, but I’m really sincere.",
+      "german": "Ich nehme es langsam, aber ich bin wirklich aufrichtig.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413267"
+    },
+    {
+      "english": "Let’s be honest, I’m excited to meet you.",
+      "german": "Seien wir ehrlich, ich freue mich wirklich, dich kennenzulernen.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413270"
+    },
+    {
+      "english": "I’m not perfect, but I’m showing up anyway.",
+      "german": "Ich bin nicht perfekt, aber ich bin trotzdem da.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413275"
+    },
+    {
+      "english": "Your smile makes this moment feel lighter.",
+      "german": "Dein Lächeln macht die Situation gleich leichter.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413278"
+    },
+    {
+      "english": "I’m glad we’re talking, it feels safe.",
+      "german": "Ich bin froh, dass wir gerade sprechen, es fühlt sich sicher an.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413281"
+    },
+    {
+      "english": "I’m listening, really, so take your time.",
+      "german": "Ich höre zu, wirklich, also nimm dir Zeit.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413285"
+    },
+    {
+      "english": "I’m a bit shy, but you’re easy to talk to.",
+      "german": "Ich bin ein bisschen schüchtern, aber du bist angenehm zum Reden.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413288"
+    },
+    {
+      "english": "To be real, I didn’t know what to expect.",
+      "german": "Ganz ehrlich, ich wusste nicht, was mich erwartet.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413291"
+    },
+    {
+      "english": "I’m okay if we go slow, I’m learning.",
+      "german": "Es ist für mich okay, wenn wir langsam machen, ich lerne.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413295"
+    },
+    {
+      "english": "I appreciate your honesty, it helps a lot.",
+      "german": "Ich schätze deine Offenheit, das hilft mir sehr.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413297"
+    },
+    {
+      "english": "I’m trying, and that’s what matters.",
+      "german": "Ich versuche mein Bestes, und das zählt.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413301"
+    },
+    {
+      "english": "I’m keeping it simple, but my interest is real.",
+      "german": "Ich halte es einfach, aber mein Interesse ist echt.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413304"
+    },
+    {
+      "english": "I’m grateful you said hi, it warmed me up.",
+      "german": "Danke, dass du Hallo gesagt hast, das hat mich aufgewärmt.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413307"
+    },
+    {
+      "english": "I won’t overthink it, I’ll just be friendly.",
+      "german": "Ich denke nicht zu viel nach, ich bin einfach freundlich.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413312"
+    },
+    {
+      "english": "I’m here for a good conversation, not a script.",
+      "german": "Ich bin hier für ein gutes Gespräch, nicht für ein Skript.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413315"
+    },
+    {
+      "english": "I feel calmer now, thanks for the warm intro.",
+      "german": "Ich fühle mich jetzt ruhiger, danke für die warme Begrüßung.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413320"
+    },
+    {
+      "english": "I’m letting my vibe speak first, promise.",
+      "german": "Ich lasse meine Stimmung zuerst sprechen, versprochen.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413323"
+    },
+    {
+      "english": "I’m proud of myself, I finally reached out.",
+      "german": "Ich bin stolz auf mich, ich habe mich endlich gemeldet.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413326"
+    },
+    {
+      "english": "We can keep talking, even if I pause.",
+      "german": "Wir können weiter reden, auch wenn ich kurz stocke.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413329"
+    },
+    {
+      "english": "I’m not rushing, I want to connect properly.",
+      "german": "Ich hab keine Eile, ich möchte richtig Verbindung aufbauen.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413333"
+    },
+    {
+      "english": "I’m curious about you, what’s your story?",
+      "german": "Ich bin neugierig auf dich, wie ist deine Geschichte?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413336"
+    },
+    {
+      "english": "I’m trying to be respectful, names matter to me.",
+      "german": "Ich will respektvoll sein, Namen sind mir wichtig.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413339"
+    },
+    {
+      "english": "I’m here to learn, and I enjoy meeting people.",
+      "german": "Ich bin da zum Lernen, und ich mag es, Menschen kennenzulernen.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413342"
+    },
+    {
+      "english": "I feel a good click, let’s keep it real.",
+      "german": "Ich hab so ein gutes Gefühl, lass uns ehrlich bleiben.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413345"
+    },
+    {
+      "english": "If today feels awkward, we’ll handle it together.",
+      "german": "Wenn es heute ein bisschen komisch ist, kriegen wir das zusammen hin.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413349"
+    },
+    {
+      "english": "Hi, how’s it going today, any plans?",
+      "german": "Hi, wie läuft’s heute, hast du Pläne?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413352"
+    },
+    {
+      "english": "Good to see you, thanks for coming.",
+      "german": "Schön, dich zu sehen, danke fürs Kommen.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413355"
+    },
+    {
+      "english": "Sorry for the delay, I’m here now.",
+      "german": "Entschuldigung für die Verspätung, ich bin jetzt da.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-05T07:51:51.413358"
     }
   ],
-  "last_updated": "2026-11-04T07:25:33.865510"
+  "last_updated": "2026-11-05T07:51:51.413360"
 }
