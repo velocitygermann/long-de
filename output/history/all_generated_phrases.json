@@ -20825,7 +20825,727 @@
       "german": "Entschuldigung für die Verspätung, ich bin jetzt da.",
       "category": "Meeting People & Greetings",
       "generated_at": "2026-11-05T07:51:51.413358"
+    },
+    {
+      "english": "Hi, where is the check-in, please?",
+      "german": "Hallo, wo ist der Check-in, bitte?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394564"
+    },
+    {
+      "english": "My flight is delayed, what’s happening?",
+      "german": "Mein Flug ist verspätet, was passiert da?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394580"
+    },
+    {
+      "english": "Excuse me, where’s the baggage claim?",
+      "german": "Entschuldigung, wo ist die Gepäckausgabe?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394585"
+    },
+    {
+      "english": "Is there a faster line, by any chance?",
+      "german": "Gibt’s hier eine schnellere Schlange?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394588"
+    },
+    {
+      "english": "Do I need to print my boarding pass?",
+      "german": "Brauche ich meinen Boardingpass zum Ausdrucken?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394592"
+    },
+    {
+      "english": "Oh no, I missed my gate call.",
+      "german": "Oh nein, ich hab den Gate-Aufruf verpasst.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394594"
+    },
+    {
+      "english": "Can you help me with this ticket?",
+      "german": "Kannst du mir bei diesem Ticket helfen?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394597"
+    },
+    {
+      "english": "Is this the security check, right?",
+      "german": "Ist das hier die Sicherheitskontrolle?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394603"
+    },
+    {
+      "english": "Where is passport control, please?",
+      "german": "Wo ist die Passkontrolle, bitte?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394607"
+    },
+    {
+      "english": "I think my luggage is gone, sorry.",
+      "german": "Ich glaube, mein Gepäck ist weg, sorry.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394610"
+    },
+    {
+      "english": "Do you have a timetable for arrivals?",
+      "german": "Haben Sie einen Ankunftsplan, bitte?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394612"
+    },
+    {
+      "english": "My suitcase doesn’t look like mine.",
+      "german": "Mein Koffer sieht nicht nach meinem aus.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394616"
+    },
+    {
+      "english": "Can I get water here, quick?",
+      "german": "Kann ich hier schnell Wasser bekommen?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394619"
+    },
+    {
+      "english": "Thanks a lot, that helped me.",
+      "german": "Vielen Dank, das hat mir geholfen.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394621"
+    },
+    {
+      "english": "I’m lost, what platform is my flight?",
+      "german": "Ich bin verloren, von welchem Gleis fliege ich?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394625"
+    },
+    {
+      "english": "Wait, I have the wrong terminal.",
+      "german": "Moment, ich bin am falschen Terminal.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394627"
+    },
+    {
+      "english": "Where do I put the liquids?",
+      "german": "Wo muss ich die Flüssigkeiten hinlegen?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394630"
+    },
+    {
+      "english": "Oh wow, it’s boarding already!",
+      "german": "Oh wow, es wird schon eingestiegen!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394633"
+    },
+    {
+      "english": "Do I need a visa for Germany?",
+      "german": "Brauche ich ein Visum für Deutschland?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394636"
+    },
+    {
+      "english": "I’m just following the signs, sorry!",
+      "german": "Ich folge nur den Schildern, sorry!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394639"
+    },
+    {
+      "english": "How much is the baggage service?",
+      "german": "Wie viel kostet der Gepäckservice?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394642"
+    },
+    {
+      "english": "Is this seat taken, by any chance?",
+      "german": "Ist der Platz noch frei, zufällig?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394644"
+    },
+    {
+      "english": "Sorry, I’m in a hurry.",
+      "german": "Entschuldigung, ich bin im Stress.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394648"
+    },
+    {
+      "english": "Let’s go, we’re boarding soon!",
+      "german": "Los geht’s, wir steigen bald ein!",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394722"
+    },
+    {
+      "english": "Can I get an aisle seat?",
+      "german": "Kann ich einen Platz am Gang bekommen?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394727"
+    },
+    {
+      "english": "I need to change money, where?",
+      "german": "Ich muss Geld wechseln, wo geht das?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394729"
+    },
+    {
+      "english": "What gate is it for my flight?",
+      "german": "Welches Gate ist für meinen Flug?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394732"
+    },
+    {
+      "english": "If I miss it, what’s next?",
+      "german": "Wenn ich’s verpasse, was kommt danach?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394738"
+    },
+    {
+      "english": "Excuse me, do you speak English here?",
+      "german": "Entschuldigung, sprechen Sie hier Englisch?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394741"
+    },
+    {
+      "english": "What time should I be at the airport?",
+      "german": "Um wie viel Uhr sollte ich am Flughafen sein?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394743"
+    },
+    {
+      "english": "Which desk is for passengers in transit?",
+      "german": "Welcher Schalter ist für Transitpassagiere?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394746"
+    },
+    {
+      "english": "Do I need to show my ID now?",
+      "german": "Muss ich meinen Ausweis jetzt vorzeigen?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394749"
+    },
+    {
+      "english": "Can you tell me the quickest route?",
+      "german": "Können Sie mir den schnellsten Weg sagen?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394752"
+    },
+    {
+      "english": "Is there a luggage trolley available here?",
+      "german": "Gibt es hier einen Gepäckwagen?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394754"
+    },
+    {
+      "english": "What documents do you need for check-in?",
+      "german": "Welche Unterlagen braucht man beim Check-in?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394757"
+    },
+    {
+      "english": "Could you recommend a quiet waiting area?",
+      "german": "Könnten Sie mir einen ruhigen Wartebereich empfehlen?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394760"
+    },
+    {
+      "english": "Is the ATM near the exit, please?",
+      "german": "Gibt es einen Geldautomaten nahe beim Ausgang?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394763"
+    },
+    {
+      "english": "Do I change terminals for domestic flights?",
+      "german": "Wechselt man bei Inlandsflügen das Terminal?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394765"
+    },
+    {
+      "english": "Is there free Wi‑Fi in this area?",
+      "german": "Gibt es hier kostenloses WLAN?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394769"
+    },
+    {
+      "english": "Which gate should I watch for updates?",
+      "german": "An welchem Gate werden die Updates angezeigt?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394771"
+    },
+    {
+      "english": "How do I contact the airline, quickly?",
+      "german": "Wie erreiche ich die Airline am schnellsten?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394774"
+    },
+    {
+      "english": "What’s the best way to get downtown?",
+      "german": "Was ist der beste Weg, um ins Zentrum zu kommen?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394777"
+    },
+    {
+      "english": "Is there a shuttle bus to my hotel?",
+      "german": "Gibt es einen Shuttlebus zu meinem Hotel?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394780"
+    },
+    {
+      "english": "Do I book a taxi at a desk?",
+      "german": "Muss ich den Taxi-Service am Schalter buchen?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394782"
+    },
+    {
+      "english": "Can I get a refund form, please?",
+      "german": "Kann ich ein Formular für eine Erstattung bekommen?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394785"
+    },
+    {
+      "english": "What’s your advice for traveling with kids?",
+      "german": "Was empfehlen Sie für Reisen mit Kindern?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394789"
+    },
+    {
+      "english": "Where can I buy snacks before boarding?",
+      "german": "Wo bekomme ich Snacks, bevor das Boarding startet?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394791"
+    },
+    {
+      "english": "Do you know if my flight is on time?",
+      "german": "Wissen Sie, ob mein Flug pünktlich ist?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394794"
+    },
+    {
+      "english": "How long is the transfer, roughly?",
+      "german": "Wie lange dauert der Umstieg ungefähr?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394796"
+    },
+    {
+      "english": "Should I keep my receipt for baggage issues?",
+      "german": "Soll ich den Beleg für Gepäckprobleme behalten?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394799"
+    },
+    {
+      "english": "Is there a lost and found desk here?",
+      "german": "Gibt es hier eine Fundbüro-Station?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394802"
+    },
+    {
+      "english": "Can I store my luggage for a few hours?",
+      "german": "Kann ich mein Gepäck für ein paar Stunden lagern?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394806"
+    },
+    {
+      "english": "What’s the best time to board the plane?",
+      "german": "Wann ist es am besten, um ins Flugzeug zu gehen?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394809"
+    },
+    {
+      "english": "Do you have a form for special assistance?",
+      "german": "Haben Sie ein Formular für besondere Hilfe?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394812"
+    },
+    {
+      "english": "Is this where I pick up my boarding pass?",
+      "german": "Ist das hier, wo ich meine Bordkarte abhole?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394816"
+    },
+    {
+      "english": "How do I rebook if my flight changes?",
+      "german": "Wie kann ich umbuchen, wenn sich mein Flug ändert?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394819"
+    },
+    {
+      "english": "Could you point me to the gate area?",
+      "german": "Können Sie mir den Weg zum Gate-Bereich zeigen?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394821"
+    },
+    {
+      "english": "You’ve got this, breathe, stay calm.",
+      "german": "Du schaffst das, atme durch, bleib ruhig.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394825"
+    },
+    {
+      "english": "Small steps now, big progress after landing.",
+      "german": "Jetzt kleine Schritte, später große Fortschritte.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394828"
+    },
+    {
+      "english": "One line at a time, don’t stress.",
+      "german": "Eine Schlange nach der anderen, kein Stress.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394832"
+    },
+    {
+      "english": "Plan smart, then relax, you earned it.",
+      "german": "Plan clever, dann entspann dich, du hast’s dir verdient.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394835"
+    },
+    {
+      "english": "Trust yourself, check, and move forward.",
+      "german": "Vertraue dir, check’s ab, und geh weiter.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394838"
+    },
+    {
+      "english": "Today you’re the boss of the trip.",
+      "german": "Heute bist du der Chef von der Reise.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394841"
+    },
+    {
+      "english": "Stay positive, delays don’t define you.",
+      "german": "Bleib positiv, Verspätungen definieren dich nicht.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394844"
+    },
+    {
+      "english": "You prepared well, problems will be small.",
+      "german": "Du hast gut vorbereitet, da wird schon nichts Schlimmes.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394847"
+    },
+    {
+      "english": "Reset your brain, start fresh, go.",
+      "german": "Kopf frei machen, neu starten, los geht’s.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394850"
+    },
+    {
+      "english": "Check twice, you’ll feel confident.",
+      "german": "Zweimal checken, dann bist du sicher.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394853"
+    },
+    {
+      "english": "Good job, every detail is handled.",
+      "german": "Super, jeder Schritt sitzt.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394857"
+    },
+    {
+      "english": "Calm mind, quick feet, easy boarding.",
+      "german": "Klarer Kopf, schnelle Schritte, easy Boarding.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394860"
+    },
+    {
+      "english": "You know the drill, just follow through.",
+      "german": "Du kennst den Ablauf, zieh’s einfach durch.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394863"
+    },
+    {
+      "english": "Expect the best, plan for everything.",
+      "german": "Mit dem Besten rechnen, für alles planen.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394865"
+    },
+    {
+      "english": "Don’t overthink, ask, and keep moving.",
+      "german": "Nicht zu viel denken, fragen, dann weiter.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394871"
+    },
+    {
+      "english": "You’re ahead of the game, nice work.",
+      "german": "Du bist einen Schritt voraus, gut gemacht.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394874"
+    },
+    {
+      "english": "Even if it changes, you’ll adapt fast.",
+      "german": "Wenn sich was ändert, passt du dich schnell an.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394877"
+    },
+    {
+      "english": "Smile, it’s all part of travel.",
+      "german": "Lächeln, das gehört einfach zur Reise.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394881"
+    },
+    {
+      "english": "You’re safe, you’re prepared, you’re ready.",
+      "german": "Du bist sicher, du bist vorbereitet, du bist ready.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394884"
+    },
+    {
+      "english": "Good vibes only, you’ll catch the moment.",
+      "german": "Nur gute Vibes, du schaffst das im richtigen Moment.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394888"
+    },
+    {
+      "english": "Say it to yourself, I can do this.",
+      "german": "Sag’s dir selbst, ich kann das schaffen.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394890"
+    },
+    {
+      "english": "You’re learning, every trip builds confidence.",
+      "german": "Du lernst, jede Reise bringt mehr Sicherheit.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394894"
+    },
+    {
+      "english": "Focus on what’s next, not what’s lost.",
+      "german": "Fokus auf das Nächste, nicht auf das Verlorene.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394897"
+    },
+    {
+      "english": "Great attitude, problems turn into solutions.",
+      "german": "Gute Einstellung, aus Problemen werden Lösungen.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394923"
+    },
+    {
+      "english": "You’ve handled harder days, keep faith.",
+      "german": "Du hast schon Schlimmeres geschafft, behalte den Glauben.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394932"
+    },
+    {
+      "english": "Breathe out slowly, you’re in control.",
+      "german": "Lang ausatmen, du hast alles unter Kontrolle.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394939"
+    },
+    {
+      "english": "Ask for help, it’s a smart move.",
+      "german": "Frag nach Hilfe, das ist klug.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394943"
+    },
+    {
+      "english": "You made it, now enjoy the journey.",
+      "german": "Geschafft, jetzt genieße die Reise.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394946"
+    },
+    {
+      "english": "Trust the process, you’ll land smoothly.",
+      "german": "Vertrau dem Prozess, dann landest du entspannt.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394950"
+    },
+    {
+      "english": "I’m nervous, but I’m ready to try.",
+      "german": "Ich bin nervös, aber ich probiere es.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394958"
+    },
+    {
+      "english": "Honestly, I need a minute to breathe.",
+      "german": "Ganz ehrlich, ich brauche eine Minute Luft.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394961"
+    },
+    {
+      "english": "It’s okay to feel unsure right now.",
+      "german": "Es ist okay, sich gerade unsicher zu fühlen.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394965"
+    },
+    {
+      "english": "I’m taking it step by step, slowly.",
+      "german": "Ich gehe Schritt für Schritt, ganz langsam.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394968"
+    },
+    {
+      "english": "Small delays happen, I’ll stay patient.",
+      "german": "Kleine Verspätungen passieren, ich bleibe geduldig.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394971"
+    },
+    {
+      "english": "I’ll double-check, not because of fear.",
+      "german": "Ich checke zweimal, nicht aus Angst.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394975"
+    },
+    {
+      "english": "I’m trying not to stress about anything.",
+      "german": "Ich versuche, nicht wegen allem Stress zu haben.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394978"
+    },
+    {
+      "english": "If something goes wrong, I’ll handle it.",
+      "german": "Wenn was schiefgeht, löse ich das.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394981"
+    },
+    {
+      "english": "I don’t want to panic, just plan.",
+      "german": "Ich will nicht in Panik geraten, nur planen.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394985"
+    },
+    {
+      "english": "I trust myself, even in the chaos.",
+      "german": "Ich vertraue mir selbst, auch wenn’s chaotisch ist.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394988"
+    },
+    {
+      "english": "Right now, I’m listening, staying aware.",
+      "german": "Gerade jetzt höre ich zu, ich bleibe wachsam.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394991"
+    },
+    {
+      "english": "I’m grateful I have time to prepare.",
+      "german": "Ich bin dankbar, dass ich Zeit zum Vorbereiten habe.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394994"
+    },
+    {
+      "english": "This terminal feels big, but I’ll manage.",
+      "german": "Dieses Terminal ist groß, aber ich schaffe das.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.394997"
+    },
+    {
+      "english": "I’m proud I didn’t wait too long.",
+      "german": "Ich bin stolz, dass ich nicht zu lange gewartet habe.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.395001"
+    },
+    {
+      "english": "I’m a little tired, so I’ll keep it calm.",
+      "german": "Ich bin ein bisschen müde, also bleibe ich ruhig.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.395004"
+    },
+    {
+      "english": "I’ll ask, because I want clarity.",
+      "german": "Ich frage nach, weil ich Klarheit will.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.395007"
+    },
+    {
+      "english": "I can’t control delays, but I can cope.",
+      "german": "Ich kann Verspätungen nicht kontrollieren, aber ich schaffe das.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.395010"
+    },
+    {
+      "english": "I’m trying to stay positive, no matter what.",
+      "german": "Ich versuche, positiv zu bleiben, egal was kommt.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.395016"
+    },
+    {
+      "english": "Honestly, I’m overwhelmed, but I’ll slow down.",
+      "german": "Ganz ehrlich, ich bin überfordert, aber ich verlangsame.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.395019"
+    },
+    {
+      "english": "I’m letting the moment be, not fight it.",
+      "german": "Ich lasse den Moment sein, nicht kämpfen.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.395023"
+    },
+    {
+      "english": "I’m focused now, not on past mistakes.",
+      "german": "Ich bin jetzt fokussiert, nicht auf alte Fehler.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.395026"
+    },
+    {
+      "english": "If I miss something, I’ll recover fast.",
+      "german": "Wenn ich was verpasse, fange ich mich schnell.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.395029"
+    },
+    {
+      "english": "I keep my voice steady, even when rushed.",
+      "german": "Ich bleibe ruhig, auch wenn’s hektisch ist.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.395032"
+    },
+    {
+      "english": "I’m nervous, but that’s normal for me.",
+      "german": "Ich bin nervös, aber das ist bei mir normal.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.395036"
+    },
+    {
+      "english": "I’m proud of myself for staying flexible.",
+      "german": "Ich bin stolz auf mich, dass ich flexibel bleibe.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.395039"
+    },
+    {
+      "english": "Right now, I just want the next step.",
+      "german": "Ich will gerade einfach nur den nächsten Schritt.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.395042"
+    },
+    {
+      "english": "I’ll be patient, even if it takes longer.",
+      "german": "Ich bin geduldig, auch wenn es länger dauert.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.395045"
+    },
+    {
+      "english": "I’m choosing calm, it makes everything easier.",
+      "german": "Ich entscheide mich für Ruhe, das hilft mir.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.395048"
+    },
+    {
+      "english": "I’ll take notes, so I feel safer.",
+      "german": "Ich notiere mir alles, dann fühle ich mich sicherer.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.395051"
+    },
+    {
+      "english": "Thanks for listening, I really needed that.",
+      "german": "Danke, dass Sie zuhören, das hat mir wirklich geholfen.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.395056"
+    },
+    {
+      "english": "Okay, first check your gate, then relax.",
+      "german": "Okay, zuerst das Gate checken, dann entspannen.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.395060"
+    },
+    {
+      "english": "I’ll line up, and stay out of the way.",
+      "german": "Ich stell mich an, und bleib aus dem Weg.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.395063"
+    },
+    {
+      "english": "When in doubt, I ask the staff politely.",
+      "german": "Wenn ich unsicher bin, frage ich das Personal höflich.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.395068"
+    },
+    {
+      "english": "My boarding pass is ready, no last-minute chaos.",
+      "german": "Meine Bordkarte ist bereit, kein Chaos auf den letzten Minuten.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-06T07:51:01.395071"
     }
   ],
-  "last_updated": "2026-11-05T07:51:51.413360"
+  "last_updated": "2026-11-06T07:51:01.395074"
 }
