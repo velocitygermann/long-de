@@ -21545,7 +21545,727 @@
       "german": "Meine Bordkarte ist bereit, kein Chaos auf den letzten Minuten.",
       "category": "Travel & Airport",
       "generated_at": "2026-11-06T07:51:01.395071"
+    },
+    {
+      "english": "Hey, you’re doing great, really proud of you",
+      "german": "Hey, du machst das echt gut, ich bin stolz",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732776"
+    },
+    {
+      "english": "Wow, that’s smart, tell me more please",
+      "german": "Wow, das ist clever, erzähl mir mehr, bitte",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732804"
+    },
+    {
+      "english": "Nice, we’re on the same page",
+      "german": "Geil, wir sind uns einig",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732810"
+    },
+    {
+      "english": "Honestly, that was smooth, how did you do it?",
+      "german": "Ganz ehrlich, das war richtig smooth, wie machst du das?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732814"
+    },
+    {
+      "english": "Okay, try again, you’ve got this",
+      "german": "Okay, probier’s nochmal, du schaffst das",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732818"
+    },
+    {
+      "english": "No worries, we’ll figure it out together",
+      "german": "Keine Sorgen, wir kriegen das zusammen hin",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732821"
+    },
+    {
+      "english": "Wait, say it slower, I want to catch it",
+      "german": "Moment, sag’s langsamer, ich will’s mitkriegen",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732824"
+    },
+    {
+      "english": "Perfect, that sounds exactly right, keep going",
+      "german": "Perfekt, das klingt genau richtig, mach weiter",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732830"
+    },
+    {
+      "english": "That’s a great start, don’t stop now",
+      "german": "Das ist ein super Start, hör jetzt nicht auf",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732834"
+    },
+    {
+      "english": "Come on, ask me again, I’m ready",
+      "german": "Komm schon, frag mich nochmal, ich bin bereit",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732838"
+    },
+    {
+      "english": "Really? That’s awesome, I’m inspired now",
+      "german": "Echt? Das ist richtig stark, ich bin motiviert",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732842"
+    },
+    {
+      "english": "What do you mean, explain it to me",
+      "german": "Was meinst du, erklär’s mir",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732845"
+    },
+    {
+      "english": "Let’s go, one sentence at a time",
+      "german": "Los geht’s, ein Satz nach dem anderen",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732848"
+    },
+    {
+      "english": "Hold on, I need that word, say it",
+      "german": "Moment, ich brauche dieses Wort, sag’s",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732853"
+    },
+    {
+      "english": "That’s it, you nailed it, seriously",
+      "german": "Genau, du hast’s perfekt, echt jetzt",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732856"
+    },
+    {
+      "english": "Tell me the short version, quick please",
+      "german": "Sag’s kurz, die Version, schnell bitte",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732858"
+    },
+    {
+      "english": "Nice try, but we can do better",
+      "german": "Guter Versuch, aber wir können besser",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732861"
+    },
+    {
+      "english": "Seriously, you’re brave, keep showing up",
+      "german": "Ganz ehrlich, du bist mutig, bleib dran",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732865"
+    },
+    {
+      "english": "Okay, what’s the plan, where do we start?",
+      "german": "Okay, was ist der Plan, wo fangen wir an?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732870"
+    },
+    {
+      "english": "That’s funny, I get it now, cool!",
+      "german": "Das ist lustig, jetzt check ich’s, cool!",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732874"
+    },
+    {
+      "english": "Good call, your phrasing is super natural",
+      "german": "Guter Punkt, deine Formulierung klingt echt natürlich",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732876"
+    },
+    {
+      "english": "I’m proud of you, keep going, I’m here",
+      "german": "Ich bin stolz auf dich, mach weiter, ich bin da",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732880"
+    },
+    {
+      "english": "No problem, ask again, I won’t judge",
+      "german": "Kein Problem, frag nochmal, ich bewerte nicht",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732883"
+    },
+    {
+      "english": "That’s the vibe, let’s practice like this",
+      "german": "So fühlt sich’s richtig an, lass uns so üben",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732886"
+    },
+    {
+      "english": "Wait, I think I get it, say it once more",
+      "german": "Moment, ich glaube, ich hab’s, sag’s nochmal",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732889"
+    },
+    {
+      "english": "All good, your accent is coming along nicely",
+      "german": "Alles gut, dein Akzent wird immer besser",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732892"
+    },
+    {
+      "english": "Let’s do it, we’ll make mistakes, it’s normal",
+      "german": "Klar, wir machen Fehler, das ist normal",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732895"
+    },
+    {
+      "english": "You’re getting closer, keep your eyes up",
+      "german": "Du kommst näher, bleib dran, hör nicht auf",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732898"
+    },
+    {
+      "english": "Quick question, how do you say that?",
+      "german": "Kurze Frage, wie sagt man das?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732901"
+    },
+    {
+      "english": "Is this polite, or too direct?",
+      "german": "Ist das höflich, oder zu direkt?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732906"
+    },
+    {
+      "english": "Can you help me with the answer?",
+      "german": "Kannst du mir beim Antworten helfen?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732909"
+    },
+    {
+      "english": "What’s the easiest way to learn this?",
+      "german": "Was ist der einfachste Weg, das zu lernen?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732912"
+    },
+    {
+      "english": "Do you have a tip for memorizing?",
+      "german": "Hast du einen Tipp zum Merken?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732914"
+    },
+    {
+      "english": "I’m not sure, can you explain briefly?",
+      "german": "Ich bin mir nicht sicher, kannst du kurz erklären?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732918"
+    },
+    {
+      "english": "What would you say in my situation?",
+      "german": "Was würdest du in meiner Situation sagen?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732920"
+    },
+    {
+      "english": "Which word fits best here, in German?",
+      "german": "Welches Wort passt hier am besten?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732923"
+    },
+    {
+      "english": "Can we practice this question together, please?",
+      "german": "Können wir diese Frage zusammen üben?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732926"
+    },
+    {
+      "english": "Do Germans usually say it like this?",
+      "german": "Sagt man das im Deutschen so?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732928"
+    },
+    {
+      "english": "How should I respond, politely?",
+      "german": "Wie soll ich höflich antworten?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732931"
+    },
+    {
+      "english": "When do you use 'du' versus 'Sie'?",
+      "german": "Wann benutzt man 'du' und wann 'Sie'?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732934"
+    },
+    {
+      "english": "Can you give me a real-life example?",
+      "german": "Kannst du mir ein Beispiel aus dem Alltag geben?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732937"
+    },
+    {
+      "english": "What does 'bitte' change in meaning?",
+      "german": "Was ändert 'bitte' an der Bedeutung?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732940"
+    },
+    {
+      "english": "Where should I put the verb, usually?",
+      "german": "Wo kommt das Verb normalerweise hin?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732942"
+    },
+    {
+      "english": "Is it better to say it short, or detailed?",
+      "german": "Ist es besser, kurz zu sagen, oder genauer?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732945"
+    },
+    {
+      "english": "What question should I start with?",
+      "german": "Mit welcher Frage fange ich an?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732947"
+    },
+    {
+      "english": "How do you make it sound more natural?",
+      "german": "Wie klingt es natürlicher?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732952"
+    },
+    {
+      "english": "What if I forget the word, what then?",
+      "german": "Und wenn ich das Wort vergesse, was dann?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732954"
+    },
+    {
+      "english": "Can you correct me, just once?",
+      "german": "Kannst du mich einmal korrigieren?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732957"
+    },
+    {
+      "english": "Would you say this in a shop?",
+      "german": "Würdest du das im Laden so sagen?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732959"
+    },
+    {
+      "english": "I’m curious, what’s your best learning hack?",
+      "german": "Ich bin neugierig, was ist dein bester Trick?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732963"
+    },
+    {
+      "english": "How do I ask for directions politely?",
+      "german": "Wie frage ich nach dem Weg, höflich?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732967"
+    },
+    {
+      "english": "Is there a faster way to practice?",
+      "german": "Gibt es eine schnellere Art zu üben?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732969"
+    },
+    {
+      "english": "Can you help me build a full sentence?",
+      "german": "Kannst du mir helfen, einen Satz zu bauen?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732972"
+    },
+    {
+      "english": "What should I say at the end?",
+      "german": "Was sage ich am Ende?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732974"
+    },
+    {
+      "english": "Do you prefer questions, or short statements?",
+      "german": "Fragst du lieber, oder sagst du lieber kurz?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732977"
+    },
+    {
+      "english": "Can we role-play, like we’re traveling?",
+      "german": "Können wir das als Rollenspiel machen?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732980"
+    },
+    {
+      "english": "One last thing, what should I repeat daily?",
+      "german": "Noch eine Sache, was soll ich täglich wiederholen?",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732983"
+    },
+    {
+      "english": "Small progress counts, keep moving anyway.",
+      "german": "Kleine Fortschritte zählen, also weiter so.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732986"
+    },
+    {
+      "english": "Mistakes happen, that’s how learning works.",
+      "german": "Fehler sind normal, so lernst du.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732990"
+    },
+    {
+      "english": "Tell yourself, I can learn this.",
+      "german": "Sag dir selbst: Ich kann das lernen.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732993"
+    },
+    {
+      "english": "Breathe, relax, then try again.",
+      "german": "Atme durch, entspann dich, dann probier’s nochmal.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732996"
+    },
+    {
+      "english": "Confidence grows, by speaking even imperfectly.",
+      "german": "Sicherheit wächst, wenn du trotzdem sprichst.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.732999"
+    },
+    {
+      "english": "Today you practice, tomorrow you’ll thank yourself.",
+      "german": "Heute übst du, morgen dankst du dir.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733002"
+    },
+    {
+      "english": "Keep your eyes on the next sentence.",
+      "german": "Fokus auf den nächsten Satz, nicht auf Angst.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733005"
+    },
+    {
+      "english": "Your effort matters more than perfection.",
+      "german": "Deine Mühe zählt mehr als Perfektion.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733008"
+    },
+    {
+      "english": "It’s okay to pause, think it through.",
+      "german": "Kurze Pause, dann überlegst du es dir.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733011"
+    },
+    {
+      "english": "Celebrate tiny wins, they add up fast.",
+      "german": "Feier kleine Erfolge, die summieren sich schnell.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733013"
+    },
+    {
+      "english": "Every day, you build a stronger brain habit.",
+      "german": "Jeden Tag baust du dir eine stärkere Routine.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733016"
+    },
+    {
+      "english": "Say it anyway, clarity comes afterward.",
+      "german": "Sag’s einfach trotzdem, Klarheit kommt danach.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733019"
+    },
+    {
+      "english": "Don’t compare, just measure your own progress.",
+      "german": "Vergleich dich nicht, schau auf deinen Fortschritt.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733022"
+    },
+    {
+      "english": "You’re learning, not failing, keep going.",
+      "german": "Du lernst, nicht scheiterst, also weiter.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733026"
+    },
+    {
+      "english": "Make it simple, German will follow.",
+      "german": "Mach es einfach, das Deutsch kommt von allein.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733029"
+    },
+    {
+      "english": "Trust the process, practice beats worry.",
+      "german": "Vertrau dem Prozess, Übung schlägt Sorgen.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733033"
+    },
+    {
+      "english": "Give yourself credit, you studied for this.",
+      "german": "Gib dir Anerkennung, du hast dafür gelernt.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733036"
+    },
+    {
+      "english": "When it’s hard, go slower, not smaller.",
+      "german": "Wenn’s schwer ist, langsamer werden, nicht aufgeben.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733040"
+    },
+    {
+      "english": "You don’t need perfect words, just start.",
+      "german": "Du brauchst keine perfekten Worte, fang einfach an.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733043"
+    },
+    {
+      "english": "Turn nerves into energy, speak anyway.",
+      "german": "Wandl Nervosität in Energie, dann sprich.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733045"
+    },
+    {
+      "english": "One new phrase today, that’s a win.",
+      "german": "Ein neuer Satz heute, das ist ein Gewinn.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733050"
+    },
+    {
+      "english": "Be kind to yourself, you’re doing great.",
+      "german": "Sei nett zu dir, du machst das schon gut.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733053"
+    },
+    {
+      "english": "Keep your streak alive, even with short sessions.",
+      "german": "Halte deine Lernserie am Leben, auch kurz zählt.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733056"
+    },
+    {
+      "english": "Ask questions, curiosity will carry you.",
+      "german": "Stell Fragen, Neugier bringt dich weiter.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733059"
+    },
+    {
+      "english": "Focus on meaning, not every single grammar rule.",
+      "german": "Auf die Bedeutung achten, nicht auf jede Regel.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733062"
+    },
+    {
+      "english": "You improve faster when you speak daily.",
+      "german": "Du wirst schneller besser, wenn du täglich sprichst.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733064"
+    },
+    {
+      "english": "Give compliments to your progress, seriously.",
+      "german": "Lob deinen Fortschritt, wirklich.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733067"
+    },
+    {
+      "english": "Let it be messy, your fluency will come.",
+      "german": "Lass es ruhig holprig, die Sprechflüssigkeit kommt.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733070"
+    },
+    {
+      "english": "Start now, motivation follows action.",
+      "german": "Fang jetzt an, Motivation kommt mit der Handlung.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733072"
+    },
+    {
+      "english": "Honestly, I feel proud, even when I slip up.",
+      "german": "Ehrlich, ich bin stolz, auch wenn ich mal patze.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733075"
+    },
+    {
+      "english": "Some days I’m quiet, and that’s okay.",
+      "german": "Manche Tage bin ich still, und das ist okay.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733079"
+    },
+    {
+      "english": "I notice my mood changes when I practice.",
+      "german": "Ich merke, mein Gefühl wird besser beim Üben.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733081"
+    },
+    {
+      "english": "Deep down, I trust slow progress.",
+      "german": "Ganz im Innern vertraue ich dem langsamen Fortschritt.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733084"
+    },
+    {
+      "english": "It helps, when I’m patient with my mistakes.",
+      "german": "Es hilft, wenn ich geduldig mit meinen Fehlern bin.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733087"
+    },
+    {
+      "english": "I’m learning to be honest with myself.",
+      "german": "Ich lerne, ehrlich zu mir selbst zu sein.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733090"
+    },
+    {
+      "english": "Today feels messy, but my heart is steady.",
+      "german": "Heute fühlt sich alles chaotisch an, aber mein Herz bleibt ruhig.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733093"
+    },
+    {
+      "english": "I choose words carefully, then I let go.",
+      "german": "Ich wähle Worte mit Gefühl, dann lasse ich los.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733096"
+    },
+    {
+      "english": "When I doubt myself, I breathe and continue.",
+      "german": "Wenn ich zweifle, atme ich kurz durch, dann geht’s weiter.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733098"
+    },
+    {
+      "english": "I don’t need to win, I need to practice.",
+      "german": "Ich muss nicht gewinnen, ich muss nur üben.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733101"
+    },
+    {
+      "english": "It’s okay to restart, I’m still in it.",
+      "german": "Es ist okay, neu anzufangen, ich bin noch dabei.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733105"
+    },
+    {
+      "english": "I feel brave, every time I speak up.",
+      "german": "Ich fühl mich mutig, jedes Mal, wenn ich mich traue.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733109"
+    },
+    {
+      "english": "I respect my pace, not my fear.",
+      "german": "Ich respektiere mein Tempo, nicht meine Angst.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733112"
+    },
+    {
+      "english": "I keep going, because the effort feels worth it.",
+      "german": "Ich mache weiter, weil sich die Mühe lohnt.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733115"
+    },
+    {
+      "english": "Sometimes I just write, no pressure, no judgment.",
+      "german": "Manchmal schreibe ich einfach, kein Druck, kein Urteil.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733118"
+    },
+    {
+      "english": "I’m proud of showing up, not sounding perfect.",
+      "german": "Ich bin stolz, weil ich auftauche, nicht weil’s perfekt klingt.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733121"
+    },
+    {
+      "english": "I let the language grow in me, slowly.",
+      "german": "Ich lass die Sprache in mir wachsen, ganz langsam.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733124"
+    },
+    {
+      "english": "If I freeze, I start with one small phrase.",
+      "german": "Wenn ich blockiere, beginne ich mit einem Satz.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733126"
+    },
+    {
+      "english": "I trust my curiosity, it pulls me forward.",
+      "german": "Ich vertraue meiner Neugier, die zieht mich nach vorn.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733129"
+    },
+    {
+      "english": "My feelings guide me, not my grammar list.",
+      "german": "Meine Gefühle führen mich, nicht meine Grammatikliste.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733132"
+    },
+    {
+      "english": "I’m okay being a beginner, truly.",
+      "german": "Ich bin okay damit, Anfänger zu sein, wirklich.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733135"
+    },
+    {
+      "english": "I learn best, when I’m gentle with myself.",
+      "german": "Ich lerne am besten, wenn ich sanft mit mir bin.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733138"
+    },
+    {
+      "english": "Even silence counts, I’m still training.",
+      "german": "Sogar Stille zählt, ich trainiere trotzdem weiter.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733141"
+    },
+    {
+      "english": "I notice progress in small everyday moments.",
+      "german": "Ich merke Fortschritt in kleinen Alltagsmomenten.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733146"
+    },
+    {
+      "english": "I’ll be patient, my brain needs time.",
+      "german": "Ich bin geduldig, mein Kopf braucht Zeit.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733149"
+    },
+    {
+      "english": "I’m not stuck, I’m just in a tough phase.",
+      "german": "Ich bin nicht festgefahren, ich bin nur in einer harten Phase.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733152"
+    },
+    {
+      "english": "I speak up, even if my voice shakes.",
+      "german": "Ich sage etwas, auch wenn meine Stimme zittert.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733155"
+    },
+    {
+      "english": "I keep it real, learning is emotional.",
+      "german": "Ich halte’s echt, Lernen ist auch Gefühlsarbeit.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733157"
+    },
+    {
+      "english": "Tomorrow, I’ll feel better, because I stayed.",
+      "german": "Morgen geht’s mir besser, weil ich geblieben bin.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733161"
+    },
+    {
+      "english": "Use short sentences, practice in real shops.",
+      "german": "Nutze kurze Sätze, üb jetzt im Laden.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733164"
+    },
+    {
+      "english": "When greeting, smile first, then talk.",
+      "german": "Beim Grüßen, zuerst lächeln, dann sprechen.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733168"
+    },
+    {
+      "english": "Text your friend, one line in German.",
+      "german": "Schreib deinem Freund, eine Zeile auf Deutsch.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733171"
+    },
+    {
+      "english": "Ask for the bill, keep it simple.",
+      "german": "Frag nach der Rechnung, ganz unkompliziert.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733174"
+    },
+    {
+      "english": "If you miss a word, ask 'Wie bitte?'",
+      "german": "Wenn dir ein Wort fehlt, sag: „Wie bitte?“",
+      "category": "Inspiration",
+      "generated_at": "2026-11-07T06:59:07.733178"
     }
   ],
-  "last_updated": "2026-11-06T07:51:01.395074"
+  "last_updated": "2026-11-07T06:59:07.733180"
 }
