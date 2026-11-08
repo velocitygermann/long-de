@@ -22265,7 +22265,727 @@
       "german": "Wenn dir ein Wort fehlt, sag: „Wie bitte?“",
       "category": "Inspiration",
       "generated_at": "2026-11-07T06:59:07.733178"
+    },
+    {
+      "english": "I’m okay, breathe, just for now.",
+      "german": "Ich bin okay, atme, einfach nur kurz.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795276"
+    },
+    {
+      "english": "Hold on, I’ll calm down, really.",
+      "german": "Warte kurz, ich beruhige mich gleich.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795293"
+    },
+    {
+      "english": "Breathe in, let it pass, easy.",
+      "german": "Atme ein, lass es ziehen, ganz easy.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795297"
+    },
+    {
+      "english": "I choose calm, even here, right now.",
+      "german": "Ich entscheide mich für Ruhe, gerade jetzt.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795299"
+    },
+    {
+      "english": "Hey, it’s fine, step back for peace.",
+      "german": "Hey, das ist okay, geh einen Schritt zurück.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795303"
+    },
+    {
+      "english": "Don’t rush, slow shoulders, softer thoughts.",
+      "german": "Nicht hetzen, Schultern runter, Gedanken weicher.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795306"
+    },
+    {
+      "english": "I’ve got this, one breath at a time.",
+      "german": "Ich schaffe das, ein Atemzug nach dem anderen.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795308"
+    },
+    {
+      "english": "Say “stop,” take a breath, reset.",
+      "german": "Sag „Stopp“, atme durch, fang neu an.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795314"
+    },
+    {
+      "english": "I’ll answer later, I need quiet first.",
+      "german": "Ich antworte später, ich brauche erst Ruhe.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795317"
+    },
+    {
+      "english": "It’s just a moment, don’t fight it.",
+      "german": "Das ist nur ein Moment, kämpf nicht dagegen.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795320"
+    },
+    {
+      "english": "Let it go, but keep your boundaries.",
+      "german": "Lass los, aber setz deine Grenzen.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795322"
+    },
+    {
+      "english": "I can handle this, gently, one step.",
+      "german": "Ich kann das schaffen, sanft, nur ein Schritt.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795325"
+    },
+    {
+      "english": "Stay here, listen in, everything settles.",
+      "german": "Bleib hier, hör in dich rein, dann wird’s ruhig.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795327"
+    },
+    {
+      "english": "Mind the now, feelings can change fast.",
+      "german": "Achte auf das Jetzt, Gefühle ändern sich schnell.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795329"
+    },
+    {
+      "english": "It’s okay to pause, I’m re-centering.",
+      "german": "Es ist okay zu pausieren, ich komm zurück.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795334"
+    },
+    {
+      "english": "Tea helps, my thoughts slow down.",
+      "german": "Tee hilft, meine Gedanken werden langsamer.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795336"
+    },
+    {
+      "english": "I’ll do the next right thing.",
+      "german": "Ich mach jetzt einfach das Nächste.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795338"
+    },
+    {
+      "english": "Thanks, that helps, I feel steadier.",
+      "german": "Danke, das hilft, ich bin gleich sicherer.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795341"
+    },
+    {
+      "english": "No drama, just breathe, and continue.",
+      "german": "Kein Drama, nur atmen, weiter machen.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795343"
+    },
+    {
+      "english": "I can be patient, even when it’s messy.",
+      "german": "Ich kann geduldig sein, auch wenn’s chaotisch ist.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795345"
+    },
+    {
+      "english": "When stress hits, I choose kind focus.",
+      "german": "Wenn Stress kommt, wähle ich sanfte Konzentration.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795347"
+    },
+    {
+      "english": "I’m not stuck, I’m breathing my way out.",
+      "german": "Ich bin nicht festgefahren, ich atme mich frei.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795352"
+    },
+    {
+      "english": "Let’s keep it simple, you’re doing fine.",
+      "german": "Lass uns es einfach halten, du machst das gut.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795355"
+    },
+    {
+      "english": "Look up, relax, your body knows.",
+      "german": "Blick nach oben, entspann dich, dein Körper weiß.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795358"
+    },
+    {
+      "english": "I won’t overthink, I’ll take one action.",
+      "german": "Ich denk nicht zu viel nach, ich handle jetzt.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795363"
+    },
+    {
+      "english": "It’s okay to say, “I need space.”",
+      "german": "Es ist okay zu sagen: „Ich brauche Platz.“",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795365"
+    },
+    {
+      "english": "I reset my mood, just change the scene.",
+      "german": "Ich setze meine Stimmung neu, wechsel die Umgebung.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795367"
+    },
+    {
+      "english": "Be honest, I’m overwhelmed, please slow down.",
+      "german": "Sei ehrlich, ich bin überfordert, bitte langsamer.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795371"
+    },
+    {
+      "english": "I hear you, but I need a minute.",
+      "german": "Ich verstehe dich, aber ich brauche eine Minute.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795373"
+    },
+    {
+      "english": "Okay, I’m back, calm returns, step by step.",
+      "german": "Okay, ich bin wieder da, die Ruhe kommt zurück.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795376"
+    },
+    {
+      "english": "What helps you feel calm at night?",
+      "german": "Was hilft dir, nachts ruhig zu werden?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795378"
+    },
+    {
+      "english": "How do you handle stressful messages politely?",
+      "german": "Wie gehst du mit stressigen Nachrichten höflich um?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795381"
+    },
+    {
+      "english": "Could you tell me your reset routine?",
+      "german": "Kannst du mir deine Reset-Routine erzählen?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795383"
+    },
+    {
+      "english": "Do you prefer silence, or gentle talks?",
+      "german": "Magst du eher Stille, oder lieber ruhige Gespräche?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795385"
+    },
+    {
+      "english": "Where do you notice tension in your body?",
+      "german": "Wo spürst du die Anspannung in deinem Körper?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795388"
+    },
+    {
+      "english": "What’s one small thing I can try?",
+      "german": "Was ist eine kleine Sache, die ich probieren kann?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795390"
+    },
+    {
+      "english": "Can I ask for advice, softly?",
+      "german": "Darf ich leise um Rat fragen?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795393"
+    },
+    {
+      "english": "When your mind races, what do you do?",
+      "german": "Wenn der Kopf rast, was machst du dann?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795395"
+    },
+    {
+      "english": "Would it help to slow down together?",
+      "german": "Würde es helfen, wenn wir zusammen langsamer werden?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795397"
+    },
+    {
+      "english": "Is it okay to pause, and come back?",
+      "german": "Ist es in Ordnung, kurz zu pausieren, und zurückzukommen?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795399"
+    },
+    {
+      "english": "What boundary protects your peace most?",
+      "german": "Welche Grenze schützt deinen Frieden am besten?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795401"
+    },
+    {
+      "english": "How do you keep calm during conflict?",
+      "german": "Wie bleibst du ruhig, wenn es knallt?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795403"
+    },
+    {
+      "english": "Can you speak slower, I’m listening?",
+      "german": "Kannst du langsamer sprechen, ich höre zu?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795406"
+    },
+    {
+      "english": "Do you prefer questions, or simple answers?",
+      "german": "Magst du eher Fragen, oder lieber kurze Antworten?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795408"
+    },
+    {
+      "english": "What’s your kinder way to respond?",
+      "german": "Wie antwortest du freundlicher, wenn’s schwer wird?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795411"
+    },
+    {
+      "english": "May I check in with you, gently?",
+      "german": "Darf ich kurz bei dir nachfragen, ganz sanft?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795413"
+    },
+    {
+      "english": "Which thought do you let go first?",
+      "german": "Welchen Gedanken lässt du zuerst los?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795415"
+    },
+    {
+      "english": "What’s a grounding phrase you use daily?",
+      "german": "Welche beruhigende Phrase nutzt du jeden Tag?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795417"
+    },
+    {
+      "english": "Do you journal, or talk it out?",
+      "german": "Schreibst du Tagebuch, oder redest du es aus?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795419"
+    },
+    {
+      "english": "Can you remind me, what matters now?",
+      "german": "Kannst du mich erinnern, was jetzt zählt?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795421"
+    },
+    {
+      "english": "How do you keep your voice calm?",
+      "german": "Wie hältst du deine Stimme ruhig?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795423"
+    },
+    {
+      "english": "What small win helps you breathe easier?",
+      "german": "Welcher kleine Erfolg hilft dir, leichter zu atmen?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795425"
+    },
+    {
+      "english": "Should we pause, before we keep arguing?",
+      "german": "Sollen wir kurz stoppen, bevor wir weiter streiten?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795427"
+    },
+    {
+      "english": "What question brings you back to yourself?",
+      "german": "Welche Frage holt dich zurück zu dir selbst?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795431"
+    },
+    {
+      "english": "Can you share a technique, step by step?",
+      "german": "Kannst du eine Technik erklären, Schritt für Schritt?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795433"
+    },
+    {
+      "english": "When you feel stuck, what do you ask?",
+      "german": "Wenn du feststeckst, was fragst du dich?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795435"
+    },
+    {
+      "english": "Would you like space now, or company?",
+      "german": "Willst du jetzt eher Ruhe, oder möchtest du Gesellschaft?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795437"
+    },
+    {
+      "english": "How can we make this conversation safer?",
+      "german": "Wie können wir dieses Gespräch sicherer machen?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795440"
+    },
+    {
+      "english": "What’s your favorite way to soften the moment?",
+      "german": "Was ist deine Lieblingsart, den Moment zu entschärfen?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795442"
+    },
+    {
+      "english": "Can we try again, with calmer words?",
+      "german": "Können wir es nochmal versuchen, mit ruhigeren Worten?",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795444"
+    },
+    {
+      "english": "Breathe through, Kopf frei machen, one step.",
+      "german": "Durchatmen, Kopf frei machen, ein Schritt.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795447"
+    },
+    {
+      "english": "Quiet mind, slow talk, alles wird gut.",
+      "german": "Ruhiger Kopf, langsamer Ton, alles wird gut.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795449"
+    },
+    {
+      "english": "Let it be, it’s not the end.",
+      "german": "Lass es gut sein, es ist nicht das Ende.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795453"
+    },
+    {
+      "english": "No panic, it’ll settle, ganz ruhig bleiben.",
+      "german": "Keine Panik, es legt sich, ganz ruhig bleiben.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795456"
+    },
+    {
+      "english": "Clear head, keep it light, nicht so schwer.",
+      "german": "Klarer Kopf, locker bleiben, nicht so schwer.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795458"
+    },
+    {
+      "english": "Stop spiraling, keep your feet on ground.",
+      "german": "Dreh dich nicht im Kreis, bleib auf dem Boden.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795460"
+    },
+    {
+      "english": "Better later, right now, ruhig bleiben.",
+      "german": "Lieber später, jetzt erst mal ruhig bleiben.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795463"
+    },
+    {
+      "english": "Let the storm pass, alles geht vorbei.",
+      "german": "Lass den Sturm ziehen, alles geht vorbei.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795465"
+    },
+    {
+      "english": "Small steps win, Schritt für Schritt, du schaffst das.",
+      "german": "Kleine Schritte zählen, Schritt für Schritt, du schaffst das.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795469"
+    },
+    {
+      "english": "Make room, don’t crowd your own peace.",
+      "german": "Schaff dir Platz, dräng dich nicht in deine Ruhe.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795527"
+    },
+    {
+      "english": "Let go gently, Hand aufs Herz, weiteratmen.",
+      "german": "Loslassen, Hand aufs Herz, weiteratmen.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795530"
+    },
+    {
+      "english": "Trust your pace, niemand läuft weg.",
+      "german": "Vertrau deinem Tempo, niemand rennt davon.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795533"
+    },
+    {
+      "english": "Stay kind, don’t make drama, kein Stress.",
+      "german": "Bleib freundlich, mach keinen Krach, kein Stress.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795536"
+    },
+    {
+      "english": "Mind over matter, Kopf hoch, das wird.",
+      "german": "Kopf hoch, das wird schon.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795539"
+    },
+    {
+      "english": "Give yourself a break, Kopf aus, Welt aus.",
+      "german": "Gönn dir eine Pause, Kopf aus, Welt aus.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795541"
+    },
+    {
+      "english": "When it’s too much, take a step back.",
+      "german": "Wenn’s zu viel wird, geh einen Schritt zurück.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795544"
+    },
+    {
+      "english": "Stay present, don’t chase every thought.",
+      "german": "Bleib im Hier und Jetzt, jag nicht jedem Gedanken hinterher.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795548"
+    },
+    {
+      "english": "Unburden your mind, leichter werden.",
+      "german": "Mach’s dir leichter, die Last wird kleiner.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795551"
+    },
+    {
+      "english": "If you can’t fix it, let it go today.",
+      "german": "Wenn du’s nicht ändern kannst, lass es heute los.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795553"
+    },
+    {
+      "english": "No need to fight, you can soften.",
+      "german": "Du musst nicht kämpfen, du darfst weich bleiben.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795555"
+    },
+    {
+      "english": "Let it land, Stimme ruhig, Herz warm.",
+      "german": "Lass es wirken, Stimme ruhig, Herz warm.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795559"
+    },
+    {
+      "english": "Better breathing than boxing with thoughts.",
+      "german": "Atmen statt kämpfen, mit Gedanken Frieden finden.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795562"
+    },
+    {
+      "english": "Your peace counts, boundaries help, mach’s dir gut.",
+      "german": "Dein Frieden zählt, Grenzen helfen, mach’s dir gut.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795565"
+    },
+    {
+      "english": "Rainy day feelings pass, it’s temporary.",
+      "german": "Auch das geht vorbei, es ist nur vorübergehend.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795568"
+    },
+    {
+      "english": "Rest your nerves, Hände ruhig, Schultern runter.",
+      "german": "Nerven schonen, Hände ruhig, Schultern runter.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795572"
+    },
+    {
+      "english": "Give your brain a break, stop the noise.",
+      "german": "Gib dem Kopf Ruhe, mach den Lärm leiser.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795575"
+    },
+    {
+      "english": "Stay steady, don’t wobble, bleib standhaft.",
+      "german": "Bleib standhaft, lass dich nicht aus der Spur bringen.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795578"
+    },
+    {
+      "english": "Do one thing, Ruhe in den Tag holen.",
+      "german": "Mach nur eins, bring Ruhe in den Tag.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795580"
+    },
+    {
+      "english": "Let go of control, du musst nicht alles tragen.",
+      "german": "Kontrolle loslassen, du musst nicht alles tragen.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795582"
+    },
+    {
+      "english": "Choose calm words, dann wird’s leichter.",
+      "german": "Wähle ruhige Worte, dann wird’s leichter.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795584"
+    },
+    {
+      "english": "I check in, feel it, then I soften.",
+      "german": "Ich checke kurz ein, fühl’s, dann werde ich sanfter.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795587"
+    },
+    {
+      "english": "My feelings deserve space, not a fight.",
+      "german": "Meine Gefühle verdienen Raum, kein Kampf.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795589"
+    },
+    {
+      "english": "I talk to myself kindly, like you would.",
+      "german": "Ich rede mit mir selbst freundlich, so wie du.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795591"
+    },
+    {
+      "english": "No rush, I can breathe through this.",
+      "german": "Kein Stress, ich kann da dran atmen.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795593"
+    },
+    {
+      "english": "I’m learning to pause, before I react.",
+      "german": "Ich lerne zu pausieren, bevor ich reagiere.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795595"
+    },
+    {
+      "english": "If I’m honest, it calms me down.",
+      "german": "Wenn ich ehrlich bin, beruhigt mich das.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795598"
+    },
+    {
+      "english": "I hold my boundary gently, not sharply.",
+      "german": "Ich halte meine Grenze sanft, nicht hart.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795600"
+    },
+    {
+      "english": "Let’s name it, so it loses power.",
+      "german": "Lass uns es benennen, dann verliert es Kraft.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795602"
+    },
+    {
+      "english": "I don’t chase answers right now.",
+      "german": "Ich jagge die Antworten gerade nicht.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795605"
+    },
+    {
+      "english": "My heart is loud, but I listen softly.",
+      "german": "Mein Herz ist laut, aber ich höre leise.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795607"
+    },
+    {
+      "english": "I slow down, and my mind follows.",
+      "german": "Ich bremse mich, und mein Kopf kommt mit.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795609"
+    },
+    {
+      "english": "I admit I’m tired, then I rest.",
+      "german": "Ich sag ehrlich, ich bin müde, dann ruh ich.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795612"
+    },
+    {
+      "english": "Warm words help my nervous system settle.",
+      "german": "Worte, die warm sind, beruhigen mein Nervensystem.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795614"
+    },
+    {
+      "english": "I release the pressure, I keep my calm.",
+      "german": "Ich lasse den Druck los, und bleibe ruhig.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795616"
+    },
+    {
+      "english": "Sometimes peace means saying, “Not now.”",
+      "german": "Manchmal heißt Frieden, „Nicht jetzt.“",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795619"
+    },
+    {
+      "english": "I notice my thoughts, I don’t obey them.",
+      "german": "Ich beobachte meine Gedanken, ich gehorche nicht.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795622"
+    },
+    {
+      "english": "I let my body lead, not my fear.",
+      "german": "Ich lasse den Körper führen, nicht die Angst.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795624"
+    },
+    {
+      "english": "I’m proud I choose calm, again.",
+      "german": "Ich bin stolz, dass ich wieder ruhig wähle.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795626"
+    },
+    {
+      "english": "Tell me the truth, softly, right here.",
+      "german": "Sag mir die Wahrheit, sanft, hier und jetzt.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795629"
+    },
+    {
+      "english": "I don’t overthink, I breathe and return.",
+      "german": "Ich denke nicht zu viel, ich atme, und komme zurück.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795631"
+    },
+    {
+      "english": "Small honesty, big peace, heute beginnt’s.",
+      "german": "Kleine Ehrlichkeit, große Ruhe, heute fängt’s an.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795636"
+    },
+    {
+      "english": "I’m gentle with me, especially today.",
+      "german": "Ich bin heute besonders sanft zu mir.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795638"
+    },
+    {
+      "english": "I can feel it, without drowning in it.",
+      "german": "Ich kann es fühlen, ohne darin unterzugehen.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795640"
+    },
+    {
+      "english": "Trust grows when I slow my pace.",
+      "german": "Vertrauen wächst, wenn ich langsamer werde.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795642"
+    },
+    {
+      "english": "I don’t need control, just clarity.",
+      "german": "Ich brauche keine Kontrolle, nur Klarheit.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795645"
+    },
+    {
+      "english": "Let’s be real, then soften the moment.",
+      "german": "Seien wir ehrlich, dann wird der Moment sanfter.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795647"
+    },
+    {
+      "english": "My peace gets stronger, when I listen.",
+      "german": "Mein Frieden wird stärker, wenn ich zuhöre.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795651"
+    },
+    {
+      "english": "I choose calm words, and I mean them.",
+      "german": "Ich wähle ruhige Worte, und ich meine sie.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795653"
+    },
+    {
+      "english": "Hold on gently, the moment will change.",
+      "german": "Halte es sanft fest, der Moment verändert sich.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795655"
+    },
+    {
+      "english": "When it’s loud, I lower my voice.",
+      "german": "Wenn’s laut wird, senke ich meine Stimme.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-08T07:05:48.795657"
     }
   ],
-  "last_updated": "2026-11-07T06:59:07.733180"
+  "last_updated": "2026-11-08T07:05:48.795659"
 }
