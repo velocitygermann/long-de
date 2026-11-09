@@ -22985,7 +22985,727 @@
       "german": "Wenn’s laut wird, senke ich meine Stimme.",
       "category": "Inner Peace",
       "generated_at": "2026-11-08T07:05:48.795657"
+    },
+    {
+      "english": "Come in, we’re home, right now",
+      "german": "Komm rein, wir sind da, gleich",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.979985"
+    },
+    {
+      "english": "Who wants tea, I’m making it now",
+      "german": "Wer will Tee, ich mach ihn gerade",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980000"
+    },
+    {
+      "english": "Do we have milk, check the fridge",
+      "german": "Haben wir Milch, schau mal in den Kühlschrank",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980003"
+    },
+    {
+      "english": "Quiet down, the baby’s sleeping",
+      "german": "Sei leiser, das Baby schläft",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980006"
+    },
+    {
+      "english": "No worries, it happens, we’ll fix it",
+      "german": "Kein Stress, passiert doch, wir kriegen das hin",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980009"
+    },
+    {
+      "english": "Really? That’s awesome, tell me more",
+      "german": "Echt? Das ist mega, erzähl weiter",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980012"
+    },
+    {
+      "english": "Oh no, the door is stuck again",
+      "german": "Oh nein, die Tür klemmt schon wieder",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980015"
+    },
+    {
+      "english": "Hold on, I’ll grab it for you",
+      "german": "Moment, ich hol’s dir kurz",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980019"
+    },
+    {
+      "english": "Where are your keys, look on the table",
+      "german": "Wo sind deine Schlüssel, schau auf den Tisch",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980023"
+    },
+    {
+      "english": "I’m starving, we should order food",
+      "german": "Ich hab Hunger, wir bestellen besser was",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980026"
+    },
+    {
+      "english": "Don’t forget, shoes go by the door",
+      "german": "Nicht vergessen, Schuhe kommen an die Tür",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980028"
+    },
+    {
+      "english": "Wait, you forgot the trash bag",
+      "german": "Stopp, du hast den Müllbeutel vergessen",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980031"
+    },
+    {
+      "english": "Nice, it smells great in here",
+      "german": "Super, hier riecht’s richtig gut",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980033"
+    },
+    {
+      "english": "Are you okay, talk to me",
+      "german": "Geht’s dir gut, sag mir kurz Bescheid",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980034"
+    },
+    {
+      "english": "That’s true, I totally agree with you",
+      "german": "Stimmt, da hast du komplett recht",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980037"
+    },
+    {
+      "english": "Thanks, you’re a lifesaver today",
+      "german": "Danke, du rettest mich heute",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980040"
+    },
+    {
+      "english": "Come on, we’re late, let’s go",
+      "german": "Los, wir sind spät dran, komm",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980042"
+    },
+    {
+      "english": "Be careful, the stairs are slippery",
+      "german": "Pass auf, die Treppe ist rutschig",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980045"
+    },
+    {
+      "english": "Show me, I don’t get it yet",
+      "german": "Zeig mal, ich check das noch nicht",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980047"
+    },
+    {
+      "english": "That’s enough, I need some space",
+      "german": "Reicht, ich brauch jetzt bisschen Ruhe",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980049"
+    },
+    {
+      "english": "Can we talk, after dinner, please",
+      "german": "Können wir reden, nach dem Essen, bitte",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980054"
+    },
+    {
+      "english": "What happened, tell me the whole story",
+      "german": "Was ist passiert, erzähl mir alles",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980056"
+    },
+    {
+      "english": "All good, I’ll handle it from here",
+      "german": "Alles gut, ich mach das jetzt allein",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980059"
+    },
+    {
+      "english": "Wow, look at that, so cozy",
+      "german": "Wow, sieh das an, so gemütlich",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980061"
+    },
+    {
+      "english": "I’m off to bed, good night",
+      "german": "Ich geh jetzt schlafen, gute Nacht",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980065"
+    },
+    {
+      "english": "Give me a sec, I’m almost done",
+      "german": "Gib mir kurz Zeit, ich bin gleich fertig",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980068"
+    },
+    {
+      "english": "Are you still coming, we wait",
+      "german": "Kommst du noch, wir warten",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980070"
+    },
+    {
+      "english": "Stop that, don’t touch the sockets",
+      "german": "Stopp, da nicht dran, die Steckdosen",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980072"
+    },
+    {
+      "english": "This one’s yours, take it, please",
+      "german": "Die ist für dich, nimm sie, bitte",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980075"
+    },
+    {
+      "english": "Let’s clean up, five minutes, then chill",
+      "german": "Räumen wir auf, fünf Minuten, dann chillen wir",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980077"
+    },
+    {
+      "english": "Do you have a spare room, by chance?",
+      "german": "Hast du zufällig ein Gästezimmer frei?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980080"
+    },
+    {
+      "english": "Where’s the laundry basket, in German homes?",
+      "german": "Wo ist der Wäschekorb, normalerweise?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980085"
+    },
+    {
+      "english": "Can I borrow your vacuum cleaner, please?",
+      "german": "Kann ich bitte deinen Staubsauger ausleihen?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980087"
+    },
+    {
+      "english": "What do you recommend for a quick meal?",
+      "german": "Was empfiehlst du für ein schnelles Abendessen?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980090"
+    },
+    {
+      "english": "Is it okay, if I bring my cousin?",
+      "german": "Ist das okay, wenn ich meinen Cousin mitbringe?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980092"
+    },
+    {
+      "english": "Could you help me hang this picture?",
+      "german": "Kannst du mir kurz helfen, dieses Bild aufzuhängen?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980094"
+    },
+    {
+      "english": "Do you have any tips for organizing closets?",
+      "german": "Hast du Tipps, wie man Schränke ordentlich macht?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980096"
+    },
+    {
+      "english": "How do you usually keep the kitchen tidy?",
+      "german": "Wie hältst du die Küche meistens sauber?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980099"
+    },
+    {
+      "english": "Where do Germans buy good cleaning supplies?",
+      "german": "Wo kauft man hier am besten Putzmittel?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980101"
+    },
+    {
+      "english": "What time is best to call the landlord?",
+      "german": "Wann kann ich am besten den Vermieter erreichen?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980103"
+    },
+    {
+      "english": "Should I use warm water, or cold?",
+      "german": "Nimmst du lieber warmes Wasser, oder kalt?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980105"
+    },
+    {
+      "english": "Do you mind, I ask about the washing rules?",
+      "german": "Stört dich, wenn ich nach den Waschregeln frage?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980107"
+    },
+    {
+      "english": "What’s the easiest way to get rid of boxes?",
+      "german": "Wie macht ihr am einfachsten Kartons los?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980110"
+    },
+    {
+      "english": "Is there a quiet room, for calls at home?",
+      "german": "Gibt es bei euch einen ruhigen Raum fürs Telefonieren?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980112"
+    },
+    {
+      "english": "Who’s responsible for trash days, at your place?",
+      "german": "Wer ist bei euch für den Mülltag zuständig?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980115"
+    },
+    {
+      "english": "Do I need to ring the bell first?",
+      "german": "Muss ich erst an der Klingel klingeln?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980117"
+    },
+    {
+      "english": "How late can we use the washing machine?",
+      "german": "Bis wann darf man hier die Waschmaschine benutzen?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980119"
+    },
+    {
+      "english": "What do I do, if the shower leaks?",
+      "german": "Was soll ich tun, wenn die Dusche undicht ist?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980121"
+    },
+    {
+      "english": "Could you show me your recycling system?",
+      "german": "Kannst du mir euer Recycling-System kurz zeigen?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980123"
+    },
+    {
+      "english": "Do we take shoes off here, or not?",
+      "german": "Zieht man hier die Schuhe aus, oder lassen?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980126"
+    },
+    {
+      "english": "Is it better to book a cleaner online?",
+      "german": "Ist es besser, eine Reinigung online zu buchen?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980128"
+    },
+    {
+      "english": "What should I do with old batteries?",
+      "german": "Wohin bringt man alte Batterien?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980130"
+    },
+    {
+      "english": "Do you need help with the kids tonight?",
+      "german": "Braucht ihr heute Abend Hilfe bei den Kindern?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980132"
+    },
+    {
+      "english": "Can I get your advice, about the apartment?",
+      "german": "Kann ich dir kurz um Rat fragen, zur Wohnung?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980134"
+    },
+    {
+      "english": "How do you handle guests at weekends?",
+      "german": "Wie macht ihr das, wenn ihr Gäste am Wochenende habt?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980137"
+    },
+    {
+      "english": "What’s your rule for quiet hours at home?",
+      "german": "Was ist eure Regel für Ruhezeiten?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980139"
+    },
+    {
+      "english": "Could you check, if we’re out of dish soap?",
+      "german": "Kannst du kurz schauen, ob wir Spülmittel haben?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980142"
+    },
+    {
+      "english": "When do you usually do grocery shopping?",
+      "german": "Wann macht ihr meistens den Wocheneinkauf?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980144"
+    },
+    {
+      "english": "If it rains, should we cancel plans?",
+      "german": "Wenn es regnet, sollen wir die Pläne ändern?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980147"
+    },
+    {
+      "english": "You’ve got this, even at home today",
+      "german": "Du schaffst das, auch heute daheim",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980149"
+    },
+    {
+      "english": "Small steps count, for family life",
+      "german": "Kleine Schritte zählen, für das Familienleben",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980152"
+    },
+    {
+      "english": "Breathe in, relax, then start again",
+      "german": "Atme ein, entspann dich, dann leg los",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980154"
+    },
+    {
+      "english": "Nice job, that helped our home feel easy",
+      "german": "Super gemacht, so fühlt sich unser Zuhause leicht an",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980156"
+    },
+    {
+      "english": "Give yourself credit, you’re trying hard",
+      "german": "Gib dir selbst Anerkennung, du gibst dein Bestes",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980161"
+    },
+    {
+      "english": "Today is a fresh start, no pressure",
+      "german": "Heute ist ein Neustart, ohne Druck",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980163"
+    },
+    {
+      "english": "Talk kindly, your home will mirror you",
+      "german": "Sprich freundlich, dann spiegelt das Zuhause zurück",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980165"
+    },
+    {
+      "english": "It’s okay to pause, even with chores",
+      "german": "Du darfst kurz stoppen, auch bei den Aufgaben",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980167"
+    },
+    {
+      "english": "You’re doing better than yesterday, trust it",
+      "german": "Du bist besser als gestern, vertrau darauf",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980171"
+    },
+    {
+      "english": "Praise counts, say it out loud",
+      "german": "Lob ist wichtig, sag’s ruhig laut",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980174"
+    },
+    {
+      "english": "We learn together, mistakes are part of it",
+      "german": "Wir lernen zusammen, Fehler gehören dazu",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980177"
+    },
+    {
+      "english": "Keep going, good things take time",
+      "german": "Geh weiter, Gute Dinge brauchen Zeit",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980179"
+    },
+    {
+      "english": "Make it cozy, not perfect, today",
+      "german": "Mach’s gemütlich, nicht perfekt, heute",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980181"
+    },
+    {
+      "english": "Your effort matters, no matter how small",
+      "german": "Dein Einsatz zählt, egal wie klein",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980183"
+    },
+    {
+      "english": "One win at a time, that’s the trick",
+      "german": "Ein Erfolg nach dem anderen, genau so klappt’s",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980186"
+    },
+    {
+      "english": "Let’s reset, grab water, then continue",
+      "german": "Lass uns neu starten, Wasser holen, weiter machen",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980188"
+    },
+    {
+      "english": "You’re safe here, we’ve got each other",
+      "german": "Du bist hier sicher, wir halten zusammen",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980191"
+    },
+    {
+      "english": "Set the mood, small smile changes everything",
+      "german": "Stell die Stimmung ein, ein Lächeln hilft sofort",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980194"
+    },
+    {
+      "english": "Respect first, then the rest falls into place",
+      "german": "Erst Respekt, dann kommt der Rest von allein",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980196"
+    },
+    {
+      "english": "Thanks for jumping in, that meant a lot",
+      "german": "Danke, dass du eingesprungen bist, das war viel wert",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980198"
+    },
+    {
+      "english": "Keep it light, family days don’t need stress",
+      "german": "Halt es locker, Familientage brauchen keinen Stress",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980201"
+    },
+    {
+      "english": "Say what you feel, gently, no drama",
+      "german": "Sag, was du fühlst, ganz sanft, ohne Drama",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980203"
+    },
+    {
+      "english": "Celebrate progress, that’s how routines stick",
+      "german": "Feier den Fortschritt, so bleiben Routinen",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980205"
+    },
+    {
+      "english": "When worries come, talk it out calmly",
+      "german": "Wenn Sorgen kommen, red ruhig darüber",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980208"
+    },
+    {
+      "english": "Choose patience, your home feels warmer",
+      "german": "Wähl Geduld, so wird dein Zuhause wärmer",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980210"
+    },
+    {
+      "english": "It’s fine to ask for help, really",
+      "german": "Es ist okay, Hilfe zu holen, wirklich",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980214"
+    },
+    {
+      "english": "You’re building trust, one kind word",
+      "german": "Du baust Vertrauen auf, mit jedem freundlichen Wort",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980217"
+    },
+    {
+      "english": "Home is where we try again, always",
+      "german": "Zuhause ist, wo wir immer wieder neu anfangen",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980219"
+    },
+    {
+      "english": "I’m trying to be honest, even today",
+      "german": "Ich versuche, ehrlich zu sein, auch heute",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980222"
+    },
+    {
+      "english": "Sometimes I need a quiet moment, really",
+      "german": "Manchmal brauche ich eine ruhige Minute, wirklich",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980224"
+    },
+    {
+      "english": "I feel overwhelmed, can we slow down",
+      "german": "Ich fühl mich überfordert, können wir langsamer",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980226"
+    },
+    {
+      "english": "Let’s talk calmly, not fix everything at once",
+      "german": "Lass uns ruhig reden, nicht alles auf einmal",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980228"
+    },
+    {
+      "english": "I don’t want blame, I just want clarity",
+      "german": "Ich will keine Schuld, ich will nur Klarheit",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980231"
+    },
+    {
+      "english": "I miss you, and I’m saying it",
+      "german": "Ich vermisse dich, und ich sage es",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980233"
+    },
+    {
+      "english": "Give me ten minutes, I’ll be back",
+      "german": "Gib mir zehn Minuten, ich bin gleich zurück",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980236"
+    },
+    {
+      "english": "I’m proud of you, for trying again",
+      "german": "Ich bin stolz auf dich, weil du wieder versuchst",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980239"
+    },
+    {
+      "english": "We can be messy, and still belong",
+      "german": "Wir dürfen chaotisch sein, und trotzdem gehören",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980243"
+    },
+    {
+      "english": "Today feels heavy, but we’ll manage",
+      "german": "Heute fühlt sich alles schwer an, aber wir schaffen das",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980245"
+    },
+    {
+      "english": "I want peace in our home, please",
+      "german": "Ich wünsche mir Frieden in unserem Zuhause",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980247"
+    },
+    {
+      "english": "I’m learning patience, step by step",
+      "german": "Ich lerne Geduld, Schritt für Schritt",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980250"
+    },
+    {
+      "english": "Let’s breathe, then answer with kindness",
+      "german": "Atmen wir durch, dann antworten wir freundlich",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980252"
+    },
+    {
+      "english": "I’m not perfect, but I’m consistent",
+      "german": "Ich bin nicht perfekt, aber ich bleibe dran",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980254"
+    },
+    {
+      "english": "I feel heard, that makes a difference",
+      "german": "Ich fühle mich verstanden, das macht den Unterschied",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980258"
+    },
+    {
+      "english": "We’ll take it slow, no pressure today",
+      "german": "Wir machen das langsam, kein Druck heute",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980261"
+    },
+    {
+      "english": "I need support, not explanations right now",
+      "german": "Ich brauche Hilfe, nicht sofort Erklärungen",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980263"
+    },
+    {
+      "english": "I’m grateful for small moments together",
+      "german": "Ich bin dankbar für kleine Momente zusammen",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980265"
+    },
+    {
+      "english": "Let’s forgive quickly, then move on",
+      "german": "Lasst uns schnell verzeihen, dann weitergehen",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980268"
+    },
+    {
+      "english": "When I’m tense, I need a reset",
+      "german": "Wenn ich gestresst bin, brauche ich ein Reset",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980270"
+    },
+    {
+      "english": "I’m trying to protect our routines",
+      "german": "Ich versuche, unsere Routinen zu schützen",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980273"
+    },
+    {
+      "english": "Your feelings matter, please don’t hide them",
+      "german": "Deine Gefühle zählen, bitte versteck sie nicht",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980275"
+    },
+    {
+      "english": "I’ll own my part, honestly, right away",
+      "german": "Ich übernehme meinen Teil, ehrlich, sofort",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980278"
+    },
+    {
+      "english": "Let’s set a warm tone for tonight",
+      "german": "Lasst uns heute Abend eine warme Stimmung schaffen",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980280"
+    },
+    {
+      "english": "I’m scared of repeating old patterns",
+      "german": "Ich habe Angst, alte Muster zu wiederholen",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980283"
+    },
+    {
+      "english": "I’ll listen first, then I’ll respond",
+      "german": "Ich höre erst zu, dann antworte ich",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980285"
+    },
+    {
+      "english": "It’s okay to be quiet, for a minute",
+      "german": "Es ist okay, eine Minute still zu sein",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980289"
+    },
+    {
+      "english": "I’m reflecting, what worked, what didn’t",
+      "german": "Ich denke nach, was funktioniert hat, was nicht",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980292"
+    },
+    {
+      "english": "Our home feels better when we’re gentle",
+      "german": "Unser Zuhause fühlt sich besser an, wenn wir sanft sind",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980294"
+    },
+    {
+      "english": "I want us to heal, not just cope",
+      "german": "Ich will, dass wir heilen, nicht nur durchhalten",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980296"
+    },
+    {
+      "english": "Before dinner, set the table together, please.",
+      "german": "Bevor wir essen, decken wir bitte gemeinsam den Tisch.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980299"
+    },
+    {
+      "english": "Shoes by the door, that keeps it tidy.",
+      "german": "Schuhe an die Tür, so bleibt alles ordentlich.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980301"
+    },
+    {
+      "english": "Quick check, what do we still need?",
+      "german": "Kurzer Check, was brauchen wir noch?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-09T07:50:36.980303"
     }
   ],
-  "last_updated": "2026-11-08T07:05:48.795659"
+  "last_updated": "2026-11-09T07:50:36.980305"
 }
