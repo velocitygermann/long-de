@@ -23705,7 +23705,727 @@
       "german": "Kurzer Check, was brauchen wir noch?",
       "category": "Family & Home",
       "generated_at": "2026-11-09T07:50:36.980303"
+    },
+    {
+      "english": "Do I need cash, or can I pay card?",
+      "german": "Brauche ich Bargeld, oder kann ich mit Karte zahlen?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.614926"
+    },
+    {
+      "english": "How much is it, including the fee?",
+      "german": "Wie viel kostet das, inklusive Gebühr?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.614941"
+    },
+    {
+      "english": "Wait, my card is not working.",
+      "german": "Moment, meine Karte funktioniert nicht.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.614944"
+    },
+    {
+      "english": "Can I pay in installments, please?",
+      "german": "Kann ich das bitte in Raten zahlen?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.614947"
+    },
+    {
+      "english": "I just checked, the money is pending.",
+      "german": "Ich hab’s gerade geprüft, die Zahlung ist ausstehend.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.614950"
+    },
+    {
+      "english": "Let me transfer it, right now.",
+      "german": "Ich überweise es, sofort.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.614953"
+    },
+    {
+      "english": "What’s the exchange rate today?",
+      "german": "Wie ist der Wechselkurs heute?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.614956"
+    },
+    {
+      "english": "Does it include tax, or not?",
+      "german": "Ist da die Steuer drin, oder nicht?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.614962"
+    },
+    {
+      "english": "That’s great, it’s cheaper than yesterday!",
+      "german": "Super, das ist günstiger als gestern!",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.614966"
+    },
+    {
+      "english": "Oh no, I overspent again.",
+      "german": "Oh nein, ich hab schon wieder zu viel ausgegeben.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.614969"
+    },
+    {
+      "english": "I need to withdraw cash, quickly.",
+      "german": "Ich muss schnell Bargeld abheben.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.614972"
+    },
+    {
+      "english": "Do you have an ATM nearby?",
+      "german": "Gibt es einen Geldautomaten in der Nähe?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.614975"
+    },
+    {
+      "english": "I forgot my PIN, what now?",
+      "german": "Ich hab meine PIN vergessen, was jetzt?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.614977"
+    },
+    {
+      "english": "Hold on, my statement looks strange.",
+      "german": "Moment mal, mein Kontoauszug sieht komisch aus.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.614980"
+    },
+    {
+      "english": "Is the transfer already completed?",
+      "german": "Ist die Überweisung schon fertig?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.614982"
+    },
+    {
+      "english": "I’m short on money this week.",
+      "german": "Diese Woche bin ich knapp bei Kasse.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.614986"
+    },
+    {
+      "english": "Thanks, that helps a lot.",
+      "german": "Danke, das hilft mir sehr.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.614990"
+    },
+    {
+      "english": "Can you split the bill, please?",
+      "german": "Kannst du bitte die Rechnung teilen?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.614993"
+    },
+    {
+      "english": "I’ll pay, you can relax now.",
+      "german": "Ich zahl, du kannst jetzt entspannen.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.614998"
+    },
+    {
+      "english": "What’s the minimum balance?",
+      "german": "Wie hoch ist der Mindestbetrag?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.615001"
+    },
+    {
+      "english": "No worries, I’ll cover it.",
+      "german": "Kein Problem, ich übernehme das.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.615005"
+    },
+    {
+      "english": "Is there a fee for this?",
+      "german": "Gibt es dafür eine Gebühr?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.615007"
+    },
+    {
+      "english": "My balance says zero, seriously?",
+      "german": "Mein Kontostand ist null, wirklich?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.615010"
+    },
+    {
+      "english": "I need to budget, starting today.",
+      "german": "Ich muss sparen, ab heute.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.615012"
+    },
+    {
+      "english": "What’s the interest rate right now?",
+      "german": "Wie hoch ist der Zinssatz gerade?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.615016"
+    },
+    {
+      "english": "That charge seems suspicious to me.",
+      "german": "Diese Abbuchung kommt mir komisch vor.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.615018"
+    },
+    {
+      "english": "Please cancel it, I didn’t agree.",
+      "german": "Bitte stornieren, ich habe nicht zugestimmt.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.615023"
+    },
+    {
+      "english": "Is it possible to get a receipt?",
+      "german": "Kann ich bitte eine Quittung bekommen?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.615026"
+    },
+    {
+      "english": "I’m waiting for my refund, when?",
+      "german": "Ich warte noch auf die Rückerstattung, wann?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.615029"
+    },
+    {
+      "english": "Okay, I’ll withdraw cash now.",
+      "german": "Okay, ich hebe jetzt Bargeld ab.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.615032"
+    },
+    {
+      "english": "Can you recommend a savings plan for me?",
+      "german": "Kannst du mir einen Sparplan empfehlen?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.615037"
+    },
+    {
+      "english": "Should I open a second account?",
+      "german": "Soll ich ein zweites Konto eröffnen?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.615040"
+    },
+    {
+      "english": "Which bank app is easiest to use?",
+      "german": "Welche Banking-App ist am einfachsten?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.615043"
+    },
+    {
+      "english": "What documents do you need from me?",
+      "german": "Welche Unterlagen brauchst du von mir?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.615046"
+    },
+    {
+      "english": "Do I need an appointment, or walk in?",
+      "german": "Brauche ich einen Termin, oder gehe ich einfach hin?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.615048"
+    },
+    {
+      "english": "Is there a limit on card payments?",
+      "german": "Gibt es eine Grenze für Kartenzahlungen?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.615051"
+    },
+    {
+      "english": "How do I set up a direct debit?",
+      "german": "Wie richte ich eine Lastschrift ein?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.615054"
+    },
+    {
+      "english": "Can I pause a payment for now?",
+      "german": "Kann ich eine Zahlung erst mal stoppen?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.615056"
+    },
+    {
+      "english": "What happens if I pay late?",
+      "german": "Was passiert, wenn ich zu spät zahle?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.615058"
+    },
+    {
+      "english": "Does my bank charge monthly fees?",
+      "german": "Nimmt meine Bank monatliche Gebühren?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.615061"
+    },
+    {
+      "english": "Can you explain fees in plain words?",
+      "german": "Kannst du die Gebühren kurz und einfach erklären?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.615064"
+    },
+    {
+      "english": "Is there insurance for my transfers?",
+      "german": "Gibt es eine Absicherung für Überweisungen?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.615066"
+    },
+    {
+      "english": "What’s the best way to pay taxes?",
+      "german": "Was ist der beste Weg, Steuern zu zahlen?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.615069"
+    },
+    {
+      "english": "Do I get interest on my savings?",
+      "german": "Bekomme ich Zinsen auf mein Erspartes?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.615072"
+    },
+    {
+      "english": "How can I track my spending?",
+      "german": "Wie kann ich meine Ausgaben verfolgen?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.615074"
+    },
+    {
+      "english": "What’s the safest option for my money?",
+      "german": "Was ist die sicherste Option für mein Geld?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.615077"
+    },
+    {
+      "english": "Can I change my credit card limit?",
+      "german": "Kann ich mein Kreditkartenlimit erhöhen oder senken?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.615080"
+    },
+    {
+      "english": "Do you offer student accounts, by chance?",
+      "german": "Habt ihr Studenten-Konten, falls ich frage?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.615083"
+    },
+    {
+      "english": "When will I receive the new card?",
+      "german": "Wann bekomme ich die neue Karte?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.615085"
+    },
+    {
+      "english": "Should I use a budget app or not?",
+      "german": "Soll ich lieber eine Budget-App nutzen?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.615088"
+    },
+    {
+      "english": "Is it okay to pay by bank transfer?",
+      "german": "Ist Überweisung auch okay für dich?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.615090"
+    },
+    {
+      "english": "What bank hours are best for advice?",
+      "german": "Wann ist es am besten für Beratung in der Bank?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.615093"
+    },
+    {
+      "english": "Can you tell me about overdraft protection?",
+      "german": "Kannst du mir etwas zum Dispo erklären?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616020"
+    },
+    {
+      "english": "Is there a cheaper plan for small deposits?",
+      "german": "Gibt es einen günstigeren Plan für kleinere Einzahlungen?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616024"
+    },
+    {
+      "english": "Which option is better, fixed or flexible?",
+      "german": "Was ist besser, fest oder flexibel?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616027"
+    },
+    {
+      "english": "Can I withdraw money using my phone?",
+      "german": "Kann ich mit dem Handy Geld abheben?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616029"
+    },
+    {
+      "english": "What’s the safest time to transfer money?",
+      "german": "Wann ist es am sichersten, Geld zu überweisen?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616032"
+    },
+    {
+      "english": "If I have questions later, who can I ask?",
+      "german": "Wenn ich später Fragen habe, wen kann ich fragen?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616035"
+    },
+    {
+      "english": "Could you confirm my account details, please?",
+      "german": "Könntest du meine Kontodaten kurz bestätigen?",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616038"
+    },
+    {
+      "english": "You’ve got this, keep going, one step.",
+      "german": "Du schaffst das, bleib dran, ein Schritt.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616042"
+    },
+    {
+      "english": "Small wins today, stronger money habits tomorrow.",
+      "german": "Kleine Erfolge heute, morgen stärkere Geldgewohnheiten.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616045"
+    },
+    {
+      "english": "Breathe, you’re in control, calm decisions now.",
+      "german": "Atme durch, du hast die Kontrolle, jetzt ruhig entscheiden.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616049"
+    },
+    {
+      "english": "Check your options, choose what feels right.",
+      "german": "Guck dir die Optionen an, wähle, was sich richtig anfühlt.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616055"
+    },
+    {
+      "english": "You’re building a cushion, not just saving.",
+      "german": "Du baust dir einen Puffer auf, nicht nur sparen.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616059"
+    },
+    {
+      "english": "Every transfer, you grow confidence, one by one.",
+      "german": "Jede Überweisung macht dich sicherer, Schritt für Schritt.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616062"
+    },
+    {
+      "english": "Trust the process, consistency beats perfect plans.",
+      "german": "Vertrau dem Prozess, Beständigkeit schlägt Perfektion.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616065"
+    },
+    {
+      "english": "It’s okay to learn, you’re doing great.",
+      "german": "Es ist okay, zu lernen, du machst das toll.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616069"
+    },
+    {
+      "english": "Aim for steady progress, not sudden big moves.",
+      "german": "Strebe nach stetigem Fortschritt, nicht nach großen Sprüngen.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616072"
+    },
+    {
+      "english": "Your money can work for you, daily.",
+      "german": "Dein Geld kann jeden Tag für dich arbeiten.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616075"
+    },
+    {
+      "english": "Celebrate paying bills on time, that matters.",
+      "german": "Feier es, Rechnungen pünktlich zu zahlen, das zählt.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616078"
+    },
+    {
+      "english": "You’re not behind, you’re getting smarter.",
+      "german": "Du bist nicht zu spät, du wirst einfach cleverer.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616081"
+    },
+    {
+      "english": "Pick one habit, keep it, you’ll feel it.",
+      "german": "Such dir eine Gewohnheit aus, mach sie täglich, du spürst’s.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616086"
+    },
+    {
+      "english": "Use your bank app, learn the buttons.",
+      "german": "Nutze deine Banking-App, lerne die Knöpfe.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616089"
+    },
+    {
+      "english": "Don’t stress, small checks prevent big surprises.",
+      "german": "Keine Panik, kleine Checks verhindern große Überraschungen.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616092"
+    },
+    {
+      "english": "Focus on what you can control today.",
+      "german": "Konzentrier dich auf das, was du heute kontrollieren kannst.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616095"
+    },
+    {
+      "english": "Stay curious, ask questions, grow with every answer.",
+      "german": "Bleib neugierig, stell Fragen, wachse mit jeder Antwort.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616098"
+    },
+    {
+      "english": "Good habits start small, stay consistent, win.",
+      "german": "Gute Gewohnheiten fangen klein an, bleiben dran, du gewinnst.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616101"
+    },
+    {
+      "english": "Your future self will thank you, seriously.",
+      "german": "Dein zukünftiges Ich wird dir danken, wirklich.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616104"
+    },
+    {
+      "english": "You’re building security, one wise decision at a time.",
+      "german": "Du baust dir Sicherheit auf, mit jeder klugen Entscheidung.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616107"
+    },
+    {
+      "english": "When in doubt, pause, then act confidently.",
+      "german": "Wenn du unsicher bist, halt kurz inne, dann handle sicher.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616110"
+    },
+    {
+      "english": "Keep your goals visible, let them guide you.",
+      "german": "Halte deine Ziele sichtbar, sie führen dich.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616113"
+    },
+    {
+      "english": "You’ve made progress, even if it’s slow.",
+      "german": "Du machst Fortschritte, auch wenn’s langsam ist.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616116"
+    },
+    {
+      "english": "Choose simple steps, your budget will breathe.",
+      "german": "Wähle einfache Schritte, dann kann dein Budget atmen.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616119"
+    },
+    {
+      "english": "Every review makes you stronger, trust it.",
+      "german": "Jedes Durchsehen macht dich stärker, vertraue darauf.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616122"
+    },
+    {
+      "english": "You’re learning money, and that’s powerful.",
+      "german": "Du lernst fürs Geld, und das ist stark.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616125"
+    },
+    {
+      "english": "Be proud, small savings add up fast.",
+      "german": "Sei stolz, kleine Sparbeträge summieren sich schnell.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616128"
+    },
+    {
+      "english": "Protect your plans, review them before surprises hit.",
+      "german": "Schütz deine Pläne, schau vorher drauf, bevor Überraschungen kommen.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616130"
+    },
+    {
+      "english": "You deserve peace, handle money with clarity.",
+      "german": "Du verdienst Ruhe, geh mit Geld klar um.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616133"
+    },
+    {
+      "english": "One good choice today, and tomorrow gets easier.",
+      "german": "Eine gute Entscheidung heute, und morgen wird’s leichter.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616136"
+    },
+    {
+      "english": "I feel calmer when I check my balance daily.",
+      "german": "Ich fühle mich ruhiger, wenn ich täglich meinen Kontostand checke.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616139"
+    },
+    {
+      "english": "Honestly, money decisions scare me sometimes.",
+      "german": "Ganz ehrlich, Geldentscheidungen machen mir manchmal Angst.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616141"
+    },
+    {
+      "english": "I’m learning to wait, not rush transfers.",
+      "german": "Ich lerne, zu warten, statt Überweisungen zu hetzen.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616147"
+    },
+    {
+      "english": "It helps me to write things down first.",
+      "german": "Es hilft mir, erst alles aufzuschreiben, ganz in Ruhe.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616149"
+    },
+    {
+      "english": "I don’t need perfection, I need steady trust.",
+      "german": "Ich brauche keine Perfektion, nur stetiges Vertrauen.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616155"
+    },
+    {
+      "english": "Sometimes I overspend, and that’s okay.",
+      "german": "Manchmal geb’ ich zu viel aus, und das ist okay.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616158"
+    },
+    {
+      "english": "I want my money to feel like safety.",
+      "german": "Ich will, dass sich mein Geld nach Sicherheit anfühlt.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616161"
+    },
+    {
+      "english": "I’m proud, even when saving feels slow.",
+      "german": "Ich bin stolz, auch wenn Sparen sich zäh anfühlt.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616164"
+    },
+    {
+      "english": "I pause, breathe, then I choose what fits.",
+      "german": "Ich halte kurz inne, atme durch, dann entscheide ich.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616167"
+    },
+    {
+      "english": "To be honest, I fear surprise fees.",
+      "german": "Ehrlich gesagt, ich hab Angst vor Überraschungsgebühren.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616170"
+    },
+    {
+      "english": "My plan works better when I stay flexible.",
+      "german": "Mein Plan klappt besser, wenn ich flexibel bleibe.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616172"
+    },
+    {
+      "english": "I trust small checks more than big promises.",
+      "german": "Ich vertraue lieber kleinen Checks als großen Versprechen.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616180"
+    },
+    {
+      "english": "I’m not judging myself, just getting clearer.",
+      "german": "Ich verurteile mich nicht, ich werde nur klarer.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616184"
+    },
+    {
+      "english": "A budget is my way to breathe.",
+      "german": "Ein Budget ist mein Weg, wieder durchzuatmen.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616186"
+    },
+    {
+      "english": "I feel safer when my bills are planned.",
+      "german": "Ich fühl mich sicherer, wenn meine Rechnungen geplant sind.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616189"
+    },
+    {
+      "english": "Patience pays off, even with money stuff.",
+      "german": "Geduld lohnt sich, auch bei Geld-Themen.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616192"
+    },
+    {
+      "english": "I’m learning, one careful decision at a time.",
+      "german": "Ich lerne Schritt für Schritt, mit jeder vorsichtigen Entscheidung.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616195"
+    },
+    {
+      "english": "I don’t want stress, I want honest tracking.",
+      "german": "Ich will keinen Stress, ich will ehrliches Tracking.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616198"
+    },
+    {
+      "english": "When I’m unsure, I ask myself why.",
+      "german": "Wenn ich unsicher bin, frag ich mich zuerst, warum.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616202"
+    },
+    {
+      "english": "I can’t change the past, but I can adjust.",
+      "german": "Ich kann die Vergangenheit nicht ändern, aber ich passe an.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616205"
+    },
+    {
+      "english": "I’m trying to spend with intention, not emotion.",
+      "german": "Ich versuche, mit Absicht auszugeben, nicht aus dem Bauch.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616208"
+    },
+    {
+      "english": "Sometimes I feel stuck, then I simplify.",
+      "german": "Manchmal fühl ich mich festgefahren, dann mach ich’s einfacher.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616211"
+    },
+    {
+      "english": "I’m okay with slow progress, really.",
+      "german": "Ich bin mit langsamer Fortschritt ganz okay, wirklich.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616214"
+    },
+    {
+      "english": "I want my bank life to be less noisy.",
+      "german": "Ich will, dass mein Bankleben ruhiger wird.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616217"
+    },
+    {
+      "english": "I notice my triggers, then I handle them.",
+      "german": "Ich merke meine Auslöser, dann gehe ich ruhig damit um.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616220"
+    },
+    {
+      "english": "If I mess up, I restart gently.",
+      "german": "Wenn ich’s versemmle, fange ich sanft von vorn an.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616223"
+    },
+    {
+      "english": "I don’t chase money, I build habits.",
+      "german": "Ich jage nicht Geld, ich baue Gewohnheiten auf.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616226"
+    },
+    {
+      "english": "My gut says save first, explain later.",
+      "german": "Mein Bauchgefühl sagt: erst sparen, später reden.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616229"
+    },
+    {
+      "english": "I feel proud when I meet my own rules.",
+      "german": "Ich bin stolz, wenn ich meine eigenen Regeln einhalte.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616233"
+    },
+    {
+      "english": "Money is emotional, so I go slow.",
+      "german": "Geld ist emotional, deshalb gehe ich langsam.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616236"
+    },
+    {
+      "english": "Check fees first, then choose the bank.",
+      "german": "Prüf zuerst die Gebühren, dann wähle die Bank.",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-10T08:27:27.616239"
     }
   ],
-  "last_updated": "2026-11-09T07:50:36.980305"
+  "last_updated": "2026-11-10T08:27:27.616241"
 }
