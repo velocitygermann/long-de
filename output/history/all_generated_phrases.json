@@ -24425,7 +24425,727 @@
       "german": "Prüf zuerst die Gebühren, dann wähle die Bank.",
       "category": "Banking & Money",
       "generated_at": "2026-11-10T08:27:27.616239"
+    },
+    {
+      "english": "Alright, I’ll do it, right now.",
+      "german": "Okay, ich mach das, gleich jetzt.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640459"
+    },
+    {
+      "english": "I’m nervous, but I’m still in.",
+      "german": "Ich bin nervös, aber ich bin trotzdem drin.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640475"
+    },
+    {
+      "english": "Say it, even if my voice shakes.",
+      "german": "Sag’s, auch wenn meine Stimme zittert.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640479"
+    },
+    {
+      "english": "Not perfect, just brave enough today.",
+      "german": "Nicht perfekt, nur mutig genug heute.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640481"
+    },
+    {
+      "english": "Let’s go, we can handle this.",
+      "german": "Los geht’s, das kriegen wir hin.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640484"
+    },
+    {
+      "english": "I’ll own it, and keep my smile.",
+      "german": "Ich steh dazu, und behalt mein Lächeln.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640487"
+    },
+    {
+      "english": "Thanks, I’ll try, no pressure.",
+      "german": "Danke, ich probier’s, kein Druck.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640490"
+    },
+    {
+      "english": "One quick yes, then I move.",
+      "german": "Ein kurzes Ja, dann geh ich los.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640495"
+    },
+    {
+      "english": "I’m scared, but I’m choosing anyway.",
+      "german": "Ich hab Angst, aber ich entscheide trotzdem.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640498"
+    },
+    {
+      "english": "Stay cool, I’ve got this moment.",
+      "german": "Bleib locker, ich schaff das jetzt.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640502"
+    },
+    {
+      "english": "Go on, ask me that.",
+      "german": "Komm, frag mich das.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640504"
+    },
+    {
+      "english": "I’ll start small, but I start.",
+      "german": "Ich fang klein an, aber ich fang an.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640506"
+    },
+    {
+      "english": "No hiding, I’m here for real.",
+      "german": "Kein Verstecken, ich bin echt da.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640509"
+    },
+    {
+      "english": "If it hurts, I learn faster.",
+      "german": "Wenn’s weh tut, lerne ich schneller.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640513"
+    },
+    {
+      "english": "Trust me, I’ll handle the awkward.",
+      "german": "Glaub mir, ich pack das Peinliche.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640515"
+    },
+    {
+      "english": "I won’t overthink, I’ll act.",
+      "german": "Ich denk nicht zu viel, ich handel.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640520"
+    },
+    {
+      "english": "Today I’m brave, like it or not.",
+      "german": "Heute bin ich mutig, ob’s passt oder nicht.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640522"
+    },
+    {
+      "english": "I’ll say hi, even first.",
+      "german": "Ich sag Hallo, auch wenn’s schwer ist.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640525"
+    },
+    {
+      "english": "Just breathe, then answer with courage.",
+      "german": "Einfach atmen, dann antworte mutig.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640527"
+    },
+    {
+      "english": "I mean it, let’s do this.",
+      "german": "Ich mein’s ernst, lass uns das machen.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640532"
+    },
+    {
+      "english": "I’m nervous, so I’ll go anyway.",
+      "german": "Ich bin nervös, also gehe ich trotzdem.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640534"
+    },
+    {
+      "english": "No excuses, I show up.",
+      "german": "Keine Ausreden, ich bin da.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640536"
+    },
+    {
+      "english": "Let’s turn doubt into fuel, okay?",
+      "german": "Lass Zweifel zu Treibstoff werden, okay?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640539"
+    },
+    {
+      "english": "Say what you want, softly, clearly.",
+      "german": "Sag, was du willst, leise, klar.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640541"
+    },
+    {
+      "english": "I’ll try again, even imperfect.",
+      "german": "Ich versuch’s nochmal, auch wenn’s nicht perfekt ist.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640544"
+    },
+    {
+      "english": "I can be afraid, and still move.",
+      "german": "Ich darf Angst haben, und trotzdem gehen.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640546"
+    },
+    {
+      "english": "Make it happen, don’t wait for ready.",
+      "german": "Mach’s jetzt, wart nicht auf bereit.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640548"
+    },
+    {
+      "english": "I’ll look forward, not backward.",
+      "german": "Ich schau nach vorn, nicht zurück.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640551"
+    },
+    {
+      "english": "I’m in, even if it’s messy.",
+      "german": "Ich bin dabei, auch wenn’s chaotisch ist.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640555"
+    },
+    {
+      "english": "Alright, we start, together, no fear-talk.",
+      "german": "Okay, wir fangen an, zusammen, ohne Angst-Gelaber.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640558"
+    },
+    {
+      "english": "How do you stay calm, in meetings?",
+      "german": "Wie bleibst du ruhig, bei Meetings?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640560"
+    },
+    {
+      "english": "What’s the brave move here, in German?",
+      "german": "Was ist hier die mutige Idee, auf Deutsch?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640563"
+    },
+    {
+      "english": "Could you help me, with the wording?",
+      "german": "Kannst du mir helfen, mit der Formulierung?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640566"
+    },
+    {
+      "english": "Is it okay to say no, honestly?",
+      "german": "Ist es okay, nein zu sagen?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640568"
+    },
+    {
+      "english": "Do you think I should just ask?",
+      "german": "Meinst du, ich soll einfach fragen?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640570"
+    },
+    {
+      "english": "Where do I start, if I’m stuck?",
+      "german": "Wo fange ich an, wenn ich feststecke?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640573"
+    },
+    {
+      "english": "Any tips for sounding confident, fast?",
+      "german": "Hast du Tipps, wie ich selbstsicher klinge?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640575"
+    },
+    {
+      "english": "Should I say it, or wait a bit?",
+      "german": "Soll ich’s sagen, oder erst mal warten?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640578"
+    },
+    {
+      "english": "What would you do, if you panicked?",
+      "german": "Was würdest du tun, wenn du panik bekommst?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640580"
+    },
+    {
+      "english": "Can we practice that question, together?",
+      "german": "Können wir die Frage zusammen üben?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640582"
+    },
+    {
+      "english": "How do you deal with awkward pauses?",
+      "german": "Wie gehst du mit peinlichen Pausen um?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640585"
+    },
+    {
+      "english": "What’s your advice, for day one?",
+      "german": "Was ist dein Rat, für den ersten Tag?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640587"
+    },
+    {
+      "english": "Is there a polite way to push back?",
+      "german": "Wie sagt man höflich, dass man nicht einverstanden ist?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640589"
+    },
+    {
+      "english": "Do you prefer honest answers, or gentle ones?",
+      "german": "Magst du ehrliche Antworten, oder lieber sanft?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640591"
+    },
+    {
+      "english": "Can I get a quick example, please?",
+      "german": "Kann ich ein kurzes Beispiel haben, bitte?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640593"
+    },
+    {
+      "english": "What’s a good line, when I’m unsure?",
+      "german": "Was ist ein guter Satz, wenn ich unsicher bin?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640596"
+    },
+    {
+      "english": "How should I start, without sounding rude?",
+      "german": "Wie starte ich, ohne unhöflich zu wirken?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640600"
+    },
+    {
+      "english": "Do you think this is worth the risk?",
+      "german": "Meinst du, das lohnt sich trotz Risiko?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640602"
+    },
+    {
+      "english": "Can I be direct, just this once?",
+      "german": "Darf ich einmal direkt sein?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640604"
+    },
+    {
+      "english": "What do I say, if it gets weird?",
+      "german": "Was soll ich sagen, wenn’s komisch wird?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640606"
+    },
+    {
+      "english": "Who do I talk to, first?",
+      "german": "Mit wem spreche ich zuerst?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640608"
+    },
+    {
+      "english": "Is it brave to ask for clarification?",
+      "german": "Ist es mutig, um eine Erklärung zu bitten?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640610"
+    },
+    {
+      "english": "What tone should I use, friendly but firm?",
+      "german": "Welchen Ton nimmst du, freundlich aber bestimmt?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640613"
+    },
+    {
+      "english": "Can you repeat that, a little slower?",
+      "german": "Kannst du das bitte wiederholen, etwas langsamer?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640615"
+    },
+    {
+      "english": "Should I explain, or just keep it simple?",
+      "german": "Soll ich es erklären, oder kurz und einfach bleiben?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640617"
+    },
+    {
+      "english": "What if my German sounds messy, okay?",
+      "german": "Was, wenn mein Deutsch chaotisch klingt, okay?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640619"
+    },
+    {
+      "english": "How do you respond, when you get interrupted?",
+      "german": "Wie reagierst du, wenn dich jemand unterbricht?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640622"
+    },
+    {
+      "english": "Can we switch roles, so I practice courage?",
+      "german": "Können wir die Rollen tauschen, damit ich übe?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640626"
+    },
+    {
+      "english": "What’s one question that builds confidence?",
+      "german": "Welche Frage stärkt das Selbstvertrauen?",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640628"
+    },
+    {
+      "english": "You’ve got this, breathe, then go.",
+      "german": "Du schaffst das, atme, dann los.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640631"
+    },
+    {
+      "english": "Small step today, big confidence tomorrow.",
+      "german": "Kleiner Schritt heute, große Sicherheit morgen.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640633"
+    },
+    {
+      "english": "Own your moment, even if it’s imperfect.",
+      "german": "Dein Moment gehört dir, auch wenn’s nicht perfekt ist.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640636"
+    },
+    {
+      "english": "Say it anyway, courage loves practice.",
+      "german": "Sag’s einfach trotzdem, Mut braucht Übung.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640638"
+    },
+    {
+      "english": "I like your brave energy, keep it.",
+      "german": "Ich mag deine mutige Energie, bleib dabei.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640641"
+    },
+    {
+      "english": "It’s okay to stumble, you’re still learning.",
+      "german": "Fehltritte sind erlaubt, du lernst trotzdem.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640644"
+    },
+    {
+      "english": "You don’t need perfect, just honest effort.",
+      "german": "Du brauchst nicht perfekt, nur ehrliche Mühe.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640647"
+    },
+    {
+      "english": "Every try counts, even the weird ones.",
+      "german": "Jeder Versuch zählt, auch die komischen.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640649"
+    },
+    {
+      "english": "Trust your gut, it’s guiding you forward.",
+      "german": "Vertrau deinem Bauchgefühl, es bringt dich weiter.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640652"
+    },
+    {
+      "english": "Confidence is built, one brave sentence at a time.",
+      "german": "Selbstvertrauen wächst, Satz für Satz.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640654"
+    },
+    {
+      "english": "Keep going, the fear shrinks each time.",
+      "german": "Geh weiter, die Angst wird kleiner.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640656"
+    },
+    {
+      "english": "You’re allowed to be scared, still show up.",
+      "german": "Du darfst Angst haben, und trotzdem da sein.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640659"
+    },
+    {
+      "english": "Let your voice be clear, even softly.",
+      "german": "Lass deine Stimme klar sein, auch leise.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640661"
+    },
+    {
+      "english": "Today, choose courage over comfort.",
+      "german": "Heute wählst du Mut statt Komfort.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640665"
+    },
+    {
+      "english": "Reward yourself, you tried something hard.",
+      "german": "Belohn dich, du hast was Schweres versucht.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640668"
+    },
+    {
+      "english": "You’re not behind, you’re in progress.",
+      "german": "Du bist nicht zu spät, du bist im Fortschritt.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640670"
+    },
+    {
+      "english": "Keep your head up, one word at once.",
+      "german": "Kopf hoch, ein Wort nach dem anderen.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640673"
+    },
+    {
+      "english": "Be brave, ask again, you’ll get it.",
+      "german": "Sei mutig, frag nochmal, dann klappt’s.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640676"
+    },
+    {
+      "english": "Your effort is attractive, keep it up.",
+      "german": "Dein Einsatz wirkt, bleib dran.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640678"
+    },
+    {
+      "english": "No pressure, just progress today.",
+      "german": "Kein Druck, nur Fortschritt heute.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640680"
+    },
+    {
+      "english": "Say yes to growth, not to fear.",
+      "german": "Sag ja zum Wachsen, nicht zur Angst.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640683"
+    },
+    {
+      "english": "You’re building bravery with every attempt.",
+      "german": "Du baust Mut auf, mit jedem Versuch.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640685"
+    },
+    {
+      "english": "Smile, then speak, your brain will follow.",
+      "german": "Lächeln, dann sprechen, dein Kopf macht mit.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640687"
+    },
+    {
+      "english": "Hold steady, you’re stronger than doubt.",
+      "german": "Bleib ruhig, du bist stärker als Zweifel.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640690"
+    },
+    {
+      "english": "Give yourself credit, you’re learning fast.",
+      "german": "Gib dir Anerkennung, du lernst schnell.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640693"
+    },
+    {
+      "english": "Don’t wait for confidence, create it.",
+      "german": "Warte nicht auf Selbstvertrauen, mach’s.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640697"
+    },
+    {
+      "english": "Keep the momentum, courage comes next.",
+      "german": "Halte die Richtung, Mut kommt danach.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640699"
+    },
+    {
+      "english": "When you falter, reset, then try again.",
+      "german": "Wenn du stolperst, atme, und dann nochmal.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640701"
+    },
+    {
+      "english": "Your best German is one brave try away.",
+      "german": "Dein bestes Deutsch ist nur einen mutigen Versuch entfernt.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640703"
+    },
+    {
+      "english": "Be proud, you’re facing it, step by step.",
+      "german": "Sei stolz, du gehst drauf zu, Schritt für Schritt.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640706"
+    },
+    {
+      "english": "I admit I’m nervous, but I’ll speak anyway.",
+      "german": "Ich gebe zu, ich bin nervös, aber ich spreche.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640711"
+    },
+    {
+      "english": "My fear talks first, then my words catch up.",
+      "german": "Meine Angst redet zuerst, dann holen meine Worte ein.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640713"
+    },
+    {
+      "english": "I pause, breathe, and choose honesty over speed.",
+      "german": "Ich mache eine Pause, atme ein, und wähle Ehrlichkeit statt Tempo.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640716"
+    },
+    {
+      "english": "It’s okay to feel it, courage comes after.",
+      "german": "Es ist okay, das zu fühlen, Mut kommt danach.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640719"
+    },
+    {
+      "english": "I learn faster when I don’t hide my doubts.",
+      "german": "Ich lerne schneller, wenn ich meine Zweifel nicht verstecke.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640722"
+    },
+    {
+      "english": "Being wrong isn’t failure, it’s data for me.",
+      "german": "Falsch zu liegen ist kein Scheitern, es ist Daten für mich.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640725"
+    },
+    {
+      "english": "I tell myself, slow down, you’re still learning.",
+      "german": "Ich sag mir, langsamer, du lernst immer noch.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640727"
+    },
+    {
+      "english": "My goal isn’t perfect, it’s real communication.",
+      "german": "Mein Ziel ist nicht perfekt, sondern echte Verständigung.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640730"
+    },
+    {
+      "english": "I can be quiet, and still be brave.",
+      "german": "Ich darf still sein, und trotzdem mutig.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640732"
+    },
+    {
+      "english": "Today I’ll speak one sentence, then reflect.",
+      "german": "Heute spreche ich einen Satz, dann reflektiere ich.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640735"
+    },
+    {
+      "english": "I’m not asking for magic, just patience.",
+      "german": "Ich verlange kein Zauber, nur Geduld.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640738"
+    },
+    {
+      "english": "Even my mistakes have a lesson inside.",
+      "german": "Sogar meine Fehler haben eine Lektion darin.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640739"
+    },
+    {
+      "english": "When I’m stuck, I stay kind to myself.",
+      "german": "Wenn ich feststecke, bleibe ich freundlich zu mir.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640742"
+    },
+    {
+      "english": "I don’t rush feelings, I let them settle.",
+      "german": "Ich dränge meine Gefühle nicht, ich lass sie ankommen.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640745"
+    },
+    {
+      "english": "I respect my pace, even when others fly.",
+      "german": "Ich respektiere meinen Rhythmus, auch wenn andere fliegen.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640747"
+    },
+    {
+      "english": "I tell the truth, even if it’s small.",
+      "german": "Ich sage die Wahrheit, auch wenn sie klein ist.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640749"
+    },
+    {
+      "english": "I practice courage by naming my emotions.",
+      "german": "Ich übe Mut, indem ich meine Gefühle benenne.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640752"
+    },
+    {
+      "english": "I’m allowed to restart, my progress remains.",
+      "german": "Ich darf neu anfangen, mein Fortschritt bleibt.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640754"
+    },
+    {
+      "english": "I listen first, then I add my honest try.",
+      "german": "Ich höre erst zu, dann füge ich meinen ehrlichen Versuch hinzu.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640756"
+    },
+    {
+      "english": "I don’t need to win, I need to speak.",
+      "german": "Ich muss nicht gewinnen, ich muss nur sprechen.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640759"
+    },
+    {
+      "english": "My breathing is a promise, I’ll continue.",
+      "german": "Mein Atmen ist ein Versprechen, ich mache weiter.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640762"
+    },
+    {
+      "english": "If I blank out, I’ll return with kindness.",
+      "german": "Wenn mir die Wörter weglaufen, komme ich sanft zurück.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640764"
+    },
+    {
+      "english": "I’m proud of the attempt, not the outcome.",
+      "german": "Ich bin stolz auf den Versuch, nicht auf das Ergebnis.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640767"
+    },
+    {
+      "english": "Courage is calm, even when my heart thumps.",
+      "german": "Mut ist ruhig, auch wenn mein Herz hämmert.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640769"
+    },
+    {
+      "english": "I can be tender, and still ask directly.",
+      "german": "Ich kann sanft sein, und trotzdem direkt fragen.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640771"
+    },
+    {
+      "english": "I let the silence teach me, then I act.",
+      "german": "Ich lasse die Stille mich lehren, dann handle ich.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640774"
+    },
+    {
+      "english": "My inner critic, thanks, I’m still learning.",
+      "german": "Mein innerer Kritiker, danke, ich lerne trotzdem.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640776"
+    },
+    {
+      "english": "I choose respect for myself, every time.",
+      "german": "Ich wähle jedes Mal Respekt für mich.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640778"
+    },
+    {
+      "english": "I reflect, then I try again, differently.",
+      "german": "Ich reflektiere, dann versuche ich es wieder, anders.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640781"
+    },
+    {
+      "english": "I’m building courage, one honest moment at once.",
+      "german": "Ich baue Mut auf, einen ehrlichen Moment nach dem anderen.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640783"
+    },
+    {
+      "english": "Breathe, then I answer like I mean it.",
+      "german": "Atmen, dann antworte ich, wie ich’s meine.",
+      "category": "Courage",
+      "generated_at": "2026-11-11T07:40:15.640788"
     }
   ],
-  "last_updated": "2026-11-10T08:27:27.616241"
+  "last_updated": "2026-11-11T07:40:15.640789"
 }
