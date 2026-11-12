@@ -25145,7 +25145,399 @@
       "german": "Atmen, dann antworte ich, wie ich’s meine.",
       "category": "Courage",
       "generated_at": "2026-11-11T07:40:15.640788"
+    },
+    {
+      "english": "I’m running late, sorry.",
+      "german": "Ich bin gleich spät, tut mir leid.",
+      "transliteration": "Ich BIN gleich SPÄT, tut mir LEID.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "Could you send the files today?",
+      "german": "Kannst du mir die Dateien heute schicken?",
+      "transliteration": "KANNS du mir die DATEIEN HEUTE SCHIcken?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "Let’s move this meeting to 3.",
+      "german": "Lass uns das Meeting auf drei Uhr verschieben.",
+      "transliteration": "LASS uns das MEETing auf DREI UHR verSCHIEben.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "Please put it on my calendar.",
+      "german": "Bitte trag es in meinen Kalender ein.",
+      "transliteration": "BITTE trag es in MEINEN KalenDER ein.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "I need approval before I proceed.",
+      "german": "Ich brauche die Freigabe, bevor ich weitermache.",
+      "transliteration": "ich BRAUche die FREIgabe, bevor ich WEITERmaCHE.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "Can you clarify what you mean?",
+      "german": "Kannst du das bitte genauer erklären?",
+      "transliteration": "KANNS du das BITTE geNAUER erKLÄren?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "I’ll handle the customer call.",
+      "german": "Ich übernehme den Kundentermin.",
+      "transliteration": "ich überNEHME den KUNdenTERmin.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "Turn problems into fresh concepts.",
+      "german": "Mach aus Problemen neue Ideen.",
+      "transliteration": "MAHCH aus PRO-b le-men NEUE i-DE-en.",
+      "category": "Creativity",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "Steal time from perfection, create.",
+      "german": "Schenk dir Zeit, und mach einfach.",
+      "transliteration": "SCHENK dir ZEIT, und MACH ein-fach.",
+      "category": "Creativity",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "Write messy drafts, then refine.",
+      "german": "Schreib zuerst chaotisch, dann feiner.",
+      "transliteration": "SCHREIB zu-nächst CHA-o-tisch, dann FEIN-er.",
+      "category": "Creativity",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "Start with a tiny experiment today.",
+      "german": "Starte heute mit einem Mini-Experiment.",
+      "transliteration": "STAR-te HEUTE mit ei-ner MI-ni Ex-pe-ri-MENT.",
+      "category": "Creativity",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "Let silence spark surprising solutions.",
+      "german": "Gib der Stille Raum, für Lösungen.",
+      "transliteration": "GIB der STIL-le RAUM, für LOE-sun-gen.",
+      "category": "Creativity",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "Capture ideas while walking or commuting.",
+      "german": "Sammle Einfälle unterwegs, im Gehen.",
+      "transliteration": "SAM-mle EIN-fäl-le UN-ter-wegs, im GE-hen.",
+      "category": "Creativity",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "Borrow a theme, redesign your outcome.",
+      "german": "Nimm ein Thema, und gestalte es neu.",
+      "transliteration": "NIMm ein THE-ma, und GES-tal-te es NEU.",
+      "category": "Creativity",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "Yeah, that makes sense to me.",
+      "german": "Ja, das macht für mich Sinn.",
+      "transliteration": "YA, das macht für MICH Sinn.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "I’m on board with that plan.",
+      "german": "Ich bin mit diesem Plan dabei.",
+      "transliteration": "ICH bin MIT DIESEM Plan DABEI.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "Sounds good, let’s do it.",
+      "german": "Klingt gut, machen wir das so.",
+      "transliteration": "Klingt GUT, MAchen wir das SO.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "I agree, especially with that part.",
+      "german": "Da stimme ich zu, vor allem bei dem Punkt.",
+      "transliteration": "DA stimme ICH zu, VOR allem bei dem PUNKT.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "Totally, you’re right about this.",
+      "german": "Absolut, da hast du recht.",
+      "transliteration": "ABSO-lut, da HAST du RECHT.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "No way, I disagree with you.",
+      "german": "Auf keinen Fall, da bin ich anderer Meinung.",
+      "transliteration": "AUF keinen FALL, da BIN ich ANDeRe MEINung.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "I’m not convinced, not yet.",
+      "german": "Ich bin noch nicht überzeugt.",
+      "transliteration": "ICH bin noch NICHT überzeugt.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "Choose the good, again today.",
+      "german": "Wähle das Gute, heute wieder.",
+      "transliteration": "WeHle das GU-te, HEu-te wie-der.",
+      "category": "Happiness",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "Call a friend, feel the lift.",
+      "german": "Ruf eine Freundin an, und es hebt dich.",
+      "transliteration": "Ruf ei-ne FREun-din an, und es HEbt dich.",
+      "category": "Happiness",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "Warm drink, warm thoughts, quiet joy.",
+      "german": "Ein warmes Getränk, warme Gedanken, stilles Glück.",
+      "transliteration": "EiN war-mes GE-tränk, war-me GE-dan-ken, stilles GLÜCK.",
+      "category": "Happiness",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "Turn down stress, keep your peace.",
+      "german": "Dreh den Stress leiser, behalte deinen Frieden.",
+      "transliteration": "Dreh den STRESS lei-ser, behAL-te dei-nen FRie-den.",
+      "category": "Happiness",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "Notice beauty on your way home.",
+      "german": "Schaue unterwegs auf Schönheit, auf dem Heimweg.",
+      "transliteration": "SCHAU-e un-ter-wegs auf SCHÖn-heit, auf dem HEIM-weg.",
+      "category": "Happiness",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "Give yourself credit, you earned it.",
+      "german": "Gib dir selbst Anerkennung, du hast es verdient.",
+      "transliteration": "GIB dir selBST A-nEr-ken-nung, du hast es ver-DIENT.",
+      "category": "Happiness",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "Let music carry you, gently.",
+      "german": "Lass Musik dich tragen, ganz sanft.",
+      "transliteration": "LASS MU-sik dich TRAh-gen, GANZ sanft.",
+      "category": "Happiness",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "Thanks for cheering me up",
+      "german": "Danke, dass du mich aufmunterst",
+      "transliteration": "DANKE, dass du mich aufMUNterst",
+      "category": "Friendship",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "We laugh, and it feels easy",
+      "german": "Wir lachen, und es fühlt sich leicht an",
+      "transliteration": "Wir LAchen, und es fühlt sich LEICHT an",
+      "category": "Friendship",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "I love our late-night chats",
+      "german": "Ich liebe unsere Gespräche spät in der Nacht",
+      "transliteration": "ICH lieBe unSERE GEspräche SPÄT in der NACHT",
+      "category": "Friendship",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "You make tough days better",
+      "german": "Du machst schwere Tage leichter",
+      "transliteration": "du MACHST SCHWERE taGE LEICHTer",
+      "category": "Friendship",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "I can be fully myself with you",
+      "german": "Ich kann ganz ich selbst sein mit dir",
+      "transliteration": "ICH kann GANZ ich SELBST sein mit DIR",
+      "category": "Friendship",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "Call me when you’re free",
+      "german": "Ruf mich an, wenn du Zeit hast",
+      "transliteration": "RUF mich an, wenn du ZEIT hast",
+      "category": "Friendship",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "Let’s celebrate small wins together",
+      "german": "Lass uns kleine Erfolge gemeinsam feiern",
+      "transliteration": "LASS uns KLEINE ERfolge geMEINsam FEIern",
+      "category": "Friendship",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "I want to build with you.",
+      "german": "Ich will mit dir etwas aufbauen.",
+      "transliteration": "ICH will mit dir etwas AUFbauen.",
+      "category": "Love",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "Let’s keep choosing each other.",
+      "german": "Wir sollen einander jeden Tag neu wählen.",
+      "transliteration": "WIR solLEn einander JEden Tag neu WÄHLen.",
+      "category": "Love",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "You feel like home to me.",
+      "german": "Du fühlst sich an wie Zuhause für mich.",
+      "transliteration": "DU FÜHLst dich an wie ZUHAUse für MICH.",
+      "category": "Love",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "Your voice calms my storm.",
+      "german": "Deine Stimme beruhigt meinen Sturm.",
+      "transliteration": "DEIne STIMme beRUHigt meiNEN STURm.",
+      "category": "Love",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "I’m yours, even on hard days.",
+      "german": "Ich bin dein, auch an schweren Tagen.",
+      "transliteration": "ICH BIN dein, AUCH an SCHWEren TAGen.",
+      "category": "Love",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "With you, I breathe easier.",
+      "german": "Mit dir atme ich leichter.",
+      "transliteration": "MIT dir atME ich LEICHTer.",
+      "category": "Love",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "Promise me, we won’t give up.",
+      "german": "Versprich mir, wir geben nicht auf.",
+      "transliteration": "VERsprich mir, wir GEben nicht AUf.",
+      "category": "Love",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "I forgive you, really, no anger",
+      "german": "Ich verzeihe dir, wirklich, ohne Zorn.",
+      "transliteration": "ICH verzeihe dir, WIRKLICH, OHNE Zorn.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "I want peace, let’s talk",
+      "german": "Ich will Frieden, lass uns reden.",
+      "transliteration": "ICH will FRIEDEN, lass uns re-den.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "You don’t have to earn it",
+      "german": "Du musst es nicht verdienen.",
+      "transliteration": "DU musst es nicht VERdie-nen.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "Thank you, I’m ready to move on",
+      "german": "Danke, ich bin bereit weiterzugehen.",
+      "transliteration": "DANKE, ich BIN be-reit WEI-ter-zu-gehn.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "I release the blame, truly",
+      "german": "Ich lasse die Schuld los, wirklich.",
+      "transliteration": "ICH las-se die SCHULD los, WIRKlich.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "Let’s stop rehashing it, okay?",
+      "german": "Lass uns aufhören, darüber nachzuhacken.",
+      "transliteration": "LASS uns AUF-hören, dar-über NACh-zu-HACK-en.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "My door is open for you",
+      "german": "Mein Herz hat eine offene Tür für dich.",
+      "transliteration": "MEIN Herz hat ei-ne OF-fne TÜR für DICH.",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "Take breaks, come back grounded.",
+      "german": "Gib dir Pausen, komm geerdet zurück.",
+      "transliteration": "Gib DIR Pau-sen, komm ge-ER-det ZURÜCK.",
+      "category": "Balance",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "Even chaos can settle, breathe slow.",
+      "german": "Sogar Chaos kann sich legen, atme langsam.",
+      "transliteration": "SO-gar CHA-os kann sich LE-gen, AT-me LANg-sam.",
+      "category": "Balance",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "Choose focus, let distractions pass.",
+      "german": "Wähle Fokus, lass Ablenkungen vorbeiziehen.",
+      "transliteration": "WÄH-le FOKUS, lass AB-len-kun-gen VOR-bei-zie-hen.",
+      "category": "Balance",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "Move a bit, stay present.",
+      "german": "Bewege dich ein wenig, bleib im Hier.",
+      "transliteration": "BE-we-ge dich EIN we-nig, BLEIB im HIER.",
+      "category": "Balance",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "Balance work with real, human rest.",
+      "german": "Halte Arbeit die Waage mit echtem, menschlichem Ruhen.",
+      "transliteration": "HAL-te AR-beit die WA-aage mit EK-tem, MENSCH-li-chem RU-hen.",
+      "category": "Balance",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "Drink water, soften your pace.",
+      "german": "Trink Wasser, mach es langsamer und weicher.",
+      "transliteration": "TRINK WAS-ser, mach es LANg-sa-mer und WEI-cher.",
+      "category": "Balance",
+      "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "Check in with your body, now.",
+      "german": "Spür kurz in dich hinein, ganz jetzt.",
+      "transliteration": "SPÜR kurz in DICH hin-ein, GANZ JEZT.",
+      "category": "Balance",
+      "generated_at": "2026-11-12T06:14:24.422190"
     }
   ],
-  "last_updated": "2026-11-11T07:40:15.640789"
+  "last_updated": "2026-11-12T06:14:24.422190"
 }

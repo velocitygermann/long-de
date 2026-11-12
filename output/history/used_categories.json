@@ -103,7 +103,39 @@
     {
       "category": "Courage",
       "date": "2020-01-26"
+    },
+    {
+      "category": "Work & Office",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "Creativity",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "Agreeing & Disagreeing",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "Happiness",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "Friendship",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "Love",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "Forgiveness",
+      "date": "2026-11-12"
+    },
+    {
+      "category": "Balance",
+      "date": "2026-11-12"
     }
   ],
-  "last_updated": "2026-11-12T11:15:16.058608"
+  "last_updated": "2026-11-12T06:14:24.443522"
 }
