@@ -25537,7 +25537,399 @@
       "transliteration": "SPÜR kurz in DICH hin-ein, GANZ JEZT.",
       "category": "Balance",
       "generated_at": "2026-11-12T06:14:24.422190"
+    },
+    {
+      "english": "How much is this per kilo?",
+      "german": "Wie viel kostet das pro Kilo?",
+      "transliteration": "VIEL KOStet das pro KILO?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "Do you have this on sale?",
+      "german": "Haben Sie das gerade im Angebot?",
+      "transliteration": "HABEN SIe das GERAde IM ANgebot?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "Can I pay with card here?",
+      "german": "Kann ich hier mit Karte bezahlen?",
+      "transliteration": "KAN ich HIer mit KARte beZAHlen?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "What’s the total price, including tax?",
+      "german": "Wie ist der Gesamtpreis, inklusive Steuer?",
+      "transliteration": "WIE ist der GESAMTpreis, INklusiVE STEUer?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "Do you have a smaller size?",
+      "german": "Haben Sie das auch in kleiner?",
+      "transliteration": "HABEN SIe das AUCH in KLEINer?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "Is there a discount for students?",
+      "german": "Gibt es einen Rabatt für Studierende?",
+      "transliteration": "GIBT es eiNEN RABatt für STUdiERENde?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "Does this price include packaging?",
+      "german": "Ist die Verpackung im Preis dabei?",
+      "transliteration": "IST die VERpackung im PREIS daBEI?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "Looks like rain, isn’t it?",
+      "german": "Sieht nach Regen aus, oder?",
+      "transliteration": "ZIHT nah RAY-gen aus, OH-der?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "Is it windy today?",
+      "german": "Ist es heute windig?",
+      "transliteration": "IST es HUTE WIn-dig?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "How warm does it get?",
+      "german": "Wie warm wird es heute?",
+      "transliteration": "VIE WARM wird es HUTE?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "I should bring an umbrella.",
+      "german": "Ich nehme lieber einen Regenschirm mit.",
+      "transliteration": "ICH neh-me lie-ber EI-nen RAY-gensCHIRM mit.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "The sun is out again.",
+      "german": "Die Sonne kommt endlich wieder raus.",
+      "transliteration": "die ZON-ne KOMMT en-dlich wie-der rauss.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "It’s chilly, I’m feeling cold.",
+      "german": "Es ist ziemlich kühl, mir ist kalt.",
+      "transliteration": "es IST ziEM-lich KÜHL, mir ist KALT.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "Do you think it will clear up?",
+      "german": "Meinst du, das wird wieder freundlicher?",
+      "transliteration": "MEINTst du, das WIRD wie-der FREUND-lich-er?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "Friday night, I go climbing",
+      "german": "Am Freitagabend gehe ich klettern.",
+      "transliteration": "Am FREI-tag-abhend gehe ich KLET-tern.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "I fix things instead of tossing them",
+      "german": "Ich repariere lieber Dinge, statt sie wegzuwerfen.",
+      "transliteration": "Ich re-pa-RIE-re lie-ber DIN-ge, statt sie weg-zu-WER-fen.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "Morning walks reset my head",
+      "german": "Morgens gehe ich spazieren, das bringt mich wieder klar.",
+      "transliteration": "MOR-gens gehe ich SPA-zie-ren, das bringt mich wie-der KLAR.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "I brew coffee and try new beans",
+      "german": "Ich brühe Kaffee auf, und teste neue Bohnen.",
+      "transliteration": "Ich BRÜ-he Kaf-EE auf, und TES-te NEU-e BOH-nen.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "Weekend pottery, my stress goes away",
+      "german": "Am Wochenende töpfern, da ist der Kopf schnell ruhig.",
+      "transliteration": "Am WOCH-en-EN-de TÖpfern, da ist der KOPF schnell RU-hig.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "I play board games with friends",
+      "german": "Ich spiele Brettspiele mit Freunden, am liebsten abends.",
+      "transliteration": "Ich SPIE-le BRETT-spie-le mit FREUN-den, am liebs-ten abends.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "I learned juggling, it’s surprisingly fun",
+      "german": "Ich habe Jonglieren gelernt, das macht echt Spaß.",
+      "transliteration": "Ich ha-be JONG-lie-ren GE-LERNT, das macht echt SPASS.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "I can handle this moment.",
+      "german": "Ich schaffe das, in diesem Moment.",
+      "transliteration": "ich SCHAFFE das, in DIESEM Moment",
+      "category": "Confidence",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "My nerves are just energy.",
+      "german": "Meine NERVEN sind nur Energie.",
+      "transliteration": "MEINE NERVEN sind NUR ENERGIE",
+      "category": "Confidence",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "Ask anyway, you never know.",
+      "german": "Frag einfach nach, man weiß nie.",
+      "transliteration": "frag EINFACH nach, man WISS nie",
+      "category": "Confidence",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "Stand up, and take space.",
+      "german": "Steh auf, und nimm Raum ein.",
+      "transliteration": "STEh AUF, und NIMM RAUM ein",
+      "category": "Confidence",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "I belong here, right now.",
+      "german": "Ich gehöre hierher, ganz jetzt.",
+      "transliteration": "ich GEHÖRE hierher, GANZ JEZT",
+      "category": "Confidence",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "One deep breath, then speak.",
+      "german": "Ein tiefer Atemzug, dann sprich.",
+      "transliteration": "ein TIEFER AtemZUG, dann SPRICH",
+      "category": "Confidence",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "I trust my instincts today.",
+      "german": "Heute vertraue ich meinen Instinkten.",
+      "transliteration": "HEUTE VERTRAUE ich MEINEN INstinkten",
+      "category": "Confidence",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "I need to see a doctor today.",
+      "german": "Ich brauche heute einen Arzttermin, bitte.",
+      "transliteration": "ich BRAU-che heu-te EIN-en ARZT-ter-min BIT-te",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "Is there a walk-in clinic nearby?",
+      "german": "Gibt es in der Nähe eine Praxis ohne Termin?",
+      "transliteration": "gibt es in der NÄ-he ei-ne PRA-xis OH-ne TER-min",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "I feel awful, can you help?",
+      "german": "Mir geht es richtig schlecht, können Sie mir helfen?",
+      "transliteration": "mir geht es RICH-tig SCHLECHT, kön-nen SIe mir HEL-fen",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "Can you check my blood pressure?",
+      "german": "Können Sie meinen Blutdruck messen?",
+      "transliteration": "kön-nen SIe MEIN-en BLUT-druck MES-sen",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "I have a rash on my arm.",
+      "german": "Ich habe einen Ausschlag an meinem Arm.",
+      "transliteration": "ich HA-be ei-nen AUS-schlag an MEI-nem arm",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "I got sick last night.",
+      "german": "Ich bin seit gestern Abend krank.",
+      "transliteration": "ich BIN seit GESTERn a-bend KRANK",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "Can I get a prescription today?",
+      "german": "Kann ich heute ein Rezept bekommen?",
+      "transliteration": "kann ich heu-te EIN re-zept BE-kom-men",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "Got any plans for tonight?",
+      "german": "Hast du heute Abend schon Pläne?",
+      "transliteration": "Hast du HEUTE ABEND schon PLÄ-ne?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "We should toast to good news.",
+      "german": "Wir stoßen auf die gute Nachricht an.",
+      "transliteration": "Wir STOß-en auf die GUTE NAchricht AN",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "Can we bring a small gift?",
+      "german": "Dürfen wir ein kleines Geschenk mitbringen?",
+      "transliteration": "DÜR-fen wir ein KLEI-nes GESCHENK MIT-brin-gen?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "Surprise party, keep it secret!",
+      "german": "Überraschungsparty, sag bitte nichts weiter!",
+      "transliteration": "ÜBER-ra-schungs-PAR-ty, sag BIT-te NICHTS WEI-ter!",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "The DJ is amazing, seriously.",
+      "german": "Der DJ ist einfach großartig.",
+      "transliteration": "Der DJ ist EIn-fach GROß-artig",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "I’m bringing snacks for everyone.",
+      "german": "Ich bringe Snacks für alle mit.",
+      "transliteration": "ICH BRIN-ge SNACKS für AL-le MIT",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "Do you have a guest list?",
+      "german": "Gibt es eine Gästeliste, ja oder nein?",
+      "transliteration": "GIBT es ei-ne GÄS-te-LIs-te, ja oder NEIN?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "I hit snooze once, then up.",
+      "german": "Ich drücke einmal auf Snooze, dann stehe ich auf.",
+      "transliteration": "ich DrÜCKE einMAL auf Snooze, dann stehe ich auf",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "I brew coffee while I check messages.",
+      "german": "Ich mache Kaffee, während ich meine Nachrichten checke.",
+      "transliteration": "ich maCHE KafFee, wähRend ich meiNe nachRichTen CHECKE",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "I take a quick shower before work.",
+      "german": "Ich dusche kurz, bevor ich zur Arbeit gehe.",
+      "transliteration": "ich DU-sche kurz, beVOR ich zur ARbeit GEHe",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "I pack my lunch the night before.",
+      "german": "Ich packe mein Lunch schon am Abend vorher.",
+      "transliteration": "ich PACKe mein Lunch schon am aBend VORher",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "I grab breakfast, then I walk out.",
+      "german": "Ich nehme schnell Frühstück und gehe dann los.",
+      "transliteration": "ich NEHME schnell FRÜHstück und GEHe dann los",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "My commute starts with the same tram.",
+      "german": "Mein Weg zur Arbeit beginnt mit der gleichen Straßenbahn.",
+      "transliteration": "mein weg zur ARbeit BEginnt mit der GLEIchen straßenBAHN",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "I listen to a podcast on the train.",
+      "german": "Im Zug höre ich einen Podcast, ganz entspannt.",
+      "transliteration": "im tsu GÖRE ich eiNen PODcast, ganz enTS-pannt",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "Set one boundary, feel lighter today",
+      "german": "Setze eine Grenze, dann fühlst du dich leichter.",
+      "transliteration": "SE-tze ei-ne GREN-ze, dann FÜHLST du dich LEICH-ter.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "Turn guilt into a plan",
+      "german": "Wandle Schuldgefühl in einen konkreten Plan um.",
+      "transliteration": "WAN-dle SCHULD-ge-fühL in ei-nen KON-kre-ten Plan UM.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "Ask one question, clarify everything",
+      "german": "Stell eine Frage, und alles wird klarer.",
+      "transliteration": "STELL ei-ne FRA-ge, und AL-les wird KLA-rer.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "Make your bed, start proud",
+      "german": "Mach dein Bett, damit du stolz starten kannst.",
+      "transliteration": "Mach dein BETT, da-MIT du stolz STAR-ten KANNST.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "Do the boring thing first",
+      "german": "Erledige zuerst das Langweilige, dann läuft der Rest leichter.",
+      "transliteration": "er-LE-di-ge zu-NÄCHST das LAN-gwei-li-ge, dann LÄUFT der REST LICH-ter.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "Be patient with your learning curve",
+      "german": "Hab Geduld mit deiner Lernkurve.",
+      "transliteration": "HA-B GE-duld mit dei-ner LERN-kuR-ve.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "Delete one distraction right now",
+      "german": "Lösche eine Ablenkung, und fang direkt an.",
+      "transliteration": "LÖ-sche ei-ne AB-lenk-ung, und FANg di-rekt AN.",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-12T15:27:18.908946"
     }
   ],
-  "last_updated": "2026-11-12T06:14:24.422190"
+  "last_updated": "2026-11-12T15:27:18.908946"
 }
