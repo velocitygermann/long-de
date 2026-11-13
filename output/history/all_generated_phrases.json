@@ -25929,7 +25929,399 @@
       "transliteration": "LÖ-sche ei-ne AB-lenk-ung, und FANg di-rekt AN.",
       "category": "Self Improvement",
       "generated_at": "2026-11-12T15:27:18.908946"
+    },
+    {
+      "english": "I need new running shoes",
+      "german": "Ich brauche neue Laufschuhe.",
+      "transliteration": "Ich BRAU-che neue LAUF-schu-he.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "Is the gym open late today?",
+      "german": "Ist das Fitnessstudio heute bis spät offen?",
+      "transliteration": "Ist das FIT-ness-stu-DI-o heu-te bis SPÄT of-fen?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "Can you show me the squat form?",
+      "german": "Kannst du mir die Kniebeuge richtig zeigen?",
+      "transliteration": "KANnst du mir die KNI-e-beu-ge rich-tig ZEIG-en?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "I’ll stretch after my workout",
+      "german": "Ich dehne mich nach dem Training.",
+      "transliteration": "Ich DEH-ne mich NACH dem TRAI-ning.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "I’m sore, but it feels good",
+      "german": "Ich bin Muskelkater, aber es tut gut.",
+      "transliteration": "Ich BIN MUS-kel-ka-ter, aBER es TUT gut.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "Where are the free weights?",
+      "german": "Wo sind die freien Gewichte?",
+      "transliteration": "Wo SIND die FREI-en GE-wich-te?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "I want a personal trainer today",
+      "german": "Ich hätte gern heute einen Personal Trainer.",
+      "transliteration": "Ich HÄT-te gern heu-te ei-nen PER-so-nal TRAI-ner.",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "Hi, table for two, please.",
+      "german": "Hallo, ich hätte gern einen Tisch für zwei.",
+      "transliteration": "HA-llo, ich HÄT-te gern ei-nen TISCH für ZWEI.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "Do you have a vegetarian option?",
+      "german": "Haben Sie eine vegetarische Option?",
+      "transliteration": "HA-ben SIE ei-ne VE-ge-ta-ri-sche OP-tion?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "Can we see the menu, please?",
+      "german": "Können wir die Speisekarte sehen, bitte?",
+      "transliteration": "KÖN-nen wir die SPEI-se-kar-te se-hen, BIT-te?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "What do you recommend for dinner?",
+      "german": "Was empfehlen Sie zum Abendessen?",
+      "transliteration": "WAS EMP-feh-len SIE zum AB-end-es-sen?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "I’m allergic to peanuts, just so you know.",
+      "german": "Ich bin allergisch gegen Erdnüsse, nur zur Sicherheit.",
+      "transliteration": "ICH bin AL-ler-gisch GE-gen ERD-nüs-se, nur zur SI-cher-heit.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "No onions, please, I can’t eat them.",
+      "german": "Keine Zwiebeln, bitte, ich vertrage die nicht.",
+      "transliteration": "KEi-ne ZWIE-beln, BIT-te, ich VER-tra-ge die NICHT.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "Could I have the bill, please?",
+      "german": "Könnte ich bitte die Rechnung bekommen?",
+      "transliteration": "KÖN-nte ich BIT-te die RECH-nung be-kom-men?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "Want to grab coffee after work?",
+      "german": "Hast du Lust, nach der Arbeit einen Kaffee zu holen?",
+      "transliteration": "Hast du LUST, nach der AR-beit ei-nen KAF-fee zu HO-len?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "I feel a spark when we talk.",
+      "german": "Ich spüre Funken, wenn wir reden.",
+      "transliteration": "Ich SPÜ-re FUN-ken, wenn wir RE-den.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "Let’s meet this Friday evening.",
+      "german": "Lass uns diesen Freitagabend treffen.",
+      "transliteration": "Lass uns die-sen FREI-tagA-bend TREf-fen.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "Your smile makes my day better.",
+      "german": "Dein Lächeln macht meinen Tag besser.",
+      "transliteration": "Dein LÄ-cheln macht mei-nen TAG BES-ser.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "Are you seeing someone right now?",
+      "german": "Bist du gerade in einer Beziehung?",
+      "transliteration": "BIST du GE-ra-de in ei-ner BE-zie-hung?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "I’d love to take you out soon.",
+      "german": "Ich würde dich gern bald einladen.",
+      "transliteration": "Ich WÜR-de dich gern BALD EIN-la-den.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "We should do something spontaneous.",
+      "german": "Wir sollten etwas Spontanes machen.",
+      "transliteration": "Wir SOL-lten et-was SPON-ta-nes ma-chen.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "Start where you are, right now",
+      "german": "Starte dort, wo du gerade bist, jetzt sofort.",
+      "transliteration": "SHAR-te DOHR wo DOO gerade BIST, YETZ SOFORT.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "You can do this, step by step",
+      "german": "Du schaffst das, Schritt für Schritt.",
+      "transliteration": "doo SHAFST das, SHRIHT FÜR SHRIHT.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "Say yes to your own peace",
+      "german": "Sag ja zu deinem eigenen Frieden.",
+      "transliteration": "sah yes tsu DEI-nem EIG-en-en FRIE-den.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "Move your body, feel better",
+      "german": "Bewege deinen Körper, dann fühlst du dich besser.",
+      "transliteration": "BEH-veh-geh DEI-nen KOR-per, dann FEELST doo sich BESS-er.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "Tiny gratitude, big warmth inside",
+      "german": "Kleine Dankbarkeit, große Wärme in dir.",
+      "transliteration": "KLIY-ne DANK-bahr-kite, GROH-se VAHR-muh IN dir.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "Keep promises to yourself",
+      "german": "Halte deine Versprechen an dich selbst.",
+      "transliteration": "HAHL-te DEI-ne fer-SPREH-khen an dich selber.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "Let your worries take a seat",
+      "german": "Lass die Sorgen kurz Pause machen, einfach so.",
+      "transliteration": "LAS die ZOR-gen KHURTS PAHOO-za ma-KEN, EINF-akh so.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "Hi, can I get an oat latte?",
+      "german": "Hallo, kann ich einen Haferlatté bekommen?",
+      "transliteration": "HAlo, KANN ich eiNen HAFerLATté BEkomMen?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "Do you have almond milk today?",
+      "german": "Habt ihr heute Mandelmilch?",
+      "transliteration": "HABT ihr heuTE MANdelMILCH?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "Could I try your cinnamon roll?",
+      "german": "Kann ich eure Zimtschnecke probieren?",
+      "transliteration": "KANN ich euRE TSIMTschneCKE proBIEren?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "What kind of bread is this?",
+      "german": "Welches Brot ist das?",
+      "transliteration": "VILCHes BROT ist das?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "Is the croissant fresh this morning?",
+      "german": "Ist das Croissant heute Morgen frisch?",
+      "transliteration": "IST das KROAsant heuTE MORgen FRISCH?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "Do you sell slices of cake?",
+      "german": "Verkauft ihr Kuchenscheiben?",
+      "transliteration": "FERkauft iHR KUCHenscheiBEN?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "I’ll take a cappuccino to go.",
+      "german": "Ich nehme einen Cappuccino zum Mitnehmen.",
+      "transliteration": "ich NEHme eiNen kapPUTCHiNO zUM MITnehMEN.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "I’ll book a table for Friday.",
+      "german": "Ich buche einen Tisch für Freitag.",
+      "transliteration": "ich BU-che ei-nen TISCH für FREI-tag",
+      "category": "Making Plans",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "Let’s meet after work, say six?",
+      "german": "Wir treffen uns nach der Arbeit, so gegen sechs?",
+      "transliteration": "wir Tref-fen uns NACH der AR-beit, so GE-gen SECHS",
+      "category": "Making Plans",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "I’m going to check the opening hours.",
+      "german": "Ich sehe nach, wann der Laden aufmacht.",
+      "transliteration": "ich SE-he nach, wann der LA-den AUF-macht",
+      "category": "Making Plans",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "We’ll go early to beat the crowds.",
+      "german": "Wir gehen früh los, damit wir den Andrang vermeiden.",
+      "transliteration": "wir GE-hen früh LOS, da-mit wir den AN-drang ver-MEI-den",
+      "category": "Making Plans",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "Can you send me the itinerary?",
+      "german": "Kannst du mir die Route schicken?",
+      "transliteration": "KANnst du mir die ROU-te SCHI-cken",
+      "category": "Making Plans",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "I’ll pick up the tickets tonight.",
+      "german": "Ich hole die Tickets heute Abend ab.",
+      "transliteration": "ich HO-le die TIK-ets HEU-te AB-end AB",
+      "category": "Making Plans",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "Let’s call it a day at nine.",
+      "german": "Dann machen wir um neun Schluss.",
+      "transliteration": "dan ma-chen wir UM NEUN SCHLUSS",
+      "category": "Making Plans",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "I can try again, today.",
+      "german": "Ich kann heute wieder anfangen, ganz ruhig.",
+      "transliteration": "IKAN heute WIEDER ANFANGEN, ganz RUHig.",
+      "category": "Hope",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "Hope lives in the next decision.",
+      "german": "Hoffnung steckt in der nächsten Entscheidung.",
+      "transliteration": "HoffNUNG steckt in der NÄCHsten ENTScheidung.",
+      "category": "Hope",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "Even small wins brighten my hope.",
+      "german": "Schon kleine Erfolge lassen Hoffnung wachsen.",
+      "transliteration": "schon KLEIne ERfolge lassen HoffNUNG WACHsen.",
+      "category": "Hope",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "When I stumble, I still hope.",
+      "german": "Wenn ich stolpere, hoffe ich trotzdem weiter.",
+      "transliteration": "WENN ich STOl-pere, HOFFe ich TROTZdem WEITER.",
+      "category": "Hope",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "Breathe, and choose hope over doubt.",
+      "german": "Atme ein, und entscheide dich für Hoffnung statt Zweifel.",
+      "transliteration": "ATme EIN, und ENTScheiDE dich für HoffNUNG STATT ZWEiFel.",
+      "category": "Hope",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "I hear good news somewhere ahead.",
+      "german": "Ich spüre, da kommt etwas Gutes auf mich zu.",
+      "transliteration": "ich SPÜRe, da KOMMT et-WAS GUtes auf MICH zu.",
+      "category": "Hope",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "Hope makes room for new chances.",
+      "german": "Hoffnung schafft Platz für neue Chancen.",
+      "transliteration": "HoffNUNG schafft PLATZ für NÖue CHANcen.",
+      "category": "Hope",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "I feel nervous before meetings.",
+      "german": "Ich bin vor Meetings nervös.",
+      "transliteration": "ikh bin vor MEET-ingz NER-VOESS",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "Right now, I'm calm and steady.",
+      "german": "Gerade bin ich ruhig und klar.",
+      "transliteration": "guh-RAH-de bin ikh RU-hig und KLAR",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "I’m relieved it’s finally over.",
+      "german": "Ich bin froh, dass es endlich vorbei ist.",
+      "transliteration": "ikh bin froh, dass es EN-dlich vor-BYE ist",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "My heart is beating fast.",
+      "german": "Mein Herz klopft ganz schön schnell.",
+      "transliteration": "mine HERT klopft gantS SHÖN SCHNELL",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "That song really moves me.",
+      "german": "Dieses Lied geht mir richtig unter die Haut.",
+      "transliteration": "DIH-zes LEET geht meer RICH-tig OON-ter di HOOT",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "I feel proud of myself today.",
+      "german": "Heute bin ich stolz auf mich.",
+      "transliteration": "Hoy-te bin ikh shtolts owf miskh",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "I feel irritated when it’s noisy.",
+      "german": "Ich ärgere mich, wenn es so laut ist.",
+      "transliteration": "ikh ER-ger-uh mich, ven es zo LAUT ist",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-13T14:44:13.543518"
     }
   ],
-  "last_updated": "2026-11-12T15:27:18.908946"
+  "last_updated": "2026-11-13T14:44:13.543518"
 }
