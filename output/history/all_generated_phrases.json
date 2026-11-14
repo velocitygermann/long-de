@@ -26321,7 +26321,399 @@
       "transliteration": "ikh ER-ger-uh mich, ven es zo LAUT ist",
       "category": "Feelings & Emotions",
       "generated_at": "2026-11-13T14:44:13.543518"
+    },
+    {
+      "english": "I m not gonna lie, it s weird.",
+      "german": "Ehrlich gesagt, das ist irgendwie komisch.",
+      "transliteration": "EHR-lish ZU-saGT, das IST irGEnwie KOM-mish.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "I m lowkey stressed about that.",
+      "german": "Ich bin gerade lowkey gestresst deswegen.",
+      "transliteration": "ich BIN GERA-de LOW-kee GE-stresst des-wE-gen.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "No worries, we ll figure it out.",
+      "german": "Kein Stress, wir kriegen das schon hin.",
+      "transliteration": "KAIN StresS, wir KRIE-gen das SCHON hin.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "That s a red flag, honestly.",
+      "german": "Das riecht echt nach einer roten Flagge.",
+      "transliteration": "das RIECHT echt nach EIN-er ROT-en FLAG-ge.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "I m keeping it real with you.",
+      "german": "Ich sag dir die Wahrheit, ganz ehrlich.",
+      "transliteration": "ich SAG dir die WAR-heit, GANZ EHR-lish.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "Hold up, let me think for a sec.",
+      "german": "Moment mal, ich muss kurz nachdenken.",
+      "transliteration": "MO-men mal, ich MUSS kurz NACH-den-ken.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "Let s not make it a big deal.",
+      "german": "Lass uns das nicht so groß aufblasen.",
+      "transliteration": "LASS uns das nicht so GROSS auf-blASEN.",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "I’m grateful for your steady support",
+      "german": "Ich bin dankbar für deine stetige Unterstützung.",
+      "transliteration": "ich BIN dankbar für deine STE-ti-ge UN-ter-STÜT-zung",
+      "category": "Gratitude",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "Thank you for making time for me",
+      "german": "Danke, dass du dir Zeit für mich nimmst.",
+      "transliteration": "danKE, DASS du dir ZEIT für mich NIMMST",
+      "category": "Gratitude",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "I appreciate how you check in",
+      "german": "Ich schätze es, dass du dich immer wieder meldest.",
+      "transliteration": "ich SCHÄTZE es, dass du dich imMER wieDER MEL-dest",
+      "category": "Gratitude",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "Your calm words helped me breathe",
+      "german": "Deine ruhigen Worte haben mir geholfen, durchzuatmen.",
+      "transliteration": "DEI-ne RU-hi-gen WOR-te ha-ben mir GE-hol-fen, DURCH-zu-AT-men",
+      "category": "Gratitude",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "I’m thankful for your honest feedback",
+      "german": "Ich danke dir für dein ehrliches Feedback.",
+      "transliteration": "ich DAN-ke dir für dein EH-rliches FEED-back",
+      "category": "Gratitude",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "Thanks for seeing the good in me",
+      "german": "Danke, dass du das Gute in mir siehst.",
+      "transliteration": "danKE, dass du das GUTE in mir SIEhst",
+      "category": "Gratitude",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "I’m grateful for your thoughtful reply",
+      "german": "Ich bin dankbar für deine durchdachte Antwort.",
+      "transliteration": "ich BIN dankbar für DEI-ne durch-DACHTE ANt-wort",
+      "category": "Gratitude",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "How late can I check in?",
+      "german": "Bis wie spät kann ich einchecken?",
+      "transliteration": "BIS wie SPÄT kann ich EIN-checken?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "Is there parking right at the hotel?",
+      "german": "Gibt es direkt am Hotel Parkplätze?",
+      "transliteration": "GIBT es DIREKT am HO-tel PARK-plätze?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "Can I get an extra key, please?",
+      "german": "Kann ich bitte noch einen Schlüssel bekommen?",
+      "transliteration": "KANN ich BIT-te noch ei-nen SCHLÜS-sel BEKommen?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "My room has a problem with Wi-Fi.",
+      "german": "Mein Zimmer hat ein Problem mit dem WLAN.",
+      "transliteration": "MEIN ZIM-mer hat ein PRO-blem mit dem WLAN.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "Could you wake me up at 7?",
+      "german": "Können Sie mich bitte um sieben Uhr wecken?",
+      "transliteration": "KÖN-nen Sie mich BIT-te UM SIe-ben Uhr WE-cken?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "Do you have rooms for two people?",
+      "german": "Haben Sie Zimmer für zwei Personen?",
+      "transliteration": "HA-ben Sie ZIM-mer für ZWEI PER-so-nen?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "I’d like a quiet room away from noise.",
+      "german": "Ich hätte gern ein ruhiges Zimmer, weg vom Lärm.",
+      "transliteration": "ICH HÄT-te gern ein RU-hi-ges ZIM-mer, weg vom LÄRM.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "Ask for help, then keep going",
+      "german": "Frag um Hilfe, und mach trotzdem weiter.",
+      "transliteration": "Frag UM Hilfe, und MACH trotzdem WEITER.",
+      "category": "Strength",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "Set boundaries, protect your energy",
+      "german": "Setz Grenzen, schütze deine Energie.",
+      "transliteration": "SETZ GRENzen, SCHÜTze DEIne ENergie.",
+      "category": "Strength",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "Do the hard thing, gently",
+      "german": "Tu die schwere Sache, ganz behutsam.",
+      "transliteration": "TU die SCHWEre SaCHE, GANZ BEHUTsam.",
+      "category": "Strength",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "Stand up for what you need",
+      "german": "Steh für das ein, was du brauchst.",
+      "transliteration": "STEH für das EIN, was du BRAUCHSt.",
+      "category": "Strength",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "Recover fast after a setback",
+      "german": "Komm nach einem Rückschlag schnell wieder hoch.",
+      "transliteration": "KOMM nach eiNEM RÜCKschlag SCHNELL wieDER HOCH.",
+      "category": "Strength",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "Be consistent, that builds real muscle",
+      "german": "Sei konsequent, so wächst deine Kraft.",
+      "transliteration": "SEI KONsequent, so WÄCHST deiNE KRAFT.",
+      "category": "Strength",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "Let your actions match your values",
+      "german": "Lass deine Taten zu deinen Werten passen.",
+      "transliteration": "LASS deiNE TAten zu deiNEN WERten PASsen.",
+      "category": "Strength",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "What outcome do you aim for today?",
+      "german": "WELCHES ERGEBNIS hast du heute im Blick?",
+      "transliteration": "WELCHES ERGEBNIS hast du HEUTE im Blick?",
+      "category": "Purpose",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "Why do you keep choosing that path?",
+      "german": "WARUM wählst du diesen Weg immer wieder?",
+      "transliteration": "WARUM wählst du diesen Weg IMMER wieder?",
+      "category": "Purpose",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "What goal matters once distractions fade?",
+      "german": "WELCHES ZIEL bleibt dir wichtig, wenn alles andere leise wird?",
+      "transliteration": "WELCHES ZIEL bleibt dir WICHTIG, wenn alles andere LEISE wird?",
+      "category": "Purpose",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "What problem are you ready to fix?",
+      "german": "WOFÜR willst du Verantwortung übernehmen, ganz konkret?",
+      "transliteration": "WOFÜR willst du VERANTWORTUNG übernehmen, GANZ konkret?",
+      "category": "Purpose",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "What does success look like for you?",
+      "german": "WIE sieht DEIN Erfolg aus, in einem normalen Tag?",
+      "transliteration": "WIE sieht DEIN Erfolg aus, in einem NORMALEN Tag?",
+      "category": "Purpose",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "How do you want to use your time?",
+      "german": "WOFÜR willst du deine Zeit heute einsetzen?",
+      "transliteration": "WOFÜR willst du deine ZEIT heute EINsetzen?",
+      "category": "Purpose",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "What promise do you want to live?",
+      "german": "WELCHE VERSPRECHEN willst du dir selbst halten?",
+      "transliteration": "WELCHE VERSPRECHEN willst du dir SELBST halten?",
+      "category": "Purpose",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "Where exactly is the museum entrance?",
+      "german": "Wo genau ist der Eingang zum Museum?",
+      "transliteration": "wo GE NAU ist der EIN gang zum MU see UM?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "Which way is the city center?",
+      "german": "In welche Richtung ist die Innenstadt?",
+      "transliteration": "in WEL che RICH tung ist die IN nen STADT?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "Is there a bus to that street?",
+      "german": "Gibt es einen Bus zu dieser Straße?",
+      "transliteration": "GIBT es EI nen BUS zu die SER STRAße?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "Do I go past the church first?",
+      "german": "Soll ich erst an der Kirche vorbeigehen?",
+      "transliteration": "SOL ich ERST an der KIR che VOR bei GEH en?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "What’s the fastest route from here?",
+      "german": "Was ist der schnellste Weg von hier aus?",
+      "transliteration": "was ist der SCHELS tes WEG von HIER aus?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "Can you mark it on a map?",
+      "german": "Können Sie mir das auf einer Karte zeigen?",
+      "transliteration": "KÖN nen Sie MIR das AUF ei ner KAR te ZEI gen?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "I’m trying to find platform two.",
+      "german": "Ich suche gerade nach Gleis zwei.",
+      "transliteration": "ich SU CHE ge RADE nach GLEIS ZWEI.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "Where can I buy a ticket here?",
+      "german": "Wo kann ich hier ein Ticket kaufen?",
+      "transliteration": "Vo KANN ich hiER EIN TIK-et kau-fen?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "Does this bus stop near my street?",
+      "german": "Hält dieser Bus bei meiner Straße?",
+      "transliteration": "HÄLT diE-zer BUS bei mei-NER STRA-ße?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "What platform will my train leave from?",
+      "german": "Von welcher Gleisnummer fährt mein Zug ab?",
+      "transliteration": "Von WEL-cher GLEIS-num-mer FÄHRT mein TSOOK ab?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "Is the next connection within five minutes?",
+      "german": "Ist die nächste Verbindung in fünf Minuten?",
+      "transliteration": "IST die NÄCH-ste Ver-BIN-dung in FÜNF MI-nu-ten?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "How late does the last train run?",
+      "german": "Wie spät fährt der letzte Zug?",
+      "transliteration": "VIe SPÄT FÄHRT der LETZ-te TSuk?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "Is there step-free access to the tram?",
+      "german": "Gibt es einen barrierefreien Zugang zur Straßenbahn?",
+      "transliteration": "GIBT es ei-nen ba-ree-re-fien Zu-GANG zur STRA-ßen-bahn?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "Do I need to validate my ticket?",
+      "german": "Muss ich mein Ticket entwerten?",
+      "transliteration": "MUSS ich mein TIK-et ent-WER-ten?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "Today, I choose progress over perfection.",
+      "german": "Heute wähle ich Fortschritt statt Perfektion.",
+      "transliteration": "HEUTE wähle ich FORTschritt statt per-FEKtion.",
+      "category": "Success",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "I show up, even when it’s hard.",
+      "german": "Ich erscheine, auch wenn es schwer ist.",
+      "transliteration": "ICH ERscheiNE, AUCH wenn es SCHWER ist.",
+      "category": "Success",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "I finish what I start, calmly.",
+      "german": "Ich bringe Dinge zu Ende, ganz ruhig.",
+      "transliteration": "ICH BRINge DINge zu ENde, GANZ RUHIG.",
+      "category": "Success",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "My effort counts, no matter what.",
+      "german": "Meine Mühe zählt, egal wie es aussieht.",
+      "transliteration": "MEINE MÜhe ZÄHLT, egal WIE es AUSsieht.",
+      "category": "Success",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "I turn setbacks into feedback.",
+      "german": "Ich mache aus Rückschlägen Feedback.",
+      "transliteration": "ICH maCHE auS RÜCKschlägen FEEDback.",
+      "category": "Success",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "Small habits compound into real results.",
+      "german": "Kleine Gewohnheiten summieren sich zu Ergebnissen.",
+      "transliteration": "KLEIne GEwohNheiTEN SUMmieren sich zu ERgebnissen.",
+      "category": "Success",
+      "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "I ask, then I act on answers.",
+      "german": "Ich frage nach, dann handle ich danach.",
+      "transliteration": "ICH FRAge nach, dann HANdle ich daNACH.",
+      "category": "Success",
+      "generated_at": "2026-11-14T13:41:11.252977"
     }
   ],
-  "last_updated": "2026-11-13T14:44:13.543518"
+  "last_updated": "2026-11-14T13:41:11.252977"
 }
