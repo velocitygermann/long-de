@@ -26713,7 +26713,399 @@
       "transliteration": "ICH FRAge nach, dann HANdle ich daNACH.",
       "category": "Success",
       "generated_at": "2026-11-14T13:41:11.252977"
+    },
+    {
+      "english": "Feel your feet on the floor",
+      "german": "Spür deine Füße auf dem Boden.",
+      "transliteration": "Spür DEIne FÜSSe AUF dem BOden.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "Notice five things you can see",
+      "german": "Nimm fünf Dinge wahr, die du siehst.",
+      "transliteration": "Nimm FÜNF DİNGe WAHЯ, die DU SIEhst.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "Gently relax your jaw right now",
+      "german": "Entspanne jetzt deinen Kiefer, ganz sanft.",
+      "transliteration": "ENtsPAnne JETZT DEINen KIefer, GANZ SANFT.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "Soften your gaze, let it rest",
+      "german": "Weite deinen Blick, lass die Augen ruhen.",
+      "transliteration": "WEIte DEINen BLICK, lass die AUgen RUhen.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "Hear sounds like clouds passing by",
+      "german": "Lass Geräusche kommen und gehen, wie Wolken.",
+      "transliteration": "Lass GEräuSHE kommen und GEHen, WIE WOLken.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "Unclench your hands, feel warmth",
+      "german": "Lass die Hände locker, spür die Wärme.",
+      "transliteration": "Lass die HÄnde LOCKer, spür die WÄrme.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "Choose one tiny task, focus fully",
+      "german": "Wähle eine kleine Aufgabe, und mach sie bewusst.",
+      "transliteration": "VÄHle eiNE KLEiNe AUFGabe, UND mach sie BEWUSST.",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "Hi, can you talk for a minute?",
+      "german": "Hi, kannst du kurz sprechen?",
+      "transliteration": "Hi, kannst du KURZ sprechen?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "Sorry, I missed your call.",
+      "german": "Tut mir leid, ich habe deinen Anruf verpasst.",
+      "transliteration": "Tut mir leid, ich HABE deinen ANruf verpasst.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "I just sent you a text.",
+      "german": "Ich habe dir gerade eine SMS geschickt.",
+      "transliteration": "Ich HAbE dir GERADE eine SMS geschickt.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "What did you mean by that?",
+      "german": "Was meinst du genau mit dem?",
+      "transliteration": "Was meinst du GENAU mit dem?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "Please confirm, did you receive it?",
+      "german": "Kannst du bitte kurz bestätigen, ob du es bekommen hast?",
+      "transliteration": "Kannst du BITTE kurz bestätigen, OB du es bekommen HAST?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "I need the invoice for tomorrow.",
+      "german": "Ich brauche die Rechnung für morgen.",
+      "transliteration": "Ich BRAuche die REchNUNG für MORgen.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "Could you leave the number again?",
+      "german": "Kannst du die Nummer bitte nochmal sagen?",
+      "transliteration": "Kannst du die NUMmer BITTE nochmal SAgen?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "Tell me about your local customs.",
+      "german": "ErzähL mir von deinen lokalen Bräuchen.",
+      "transliteration": "ERZAHL miR von dei nen lo KA len BRÄu chen.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "Is this done on specific holidays?",
+      "german": "Passiert das an bestimmten Feiertagen?",
+      "transliteration": "PASSIERT das an BES timm ten FEI er ta GEN?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "When does the tradition start and end?",
+      "german": "Wann beginnt und endet diese Tradition?",
+      "transliteration": "VAN be GINT und EN det die se TRA di ti ON?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "I love how food connects people.",
+      "german": "Ich liebe, wie Essen Menschen verbindet.",
+      "transliteration": "ICH LIebe, wie ES sen MENschen VER bin det.",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "What’s the meaning behind that song?",
+      "german": "Welche Bedeutung hat dieses Lied?",
+      "transliteration": "WEL che BE deu tung hat die ses LIED?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "Do I bring something for the hosts?",
+      "german": "Bring ich etwas für die Gastgeber mit?",
+      "transliteration": "BRING ich eTwas für die GAST ge ber MIT?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "May I watch, or should I join?",
+      "german": "Darf ich zuschauen, oder soll ich mitmachen?",
+      "transliteration": "DARF ich ZU scha u en, ODER soll ich MIT ma chen?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "I can do hard things, step by step.",
+      "german": "Ich schaffe das, Schritt für Schritt, auch schweres Zeug.",
+      "transliteration": "Ich SCHAFfe das, SCHRITT für SCHRITT, auch SCHWIERigES ZeuG.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "Small progress today, bigger results later.",
+      "german": "Kleine Fortschritte heute, später werden sie groß.",
+      "transliteration": "Kleine FORTschritte HEUte, SPÄter werden sie GROSS.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "When I stall, I start again gently.",
+      "german": "Wenn ich hänge, beginne ich wieder, ganz sanft.",
+      "transliteration": "Wenn ich HÄNge, BEginne ich WieDER, ganz SANFT.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "I keep my routine, even when tired.",
+      "german": "Ich halte meine Routine durch, auch wenn ich müde bin.",
+      "transliteration": "Ich HALte meine ROuTIne DURCH, auch wenn ich müDE bin.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "I don’t quit after one bad day.",
+      "german": "Ich werfe nicht hin nach einem schlechten Tag.",
+      "transliteration": "Ich WERfe nicht HIN nach eiNEM SCHLECHten Tag.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "I ask for help, then continue.",
+      "german": "Ich frage um Hilfe, und mache dann weiter.",
+      "transliteration": "Ich FRAge um HILfe, und maCHE dann WEIter.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "I focus on the next useful action.",
+      "german": "Ich richte den Blick auf die nächste sinnvolle Tat.",
+      "transliteration": "Ich RICHte den BLICK auf die nächsTE SINnvolle Tat.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "Ask what matters, then choose slowly.",
+      "german": "Frag erst, was wirklich zählt, dann entscheide langsam.",
+      "transliteration": "Frag ERST, was WIRKlich ZÄHLT, dann ENTscheide LANGsam.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "Silence can be the wisest reply.",
+      "german": "Manchmal ist Schweigen die klügste Antwort.",
+      "transliteration": "MANCHmal ist SCHWEIgen die KLÜGste ANTwort.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "Be curious, not defensive, today.",
+      "german": "Sei neugierig, nicht defensiv, dann wird vieles leichter.",
+      "transliteration": "SEI NÄuGIG, nicht deFENsiv, dann WIRD vieLES LEICHter.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "Measure success by peace, not noise.",
+      "german": "Erfolg misst man an innerem Frieden, nicht am Lärm.",
+      "transliteration": "ERfolg misst man AN inNerem FRIeden, nicht AM LÄrm.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "Let facts lead, feelings follow.",
+      "german": "Lass Fakten führen, und die Gefühle folgen.",
+      "transliteration": "LASS FAKten FÜHren, und die GEFÜHLE FOLgen.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "Choose one habit that serves you.",
+      "german": "Wähle eine Gewohnheit, die dir wirklich hilft.",
+      "transliteration": "WÄHle eiNE GEWOHnheit, die dir WIRKlich HILFT.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "Small steps beat perfect plans.",
+      "german": "Kleine Schritte schlagen perfekte Pläne.",
+      "transliteration": "KLEIne SCHRITte SCHLAgen PERfekte PLÄne.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "Can someone check my breathing?",
+      "german": "Kann jemand kurz meine Atmung prüfen?",
+      "transliteration": "KANn JEmand kurz MEIne ATMung PRÜfen?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "My chest feels tight right now.",
+      "german": "Mein Brustkorb fühlt sich gerade eng an.",
+      "transliteration": "MEIN BRUSTkorb fühlt sich GERAde eng an.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "I might faint, please sit me down.",
+      "german": "Ich könnte gleich ohnmächtig werden, bitte setz mich hin.",
+      "transliteration": "IK könnte GLEICH OHNmächtig WERden, BITte setz mich HIN.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "I think I swallowed something wrong.",
+      "german": "Ich glaube, ich habe etwas falsch geschluckt.",
+      "transliteration": "IK GLAUbe, ich HAbe ETwas FALSCH geschluckt.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "I need ice for this swelling.",
+      "german": "Ich brauche Eis gegen die Schwellung.",
+      "transliteration": "IK BRAUche ICE geGEN die SCHWEllung.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "Please call an ambulance for me.",
+      "german": "Bitte ruf für mich einen Krankenwagen, einen Rettungswagen.",
+      "transliteration": "BITte RUF für mich EInen KranKenWAGEN, EInen RETtungsWAGEN.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "My wound is bleeding a lot.",
+      "german": "Meine Wunde blutet ziemlich stark.",
+      "transliteration": "MEINE WUNde BLUtet ZIEmlich STARK.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "I grow by showing up daily",
+      "german": "Ich wachse, indem ich jeden Tag auftauche.",
+      "transliteration": "ikh VAHkse, indem ikh JE-den tag AHT-tauch-e.",
+      "category": "Growth",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "Even mistakes move me forward",
+      "german": "Jeder Fehler bringt mich ein Stück weiter.",
+      "transliteration": "JE-der FEH-ler brINGT mich EIN Stück WAI-ter.",
+      "category": "Growth",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "I notice progress in tiny wins",
+      "german": "Ich merke Fortschritt an kleinen Erfolgen.",
+      "transliteration": "ikh MER-ke FORTSHritt an KLEi-nen E R-fol-gen.",
+      "category": "Growth",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "My mindset softens, my results sharpen",
+      "german": "Mein Mindset wird weicher, meine Ergebnisse schärfer.",
+      "transliteration": "MAin MINT-set wird VAI-cher, MAi-ne ER-geb-nis-se SHER-fer.",
+      "category": "Growth",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "I build momentum with one habit",
+      "german": "Ich baue Schwung mit einer Gewohnheit auf.",
+      "transliteration": "ikh BAAU-eh SHVUNG mit EIN-er gE-Wohn-heit auf.",
+      "category": "Growth",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "Small consistency beats big bursts",
+      "german": "Stetigkeit schlägt große Anläufe.",
+      "transliteration": "STE-tiG-kait SCHLÄGGT GROS-se AN-lau-fe.",
+      "category": "Growth",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "I learn, adjust, then keep going",
+      "german": "Ich lerne, passe an, und mache weiter.",
+      "transliteration": "ikh LER-ne, PAS-se an, und maKhe VAI-ter.",
+      "category": "Growth",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "I show up, even when tired.",
+      "german": "Ich tauche auf, auch wenn ich müde bin.",
+      "transliteration": "ikh TOU- k- e auf, auch WENN ikh MYE-de bin",
+      "category": "Motivation",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "Today, I pick one focus word.",
+      "german": "Heute wähle ich ein einziges Fokuswort.",
+      "transliteration": "HOY-te VAE-le ikh ein EIN-zig-es FOH-kus-wort",
+      "category": "Motivation",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "I can restart without guilt.",
+      "german": "Ich kann jederzeit neu anfangen, ohne Schuldgefühl.",
+      "transliteration": "ikh KANN YED-er-zeits NOY AHN-fang-en, OH-ne SHULT-guh-FYL",
+      "category": "Motivation",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "My effort is already progress.",
+      "german": "Meine Anstrengung zählt schon als Fortschritt.",
+      "transliteration": "MEY-neh AN-sTREN-goong tsahlt SHOHN als FORTSHRIHt",
+      "category": "Motivation",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "I practice for my future self.",
+      "german": "Ich lerne für mein zukünftiges Ich.",
+      "transliteration": "ikh LEHR-ne FEER myn TSUKUNFtiges ikh",
+      "category": "Motivation",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "I breathe, then I speak one sentence.",
+      "german": "Ich atme durch, dann sage ich einen Satz.",
+      "transliteration": "ikh AHT-me doorkh, dann zah- ge ikh EI-nen tsats",
+      "category": "Motivation",
+      "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "I set a timer, just ten minutes.",
+      "german": "Ich stelle einen Timer auf zehn Minuten.",
+      "transliteration": "ikh SHTEL-le EI-nen TEE-mer auf TSEN MIN-u-ten",
+      "category": "Motivation",
+      "generated_at": "2026-11-15T14:06:33.748954"
     }
   ],
-  "last_updated": "2026-11-14T13:41:11.252977"
+  "last_updated": "2026-11-15T14:06:33.748954"
 }
