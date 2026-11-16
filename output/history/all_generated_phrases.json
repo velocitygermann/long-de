@@ -27105,7 +27105,399 @@
       "transliteration": "ikh SHTEL-le EI-nen TEE-mer auf TSEN MIN-u-ten",
       "category": "Motivation",
       "generated_at": "2026-11-15T14:06:33.748954"
+    },
+    {
+      "english": "Today feels genuinely joyful, finally",
+      "german": "Heute fühlt sich alles wirklich freudig an, endlich",
+      "transliteration": "HOO-tuh feylt sich AHL-es VRIHK-likh FREW-dig an, EN-tlich",
+      "category": "Joy",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "I can’t help smiling right now",
+      "german": "Ich kann jetzt einfach nicht aufhören zu lächeln",
+      "transliteration": "ikh KANN jetz EINF-ahh nicht AUF-huh-ren tsu LYEH-cheln",
+      "category": "Joy",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "Something in me is humming",
+      "german": "Irgendwas in mir summt vor Freude",
+      "transliteration": "eer-GEND-was een MICH SUMMT for FREW-duh",
+      "category": "Joy",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "Joy is spilling out, honestly",
+      "german": "Freude läuft mir gerade einfach über",
+      "transliteration": "FREW-duh LAF-t mee JEEH-tseht EINF-ahh oover",
+      "category": "Joy",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "I feel warmed through, from within",
+      "german": "Ich bin von innen heraus ganz warm",
+      "transliteration": "ikh bin fon IN-nuh heraus GAHNT warm",
+      "category": "Joy",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "This laugh feels so freeing",
+      "german": "Dieses Lachen befreit mich total",
+      "transliteration": "DEE-ses LAH-khen BEF-RIHT mee KOH-tahl",
+      "category": "Joy",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "I’m enjoying the simple moment",
+      "german": "Ich genieße diesen einfachen Moment",
+      "transliteration": "ikh GEE-nyuh-seh DEE-zen EINF-ah-hen MOH-ment",
+      "category": "Joy",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "I appreciate your gentle tone.",
+      "german": "Ich schätze deinen sanften Ton.",
+      "transliteration": "ISH schätze DEINEN sanften TON.",
+      "category": "Kindness",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "Can we talk without blame?",
+      "german": "Können wir reden, ohne Schuld zuzuweisen?",
+      "transliteration": "KÖNnen WIR reDEN OHne SHULTZUSuweisen?",
+      "category": "Kindness",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "Thank you for being so patient.",
+      "german": "Danke, dass du so geduldig bist.",
+      "transliteration": "DANke, dass DU so GEduLdig bist.",
+      "category": "Kindness",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "I’ll speak up, kindly and clearly.",
+      "german": "Ich spreche lieber freundlich und klar.",
+      "transliteration": "ICH schpreche lieBEr FREUNDlich und KLAR.",
+      "category": "Kindness",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "I see you, and I’m listening.",
+      "german": "Ich seh dich, und ich höre zu.",
+      "transliteration": "ICH seh DICH, und ICH hÖre ZU.",
+      "category": "Kindness",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "I’m sorry, that came out wrong.",
+      "german": "Es tut mir leid, das ist gerade schiefgelaufen.",
+      "transliteration": "ES TUT mir LEID, das IST geRAde SHIEFgeLAUfen.",
+      "category": "Kindness",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "You don’t have to explain everything.",
+      "german": "Du musst nicht alles erklären.",
+      "transliteration": "DU MÜSST nicht ALles ERklären.",
+      "category": "Kindness",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "Waiting doesn’t mean doing nothing.",
+      "german": "Warten heißt nicht, nichts zu tun.",
+      "transliteration": "Warten HEISST nicht, nichts ZU tun.",
+      "category": "Patience",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "I’ll circle back, gently and soon.",
+      "german": "Ich komme später nochmal zurück, ganz ruhig.",
+      "transliteration": "Ich KOMME später NOCHMAL zurück, GANZ ruhig.",
+      "category": "Patience",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "Let it take its pace today.",
+      "german": "Lass es heute in seinem Tempo laufen.",
+      "transliteration": "Lass es HEUTE in seiNEM Tempo LAUFEN.",
+      "category": "Patience",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "I can repeat calmly without shame.",
+      "german": "Ich darf es ruhig wiederholen, ohne Scham.",
+      "transliteration": "Ich DAF es RUUHIG wieDERholen, OHNE Scham.",
+      "category": "Patience",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "Slow progress still counts, for sure.",
+      "german": "Langsame Fortschritte zählen trotzdem, ganz sicher.",
+      "transliteration": "LANGsame FortSCHRITTE zählen TROTZdem, GANZ sicher.",
+      "category": "Patience",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "I breathe out, then start again.",
+      "german": "Ich atme aus, und dann fange ich neu an.",
+      "transliteration": "Ich atME aus, und DANN fanGE ich NEU an.",
+      "category": "Patience",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "I trust timing more than my rush.",
+      "german": "Ich vertraue mehr auf Timing als auf Eile.",
+      "transliteration": "Ich VERTRAUE mehr auf TIMing als auf EIle.",
+      "category": "Patience",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "Hi! I’m glad you’re here.",
+      "german": "Hallo! Ich freue mich, dass du da bist.",
+      "transliteration": "HA-loo, ich FREU-e mich, dass du DA bist.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "How do you want to be greeted?",
+      "german": "Wie möchtest du begrüßt werden?",
+      "transliteration": "VIE möch-Test DU BE-GRÜSST wer-den?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "What’s your day been like?",
+      "german": "Wie war dein Tag bisher?",
+      "transliteration": "VIE war dein TAG bis-her?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "I’m here, how are you feeling?",
+      "german": "Ich bin da, wie fühlst du dich gerade?",
+      "transliteration": "ich BIN da, wie FÜHLST du dich GE-ra-de?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "Thanks for saying hi first.",
+      "german": "Danke, dass du zuerst Hallo gesagt hast.",
+      "transliteration": "DAN-ke, dass du ZUERST HAL-lo ge-sagt hast.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "We made it, good timing.",
+      "german": "Wir haben es geschafft, guter Zeitpunkt.",
+      "transliteration": "wir HA-ben es GE-schafft, GU-ter ZEIT-punkt.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "Mind if we start with a chat?",
+      "german": "Hast du was dagegen, wenn wir mit Small Talk anfangen?",
+      "transliteration": "HAST du WAS da-GE-gen, wenn wir mit SMALL talk AN-fan-gen?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "Where is security right now?",
+      "german": "Wo ist gerade die Sicherheitskontrolle?",
+      "transliteration": "Wo IST GERADE die SIcherheitskontrolle?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "My flight is delayed again, okay?",
+      "german": "Mein Flug ist schon wieder verspätet, okay?",
+      "transliteration": "MEIN Flug IST schon WIEDER verSPÄtet, O-KAY?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "Do I need to recheck luggage?",
+      "german": "Muss ich mein Gepäck neu aufgeben?",
+      "transliteration": "MUSS ich MEIN Gepäck NEU AUFgeben?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "I need water before boarding.",
+      "german": "Ich brauche vor dem Boarding noch Wasser.",
+      "transliteration": "ICH BRAUche vor dem BORD-ing noch WASSer.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "I will charge my phone now.",
+      "german": "Ich lade mein Handy jetzt auf, nur kurz.",
+      "transliteration": "ICH LADE mein HANdy JE TZT AUF, nur KURZ.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "Can I change my seat, please?",
+      "german": "Kann ich meinen Sitz bitte umtauschen?",
+      "transliteration": "KANN ich meiNEN SITZ BITTE UMtauSCHEN?",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "I’ll go to gate first, then relax.",
+      "german": "Ich gehe erst zum Gate, dann beruhige ich mich.",
+      "transliteration": "ICH GEHE E RST zum GATE, DANN beruhiGE ich MICH.",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "I turn nerves into energy.",
+      "german": "Ich verwandle Nervosität in Energie.",
+      "transliteration": "Ich VERWANdle NERvosität in ENErgie.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "Ask, listen, then try again.",
+      "german": "Frag, hör zu, und probier es dann noch mal.",
+      "transliteration": "FRAG, HÖR zu, und PROBIER es dann NOCH mal.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "Small wins keep me inspired.",
+      "german": "Kleine Erfolge inspirieren mich.",
+      "transliteration": "KLEIne ERfolGe INspiRIEren mich.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "Today I choose playful German.",
+      "german": "Heute wähle ich spielerisches Deutsch.",
+      "transliteration": "HEUTE wähle ich SPIElerisches DEUTSCH.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "I love how German sounds aloud.",
+      "german": "Ich mag es, wenn Deutsch laut klingt.",
+      "transliteration": "Ich MAG es, wenn DEUTSCH LAUT klingt.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "I let curiosity steer my day.",
+      "german": "Neugier lenkt meinen Tag.",
+      "transliteration": "NEUgier LENKT meinen TAG.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "One honest sentence beats silence.",
+      "german": "Ein ehrlicher Satz ist besser als Schweigen.",
+      "transliteration": "ein EHrlicher SATZ ist BESSER als SCHWEiGen.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "Pause, let your shoulders drop.",
+      "german": "Pausier, lass die Schultern fallen.",
+      "transliteration": "Pau-siER, lass die Schul-tern fal-len.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "I come back to my breath.",
+      "german": "Ich komme zurück zu meinem Atem.",
+      "transliteration": "Ich kom-me zu-rück zu mei-nem A-tem.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "Even my silence is safe here.",
+      "german": "Auch meine Stille ist hier sicher.",
+      "transliteration": "Auch mei-ne Stil-le ist hier si-cher.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "What I need is simple, right now.",
+      "german": "Was ich brauche, ist jetzt ganz einfach.",
+      "transliteration": "Was ich brau-che, ist jetzt ganz ein-fach.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "I soften my jaw, just now.",
+      "german": "Ich lasse meinen Kiefer locker.",
+      "transliteration": "Ich las-se mei-nen Kie-fer lo-ckER.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "I can be calm and still honest.",
+      "german": "Ich kann ruhig sein, und trotzdem ehrlich.",
+      "transliteration": "Ich kann ru-hig sein, und trotz-dem ehr-lich.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "Let today be enough, exactly as it is.",
+      "german": "Lass den Tag genug sein, genau so.",
+      "transliteration": "Lass den Tag ge-nug sein, ge-nau so.",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "Can we make space for rest?",
+      "german": "Können wir Platz für Ruhe schaffen?",
+      "transliteration": "können wir PLATZ für RUhe SCHAFfen?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "I m on your side, always.",
+      "german": "Ich bin immer auf deiner Seite.",
+      "transliteration": "ich BIN imMER auf DEINer SEIte.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "Let s do a quick tidy together.",
+      "german": "Lass uns kurz zusammen aufräumen.",
+      "transliteration": "lass uns KURZ zuSAMmen AUFräumen.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "Who needs a hug right now?",
+      "german": "Wer braucht gerade eine Umarmung?",
+      "transliteration": "WER braucht GEraDE eiN e uMArmung?",
+      "category": "Family & Home",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "Bedtime is calm, no screens.",
+      "german": "Schlafenszeit ist ruhig, keine Bildschirme.",
+      "transliteration": "schLAfensZEIT ist RUHig, KEIne BILDschirme.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "We can start over, no shame.",
+      "german": "Wir können neu anfangen, ohne Scham.",
+      "transliteration": "wir KÖnnen NEU anFANGen, OHne SCHAM.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "Tonight, I ll cook, you relax.",
+      "german": "Heute koche ich, du kannst dich entspannen.",
+      "transliteration": "HEUte KOche ich, du KANNST dich entSPANNen.",
+      "category": "Family & Home",
+      "generated_at": "2026-11-16T16:02:43.060226"
     }
   ],
-  "last_updated": "2026-11-15T14:06:33.748954"
+  "last_updated": "2026-11-16T16:02:43.060226"
 }
