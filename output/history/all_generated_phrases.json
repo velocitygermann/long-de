@@ -27497,7 +27497,399 @@
       "transliteration": "HEUte KOche ich, du KANNST dich entSPANNen.",
       "category": "Family & Home",
       "generated_at": "2026-11-16T16:02:43.060226"
+    },
+    {
+      "english": "Can you explain this fee, please?",
+      "german": "Können Sie mir diese Gebühr erklären, bitte?",
+      "transliteration": "KOENnen SIE mir diese GEBuhr erklaeren, BITte",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "I want to set up automatic savings.",
+      "german": "Ich möchte automatische Sparraten einrichten.",
+      "transliteration": "ICH MOECHte autoMA tische SPARraten EINrichten",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "Please lower my daily spending limit.",
+      "german": "Bitte senken Sie mein tägliches Ausgabenlimit.",
+      "transliteration": "BITte SENken Sie mein TAEgliches AUSgabenLIMIT",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "Where can I download my account statement?",
+      "german": "Wo finde ich meinen Kontoauszug zum Download?",
+      "transliteration": "WO FINde ich MEINen KONtoauszug zum DOWNload",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "I need to freeze my card now.",
+      "german": "Ich muss meine Karte jetzt sperren.",
+      "transliteration": "ICH MUSS MEINE KARte JEZt sperren",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "Is there a cheaper plan for me?",
+      "german": "Gibt es einen günstigeren Tarif für mich?",
+      "transliteration": "GIBt es EInen GUEnstigeren TARIF fuer MICH",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "I’d like to move money to savings.",
+      "german": "Ich möchte Geld auf mein Sparkonto überweisen.",
+      "transliteration": "ICH M OECHte Gelt AUF mein SPARKonto ueberWEIsen",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "I will not apologize for taking space.",
+      "german": "Ich entschuldige mich nicht dafür, Raum zu nehmen.",
+      "transliteration": "ich ent-schuldige mich nicht da-für, raum zu neh-men",
+      "category": "Courage",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "Today I choose the hard conversation.",
+      "german": "Heute entscheide ich mich für das schwierige Gespräch.",
+      "transliteration": "heu-te enT-schei-de ich mich für das schwie-rig- ge ge-spräch",
+      "category": "Courage",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "I can handle feedback without collapsing.",
+      "german": "Ich kann Feedback aushalten, ohne zusammenzubrechen.",
+      "transliteration": "ich kann feed-back aus-hal-ten, oh-ne zu-sam-men-zu-bre-chen",
+      "category": "Courage",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "I ask, even if I sound unsure.",
+      "german": "Ich frage, auch wenn es sich unsicher anfühlt.",
+      "transliteration": "ich fra-ge, auch wenn es sich un-si-cher an-fühlt",
+      "category": "Courage",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "I set a boundary, then breathe.",
+      "german": "Ich setze eine Grenze, dann atme ich durch.",
+      "transliteration": "ich set-ze ei-ne gren-ze, dann at-me ich durch",
+      "category": "Courage",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "My voice counts, even at low volume.",
+      "german": "Meine Stimme zählt, auch wenn sie leise ist.",
+      "transliteration": "mei-ne stim-me zählt, auch wenn sie lei-se ist",
+      "category": "Courage",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "I can wait my turn to speak.",
+      "german": "Ich kann warten, bis ich dran bin, und dann sprechen.",
+      "transliteration": "ich kann war-ten, bis ich dran bin, und dann spre-chen",
+      "category": "Courage",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "Turn doubts into brainstorm fuel",
+      "german": "Wandle Zweifel in Brainstorm-Feuer um.",
+      "transliteration": "Wandle ZWEIFEL in BRAIN-storm-FEUER um.",
+      "category": "Creativity",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "Ask, what if it works?",
+      "german": "Frag dich, was wäre wenn es klappt.",
+      "transliteration": "Frag dich, WAS wäre WENN es KLAPPT.",
+      "category": "Creativity",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "Collect odd ideas like treasures",
+      "german": "Sammle skurrile Ideen wie Schätze.",
+      "transliteration": "SAMMle SKURri-le IDE-en wie SCHÄTZE.",
+      "category": "Creativity",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "Give your idea a simple test",
+      "german": "Gib deiner Idee einen einfachen Test.",
+      "transliteration": "GIB dei-ner IDE-e ei-nen EIN-fachen TEST.",
+      "category": "Creativity",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "Rewrite one problem from scratch",
+      "german": "Überarbeite ein Problem komplett neu.",
+      "transliteration": "ÜBER-ar-bei-te ein PROBLEM KOMplett neu.",
+      "category": "Creativity",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "Steal inspiration from everyday friction",
+      "german": "Lass dich von Alltagsreibung inspirieren.",
+      "transliteration": "LASS dich von ALLtags-reiBUNG inSPIRieren.",
+      "category": "Creativity",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "Make a prototype before you perfect",
+      "german": "Baue erst einen Prototyp, dann feile daran.",
+      "transliteration": "BAU-e erST ei-nen PRO-to-typ, dann FEI-le da-RAN.",
+      "category": "Creativity",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "I forgive you, let’s reset now",
+      "german": "Ich verzeihe dir, wir setzen jetzt zurück.",
+      "transliteration": "IK fer-ZEI-he DIR, wir SET-zen JETZT zu-RÜCK",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "Say sorry, I’m ready to forgive",
+      "german": "Entschuldige, ich bin bereit zu verzeihen.",
+      "transliteration": "ENtschul-di-ge, ich BIN be-REIT zu fer-ZEI-hen",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "No grudges, just peace between us",
+      "german": "Keine Rachegedanken, nur Frieden zwischen uns.",
+      "transliteration": "KEI-ne RA-che-ge-DAN-ken, nur FRIE-den zwi-schen UNS",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "I choose calm over being right",
+      "german": "Ich entscheide mich für Ruhe, nicht fürs Recht.",
+      "transliteration": "ich ENT-schei-de mich FÜR RU-he, nicht fürs RECHT",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "You can trust me again, slowly",
+      "german": "Du kannst mir wieder vertrauen, ganz langsam.",
+      "transliteration": "DU kanNST MIR wie-der VOR-trau-en, GANZ LANG-sam",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "I’m not keeping score anymore",
+      "german": "Ich rechne nicht mehr alles nach.",
+      "transliteration": "ich rech-ne NICHT mehr AL-les nach",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "Thanks for apologizing, it helps",
+      "german": "Danke, dass du dich entschuldigst, das hilft.",
+      "transliteration": "dan-ke, dass DU dich ENtschul-digst, das HILFT",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "Is it supposed to rain later?",
+      "german": "Gibt es später Regen?",
+      "transliteration": "Gibt es SPÄTER Regen?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "The sky looks so cloudy today.",
+      "german": "Der Himmel ist heute so wolkig.",
+      "transliteration": "Der HImmel ist HEUTE so WOLKig.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "Feels like it might storm.",
+      "german": "Es könnte heute noch ein Gewitter geben.",
+      "transliteration": "Es KÖNNTE HEUTE noch ein GEWITTER GEBEN.",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "Is the weather turning nicer?",
+      "german": "Wird das Wetter bald besser?",
+      "transliteration": "WIRD das WETter BALD BESSER?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "How bad is the wind right now?",
+      "german": "Wie stark ist der Wind gerade?",
+      "transliteration": "Wie STARK ist der WIND GERAde?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "Do you know the forecast for tomorrow?",
+      "german": "Hast du einen Wetterbericht für morgen?",
+      "transliteration": "Hast du eiNen WETterbericht für MORgen?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "My app says rain, do you think so?",
+      "german": "Meine App sagt Regen, glaubst du das?",
+      "transliteration": "MEIne APp sagt REgen, glaubst DU das?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "Replace excuses with one real action",
+      "german": "Ersetze Ausreden durch eine echte Handlung",
+      "transliteration": "ErSETze AUSreDEN durch eiNE ECHte HANDlung",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "Write it down, then do it",
+      "german": "Schreib es auf, dann mach es",
+      "transliteration": "SCHreib es AUf, dann MACH es",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "Learn from feedback, not from shame",
+      "german": "Lern aus Feedback, nicht aus Scham",
+      "transliteration": "LERN aus FEEDback, nicht aus SCHAM",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "Turn overwhelm into a tiny schedule",
+      "german": "Mach aus Überforderung einen Mini-Plan",
+      "transliteration": "Mach aus ÜBERforDERung eiNen MINI-Plan",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "Stop doomscrolling, start a skill",
+      "german": "Hör mit dem Grübeln auf, fang mit einer Fähigkeit an",
+      "transliteration": "HÖR mit dem GRÜbeLn AUf, fang MIT eiNER FÄHigKEIT an",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "Ask, what’s the next helpful step?",
+      "german": "Frag dich, was der nächste hilfreiche Schritt ist",
+      "transliteration": "Frag dich, WAS der NÄCHste HILFreiche SCHRITT ist",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "Keep your promises, even small ones",
+      "german": "Halte deine Versprechen, auch die kleinen",
+      "transliteration": "HALte DEIne FERspreCHen, AUCH die KLEiNen",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "Can we adjust the deadline, please?",
+      "german": "Können wir die Deadline bitte anpassen?",
+      "transliteration": "KÖnnen wir die DEADline BITte ANpassen?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "I just joined the team today.",
+      "german": "Ich bin heute erst ins Team eingestiegen.",
+      "transliteration": "ICH bin HEUte ERST ins TEam EINgestiegen",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "Where can I find the printer?",
+      "german": "Wo finde ich den Drucker?",
+      "transliteration": "WO finDE ich den DRUCKer?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "I need this signed before noon.",
+      "german": "Ich brauche das bitte vor Mittag unterschrieben.",
+      "transliteration": "ICH BRAUche das BITte VOR MITtag un-TERschrieben",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "Please mute your mic during the call.",
+      "german": "Bitte schalten Sie Ihr Mikrofon während des Calls aus.",
+      "transliteration": "BITte schALten SIe IHR MIKrofon WÄhrend des CALLS AUS",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "Can you share the update with me?",
+      "german": "Können Sie mir das Update kurz schicken?",
+      "transliteration": "KÖnnen SIe mir das UPdate KURZ SCHiCKen?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "I will send the invoice today.",
+      "german": "Ich schicke die Rechnung heute noch raus.",
+      "transliteration": "ICH SHiCke die REchung HEUte noch raus",
+      "category": "Work & Office",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "I’ve earned the right to be confident",
+      "german": "Ich habe es verdient, selbstbewusst aufzutreten.",
+      "transliteration": "ich HAbe es verDIENT, SELBSTbewusst AUfzuTREten",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "My pace is good, I trust it",
+      "german": "Mein Tempo ist gut, ich vertraue mir.",
+      "transliteration": "MEIN TEMpo ist GUT, ich verTRAUE mir",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "I can start messy and still succeed",
+      "german": "Ich darf unperfekt anfangen, und es klappt trotzdem.",
+      "transliteration": "ich DARF unPERfekt ANfan gen, und es KLAPPT TROTZdem",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "I set boundaries, and I’m okay",
+      "german": "Ich ziehe Grenzen, und das fühlt sich richtig an.",
+      "transliteration": "ich zieHE GRENzen, und das FÜHLT sich RICHtig an",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "No one gets to shrink me",
+      "german": "Niemand darf mich kleinmachen.",
+      "transliteration": "NIemand darf mich KLEINmachen",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "I belong at the table, fully",
+      "german": "Ich bin am Tisch willkommen, ganz und gar.",
+      "transliteration": "ich bin AM TISCH WILLkommen, ganz UND gar",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T16:14:59.283000"
+    },
+    {
+      "english": "I can handle questions, even awkward ones",
+      "german": "Frag mich ruhig, ich halte die Antworten aus.",
+      "transliteration": "FRAG mich RUHig, ich HALte die ANtWORten aus",
+      "category": "Confidence",
+      "generated_at": "2026-11-17T16:14:59.283000"
     }
   ],
-  "last_updated": "2026-11-16T16:02:43.060226"
+  "last_updated": "2026-11-17T16:14:59.283000"
 }
