@@ -28281,7 +28281,399 @@
       "transliteration": "du BIST da, AUCH wenn es CHAotisch ist",
       "category": "Friendship",
       "generated_at": "2026-11-18T15:50:56.337534"
+    },
+    {
+      "english": "Do you sell organic eggs here?",
+      "german": "Verkaufen Sie hier Bio-Eier?",
+      "transliteration": "Ver-kau-fen Sie hier BIO Ei-er?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "How much for two bottles?",
+      "german": "Wie viel kosten zwei Flaschen?",
+      "transliteration": "Wie vIL kos-ten zwei FLASCH-en?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "Is there a loyalty card?",
+      "german": "Gibt es hier eine Kundenkarte?",
+      "transliteration": "Gibt es hier ei-ne Kun-den-kar-te?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "Can I get it without plastic?",
+      "german": "Kann ich das ohne Plastik bekommen?",
+      "transliteration": "Kann ich das OH-ne Plas-tik be-kom-men?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "Do you offer refill packs?",
+      "german": "Haben Sie Nachfüllpackungen für das?",
+      "transliteration": "HA-ben Sie Nach-füll-PACK-un-gen für das?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "Is this price for one item?",
+      "german": "Gilt dieser Preis für ein einzelnes Stück?",
+      "transliteration": "GILt die-ser PREIS für ein EINZ-el-nes Stück?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "What’s the cheapest option today?",
+      "german": "Was ist heute die günstigste Option?",
+      "transliteration": "Was ist heu-te die GÜNSTigs-te Op-tion?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "Pause, then choose your next step.",
+      "german": "Mach kurz Pause, dann wähl deinen nächsten Schritt.",
+      "transliteration": "Mach KURZ Pause, dann wähl deinen NÄCHSTEN Schritt.",
+      "category": "Balance",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "Balance your day with gentle boundaries.",
+      "german": "Setz dir sanfte Grenzen, damit der Tag im Gleichgewicht bleibt.",
+      "transliteration": "SEtz dir SANfte GRENzen, daMIT der TAG im GLEICHgewicht bleibt.",
+      "category": "Balance",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "Rest your eyes, not just your body.",
+      "german": "Entspann deine Augen, nicht nur deinen Körper.",
+      "transliteration": "EntSPANN deine AUgen, nicht nur deiNEN KÖRper.",
+      "category": "Balance",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "Let your shoulders drop, breathe slower.",
+      "german": "Lass die Schultern fallen, atme etwas langsamer.",
+      "transliteration": "LASS die SCHULtern falLEN, atME EIn bisschen LANGsamer.",
+      "category": "Balance",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "Do one thing, then unclench.",
+      "german": "Mach eine Sache, dann lass los.",
+      "transliteration": "Mach eiNE SAche, dann LASS los.",
+      "category": "Balance",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "Switch tasks, keep your focus kind.",
+      "german": "Wechsel die Aufgabe, aber behalt deinen Fokus freundlich.",
+      "transliteration": "WECHsLE die AUfgabe, aber BEHalt deiNEN FOkus FREundlich.",
+      "category": "Balance",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "Warm up slowly, speed comes later.",
+      "german": "Wärme dich langsam auf, die Geschwindigkeit kommt später.",
+      "transliteration": "WÄRme dich LANGsam auf, die GESCHwinDIGkeit KOMmt später.",
+      "category": "Balance",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "Can I take you out tonight?",
+      "german": "Kann ich dich heute Abend ausführen?",
+      "transliteration": "Kann iCH dich heuTe ABenD ausFÜHren?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "I like your vibe, it feels easy.",
+      "german": "Ich mag deine Ausstrahlung, sie fühlt sich leicht an.",
+      "transliteration": "ich mag deiNe AUSstrahLUNG, sie FÜHLT sich LEICHt an.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "Would you like to go dancing?",
+      "german": "Hättest du Lust, mit mir zu tanzen?",
+      "transliteration": "HÄTtest du LUST, mit MIR zu TANzen?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "Let me plan a cute date.",
+      "german": "Lass mich ein schönes Date planen.",
+      "transliteration": "lass mich ein SCHÖnes DAte plaNIEN.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "Your laugh is seriously addictive.",
+      "german": "Dein Lachen ist wirklich ansteckend.",
+      "transliteration": "DEIN laCHen ist wirklich ANsteCKend.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "I’d love to see you again soon.",
+      "german": "Ich würde dich gern bald wiedersehen.",
+      "transliteration": "ich WÜRde dich gern bald wieDerSEHEN.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "Do you want to grab dessert later?",
+      "german": "Möchtest du später noch etwas Süßes holen?",
+      "transliteration": "mÖchtest du SPÄter noch eTwas sÜSSes hoLEN?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "Can we sit by the window?",
+      "german": "Können wir am Fenster sitzen?",
+      "transliteration": "Können wir am FENSTER SITZEN?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "Is tap water available?",
+      "german": "Gibt es Leitungswasser?",
+      "transliteration": "GIBT es LEITUNGSWASSER?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "A sparkling water, please.",
+      "german": "Eine Wasser mit Kohlensäure, bitte.",
+      "transliteration": "EiNE WASSER MIT KOH-LEN-SÄU-RE, BITTE",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "What time does the kitchen close?",
+      "german": "Wann schließt die Küche?",
+      "transliteration": "WANN SCHLIESST die KÜCHE?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "Do you have gluten-free options?",
+      "german": "Haben Sie glutenfreie Gerichte?",
+      "transliteration": "HABEN Sie GLUTENFREIE GERICHTE?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "I would like to order now.",
+      "german": "Ich möchte jetzt bestellen.",
+      "transliteration": "ich MÖCHTE jetzt BESTELLEN.",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "Could I get the kids menu?",
+      "german": "Gibt es eine Kinderkarte?",
+      "transliteration": "GIBT es eiNE KIN-DER-KAR-TE?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "I feel stressed about the deadline.",
+      "german": "Ich bin wegen der Deadline gestresst.",
+      "transliteration": "ikh bin vegen der DEHdLAIN gestresst",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "I get embarrassed so easily.",
+      "german": "Ich werde schnell verlegen.",
+      "transliteration": "ikh VERde SCHNEL verLEgen",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "I’m overwhelmed by all these emails.",
+      "german": "Ich bin von all den E-Mails überwältigt.",
+      "transliteration": "ikh bin fon all den EH-Mails überWÄLTigt",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "I feel lonely even when I’m surrounded.",
+      "german": "Ich fühle mich einsam, obwohl ich umgeben bin.",
+      "transliteration": "ikh FÜhle mich EINsam, OHne ich umGEBen bin",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "I’m homesick for my old routine.",
+      "german": "Ich bin Heimweh nach meinem alten Alltag.",
+      "transliteration": "ikh bin HEIMveh nach MEINem ALten ALltag",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "I’m grateful for your quick help.",
+      "german": "Ich bin dir dankbar für deine schnelle Hilfe.",
+      "transliteration": "ikh bin dir DANKbar für DEINE SCHNELe HIilfe",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "I feel motivated after that talk.",
+      "german": "Ich bin nach dem Gespräch voller Motivation.",
+      "transliteration": "ikh bin NACH dem GESpräch FOLler MOtiVAtsion",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "Let’s reserve seats for the show",
+      "german": "Lass uns Plätze für die Show reservieren.",
+      "transliteration": "LAS uns PLÄTZE für die SHOW re-ser-VIE-ren.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "I’ll confirm the booking tomorrow morning",
+      "german": "Ich bestätige die Buchung morgen früh.",
+      "transliteration": "ich be-SCHÄTIG-e die BU-chung MOR-gen FRÜH.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "What day works best for you?",
+      "german": "Welcher Tag passt dir am besten?",
+      "transliteration": "WE L cher TAG PAST dir AM BES-ten?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "We should plan a backup in case",
+      "german": "Wir brauchen einen Plan B, falls es regnet.",
+      "transliteration": "wir BRAU-chen ei-nen PLAN BE, falls es re-gnet.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "I’ll ask for the meeting room",
+      "german": "Ich frage nach dem Besprechungsraum.",
+      "transliteration": "ich FRA-ge NACH dem BE-spRE-chungs-raUM.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "Let’s meet at the station entrance",
+      "german": "Lass uns am Eingang vom Bahnhof treffen.",
+      "transliteration": "LAS uns AM EIN-gang vom BAHN-hof TREF-fen.",
+      "category": "Making Plans",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "Can we start with a quick call?",
+      "german": "Können wir kurz telefonieren, bevor wir uns treffen?",
+      "transliteration": "KÖN-nen wir KURZ te-le-FONIE-ren, be-VOR wir uns TREF-fen?",
+      "category": "Making Plans",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "Hope, even when plans fall apart.",
+      "german": "Hoffnung, auch wenn die Pläne zerbrechen.",
+      "transliteration": "Hoffnung, auch wenn die PLAENE zerbrechen.",
+      "category": "Hope",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "I text first, then I hope.",
+      "german": "Ich schreibe zuerst, dann hoffe ich.",
+      "transliteration": "Ich SCHREIBE zuerst, dann HOFFE ich.",
+      "category": "Hope",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "Today I choose calm and hope.",
+      "german": "Heute wähle ich Ruhe und Hoffnung.",
+      "transliteration": "HEUTE waehle ich RUHE und HOFFNUNG.",
+      "category": "Hope",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "One call can change everything.",
+      "german": "Ein Anruf kann alles verändern, mit Hoffnung.",
+      "transliteration": "Ein ANruf KANN alles VERaendern, mit HOFFNUNG.",
+      "category": "Hope",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "I’m okay. I still have hope.",
+      "german": "Ich bin okay, ich habe trotzdem Hoffnung.",
+      "transliteration": "Ich BIN okay, ich habe TROTZdem HOFFNUNG.",
+      "category": "Hope",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "Keep hope in your pocket.",
+      "german": "Trag dir Hoffnung in der Tasche.",
+      "transliteration": "TRAG dir HOFFNUNG in der TASCHE.",
+      "category": "Hope",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "Hope sounds like a safe yes.",
+      "german": "Hoffnung klingt wie ein sicheres Ja.",
+      "transliteration": "Hoffnung KLINGT wie ein SICHeres JA.",
+      "category": "Hope",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "Where can I warm up?",
+      "german": "Wo kann ich mich aufwärmen?",
+      "transliteration": "WO kann ich mich AUF-wärm-en?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "Do you have a beginner class?",
+      "german": "Gibt es bei euch einen Kurs für Anfänger?",
+      "transliteration": "GIBT es bei EUCH ei-nen KURS für AN-FÄN-ger?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "Is this machine adjustable?",
+      "german": "Kann man diese Maschine einstellen?",
+      "transliteration": "KANN man DIE-se MA-SCHI-ne ein-STELL-en?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "How do I set the weight?",
+      "german": "Wie stelle ich das Gewicht ein?",
+      "transliteration": "WIE stel-le ich das GE-WICHT ein?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "Can I book a massage session?",
+      "german": "Kann ich eine Massage-Sitzung buchen?",
+      "transliteration": "KANN ich ei-ne MAS-sage-SIT-zung BU-chen?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "Do you sell protein shakes here?",
+      "german": "Verkauft ihr Proteinshakes hier im Laden?",
+      "transliteration": "VER-KAUFT ihr PRO-tein-shakes hier im LA-den?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "What’s the best cardio for fat loss?",
+      "german": "Was ist am besten für Fettabbau im Cardio?",
+      "transliteration": "WAS ist am BES-ten für FAT-ab-bau im CAR-dio?",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-19T15:56:16.468570"
     }
   ],
-  "last_updated": "2026-11-18T15:50:56.337534"
+  "last_updated": "2026-11-19T15:56:16.468570"
 }

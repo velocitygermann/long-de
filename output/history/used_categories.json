@@ -359,7 +359,39 @@
     {
       "category": "Friendship",
       "date": "2026-11-18"
+    },
+    {
+      "category": "Shopping & Prices",
+      "date": "2026-11-19"
+    },
+    {
+      "category": "Balance",
+      "date": "2026-11-19"
+    },
+    {
+      "category": "Dating & Romance",
+      "date": "2026-11-19"
+    },
+    {
+      "category": "Ordering Food & Dining",
+      "date": "2026-11-19"
+    },
+    {
+      "category": "Feelings & Emotions",
+      "date": "2026-11-19"
+    },
+    {
+      "category": "Making Plans",
+      "date": "2026-11-19"
+    },
+    {
+      "category": "Hope",
+      "date": "2026-11-19"
+    },
+    {
+      "category": "Sports & Fitness",
+      "date": "2026-11-19"
     }
   ],
-  "last_updated": "2026-11-18T15:50:56.360879"
+  "last_updated": "2026-11-19T15:56:16.493262"
 }
