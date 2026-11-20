@@ -28673,7 +28673,399 @@
       "transliteration": "WAS ist am BES-ten für FAT-ab-bau im CAR-dio?",
       "category": "Sports & Fitness",
       "generated_at": "2026-11-19T15:56:16.468570"
+    },
+    {
+      "english": "Can I get a small latte?",
+      "german": "Kann ich bitte einen kleinen Latte haben?",
+      "transliteration": "Kann ich bitte eiNEN kleiNEN LAT-te haben?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "Do you have a gluten-free pastry?",
+      "german": "Haben Sie eine glutenfreie Leckerei?",
+      "transliteration": "HA-ben Sie eiNE glu-ten-freie LEK-rei?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "What’s your fresh bread special today?",
+      "german": "Welches Brot ist heute am frischesten?",
+      "transliteration": "VEL-ches Brot ist heu-te am FRISCH-es-ten?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "Is there vegan cake on display?",
+      "german": "Gibt es bei Ihnen veganen Kuchen?",
+      "transliteration": "GIBT es bei IHN-en VEE-ganen KU-chen?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "Do you have any breakfast sandwiches?",
+      "german": "Haben Sie Frühstückssandwiches?",
+      "transliteration": "HA-ben Sie Fruh-stucks-SAND-wi-ches?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "Can I get hot chocolate to go?",
+      "german": "Kann ich heiße Schokolade zum Mitnehmen haben?",
+      "transliteration": "Kann ich HEIS-se SHo-ko-LA-de zum MIT-neh-men haben?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "Do you make oat milk chai?",
+      "german": "Machen Sie Chai mit Hafermilch?",
+      "transliteration": "MA-chen Sie CHAI mit HAF-er-milch?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "I’ll speak to myself with warmth.",
+      "german": "Ich spreche mit mir selbst liebevoll.",
+      "transliteration": "ikh SPRECHE mit MIR selbst LIEBEVOLL",
+      "category": "Positive Life",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "Today, I choose what feels right.",
+      "german": "Heute wähle ich das, was sich gut anfühlt.",
+      "transliteration": "HOY-te WÄH-le ich das, VAS sich GOOT anfühlt",
+      "category": "Positive Life",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "My body deserves gentle care.",
+      "german": "Mein Körper verdient sanfte Fürsorge.",
+      "transliteration": "MEIN KÖR-per verDIENT SAAF-te FÜR-sor-geh",
+      "category": "Positive Life",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "I take a real rest break.",
+      "german": "Ich gönne mir eine echte Pause.",
+      "transliteration": "ikh GÖN-ne MIR Ei-ne ECH-te PAU-ze",
+      "category": "Positive Life",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "Gratitude shows up in small acts.",
+      "german": "Dankbarkeit zeigt sich in kleinen Taten.",
+      "transliteration": "dank-bar-KITE zeigt sich in KLEi-nen TAA-ten",
+      "category": "Positive Life",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "I set boundaries, without guilt.",
+      "german": "Ich setze Grenzen, ohne Schuldgefühle.",
+      "transliteration": "ikh SET-tsə GREN-tsen, OH-ne SHULT-gə-fülə",
+      "category": "Positive Life",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "I move from worry to action.",
+      "german": "Ich bringe meine Sorgen in Bewegung.",
+      "transliteration": "ikh BRING-e MEi-ne SOR-gen in BE-we-gung",
+      "category": "Positive Life",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "Tonight, I’ll reflect and adjust.",
+      "german": "Heute Abend reflektiere ich, dann passe ich an.",
+      "transliteration": "HeUTE ABenD reFLEK-Tie-re ich, dann PAS-se ich AN.",
+      "category": "Success",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "Momentum beats motivation, I move now.",
+      "german": "Schwung schlägt Motivation, ich mache jetzt los.",
+      "transliteration": "SCHWUNG schlägt mo-TiVA-TiON, ich maCHE JEZT los.",
+      "category": "Success",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "I protect focus like it matters.",
+      "german": "Ich schütze meine Konzentration, sie zählt.",
+      "transliteration": "ich SHÜT-ze MEI-ne KON-ZEN-tra-tion, sie ZÄHLT.",
+      "category": "Success",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "I say no, and I win.",
+      "german": "Ich sage Nein, und das bringt Erfolg.",
+      "transliteration": "ich SA-ge NEIN, und das BRINGT ER-folg.",
+      "category": "Success",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "I do it imperfectly, then grow.",
+      "german": "Ich mache es unperfekt, aber ich fange an.",
+      "transliteration": "ich MA-che es un-per-FEKT, aBER ich FAN-ge an.",
+      "category": "Success",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "My calendar helps me keep promises.",
+      "german": "Mein Kalender hilft mir, meine Versprechen einzuhalten.",
+      "transliteration": "mein KA-len-der HILFT mir, MEI-ne FER-SPRE-chen ein-ZU-hal-TEN.",
+      "category": "Success",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "I ask what’s the next step.",
+      "german": "Ich frage mich, was der nächste Schritt ist.",
+      "transliteration": "ich FRA-ge mich, WAS der NÄCH-ste SCHRITT ist.",
+      "category": "Success",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "Why am I doing this, today?",
+      "german": "Wozu mache ich das heute?",
+      "transliteration": "WOZU mache ich das HEUTE?",
+      "category": "Purpose",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "What result am I aiming for?",
+      "german": "Welches Ergebnis will ich erreichen?",
+      "transliteration": "WELCHES ERGEBNIS will ich ERREICHEN?",
+      "category": "Purpose",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "What change do I want to create?",
+      "german": "Welche Veränderung will ich bewirken?",
+      "transliteration": "WELCHE VERÄNDERUNG will ich BEWIRKEN?",
+      "category": "Purpose",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "What’s my reason, beyond comfort?",
+      "german": "Was ist mein Grund, jenseits des Komforts?",
+      "transliteration": "WAS ist mein GRUND, JENSEITS des KOMFORTS?",
+      "category": "Purpose",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "How will this help someone else?",
+      "german": "Wie hilft das jemandem wirklich weiter?",
+      "transliteration": "WIE HILFT das JEMANDEM WIRKLICH weiter?",
+      "category": "Purpose",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "Where does my effort matter most?",
+      "german": "Wo zählt meine Anstrengung am meisten?",
+      "transliteration": "WO ZÄHLT meine ANSTRENGUNG am MEISTEN?",
+      "category": "Purpose",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "What do I want to stand for?",
+      "german": "Wofür will ich stehen?",
+      "transliteration": "WOfür will ich STEHEN?",
+      "category": "Purpose",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "Is there a luggage room for now?",
+      "german": "Gibt es einen Gepäckraum für später?",
+      "transliteration": "Gibt es einen GEpäckraum für SPÄter?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "Do you have towels for the pool?",
+      "german": "Gibt es Handtücher für den Pool?",
+      "transliteration": "Gibt es HANDtücher für den POOL?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "Can I get a late checkout today?",
+      "german": "Kann ich heute länger auschecken?",
+      "transliteration": "Kann ich HEUTE länGER AUSchecken?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "Is there an elevator in the building?",
+      "german": "Gibt es einen Aufzug im Haus?",
+      "transliteration": "Gibt es eiNEN AUFzug im HAUS?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "I’d like a room with a bathtub.",
+      "german": "Ich hätte gern ein Zimmer mit Badewanne.",
+      "transliteration": "Ich HÄTTE gern ein ZIMmer MIT BAdew ANne.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "Do you offer airport shuttle, please?",
+      "german": "Bieten Sie einen Flughafentransfer an?",
+      "transliteration": "BIEten Sie eiNen FLUGHafentransFER an?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "How does parking work here, exactly?",
+      "german": "Wie funktioniert das Parken hier genau?",
+      "transliteration": "Wie FUNKtioniert das PARKen hier GENAU?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "I m kinda on the fence right now.",
+      "german": "Ich bin grad ein bisschen hin- und hergerissen.",
+      "transliteration": "ikh bin grad EIn bisschen HIN und herGErissen",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "I m not totally convinced, though.",
+      "german": "Ich bin da nicht ganz überzeugt, ehrlich gesagt.",
+      "transliteration": "ikh bin da nicht ganz uBERzeugt, ehRlich gesagt",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "Let me play it cool for now.",
+      "german": "Ich geb erstmal nicht so viel preis.",
+      "transliteration": "ikh GEB erstMAL nicht so VIEL preis",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "I m keeping it low-key today.",
+      "german": "Ich mach heute einfach bisschen low-key.",
+      "transliteration": "ikh MACH heuTE einFACH bissCHEN low-KEY",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "Real talk, this feels off to me.",
+      "german": "Ganz ehrlich, das fühlt sich für mich komisch an.",
+      "transliteration": "GANZ ehrLICH, das FEHLt sich für mich KOMisch an",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "You re overthinking it, trust me.",
+      "german": "Du denkst zu viel nach, glaub mir.",
+      "transliteration": "du DENKST zu VIEL nach, glaub MIR",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "That s actually my vibe, though.",
+      "german": "Das ist irgendwie genau meine VIBe.",
+      "transliteration": "das ist irGENdwie geNAU meiNE VIbe",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "Thanks for being in my corner",
+      "german": "Danke, dass du an meiner Seite bist.",
+      "transliteration": "Danke, dass DU an meiner SEITE bist.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "I feel grateful for your follow-up",
+      "german": "Ich danke dir für deine Rückmeldung.",
+      "transliteration": "ICH DANKE dir für DEINE RückMELDUNG.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "Thank you for the quick check-in",
+      "german": "Danke für dein kurzes Nachfragen, das hilft mir.",
+      "transliteration": "Danke für DEIN kurzes NACHFRAGEN, das HILFT mir.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "Thanks for keeping it real with me",
+      "german": "Danke, dass du es offen ansprichst.",
+      "transliteration": "Danke, dass DU es OFfen ANsprichst.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "Thank you for lifting my spirits",
+      "german": "Danke, dass du meine Stimmung spürbar hebst.",
+      "transliteration": "Danke, dass DU meine STIMMung SPÜRBAR hebst.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "I’m thankful for your steady presence",
+      "german": "Ich bin dir dankbar für deine verlässliche Nähe.",
+      "transliteration": "ICH bin DIR dankbar für DEINE verLÄSSliche NÄHE.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "Thanks for listening, without rushing me",
+      "german": "Danke, dass du mir zuhört, ohne mich zu hetzen.",
+      "transliteration": "Danke, dass DU mir ZUhörst, OHne mich zu HETzen.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "Choose courage, even with fear nearby",
+      "german": "Wähle Mut, auch wenn Angst da ist.",
+      "transliteration": "WÄH-le MUT, AUCH wenn ANGST da ist.",
+      "category": "Strength",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "Say no, and mean it",
+      "german": "Sag Nein, und steh dazu.",
+      "transliteration": "SAG NEIN, und STEH DAZU.",
+      "category": "Strength",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "Do it scared, then breathe",
+      "german": "Mach es, auch wenn es dich ängstigt.",
+      "transliteration": "MACH es, AUCH wenn es DICH ÄNGstigt.",
+      "category": "Strength",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "Let rest be part of strength",
+      "german": "Ruhe ist auch Stärke, nicht nur Pause.",
+      "transliteration": "RU-he ist AUCH STÄR-ke, nicht NUR PAU-se.",
+      "category": "Strength",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "Hold steady when plans change",
+      "german": "Bleib stabil, wenn sich Pläne ändern.",
+      "transliteration": "BLEIB sta-BIL, wenn sich PLÄ-ne ÄNDern.",
+      "category": "Strength",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "Take action, not just thoughts",
+      "german": "Stärke zeigt sich in deinem Handeln.",
+      "transliteration": "STÄR-ke zeigt sich IN dei-nem HAN-deln.",
+      "category": "Strength",
+      "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "Protect your time like it matters",
+      "german": "Schütze deine Zeit, sie ist wertvoll.",
+      "transliteration": "SCHÜT-ze dei-ne ZEIT, sie IST WERT-voll.",
+      "category": "Strength",
+      "generated_at": "2026-11-20T15:41:04.508845"
     }
   ],
-  "last_updated": "2026-11-19T15:56:16.468570"
+  "last_updated": "2026-11-20T15:41:04.508845"
 }
