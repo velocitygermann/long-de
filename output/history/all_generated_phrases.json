@@ -29065,7 +29065,399 @@
       "transliteration": "SCHÜT-ze dei-ne ZEIT, sie IST WERT-voll.",
       "category": "Strength",
       "generated_at": "2026-11-20T15:41:04.508845"
+    },
+    {
+      "english": "Is this line going to the airport?",
+      "german": "Fährt diese Linie zum Flughafen?",
+      "transliteration": "FÄHRT diese LINIE zum FLUGHAFEN?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "Which platform is it for my train?",
+      "german": "Auf welchem Gleis fährt mein Zug ab?",
+      "transliteration": "AUF welchem GLEIS fährt mein ZUG ab?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "Do I tap in, or just validate?",
+      "german": "Muss ich einchecken oder nur entwerten?",
+      "transliteration": "MUSS ich EINchecken oder NUR entWERten?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "How often does this bus run today?",
+      "german": "Wie oft fährt dieser Bus heute?",
+      "transliteration": "Wie OFT fährt DIEser BUS HEUTE?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "Where can I get a timetable printed?",
+      "german": "Wo bekomme ich einen Fahrplan zum Mitnehmen?",
+      "transliteration": "WO bekomme ich einen FAHRplan zum MITnehmen?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "Is there a night bus after midnight?",
+      "german": "Gibt es nach Mitternacht noch einen Nachtbus?",
+      "transliteration": "GIBT es nach MITternacht noch einen NACHTbus?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "Does this tram have wheelchair access?",
+      "german": "Hat diese Straßenbahn eine Rampe für Rollstühle?",
+      "transliteration": "HAT diese STRAßenbahn eine RAMpe für ROLLstühle?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "Excuse me, which street is this?",
+      "german": "Entschuldigen Sie, welche Straße ist das?",
+      "transliteration": "EntSCHUldiGEN Sie, WELche STRAße ist das?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "Can you point me to that road?",
+      "german": "Können Sie mir den Weg zu der Straße zeigen?",
+      "transliteration": "KÖnnen Sie mir den WEG zu der STRAße ZEIGen?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "How far is the station from here?",
+      "german": "Wie weit ist der Bahnhof von hier entfernt?",
+      "transliteration": "Wie WEIT ist der BAHNHOF von HIER entFERNT?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "Is it better to walk or take a tram?",
+      "german": "Ist es besser, zu Fuß zu gehen oder eine Straßenbahn zu nehmen?",
+      "transliteration": "Ist es BESser, zu FUSS zu GEhen oder eiNE Straßenbahn zu NEHmen?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "I’m heading to the river, sorry.",
+      "german": "Ich möchte zum Fluss, entschuldigen Sie.",
+      "transliteration": "ICH MÖCHte zum FLUSS, entSCHUldiGEN Sie.",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "What’s the best way to avoid traffic?",
+      "german": "Wie komme ich am besten ohne Stau dorthin?",
+      "transliteration": "Wie KOMme ich am BESten ohne STAU dortHIN?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "Where do I change to bus number 12?",
+      "german": "Wo muss ich in den Bus Nummer zwölf umsteigen?",
+      "transliteration": "WO MUSS ich in den BUs NUMmer zwölf umSTEIGen?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "I tried calling, no answer",
+      "german": "Ich habe angerufen, niemand geht ran.",
+      "transliteration": "Ih habe ang-erufen, nieman geht ran.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "Can you call me back now?",
+      "german": "Kannst du mich jetzt zurückrufen?",
+      "transliteration": "Kannst du mich jetzt zurückrufen?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "Please text me when you arrive",
+      "german": "Schreib mir bitte, wenn du ankommst.",
+      "transliteration": "Schreib mir bitte, wenn du ankommst.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "I will call you in ten minutes",
+      "german": "Ich rufe dich in zehn Minuten an.",
+      "transliteration": "Ich rufe dich in zehn Minu-ten an.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "Do you prefer phone or WhatsApp?",
+      "german": "Bevorzugst du Telefon oder WhatsApp?",
+      "transliteration": "Bevorzugst du Te-le-fon oder WhatsApp?",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "I sent a message, please confirm",
+      "german": "Ich habe dir geschrieben, bitte bestätige kurz.",
+      "transliteration": "Ich habe dir ge-schrie-ben, bitte bestätige kurz.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "I need that number for tomorrow",
+      "german": "Ich brauche diese Nummer für morgen.",
+      "transliteration": "Ich brauche diese Nu-mmer für morgen.",
+      "category": "Phone Calls & Messages",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "I notice my thoughts, not obey them",
+      "german": "Ich bemerke meine Gedanken, ohne ihnen zu folgen.",
+      "transliteration": "ik BEMER-ke MEI-ne GE-dan-ken, ohne ih-nen zu FOL-gen",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "Let your shoulders drop, just now",
+      "german": "Lass deine Schultern jetzt sinken.",
+      "transliteration": "lass DEINE SCHUL-tern jetzt SIN-ken",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "I watch the breath without forcing",
+      "german": "Ich beobachte den Atem, ganz ohne Druck.",
+      "transliteration": "ik BE-OB-ach-te den A-tem, ganz OH-ne DROCK",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "Pause, and feel your heartbeat",
+      "german": "Mach kurz Pause, und spüre deinen Herzschlag.",
+      "transliteration": "mAch kurz PAU-se, und SPÜR dei-nen HERZ-schlag",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "Notice warmth at the tips of fingers",
+      "german": "Spüre Wärme in den Fingerspitzen.",
+      "transliteration": "SPÜ-re WAR-mE in den fin-ger-spit-zen",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "Zoom out, wider than this moment",
+      "german": "Ich weite den Blick, über diesen Moment hinaus.",
+      "transliteration": "ik WEI-te den BLICK, über diE-sen MO-ment hiNAUS",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "Kind to myself, even during mistakes",
+      "german": "Sei freundlich zu dir, auch wenn du stolperst.",
+      "transliteration": "sei FREUND-lich zu dir, AUCH wenn du STOL-pert",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "Today is practice, not proof.",
+      "german": "Heute übe ich, nicht beweise ich.",
+      "transliteration": "HEUTE übe ich, nicht BEWEISE ich.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "One breath, then one more try.",
+      "german": "Ein Atemzug, dann noch ein Versuch.",
+      "transliteration": "Ein AtemZUG, dann NOCH ein VERsuch.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "I train consistency, even slowly.",
+      "german": "Ich trainiere Beständigkeit, auch wenn es langsam ist.",
+      "transliteration": "Ich TRAIniere BEstänDIGkeit, AUCH wenn es LANGsam ist.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "I choose effort over excuses.",
+      "german": "Ich entscheide mich für Anstrengung statt Ausreden.",
+      "transliteration": "Ich entSCHEIDE mich für ANstrenGUNG statt AUSreden.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "Small steps still count, fully.",
+      "german": "Kleine Schritte zählen trotzdem, ganz ehrlich.",
+      "transliteration": "KLEIne SCHRITte ZÄhLEN trotzdem, ganz ERlich.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "I keep my promises to myself.",
+      "german": "Ich halte meine Versprechen an mich selbst.",
+      "transliteration": "Ich HALTE meine VERspreCHen an mich SELBST.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "When it hurts, I persist.",
+      "german": "Wenn es weh tut, bleibe ich dran.",
+      "transliteration": "Wenn es WEH tut, BLEIbe ich DRAN.",
+      "category": "Perseverance",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "Call now, it might be urgent.",
+      "german": "Rufen Sie jetzt an, es könnte dringend sein.",
+      "transliteration": "Rufen Sie JETZT an, es KÖNNTE DRINGEND sein.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "Have you taken your medicine today?",
+      "german": "Haben Sie Ihre Medikamente heute genommen?",
+      "transliteration": "HABEN Sie Ihre MEDIkaMENte HEUTE geNOMMEN?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "I can help you get comfortable.",
+      "german": "Ich helfe Ihnen, sich bequem hinzusetzen.",
+      "transliteration": "ICH helfe IHNEN, sich BEquem hinZUsetzen.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "Should I stay with you?",
+      "german": "Soll ich bei Ihnen bleiben?",
+      "transliteration": "SOLL ich bei IHNEN BLEIBEN?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "Can you drink small sips of water?",
+      "german": "Können Sie kleine Schlucke Wasser trinken?",
+      "transliteration": "KÖNNEN Sie KLEINE SCHLUCKE WASSER TRINKEN?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "Keep still, your wound needs pressure.",
+      "german": "Bleiben Sie ruhig, Ihr Verband braucht Druck.",
+      "transliteration": "BLEIben Sie RUHIG, Ihr VERband BRAUCHT DRUCK.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "Is your breathing getting worse?",
+      "german": "Wird Ihre Atmung gerade schlimmer?",
+      "transliteration": "WIRD Ihre ATMUNG GErade SCHLIMMER?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "I’m getting stronger, bit by bit.",
+      "german": "Ich werde stärker, Schritt für Schritt.",
+      "transliteration": "IK werde STÄRK-er, SCHRITT für SCHRITT.",
+      "category": "Growth",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "Today I choose steady progress.",
+      "german": "Heute wähle ich stetiges Wachstum.",
+      "transliteration": "HOU-tay WÄH-le ich STÄ-tiGES WACHSTUM.",
+      "category": "Growth",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "I water my goals with action.",
+      "german": "Ich gieße meine Ziele mit Taten.",
+      "transliteration": "IK gieße MEI-ne ZIE-le mit TA-ten.",
+      "category": "Growth",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "Something inside me is expanding.",
+      "german": "Etwas in mir wächst nach und nach.",
+      "transliteration": "ETS-vas in mir WÄCHST nach un NACH.",
+      "category": "Growth",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "I learn fast from honest feedback.",
+      "german": "Ich lerne schnell aus ehrlichem Feedback.",
+      "transliteration": "IK LER-ne SCHNELL aus EHHR-li-chem FEED-bak.",
+      "category": "Growth",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "I invest in rest, too.",
+      "german": "Ich investiere auch in Erholung.",
+      "transliteration": "IK in-ves-TIE-re AUCH in eh-ROH-lung.",
+      "category": "Growth",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "I grow by trying a new approach.",
+      "german": "Ich wachse, indem ich einen neuen Ansatz teste.",
+      "transliteration": "IK WACH-se, IN-dem ich EI-nen NOY-en AN-satz tes-te.",
+      "category": "Growth",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "I choose one tiny win today.",
+      "german": "Ich entscheide mich für einen kleinen Sieg heute.",
+      "transliteration": "ik entscheide mich für EINen klei nen ZIEg HEute",
+      "category": "Motivation",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "Progress beats motivation, every time.",
+      "german": "Fortschritt schlägt Motivation, jedes Mal.",
+      "transliteration": "FORtschritt schlägt MOtiVAtsion, JEDes mal",
+      "category": "Motivation",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "I study because future me needs it.",
+      "german": "Ich lerne, weil mein zukünftiges Ich es braucht.",
+      "transliteration": "ik LERne, weil mein ZUKUNftsiges ich es BRAucht",
+      "category": "Motivation",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "I make it easy to start.",
+      "german": "Ich mache es leicht, anzufangen, ohne Stress.",
+      "transliteration": "ik MAche es leicht, anZUfan gen, OHne stress",
+      "category": "Motivation",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "When stuck, I switch to listening.",
+      "german": "Wenn ich feststecke, höre ich erst mal zu.",
+      "transliteration": "venn ik FESTstecke, HÖre ich ERST mal zu",
+      "category": "Motivation",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "I celebrate effort, not just results.",
+      "german": "Ich feiere die Mühe, nicht nur das Ergebnis.",
+      "transliteration": "ik FEEre die MÜhe, nicht nur das erGEBnis",
+      "category": "Motivation",
+      "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "My brain likes small steps, not pressure.",
+      "german": "Mein Kopf mag kleine Schritte, kein Druck.",
+      "transliteration": "mein kopf mag KLEine SCHRITte, kein drUCK",
+      "category": "Motivation",
+      "generated_at": "2026-11-21T14:48:47.660545"
     }
   ],
-  "last_updated": "2026-11-20T15:41:04.508845"
+  "last_updated": "2026-11-21T14:48:47.660545"
 }

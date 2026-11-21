@@ -423,7 +423,39 @@
     {
       "category": "Strength",
       "date": "2026-11-20"
+    },
+    {
+      "category": "Public Transportation",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Asking for Directions",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Phone Calls & Messages",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Mindfulness",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Perseverance",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Emergency & Health",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Growth",
+      "date": "2026-11-21"
+    },
+    {
+      "category": "Motivation",
+      "date": "2026-11-21"
     }
   ],
-  "last_updated": "2026-11-20T15:41:04.522856"
+  "last_updated": "2026-11-21T14:48:47.687173"
 }
