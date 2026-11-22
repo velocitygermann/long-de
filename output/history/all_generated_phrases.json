@@ -29457,7 +29457,399 @@
       "transliteration": "mein kopf mag KLEine SCHRITte, kein drUCK",
       "category": "Motivation",
       "generated_at": "2026-11-21T14:48:47.660545"
+    },
+    {
+      "english": "Is this done as a family thing?",
+      "german": "Passiert das als Familientradition?",
+      "transliteration": "PASSiert das als FAMIliENtradition?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "Do people dress up for this?",
+      "german": "Kleiden sich die Leute dafür besonders?",
+      "transliteration": "KleiDEN sich die LEUte daFÜR beSONders?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "What do you bring to share?",
+      "german": "Was bringt man hier zum Teilen mit?",
+      "transliteration": "Was bringt man HIER zum TEiLEN mit?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "When should I arrive, roughly?",
+      "german": "Wann soll ich ungefähr ankommen?",
+      "transliteration": "Wann SOLL ich unGEFÄHR ANkommen?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "Is there a special greeting beforehand?",
+      "german": "Gibt es vorher eine besondere Begrüßung?",
+      "transliteration": "GIBt es VORher eine BEsondere BEgrüßung?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "May I help, or should I just watch?",
+      "german": "Darf ich helfen, oder soll ich lieber nur zuschauen?",
+      "transliteration": "DARF ich HElfen, oDER soll ich lieBER nur ZUschauen?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "Do you tell stories during the ritual?",
+      "german": "Erzählt man dabei Geschichten?",
+      "transliteration": "ERZÄHLt man DAbei GESCHICHTen?",
+      "category": "Cultural Traditions",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "Choose kindness, even when it’s hard.",
+      "german": "Wähle Güte, auch wenn es schwerfällt.",
+      "transliteration": "WÄH-le GÜ-te, auch WENN es SCHWER-fällt.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "You don’t need answers, just breathing.",
+      "german": "Man muss nicht alles sofort wissen, atme einfach.",
+      "transliteration": "MAN MUSS nicht AL-les SO-fort WISS-en, AT-me ein-fach.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "Slow down, and notice what matters.",
+      "german": "Langsam werden, und sehen, was wirklich zählt.",
+      "transliteration": "LANG-sam WER-den, und SEH-en, was WIRK-lich ZÄHLT.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "Wait, before you speak from heat.",
+      "german": "Halt kurz inne, bevor du aus Ärger redest.",
+      "transliteration": "HALT kurz IN-ne, be-VOR du aus ÄR-ger re-dest.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "A boundary is love with edges.",
+      "german": "Eine Grenze ist Liebe mit klarer Kante.",
+      "transliteration": "EI-ne GREN-ze ist LIE-be mit KLAR-er KAN-te.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "Seek clarity, not constant reassurance.",
+      "german": "Such Klarheit, nicht ständig Bestätigung.",
+      "transliteration": "SUCH KLAR-heit, nicht STÄn-dig BES-TÄ-ti-gung.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "Gratitude turns storms into lessons.",
+      "german": "Dankbarkeit verwandelt Stürme in Lektionen.",
+      "transliteration": "DANK-bark-eit VER-wand-elt STÜR-me in LEK-ti-o-nen.",
+      "category": "Wisdom",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "Where can I put the laundry?",
+      "german": "Wo kann ich die Wäsche hinlegen?",
+      "transliteration": "vo KANN ich die WAeSCHE hinlegen",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "I’ll handle dishes, you relax.",
+      "german": "Ich übernehme das Abspülen, du kannst dich ausruhen.",
+      "transliteration": "ich ueBERnehme das abSPuELen, du KANNst dich AUSruhen",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "Can we talk after breakfast?",
+      "german": "Können wir nach dem Frühstück kurz reden?",
+      "transliteration": "koenNEN wir nach dem FRUEhstueck KURZ reDEN",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "Let’s share the chores today.",
+      "german": "Lass uns die Aufgaben heute teilen.",
+      "transliteration": "lass uns die AUfgaben HEUte TEILen",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "Thanks for cleaning up, really.",
+      "german": "Danke, dass du aufgeräumt hast, wirklich.",
+      "transliteration": "danKE, dass du AUFgeraeumt hast, WIRKlich",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "I’m home, doors are locked safe.",
+      "german": "Ich bin zu Hause, die Türen sind sicher verriegelt.",
+      "transliteration": "ich bin zu HAuse, die TUERen sind SICHer verRIEgelt",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "Do you want a warm tea?",
+      "german": "Möchtest du einen warmen Tee?",
+      "transliteration": "Moechtest du eiNen WAarmen Tee",
+      "category": "Family & Home",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "I stop fighting the moment.",
+      "german": "Ich höre auf, gegen den Moment zu kämpfen.",
+      "transliteration": "ich HÖRE auf, GEGEN den MOment zu KÄMPFen",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "Right now, I choose ease.",
+      "german": "Jetzt wähle ich Leichtigkeit.",
+      "transliteration": "JEZT VÄHle ich LEICHtigkeit",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "I loosen my grip, and breathe.",
+      "german": "Ich löse meinen Griff, und atme.",
+      "transliteration": "ich LÖSe meinen GRiFF, und ATme",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "My thoughts can pass through.",
+      "german": "Meine Gedanken dürfen vorbeiziehen.",
+      "transliteration": "MEINE GEdanken DÜRfen VORbeiZIEHen",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "I feel my feet, steady and here.",
+      "german": "Ich spüre meine Füße, ganz hier.",
+      "transliteration": "ich SPÜRe MEINE FÜße, GANZ hier",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "I let discomfort be temporary.",
+      "german": "Ich lasse Unbehagen vorübergehen.",
+      "transliteration": "ich LASse UNbeHAGEN VORüberGEhen",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "I can pause without fixing everything.",
+      "german": "Ich darf pausieren, ohne alles zu lösen.",
+      "transliteration": "ich DRAF PAUsiEren, OHne ALles zu LÖsen",
+      "category": "Inner Peace",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "Joy shows up in ordinary minutes",
+      "german": "Freude findet sich in ganz normalen Minuten.",
+      "transliteration": "FROY-de finde sich in ganz NOR-ma-len MI-nu-ten.",
+      "category": "Joy",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "I feel lighter after this chat",
+      "german": "Nach diesem Gespräch fühl ich mich leichter.",
+      "transliteration": "Nach die-sem GE-spräch fül ich mich LICH-ter.",
+      "category": "Joy",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "My heart sings when I listen",
+      "german": "Mein Herz singt, wenn ich zuhöre.",
+      "transliteration": "MAIN herts SHINGT, veNN ich tsu-HÖ-re.",
+      "category": "Joy",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "I’m smiling because it’s going right",
+      "german": "Ich lächle, weil gerade alles gut läuft.",
+      "transliteration": "IKH LÄCH-le, VÄ-il ge-ra-de AL-les gut l**AUFT**.",
+      "category": "Joy",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "This breeze feels like a gift",
+      "german": "Dieser Wind fühlt sich wie ein Geschenk an.",
+      "transliteration": "dich-er VINT fü**hlt** sich VAIN GES-chenk an.",
+      "category": "Joy",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "Good news just landed in my day",
+      "german": "Gute Nachrichten landen heute endlich bei mir.",
+      "transliteration": "GU-te NAH-rih-tən LAN-den HOY-te END-lich bei MIR.",
+      "category": "Joy",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "I love how the day feels now",
+      "german": "Ich mag, wie sich der Tag gerade anfühlt.",
+      "transliteration": "IKH mahg, VIE sich der TAG ge-ra-de AN-fühlt.",
+      "category": "Joy",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "German starts when I show up.",
+      "german": "Deutsch fängt an, wenn ich auftauche.",
+      "transliteration": "DOYCH fängt an, wenn ich AUF-tau-che.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "I borrow courage from tiny conversations.",
+      "german": "Ich leihe mir Mut aus kleinen Gesprächen.",
+      "transliteration": "ich LEE-he mir MOOT aus KLEI-nen GESPRAE-chen.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "Today I try one new phrase.",
+      "german": "Heute probiere ich einen neuen Satz.",
+      "transliteration": "HEU-te pro-bie-re ich ei-nen NOY-en SATS.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "I turn awkward moments into lessons.",
+      "german": "Ich mache aus peinlichen Momenten Lernstoff.",
+      "transliteration": "ich MA-che aus PEIN-li-chen MO-men-ten LERN-stoff.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "My inspiration comes from real life.",
+      "german": "Meine Inspiration kommt aus dem echten Leben.",
+      "transliteration": "MEI-ne in-spi-raTS-ON KOMMT aus dem EIch-ten LE-ben.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "I speak slowly, and that counts.",
+      "german": "Ich spreche langsam, und das zählt.",
+      "transliteration": "ich SHPree-che LANG-sam, un das tsahlt.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "I let good enough be enough.",
+      "german": "Ich lasse gut genug gut genug sein.",
+      "transliteration": "ich LAS-se gut GE-nug gut GE-nug zain.",
+      "category": "Inspiration",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "Hi, I’m happy we met.",
+      "german": "Hi, ich freue mich, dass wir uns kennen.",
+      "transliteration": "Hi, ich FREU mich, dass WIR uns KEN nen.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "What’s your name, and how do I greet you?",
+      "german": "Wie heißt du, und wie soll ich dich begrüßen?",
+      "transliteration": "Wie HEIßt du, und wie SOLL ich dich BE GRÜ ßen?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "Glad to meet you, let’s talk!",
+      "german": "Schön, dich kennenzulernen, lass uns reden.",
+      "transliteration": "Schön, dich KEN nen zu ler nen, LASS uns RE den.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "I love your energy, seriously.",
+      "german": "Deine Energie ist richtig ansteckend.",
+      "transliteration": "DEI ne E nergie ist RICH tig an STEC kend.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "Nice to see you again, honestly.",
+      "german": "Schön, dich wiederzusehen, wirklich.",
+      "transliteration": "Schön, dich wie der zu SE hen, WIRK lich.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "Do you prefer small talk or deeper talk?",
+      "german": "Magst du lieber Small Talk oder lieber tiefer reden?",
+      "transliteration": "MAGST du lie ber SMALL TALK oder lie ber TIE fer re den?",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "Thanks for making time to chat.",
+      "german": "Danke, dass du dir Zeit für ein Gespräch nimmst.",
+      "transliteration": "DANKE, dass du dir ZEIT für ein GE SPRÄCH nimmst.",
+      "category": "Meeting People & Greetings",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "That was thoughtful, thank you.",
+      "german": "Das war wirklich aufmerksam, danke dir.",
+      "transliteration": "Das war WIRKlich AUFmerksam, danKE dir.",
+      "category": "Kindness",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "I appreciate how you speak with care.",
+      "german": "Ich schätze, wie du mit Sorgfalt sprichst.",
+      "transliteration": "Ich SCHÄTze, wie du mit SORgfalt SPRICHST.",
+      "category": "Kindness",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "Let me finish, then I’ll respond.",
+      "german": "Lass mich bitte ausreden, dann antworte ich.",
+      "transliteration": "LASS mich BITte AUSreden, dann ANtWORTE ich.",
+      "category": "Kindness",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "I’ll be respectful, even when I disagree.",
+      "german": "Ich bleibe respektvoll, auch wenn ich widerspreche.",
+      "transliteration": "Ich BLEIBE REspektvoll, AUCH wenn ich WIDERspreche.",
+      "category": "Kindness",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "Thanks for giving me the benefit of doubt.",
+      "german": "Danke, dass du mir zugestehst, fair zu sein.",
+      "transliteration": "danKE, dass du mir ZUgeSTEhst, FAIR zu sein.",
+      "category": "Kindness",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "You’re allowed to change your mind.",
+      "german": "Du darfst deine Meinung ändern.",
+      "transliteration": "Du DARFST deine MEInung änDERN.",
+      "category": "Kindness",
+      "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "I’ll keep it constructive, not personal.",
+      "german": "Ich halte es konstruktiv, nicht persönlich.",
+      "transliteration": "Ich HALte es KONstruktiv, nicht perSÖNlich.",
+      "category": "Kindness",
+      "generated_at": "2026-11-22T14:46:05.513783"
     }
   ],
-  "last_updated": "2026-11-21T14:48:47.660545"
+  "last_updated": "2026-11-22T14:46:05.513783"
 }
