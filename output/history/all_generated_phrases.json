@@ -29849,7 +29849,399 @@
       "transliteration": "Ich HALte es KONstruktiv, nicht perSÖNlich.",
       "category": "Kindness",
       "generated_at": "2026-11-22T14:46:05.513783"
+    },
+    {
+      "english": "No rush, I’ll finish this task.",
+      "german": "Ohne Eile, ich beende die Aufgabe.",
+      "transliteration": "OH-ne EYE-le, ich BE-end-e die AUF-ga-be.",
+      "category": "Patience",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "I ask, then I wait calmly.",
+      "german": "Ich frage, dann warte ich ruhig ab.",
+      "transliteration": "ich FRA-ge, dann WAR-te ich RU-hi ab.",
+      "category": "Patience",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "My timing will catch up soon.",
+      "german": "Mein Timing holt mich bald ein.",
+      "transliteration": "meIN TIM-ing holt mich BALD ein.",
+      "category": "Patience",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "I can repeat it, slowly, yes.",
+      "german": "Ich kann das nochmal sagen, langsam, ja.",
+      "transliteration": "ich KANN das Nock-mal SA-gen, LANG-sam, ja.",
+      "category": "Patience",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "I let the answer come naturally.",
+      "german": "Ich lasse die Antwort von selbst kommen.",
+      "transliteration": "ich LAS-se die ANt-wort fon selbST KOM-men.",
+      "category": "Patience",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "One minute more, I can do this.",
+      "german": "Noch eine Minute, dann schaffe ich das.",
+      "transliteration": "noch EI-ne MI-nu-te, dann SCHAF-fe ich das.",
+      "category": "Patience",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "I keep listening, even if it’s slow.",
+      "german": "Ich höre weiter zu, auch wenn es langsam ist.",
+      "transliteration": "ich HÖ-re WEI-ter ZU, AUCH wenn es LANG-sam ist.",
+      "category": "Patience",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "I’ll double-check my passport quickly.",
+      "german": "Ich checke gleich noch mal meinen Pass.",
+      "transliteration": "ikh kEkh-ekh glEikh noch mal mein-en pass",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "Where is the baggage drop, please?",
+      "german": "Wo ist die Gepäckabgabe, bitte?",
+      "transliteration": "vo ist dee geh-PAEK-a-AB-gah-be, BIT-te",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "Do I need to print my ticket?",
+      "german": "Muss ich mein Ticket ausdrucken?",
+      "transliteration": "muss ikh mein tick-et aus-DRU-ken",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "I’ll keep liquids in one bag.",
+      "german": "Ich halte meine Flüssigkeiten in einer Tasche.",
+      "transliteration": "ikh hAL-te mein-e FLUESS-ig-KAI-ten in eye-ner TA-she",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "I’m going to the check-in desk now.",
+      "german": "Ich gehe jetzt zum Check-in Schalter.",
+      "transliteration": "ikh GAE-he jetz-t tsum chek-in SHAL-ter",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "Can I get help with the kiosk?",
+      "german": "Können Sie mir beim Automaten helfen?",
+      "transliteration": "KEHN-en zee mir beim OW-to-ma-ten helfen",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "I’ll refill my water bottle here.",
+      "german": "Ich fülle meine Wasserflasche hier auf.",
+      "transliteration": "ikh FYL-le mein-e VAS-ser-Fla-she heer auf",
+      "category": "Travel & Airport",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "I can start before I feel ready.",
+      "german": "Ich kann anfangen, bevor ich mich bereit fühle.",
+      "transliteration": "Ich kANn ANfangen, bEVOR ich mich bREIt fUhle.",
+      "category": "Courage",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "I take the first step, even shaky.",
+      "german": "Ich mache den ersten Schritt, auch wenn mir das Herz wackelt.",
+      "transliteration": "Ich mAche den ERsten SCHritt, AUCH wENn mir dAS hERz WACKelt.",
+      "category": "Courage",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "I can be seen, not perfect.",
+      "german": "Ich kann mich zeigen, ohne perfekt zu sein.",
+      "transliteration": "Ich kANn mich ZEIGen, OHne pERfekt zu sEIN.",
+      "category": "Courage",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "I speak up, then breathe through it.",
+      "german": "Ich melde mich zu Wort, und dann atme ich durch.",
+      "transliteration": "Ich mELde mich zu WORT, und dANN atme ich dUrcH.",
+      "category": "Courage",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "I ask for help without shame.",
+      "german": "Ich frage um Hilfe, ohne mich dafür zu schämen.",
+      "transliteration": "Ich FRAGE um hILfe, OHne mich dAFUR zu SCHÄmen.",
+      "category": "Courage",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "I walk away when it turns unsafe.",
+      "german": "Ich gehe weg, wenn es sich unsicher anfühlt.",
+      "transliteration": "Ich GEhe WEG, wENn es sich unsIcher ANfühlt.",
+      "category": "Courage",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "I keep my promise, one task at a time.",
+      "german": "Ich halte mein Versprechen, Schritt für Schritt.",
+      "transliteration": "Ich HAlte mEin vERsprechen, SCHRITT fÜr SCHRITT.",
+      "category": "Courage",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "Make time for one real reset",
+      "german": "Gib dir heute Zeit für einen echten Reset.",
+      "transliteration": "gib dir HEUTE zeit für eiNEN echTEN RESET",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "Clean up one tiny corner today",
+      "german": "Räum heute eine winzige Ecke richtig auf.",
+      "transliteration": "räum HEUTE eiNE WINZige ECKE richTIG AUF",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "Say no, then exhale and breathe",
+      "german": "Sag Nein, dann atme tief aus und lass los.",
+      "transliteration": "sag NEIN, dann atME TIEF AUS und LASS los",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "Turn anxiety into one concrete task",
+      "german": "Verwandle deine Angst in eine konkrete Aufgabe.",
+      "transliteration": "verWANdLE deiNE ANGST in eiNE KONkrete AUFgabe",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "Ask for help without apologizing",
+      "german": "Frag um Hilfe, ohne dich zu entschuldigen.",
+      "transliteration": "frag UM hilfe, OHNE dich zu entSCHULdiGEN",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "Track your wins, even the small",
+      "german": "Schreib deine Erfolge auf, auch die kleinen.",
+      "transliteration": "schreib DEINE erFOLge AUF, AUCH die KLEINen",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "Replace scrolling with meaningful reading",
+      "german": "Tausche das Scrollen gegen sinnvolles Lesen.",
+      "transliteration": "TAUSche das SCROLlen GEgen SINNvolles leSEN",
+      "category": "Self Improvement",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "I’m ready to try, even unsure.",
+      "german": "Ich bin bereit, es zu versuchen, auch wenn ich unsicher bin.",
+      "transliteration": "Ich BIN bereit, es zu VER-su-chen, AUCH wenn ich un-SI-cher bin.",
+      "category": "Confidence",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "My confidence grows with every attempt.",
+      "german": "Mein Selbstvertrauen wächst mit jedem Versuch.",
+      "transliteration": "Mein SELBST-ver-trau-en WÄCHST mit JE-dem VER-such.",
+      "category": "Confidence",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "I choose calm over panic today.",
+      "german": "Ich entscheide mich heute für Ruhe statt Panik.",
+      "transliteration": "Ich ent-SCHEI-de mich HEU-te für RU-he STATT PA-nik.",
+      "category": "Confidence",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "I can pause, and then continue.",
+      "german": "Ich darf kurz innehalten, dann mache ich weiter.",
+      "transliteration": "Ich DAF kurz IN-ne-hAL-ten, dann MA-che ich WEI-ter.",
+      "category": "Confidence",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "I speak up, even softly.",
+      "german": "Ich melde mich zu Wort, auch wenn es leise ist.",
+      "transliteration": "Ich mel-DE mich zu WORT, AUCH wenn es LEI-se ist.",
+      "category": "Confidence",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "I make room for my success.",
+      "german": "Ich mache Platz für meinen Erfolg.",
+      "transliteration": "Ich MA-che PLATZ für MEIN-en ER-folG.",
+      "category": "Confidence",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "I handle feedback without taking it personally.",
+      "german": "Ich nehme Feedback an, ohne es persönlich zu nehmen.",
+      "transliteration": "Ich NEH-me FEED-back AN, OH-ne es per-SÖN-lich zu NEH-men.",
+      "category": "Confidence",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "Is it going to snow soon?",
+      "german": "Schneit es bald?",
+      "transliteration": "SHN E i t es BALD?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "Looks like fog in the morning.",
+      "german": "Morgens wird es wohl neblig.",
+      "transliteration": "MOR gens WIRD es WOHL NE BliG",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "Any chance of hail today?",
+      "german": "Gibt es heute eine Chance auf Hagel?",
+      "transliteration": "GIBT es HEUte ei ne CHANce AUF HA gel?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "The air feels really dry today.",
+      "german": "Heute ist die Luft richtig trocken.",
+      "transliteration": "HEUte IST die LUFT RICH tig TROK ken",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "Should I bring sunglasses?",
+      "german": "Soll ich Sonnenbrille mitnehmen?",
+      "transliteration": "SOLL ich SON nen BRIL le MIT neh men?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "Is it warm enough for shorts?",
+      "german": "Ist es warm genug für Shorts?",
+      "transliteration": "IST es WARM geNUG FÜR SHORTS?",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "My skin is getting sunburned fast.",
+      "german": "Ich merke, die Sonne brennt heute stark.",
+      "transliteration": "ICH MER ke, die SON ne BREnnt HEU te STARK",
+      "category": "Weather & Small Talk",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "Thanks for saying you’re sorry.",
+      "german": "Danke, dass du dich entschuldigst.",
+      "transliteration": "danKE, DASS du dich ENTschuldigst",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "I hear you, let’s move on.",
+      "german": "Ich verstehe dich, lass uns weitermachen.",
+      "transliteration": "ich verSTEH dich, lass uns WEITER machen",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "I forgive, even if it stings.",
+      "german": "Ich verzeihe, auch wenn es kurz weh tut.",
+      "transliteration": "ich verZEIH e, AUCH wenn es KURZ weh tut",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "You didn’t mean it that way.",
+      "german": "Das war nicht so gemeint.",
+      "transliteration": "das war NICHT so GEmeint",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "Let’s talk it through, peacefully.",
+      "german": "Lass uns in Ruhe darüber reden.",
+      "transliteration": "lass uns in RHeh daRÜBER reden",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "I’m choosing peace, not revenge.",
+      "german": "Ich wähle Frieden statt Rache.",
+      "transliteration": "ich VÄHle FrieDEN STATT raCHE",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "We can start again right now.",
+      "german": "Wir können gleich neu anfangen.",
+      "transliteration": "wir KÖNnen GLEICH neu ANfan gen",
+      "category": "Forgiveness",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "I want to review my spending weekly.",
+      "german": "Ich möchte meine Ausgaben wöchentlich checken.",
+      "transliteration": "ich MÖCH-te MEI-ne AUS-ga-ben WÖ-CHENT-lich che-cken",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "Can you explain the interest rate?",
+      "german": "Können Sie mir den Zinssatz erklären?",
+      "transliteration": "kann-en SIE mir den ZINS-satz er-KLÄ-ren",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "Please confirm my card payments went through.",
+      "german": "Bitte bestätigen Sie, dass meine Karten-Zahlungen durchgingen.",
+      "transliteration": "BIT-te be-SCHTÄ-ti-gen SIE, dass MEI-ne KAR-ten ZAHL-un-gen DURCH-gingen",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "I need a quick balance update now.",
+      "german": "Ich brauche jetzt schnell eine Kontostands-Aktualisierung.",
+      "transliteration": "ich BRAU-che JEZT schnell ei-ne KON-to-stands-ak-tu-a-lI-SIE-rung",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "Where is the ATM fee showing?",
+      "german": "Wo sehe ich die Gebühren am Geldautomaten?",
+      "transliteration": "WO sehe ich die GEBÜH-ren am GELD-au-to-ma-ten",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "I want alerts for every transaction.",
+      "german": "Ich möchte Benachrichtigungen für jede Transaktion.",
+      "transliteration": "ich MÖCH-te be-NACH-rich-ti-gun-gen für JE-de tran-SA-kjon",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "Can I pay this by transfer instead?",
+      "german": "Kann ich das stattdessen per Überweisung zahlen?",
+      "transliteration": "kann ich das statt-DEs-sen per Ü-ber-wei-sung ZAH-len",
+      "category": "Banking & Money",
+      "generated_at": "2026-11-23T18:27:46.029306"
     }
   ],
-  "last_updated": "2026-11-22T14:46:05.513783"
+  "last_updated": "2026-11-23T18:27:46.029306"
 }
