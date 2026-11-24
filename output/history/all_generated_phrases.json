@@ -30241,7 +30241,399 @@
       "transliteration": "kann ich das statt-DEs-sen per Ü-ber-wei-sung ZAH-len",
       "category": "Banking & Money",
       "generated_at": "2026-11-23T18:27:46.029306"
+    },
+    {
+      "english": "Try a wild idea, safely",
+      "german": "Probier eine wilde Idee, ganz sicher.",
+      "transliteration": "PRO-bier ei-ne WIL-de I-dee, GANZ SI-cher.",
+      "category": "Creativity",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "Switch tools, not your goal",
+      "german": "Wechsel die Werkzeuge, nicht dein Ziel.",
+      "transliteration": "WECH-sel die WERK-zeu-ge, NICHT dein TSIL.",
+      "category": "Creativity",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "Make constraints your creative engine",
+      "german": "Mach Grenzen zu deinem kreativen Motor.",
+      "transliteration": "MACH GREN-zen zu dei-nem KRE-a-ti-ven MO-tor.",
+      "category": "Creativity",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "Translate a feeling into a drawing",
+      "german": "Übersetze ein Gefühl in eine Zeichnung.",
+      "transliteration": "Ü-BER-set-ze EIN ge-FÜHL in EI-ne ZEICH-nung.",
+      "category": "Creativity",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "Give your idea a soundtrack",
+      "german": "Gib deiner Idee eine Soundspur.",
+      "transliteration": "GIB dei-ner I-dee EI-ne SOUND-spur.",
+      "category": "Creativity",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "Use leftovers for a new recipe",
+      "german": "Nimm Reste und koch daraus was Neues.",
+      "transliteration": "NIMM RES-te und KOCH da-raus WAS NEU-es.",
+      "category": "Creativity",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "Steal structure from your favorite song",
+      "german": "Nimm die Struktur von deinem Lieblingssong als Vorlage.",
+      "transliteration": "NIMM die STRUK-tur von dei-nem LIEB-lings-song als VOR-la-ge.",
+      "category": "Creativity",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "I need your signature on this.",
+      "german": "Ich brauche deine Unterschrift auf diesem Dokument.",
+      "transliteration": "IKH BRAU-che dei-ne UN-ter-SCHRIFT auf DIE-sem DO-ku-MENT.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "Could you forward this to HR?",
+      "german": "Kannst du das an HR weiterleiten?",
+      "transliteration": "KANNST du das an EICH-ar WEI-ter-leiten?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "I have to catch up on emails.",
+      "german": "Ich muss meine E-Mails nachholen.",
+      "transliteration": "IKH MUSS MEI-ne EI-malS NACH-ho-len.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "Let’s take this offline for now.",
+      "german": "Lasst uns das erst mal offline klären.",
+      "transliteration": "LASST uns DAS erst mal OF-fline KLÄ-ren.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "Please don’t schedule over my focus time.",
+      "german": "Bitte plane nichts über meine Fokuszeit.",
+      "transliteration": "BIT-te PLA-ne NICHTS UEBER MEI-ne FO-kus-zeit.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "Can we leave early today, please?",
+      "german": "Können wir heute bitte früher gehen?",
+      "transliteration": "KÖN-nen wir heu-te bit-te FRÜ-her GEH-en?",
+      "category": "Work & Office",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "I’ll join the call in five minutes.",
+      "german": "Ich bin in fünf Minuten im Call dabei.",
+      "transliteration": "IKH bin in FUENF MI-nu-ten im kOL da-BEI.",
+      "category": "Work & Office",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "I need an appointment, please.",
+      "german": "Ich brauche einen Termin, bitte.",
+      "transliteration": "ikh BRAU-che ein-en TER-min, BIT-te",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "Which pharmacy is open late?",
+      "german": "Welche Apotheke hat heute noch länger offen?",
+      "transliteration": "WEL-che A-pto-ke hat HOY-te noch LÄN-ger OF-fen",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "Is this medicine the same here?",
+      "german": "Ist dieses Medikament bei Ihnen genauso?",
+      "transliteration": "IST DIS-sə ME-di-Ka-ment BAY EE-nen GEN-au-so?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "Can you recommend something for pain?",
+      "german": "Können Sie mir etwas gegen Schmerzen empfehlen?",
+      "transliteration": "KÖN-nen ZEE miR E-was GE-gen SCHMER-tzen emp-FEHL-en?",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "I think I have a fever.",
+      "german": "Ich glaube, ich habe Fieber.",
+      "transliteration": "ikh GOU-be, ikh HAH-be FI-ber",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "Do I need a referral letter?",
+      "german": "Brauche ich eine Überweisung vom Arzt?",
+      "transliteration": "BROW-che ikh AI-ne Ü-ber-WAI-sung vom artst",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "My tooth hurts, it's getting worse.",
+      "german": "Mein Zahn tut weh, es wird schlimmer.",
+      "transliteration": "MEIN tsahn tut veh, es WIRD SHlim-mer",
+      "category": "Doctor & Pharmacy",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "I hear you, but not that much.",
+      "german": "Ich verstehe dich, aber so gar nicht.",
+      "transliteration": "Ich VErstehe dich, aber so GAR nicht.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "That s reasonable, I can accept it.",
+      "german": "Das ist vernünftig, damit kann ich leben.",
+      "transliteration": "Das ist VERnünftig, daMIT kann ich LEBen.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "I agree, and here s why.",
+      "german": "Ich bin einverstanden, und zwar aus dem Grund.",
+      "transliteration": "Ich BIN einverstanden, und ZWAR aus dem GRUND.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "I m on board, but with conditions.",
+      "german": "Ich bin dabei, aber nur unter bestimmten Bedingungen.",
+      "transliteration": "Ich BIN daBEI, aber NUR unter besTIMMten BEdinGUNgen.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "Good point. I think we should.",
+      "german": "Guter Einwand, ich finde, wir sollten das so machen.",
+      "transliteration": "Guter EINwand, ich FINde, wir SOLLten das so MAchen.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "Not really, I see it differently.",
+      "german": "Ehrlich gesagt, sehe ich das anders.",
+      "transliteration": "EHrlich geSAGT, SEhe ich das ANders.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "I m not sure, can we think more?",
+      "german": "Ich bin mir nicht sicher, lass uns nochmal drüber reden.",
+      "transliteration": "Ich BIN mir nicht SICHER, lass uns NOCmal drÜBER reDEN.",
+      "category": "Agreeing & Disagreeing",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "I freshen up, then brush my teeth.",
+      "german": "Ich frische mich auf, dann putze ich die Zähne.",
+      "transliteration": "ich FRI-she mich AUF, dann put-se ich die TÄH-nə",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "I write a tiny to-do list.",
+      "german": "Ich schreibe mir eine kleine To-do-Liste.",
+      "transliteration": "ich SCHREI-be mir ei-ne KLEI-ne TO-do LIS-te",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "I take a calm morning walk.",
+      "german": "Ich gehe am Morgen kurz spazieren, ganz entspannt.",
+      "transliteration": "ich GE-he am MOR-gen kurz SPA-zie-ren, ganz enTS PANNt",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "I open my curtains for daylight.",
+      "german": "Ich mache das Fenster auf, und lasse Licht rein.",
+      "transliteration": "ich MA-che das Fens-ter AUF, und LAS-se LICHT rein",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "I eat yogurt with fruit quickly.",
+      "german": "Ich esse schnell Joghurt mit Obst.",
+      "transliteration": "ich ES-se SCHNELL Joghurt mit O bst",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "I leave home with a steady playlist.",
+      "german": "Ich gehe mit meiner Lieblingsplaylist los.",
+      "transliteration": "ich GE-he mit MEI-ner LIE-b-lings-PLAI-list los",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "On the way, I make a call.",
+      "german": "Im Bus telefoniere ich kurz mit meiner Familie.",
+      "transliteration": "im BUS TE-le-FON-ie-re ich KURZ mit MEI-ner FA-mi- lie",
+      "category": "Daily Routine",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "I want to hear you, always.",
+      "german": "Ich möchte dich immer hören, und zwar genau jetzt.",
+      "transliteration": "ICh MÖCHTE dich IMMER HÖREN, und ZWAR geNAU jetzt.",
+      "category": "Love",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "Let’s make tonight ours.",
+      "german": "Lass uns den Abend zu unserem machen.",
+      "transliteration": "LASS uns den ABEND zu UNSEREM maCHEN.",
+      "category": "Love",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "You’re my favorite yes.",
+      "german": "Du bist mein Lieblingsja.",
+      "transliteration": "DU bist mein LIEBLINGSja.",
+      "category": "Love",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "I miss you in the quiet.",
+      "german": "Ich vermisse dich, wenn es still wird.",
+      "transliteration": "ICH VERMISSE dich, WENN es STILL wird.",
+      "category": "Love",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "Your love makes me brave.",
+      "german": "Deine Liebe macht mich mutig.",
+      "transliteration": "DEINE LIebe macht mich MUtig.",
+      "category": "Love",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "I choose us, even quietly.",
+      "german": "Ich entscheide mich jeden Tag für uns, ganz still.",
+      "transliteration": "ICH ENTScheide mich JEden Tag für UNS, ganz STILL.",
+      "category": "Love",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "Come closer, I’m here.",
+      "german": "Komm näher, ich bin bei dir.",
+      "transliteration": "KOMM NÄHER, ich BIN bei DIR.",
+      "category": "Love",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "I brought my best party playlist.",
+      "german": "Ich hab meine beste Party-Playlist mitgebracht.",
+      "transliteration": "Ich HAB meine BESTE Par-tey-Pla-ylist MIT-ge-bracht.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "Where do we put the gifts?",
+      "german": "Wohin stellen wir die Geschenke?",
+      "transliteration": "WOH-in stel-len WIR die GE-schen-ke?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "Let’s do a quick cake cutting.",
+      "german": "Lass uns kurz den Kuchen anschneiden.",
+      "transliteration": "LASS uns KURZ den KU-chen AN-schnei-den.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "Can I help with party setup?",
+      "german": "Kann ich beim Aufbau helfen?",
+      "transliteration": "KAN ich BEIM AUF-bau HEL-fen?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "Is there a coat check?",
+      "german": "Gibt es eine Garderobe oder einen Service zum Abgeben der Jacken?",
+      "transliteration": "GIBT es ei-ne GAR-de-ro-be O-der ei-nen SER-vice zum Ab-ge-ben der JACK-en?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "How spicy are the snacks?",
+      "german": "Wie scharf sind die Snacks?",
+      "transliteration": "WIE SCHARF sind die SNACKS?",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "I’m ready, bring on the games.",
+      "german": "Ich bin bereit, legt los mit den Spielen.",
+      "transliteration": "ICH bin BE-reit, legt los MIT den SPIE-len.",
+      "category": "Celebrations & Parties",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "Thanks for being my steady friend",
+      "german": "Danke, dass du mein ruhiger Halt bist.",
+      "transliteration": "Danke, dass du mein RUHiger Halt bist.",
+      "category": "Friendship",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "You make hard stuff feel lighter",
+      "german": "Mit dir wird sogar Schweres leichter.",
+      "transliteration": "Mit dir wird sogar SCHWEres LEICHter.",
+      "category": "Friendship",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "I trust you with my real worries",
+      "german": "Ich vertraue dir meine echten Sorgen an.",
+      "transliteration": "ICH verTRAUe dir MEINE echten SORgen an.",
+      "category": "Friendship",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "We grow together, not just hang out",
+      "german": "Wir wachsen zusammen, nicht nur nebeneinander.",
+      "transliteration": "Wir WACHSen ZUsammen, nicht nur neBEInander.",
+      "category": "Friendship",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "Your support feels like a hug",
+      "german": "Deine Unterstützung fühlt sich an wie eine Umarmung.",
+      "transliteration": "DEIne UNterSTÜtzung FÜHLt sich an WIE eine UMarMUNG.",
+      "category": "Friendship",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "I love how you keep it real",
+      "german": "Ich mag, wie ehrlich und klar du bist.",
+      "transliteration": "ICH mag, WIE EHlich und KLAR du bist.",
+      "category": "Friendship",
+      "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "We check in, even when busy",
+      "german": "Du fragst nach, auch wenn ich viel um die Ohren habe.",
+      "transliteration": "Du FRAGst nach, AUCH wenn ich VIEL um die OHren HAbe.",
+      "category": "Friendship",
+      "generated_at": "2026-11-24T17:57:01.138414"
     }
   ],
-  "last_updated": "2026-11-23T18:27:46.029306"
+  "last_updated": "2026-11-24T17:57:01.138414"
 }
