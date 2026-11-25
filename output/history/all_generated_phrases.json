@@ -30633,7 +30633,399 @@
       "transliteration": "Du FRAGst nach, AUCH wenn ich VIEL um die OHren HAbe.",
       "category": "Friendship",
       "generated_at": "2026-11-24T17:57:01.138414"
+    },
+    {
+      "english": "Let small wins count today.",
+      "german": "Lass kleine Erfolge heute zählen.",
+      "transliteration": "Lass KLEINE Erfolge HEUTE ZÄHLEN.",
+      "category": "Happiness",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "Thank the bus for being on time.",
+      "german": "Danke dem Bus, dass er pünktlich ist.",
+      "transliteration": "DANK dem BUS, DASS er PÜNKTLICH ist.",
+      "category": "Happiness",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "Pick one song that lifts you.",
+      "german": "Wähl einen Song, der dich nach oben bringt.",
+      "transliteration": "WÄHL eiNEN Song, der DICH nach OBeN bringt.",
+      "category": "Happiness",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "Move your body, feel the mood.",
+      "german": "Beweg dich, dann kommt die gute Laune.",
+      "transliteration": "BEWEG dich, DANN kommt die GUTE LauNE.",
+      "category": "Happiness",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "Call it luck when you get lucky.",
+      "german": "Sag einfach, es ist Glück.",
+      "transliteration": "Sag einFAch, es IST GLÜCK.",
+      "category": "Happiness",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "Write one kind message to someone.",
+      "german": "Schreib jemandem eine freundliche Nachricht.",
+      "transliteration": "SCHREIB jeMANdem eiNE FReundliche NACHricht.",
+      "category": "Happiness",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "Take a pause, then choose calm.",
+      "german": "Mach kurz Pause, und wähle dann Ruhe.",
+      "transliteration": "MAch KURZ PauSE, und WÄHLE dann RUHE.",
+      "category": "Happiness",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "I garden a little, even after work",
+      "german": "Ich mach ein bisschen Gartenarbeit, sogar nach der Arbeit.",
+      "transliteration": "ICh mach EIn bISSchen GArtenarbEIt, SOGar naCH der ARbeit.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "I join a choir once a week",
+      "german": "Ich singe einmal pro Woche im Chor.",
+      "transliteration": "ICh SInge EInmal pro WOChe im KHor.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "I take photos when the light is nice",
+      "german": "Ich mache Fotos, wenn das Licht schön ist.",
+      "transliteration": "ICh MAche FOtos, WEnn das LIcht SCHÖN ist.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "I play cards at cafés with strangers",
+      "german": "Ich spiele Karten im Café, manchmal mit Leuten, die ich noch nicht kenne.",
+      "transliteration": "ICh SPIele KArten im KAfee, MAnchmal mit LEUten, die ICh noch niCHt KEnne.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "I try baking bread, slow and steady",
+      "german": "Ich backe Brot, Schritt für Schritt, ganz in Ruhe.",
+      "transliteration": "ICh BAcke BROt, Schritt FÜR Schritt, GANz in RUhe.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "I go to a film club on Thursdays",
+      "german": "Am Donnerstag gehe ich in einen Filmclub.",
+      "transliteration": "Am DONnerstag GEhe ICh in EINen FIlmklub.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "I fix old clothes instead of buying new",
+      "german": "Ich nähe Sachen neu oder repariere alte Kleidung, statt ständig neu zu kaufen.",
+      "transliteration": "ICh NÄhe SAchen NEU oder rePARiere ALte KLeidung, STAtt stÄndig neu zu KAufen.",
+      "category": "Hobbies & Free Time",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "Let your day breathe, not rush.",
+      "german": "Lass deinen Tag atmen, nicht hetzen.",
+      "transliteration": "Lass deinen Tag A-TMEN, nicht HET-ZEN.",
+      "category": "Balance",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "Pause, then answer at your pace.",
+      "german": "Pausier kurz, dann antworte in deinem Tempo.",
+      "transliteration": "PAU-sier kurz, dann ANt-WOR-te in dei-нем TЕM-po.",
+      "category": "Balance",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "Keep snacks light, hydrate steadily.",
+      "german": "Halte die Snacks leicht, trink stetig Wasser.",
+      "transliteration": "HA-lte die SNACKS leicht, TRINK stE-tig WASS-er.",
+      "category": "Balance",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "Even silence can reset you.",
+      "german": "Auch Stille kann dich wieder ausrichten.",
+      "transliteration": "AUCH STIL-le kann dich wie-der AUS-rich-ten.",
+      "category": "Balance",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "Choose one thing, then stop.",
+      "german": "Wähle eine Sache, dann hör auf.",
+      "transliteration": "WÄH-le ei-ne SA-che, dann HÖR auf.",
+      "category": "Balance",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "Balance effort with kindness to yourself.",
+      "german": "Halte die Balance zwischen Einsatz und Güte dir selbst gegenüber.",
+      "transliteration": "HAlte die BAL-an-ce zwi-schen EIN-satz und GÜ-te dir SELBST ge-gen-Ü-ber.",
+      "category": "Balance",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "Move your body, but don’t overdo.",
+      "german": "Bewege dich, aber mach es nicht zu viel.",
+      "transliteration": "Be-WE-ge dich, a-ber mach es nicht zu VIEL.",
+      "category": "Balance",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "Do you have a day pass?",
+      "german": "Habt ihr einen Tageseintritt?",
+      "transliteration": "habt IH R Ei NEN Ta GE SEIN tritt",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "What classes are on today?",
+      "german": "Welche Kurse gibt es heute?",
+      "transliteration": "wel CHE KURS e GE BT es HEUTE",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "Is there a pool or sauna?",
+      "german": "Gibt es einen Pool oder eine Sauna?",
+      "transliteration": "GIBT es EI nen POOL oder EI ne SAU na",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "I need help adjusting my bike.",
+      "german": "Können Sie mir beim Fahrrad einstellen helfen?",
+      "transliteration": "KOEN nen Zi mir BEIM FAHR rad EIN stel len HEL fen",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "Can I use the locker room?",
+      "german": "Kann ich den Umkleidebereich benutzen?",
+      "transliteration": "kann ich den UM KLEI de be REICH BE NU tzen",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "Do you offer bootcamp classes?",
+      "german": "Bietet ihr Bootcamp-Kurse an?",
+      "transliteration": "BIETet i hr BOOT camp KUR se AN",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "What time does spin start?",
+      "german": "Um wieviel Uhr fängt Spinning an?",
+      "transliteration": "um WIE vil UHR FAENGT SPIN ning an",
+      "category": "Sports & Fitness",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "I’m not done, I still hope.",
+      "german": "Ich bin noch nicht fertig, ich hoffe.",
+      "transliteration": "ich bin noch NICHT ferTIG, ich HOFFE",
+      "category": "Hope",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "Let hope find my feet again.",
+      "german": "Lass die Hoffnung meine Schritte finden.",
+      "transliteration": "lass die HOFFNUNG MEINE SCHRITTE finDEN",
+      "category": "Hope",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "Hope makes space, even for grief.",
+      "german": "Hoffnung schafft Raum, auch für Trauer.",
+      "transliteration": "hoffNUNG schafft RAUM, auch für TRAUER",
+      "category": "Hope",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "I’ll answer slowly, with hope.",
+      "german": "Ich antworte langsam, mit Hoffnung.",
+      "transliteration": "ich ANtWORTE LANGsam, mit HOFFNUNG",
+      "category": "Hope",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "Tomorrow can be kinder, I believe.",
+      "german": "Morgen kann freundlicher werden, daran glaube ich.",
+      "transliteration": "MORgen kann FREUNDliCHER WERden, DAn-AN glauBE ich",
+      "category": "Hope",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "I trust the next small door.",
+      "german": "Ich vertraue der nächsten kleinen Tür.",
+      "transliteration": "ich VERtrauE der NÄCHsten KLEINEN TÜR",
+      "category": "Hope",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "Even silence can hold hope.",
+      "german": "Sogar Stille kann Hoffnung tragen.",
+      "transliteration": "SOgar STILle kann HOFFnung TRAgen",
+      "category": "Hope",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "I feel tense in my shoulders.",
+      "german": "Ich bin angespannt, meine Schultern fühlen sich fest an.",
+      "transliteration": "ich bin ANGESPANNT, MEINE schultern FÜHLEN sich FEST an",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "I’m excited to start fresh today.",
+      "german": "Ich freue mich, heute ganz neu anzufangen.",
+      "transliteration": "ich FREUE mich, HEUTE ganz NEU anzufangen",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "I feel hopeful about tomorrow.",
+      "german": "Ich habe Hoffnung für morgen, wirklich.",
+      "transliteration": "ich habe HOFFNUNG für MORgen, WIRKlich",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "That compliment made me smile.",
+      "german": "Das Kompliment hat mich sofort zum Lächeln gebracht.",
+      "transliteration": "das KOMpliment hat MICH SOFORT zum LÄCHEln GEbracht",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "I’m embarrassed I forgot your name.",
+      "german": "Es tut mir leid, ich hab deinen Namen vergessen, und das macht mich verlegen.",
+      "transliteration": "es TUT mir LEID, ich HAB deinen NAMEN verGESSEN, und das MACHT mich VERlegen",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "I get angry when promises slip.",
+      "german": "Ich werde wütend, wenn Zusagen nicht eingehalten werden.",
+      "transliteration": "ich WERDE WÜTend, wenn ZUSagen nicht EINGEhalten werden",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "I feel soothed by soft music.",
+      "german": "Sanfte Musik beruhigt mich, das tut gut.",
+      "transliteration": "SAnfte muSik beRUHigt MICH, das TUT gut",
+      "category": "Feelings & Emotions",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "What sizes do you have in stock?",
+      "german": "Welche Größen haben Sie vorrätig?",
+      "transliteration": "VEHL-che GROSS-en ha-ben SI-e FORR-rä-tiG?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "Is there a cheaper brand nearby?",
+      "german": "Gibt es eine günstigere Marke hier?",
+      "transliteration": "GIBT es ei-na GÜNST-i-gerE MAR-ke hi-er?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "Can I get the price list, please?",
+      "german": "Kann ich bitte die Preisliste bekommen?",
+      "transliteration": "KANN ich BIT-te di PREIS-lis-te BE-konn-men?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "Do you have bulk discounts for this?",
+      "german": "Gibt es Mengenrabatt für diese Artikel?",
+      "transliteration": "GIBT es MEN-gen-rab-att für DI-e-se AR-ti-kel?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "How much does it cost per pack?",
+      "german": "Wie viel kostet eine Packung?",
+      "transliteration": "VIE fel KOS-tet ei-ne PACK-ung?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "Do you accept coupons here?",
+      "german": "Nehmen Sie hier Gutscheine an?",
+      "transliteration": "NEH-men SI-e hi-er GUT-schei-ne an?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "Is the price different online?",
+      "german": "Ist der Preis online anders?",
+      "transliteration": "IST der PREIS on-linE AN-ders?",
+      "category": "Shopping & Prices",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "Can we get two menus, please?",
+      "german": "Könnten wir zwei Speisekarten bekommen?",
+      "transliteration": "KOENnten wir zwei SPEISEkarten BEKOMmen?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "I’ll have the chicken, please.",
+      "german": "Ich hätte gern das Hähnchen, bitte.",
+      "transliteration": "ich HÄTTE gern das HÄHNchen, BITte",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "Is there a vegan dessert?",
+      "german": "Gibt es ein veganes Dessert?",
+      "transliteration": "GIBT es ein VEganes desSERT?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "Can I substitute fries for salad?",
+      "german": "Kann ich Pommes gegen Salat tauschen?",
+      "transliteration": "KANN ich POMmes gegen SALAT tauschen?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "Do you offer half-and-half plates?",
+      "german": "Gibt es die Möglichkeit, zwei Sachen zu mischen?",
+      "transliteration": "GIBT es die MÖGLICHkeit, zwei SACHen zu MISchen?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "Could we get separate bills, please?",
+      "german": "Könnten wir getrennte Rechnungen bekommen?",
+      "transliteration": "KOENnten wir GEtrennte RECHnungen BEKOMmen?",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "No dairy for me, please.",
+      "german": "Ich vertrage keine Milchprodukte, bitte.",
+      "transliteration": "ich VERtrage keiNE MILCHprodukte, BITte",
+      "category": "Ordering Food & Dining",
+      "generated_at": "2026-11-25T17:25:18.883238"
     }
   ],
-  "last_updated": "2026-11-24T17:57:01.138414"
+  "last_updated": "2026-11-25T17:25:18.883238"
 }
