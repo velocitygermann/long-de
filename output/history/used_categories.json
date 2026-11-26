@@ -583,7 +583,39 @@
     {
       "category": "Ordering Food & Dining",
       "date": "2026-11-25"
+    },
+    {
+      "category": "Making Plans",
+      "date": "2026-11-26"
+    },
+    {
+      "category": "Dating & Romance",
+      "date": "2026-11-26"
+    },
+    {
+      "category": "Coffee Shop & Bakery",
+      "date": "2026-11-26"
+    },
+    {
+      "category": "Positive Life",
+      "date": "2026-11-26"
+    },
+    {
+      "category": "Gratitude",
+      "date": "2026-11-26"
+    },
+    {
+      "category": "Strength",
+      "date": "2026-11-26"
+    },
+    {
+      "category": "Hotel & Accommodation",
+      "date": "2026-11-26"
+    },
+    {
+      "category": "Common Native Slang",
+      "date": "2026-11-26"
     }
   ],
-  "last_updated": "2026-11-25T17:25:18.910837"
+  "last_updated": "2026-11-26T17:05:27.833517"
 }

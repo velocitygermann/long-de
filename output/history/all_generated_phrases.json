@@ -31025,7 +31025,399 @@
       "transliteration": "ich VERtrage keiNE MILCHprodukte, BITte",
       "category": "Ordering Food & Dining",
       "generated_at": "2026-11-25T17:25:18.883238"
+    },
+    {
+      "english": "I want to lock in a time",
+      "german": "Ich möchte eine Uhrzeit festzurren,",
+      "transliteration": "ich MÖCHTE eine UHRzeit FESTZURREN,",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "How about Tuesday morning instead?",
+      "german": "Wie wäre es am Dienstagvormittag statt,",
+      "transliteration": "vie wäre es am diENstagVORmitTAG STATT,",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "Let’s draft a simple schedule",
+      "german": "Lass uns einen einfachen Plan aufstellen,",
+      "transliteration": "lass uns eiNEN EINfaCHEN plan AUFstellen,",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "I’ll book the tickets for two",
+      "german": "Ich buche die Tickets für zwei Personen,",
+      "transliteration": "ich BUche die TICKets FÜR zwei PERsoNEN,",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "Can we meet ten minutes early?",
+      "german": "Können wir zehn Minuten früher starten,",
+      "transliteration": "KÖNnen wir ZEHN miNUTEN FRÜher STARten,",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "I need to know the deadline",
+      "german": "Ich muss die Frist wissen,",
+      "transliteration": "ich MUSS die FRIST WISsen,",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "Let’s choose a backup restaurant",
+      "german": "Lass uns ein Ausweichrestaurant festlegen,",
+      "transliteration": "lass uns ein AUSweichREStauRANT FESTlegen,",
+      "category": "Making Plans",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "Can we meet for a walk?",
+      "german": "Können wir uns für einen Spaziergang treffen?",
+      "transliteration": "KOENnen wir uns fuer EINen SPAZIERgang TREFFen?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "I love talking with you, honestly.",
+      "german": "Ich rede so gern mit dir, ehrlich.",
+      "transliteration": "ICH re-de SO GERN mit DIR, EH-Rlich.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "Your eyes make me pause.",
+      "german": "Deine Augen bringen mich ins Stocken.",
+      "transliteration": "DEIne AUgen BRINgen mich INS STOCKen.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "I keep smiling after our texts.",
+      "german": "Ich lächle noch, wenn ich deine Nachrichten lese.",
+      "transliteration": "ICH LAEchle NOCH, wenn ICH DEINE NAchRICHTen LESE.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "What was your best date so far?",
+      "german": "Was war dein bestes Date bisher?",
+      "transliteration": "WAS war DEIN besTes DATE bis-her?",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "Let’s try that new place together.",
+      "german": "Lass uns den neuen Laden zusammen ausprobieren.",
+      "transliteration": "LASS uns den NUEuen LADen ZUSAMmen AUfproBIeren.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "I felt safe right next to you.",
+      "german": "Bei dir habe ich mich sofort sicher gefühlt.",
+      "transliteration": "BEI DIR ha-be ICH mich SOFORT SI-cher GEfuehlt.",
+      "category": "Dating & Romance",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "Can I get a double espresso?",
+      "german": "Kann ich einen doppelten Espresso bekommen?",
+      "transliteration": "Kann ich einen dOPPelten ESpresso BEKommen?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "What soups do you have today?",
+      "german": "Welche Suppen haben Sie heute?",
+      "transliteration": "WELche SUPpen HABen Sie HEute?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "Do you have a veggie sandwich?",
+      "german": "Haben Sie ein vegetarisches Sandwich?",
+      "transliteration": "HAben Sie ein vegetarisches SANdwich?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "Is the quiche still warm?",
+      "german": "Ist die Quiche noch warm?",
+      "transliteration": "Ist die QUIche noch WARM?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "Do you offer oat yogurt parfaits?",
+      "german": "Bieten Sie Joghurt-Parfaits mit Hafer an?",
+      "transliteration": "BieTEN Sie Joghurt-PArfaits mit HAFer an?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "I’ll take a ham and cheese croissant.",
+      "german": "Ich nehme ein Croissant mit Schinken und Käse.",
+      "transliteration": "ich NEhme ein CROISsant mit SCHinken und KÄse.",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "Is there anything lactose-free?",
+      "german": "Gibt es etwas Laktosefreies?",
+      "transliteration": "GIBt es ETwas LakTOSEfreies?",
+      "category": "Coffee Shop & Bakery",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "Notice what's working, then build on it.",
+      "german": "Schaue, was schon klappt, und bau darauf auf.",
+      "transliteration": "SCHAU, was SCHON KLAPPT, und BAU darauf AUF.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "Say no to extra stress today.",
+      "german": "Sag heute Nein zu extra Stress.",
+      "transliteration": "SAG heute NEIN zu EXtra STRESS.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "Choose the next kind action.",
+      "german": "Wähle die nächste freundliche Handlung.",
+      "transliteration": "WÄHle die NÄCHSTE freundliche HANDLUNG.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "Let support show up in your life.",
+      "german": "Lass dir Hilfe geben, wenn du sie brauchst.",
+      "transliteration": "LASS dir HILFE GEben, wenn du SIE brauchst.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "Turn one worry into one plan.",
+      "german": "Wandle eine Sorge in einen Plan um.",
+      "transliteration": "WANdle eine SORGE in eiNEN PLAN UM.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "Move slowly, and still make progress.",
+      "german": "Mach es langsam, aber mach es weiter.",
+      "transliteration": "MACH es LANGSAM, aber MACH es WEITER.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "Make room for laughter, even briefly.",
+      "german": "Schaffe dir Platz für Lachen, auch wenn nur kurz.",
+      "transliteration": "SCHAFfe dir PLATZ für LAchen, auch wenn NUR kurz.",
+      "category": "Positive Life",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "Danke, that helped more than you know",
+      "german": "Danke, das hat mehr geholfen als du denkst.",
+      "transliteration": "DANKE, das hat MEHR geholfen als DU denkst.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "I appreciate your quick, practical help",
+      "german": "Ich schätze deine schnelle, praktische Hilfe sehr.",
+      "transliteration": "ICH SCHÄTZE deine SCHNELLE, PRAKTISCHE Hilfe SEHR.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "Thanks for taking my concerns seriously",
+      "german": "Danke, dass du meine Sorgen ernst nimmst.",
+      "transliteration": "DANKE, dass DU meine SORGEN ernst nimmst.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "You made my day with that",
+      "german": "Du hast meinen Tag mit dem Gedanken richtig schön gemacht.",
+      "transliteration": "DU hast MEINEN Tag mit dem GEdanken RICHTIG schön GEmacht.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "I’m grateful you spoke up for me",
+      "german": "Ich bin dir dankbar, dass du dich für mich eingesetzt hast.",
+      "transliteration": "ICH BIN dir DANKbar, dass DU dich FÜR mich EINgesetzt hast.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "Thanks for checking in, really appreciated",
+      "german": "Danke fürs Nachfragen, das bedeutet mir viel.",
+      "transliteration": "DANKE fürs NACHfragen, das BEDEUTET mir VIEL.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "Your support feels steady, not rushed",
+      "german": "Deine Unterstützung fühlt sich ruhig und verlässlich an.",
+      "transliteration": "DEINE UNTERSTÜTZung fühlt sich RUHIG und verLÄSSlich AN.",
+      "category": "Gratitude",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "I choose courage over comfort today.",
+      "german": "Ich wähle heute Mut statt Komfort.",
+      "transliteration": "ich wÄHLe HEUte mut STATT komFORT",
+      "category": "Strength",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "I stand up, then soften my tone.",
+      "german": "Ich stehe aufrecht da, und bleibe dabei sanft.",
+      "transliteration": "ich STEHE AUFreCHT da, und BLEIbe daBEI sanft",
+      "category": "Strength",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "My strength is saying what I feel.",
+      "german": "Stärke heißt, klar zu sagen, was ich fühle.",
+      "transliteration": "stÄrke HEISST, KLAR zu SAgen, was ich FÜHLe",
+      "category": "Strength",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "I can handle this, one step at a time.",
+      "german": "Ich kann das schaffen, Schritt für Schritt.",
+      "transliteration": "ich KANN das SCHAFfen, SCHRITT FÜR SCHRITT",
+      "category": "Strength",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "I don’t shrink, I take up space.",
+      "german": "Ich werde nicht kleiner, ich nehme Raum ein.",
+      "transliteration": "ich WERde nicht KLEIner, ich NEHme raum EIN",
+      "category": "Strength",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "Strength means moving forward after mistakes.",
+      "german": "Stärke ist, nach Fehlern weiterzugehen.",
+      "transliteration": "stÄrke ist, NACH FEHLern weiTERzuGEHEn",
+      "category": "Strength",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "I ask directly, and I mean it kindly.",
+      "german": "Ich frage direkt, und zwar freundlich und klar.",
+      "transliteration": "ich FRAge DIrekt, und ZWA frEUNdlich und KLAR",
+      "category": "Strength",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "Where is reception, please?",
+      "german": "Wo ist die Rezeption, bitte?",
+      "transliteration": "Wo ist die REZEPtion, BITte?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "Can I see the room first?",
+      "german": "Kann ich das Zimmer zuerst sehen?",
+      "transliteration": "Kann ich das ZIMmer ZUERST sehen?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "Is there a gym in the hotel?",
+      "german": "Gibt es ein Fitnessstudio im Hotel?",
+      "transliteration": "Gibt es ein FIItnesSTUdio im HOtel?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "Do you have rooms with air con?",
+      "german": "Haben Sie Zimmer mit Klimaanlage?",
+      "transliteration": "HAben Sie ZIMmer mit KliMAanLAge?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "My key card isn't working, sorry.",
+      "german": "Meine Schlüsselkarte funktioniert nicht, Entschuldigung.",
+      "transliteration": "MEIne SCHLÜsselkarTE funkTIONiert nicht, EntSCHULdigung.",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "Could I get an iron and board?",
+      "german": "Könnte ich ein Bügeleisen und ein Bügelbrett bekommen?",
+      "transliteration": "KÖNnte ich ein BÜgelei sen und ein BÜgelBRETT bekommen?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "Breakfast smells great, what time is it?",
+      "german": "Das Frühstück riecht toll, um wie viel Uhr ist es?",
+      "transliteration": "Das FRÜHstück riecht TOLL, um wie VIEL Uhr ist es?",
+      "category": "Hotel & Accommodation",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "I m like, wait, what?",
+      "german": "Ich bin so, warte, was?",
+      "transliteration": "Ich bin so, WARte, WAS?",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "Honestly, that s sus to me.",
+      "german": "Ganz ehrlich, das kommt mir sus rüber.",
+      "transliteration": "Ganz EHReNlich, das KOMMT mir sus RÜBE R",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "Don t ghost me, please.",
+      "german": "Ghost mich nicht, bitte.",
+      "transliteration": "GHOST mich nicht, bitte",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "I m feeling kinda awkward.",
+      "german": "Ich bin irgendwie voll awkward.",
+      "transliteration": "Ich bin irGENDwie VOLL awkWARD",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "That s wild, not gonna lie.",
+      "german": "Das ist schon wild, nicht gelogen.",
+      "transliteration": "Das ist SCHON wild, nicht GELOGEN",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "Be right back, quick check.",
+      "german": "Bin gleich wieder da, kurz checken.",
+      "transliteration": "Bin gleich wieDER da, kurz CHECKen",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "I m not buying that, sorry.",
+      "german": "Ich kauf dir das nicht ab, sorry.",
+      "transliteration": "Ich KAUF dir das nicht ab, sorry",
+      "category": "Common Native Slang",
+      "generated_at": "2026-11-26T17:05:27.811159"
     }
   ],
-  "last_updated": "2026-11-25T17:25:18.883238"
+  "last_updated": "2026-11-26T17:05:27.811159"
 }
