@@ -31417,7 +31417,399 @@
       "transliteration": "Ich KAUF dir das nicht ab, sorry",
       "category": "Common Native Slang",
       "generated_at": "2026-11-26T17:05:27.811159"
+    },
+    {
+      "english": "I choose this with intention today",
+      "german": "Ich entscheide mich heute mit Absicht.",
+      "transliteration": "ik ENTscheide mich HEUTE mit ABsicht",
+      "category": "Purpose",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "This is my goal, not just hope",
+      "german": "Das ist mein Zweck, nicht nur Hoffnung.",
+      "transliteration": "das ist MEIN zweck, nicht nur HOFFnung",
+      "category": "Purpose",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "My purpose is to build calm",
+      "german": "Mein Zweck ist, Ruhe aufzubauen.",
+      "transliteration": "meIN zweck ist, RUH-e aufZUbauen",
+      "category": "Purpose",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "I’m here to make things easier",
+      "german": "Ich bin hier, um es leichter zu machen.",
+      "transliteration": "ihm bin hier, um es LEICHter zu MAchen",
+      "category": "Purpose",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "I want to grow, step by step",
+      "german": "Ich will wachsen, Schritt für Schritt, für einen Zweck.",
+      "transliteration": "ihh will WACHsen, SCHRITT für SCHRITT, für ei nen zweck",
+      "category": "Purpose",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "What I do, helps my future self",
+      "german": "Was ich tue, hat einen Zweck für mein zukünftiges Ich.",
+      "transliteration": "waS ich TUE, hat ei nen ZWECK für mein ZUKünftiges ikh",
+      "category": "Purpose",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "I need clarity on my next move",
+      "german": "Ich brauche Klarheit über meinen nächsten Zweck.",
+      "transliteration": "ihh BRAUche KHARheit über meinEN NÄCHsten zweck",
+      "category": "Purpose",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "Success starts with one brave choice",
+      "german": "Erfolg beginnt mit einer mutigen Entscheidung, ganz klein.",
+      "transliteration": "E rfolg BEGINNT mit EINER MU tigen ENT schei dung, GANZ klein.",
+      "category": "Success",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "I do the hard thing first",
+      "german": "Ich fange mit der schweren Sache zuerst an.",
+      "transliteration": "ICH fange mit der SCHWE ren SA che ZUERST an.",
+      "category": "Success",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "Make time, then follow through",
+      "german": "Schaff dir Zeit, und halte danach wirklich durch.",
+      "transliteration": "SCHAFf dir ZEIT, und HALte da nach WIRK lich durch.",
+      "category": "Success",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "Track progress, not just outcomes",
+      "german": "Ich schaue auf den Fortschritt, nicht nur aufs Ergebnis.",
+      "transliteration": "ICH SCHAU e auf den FORT schritt, NICHT nur aufs ER gebnis.",
+      "category": "Success",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "Ask, learn, and try again",
+      "german": "Frag nach, lern daraus, und probier es nochmal.",
+      "transliteration": "FRAG nach, LERN da raus, und PRO bIER es NOCH mal.",
+      "category": "Success",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "Clear goals calm my mind",
+      "german": "Klare Ziele beruhigen meinen Kopf, Schritt für Schritt.",
+      "transliteration": "KLA re ZIE le BE ruhi gen MEI nen KOPF, SCHRITT für SCHRITT.",
+      "category": "Success",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "I turn fear into focus",
+      "german": "Wenn Angst kommt, mache ich daraus Fokus.",
+      "transliteration": "WENN ANGST kommt, ma che ich da raus FOKUS.",
+      "category": "Success",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "I can slow down and still go.",
+      "german": "Ich kann langsamer werden und trotzdem weitermachen.",
+      "transliteration": "ich KANN langsamer WERDEN und trotzDEM WEITERmachen",
+      "category": "Perseverance",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "Even mistakes, I keep showing up.",
+      "german": "Auch wenn ich Fehler mache, ich bleibe dabei.",
+      "transliteration": "AUCH WENN ich FEHLER maCHE, ich BLEIBE DAbei",
+      "category": "Perseverance",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "I return to it, no drama.",
+      "german": "Ich komme einfach wieder zurück, ohne Drama.",
+      "transliteration": "ich KOMME einFACH wieDER zuRÜCK, ohne DRAMA",
+      "category": "Perseverance",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "One task done builds my momentum.",
+      "german": "Eine Aufgabe erledigt, und ich spüre Schwung.",
+      "transliteration": "EIne AUFgabe erLEDIGT, und ich SPÜRE SCHWUNG",
+      "category": "Perseverance",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "When it’s hard, I stay gentle.",
+      "german": "Wenn es schwer ist, bleibe ich sanft zu mir.",
+      "transliteration": "WENN es SCHWER ist, BLEIBE ich SANFT zu mir",
+      "category": "Perseverance",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "I don't need motivation, just motion.",
+      "german": "Ich brauche keine Motivation, nur Bewegung.",
+      "transliteration": "ich BRAUCHE KEINE MotiVAtioN, NUR BEWEgung",
+      "category": "Perseverance",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "I keep going after the first try.",
+      "german": "Nach dem ersten Versuch mache ich weiter.",
+      "transliteration": "nach dem ERSTEN verSUCH maCHE ich WEIter",
+      "category": "Perseverance",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "I slow down, right now.",
+      "german": "Ich verlangsame mich, gerade jetzt.",
+      "transliteration": "ich VERlangsame mich, GERAde jetzt",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "What am I sensing in my body?",
+      "german": "Was spüre ich gerade in meinem Körper?",
+      "transliteration": "was SPÜRE ich GEraDe in meiNEM KÖrper",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "I unclutter my mind, softly.",
+      "german": "Ich räume meinen Kopf sanft auf.",
+      "transliteration": "ich RÄUME meinEN KOPF sanft AUF",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "Let your breath meet you.",
+      "german": "Lass den Atem dich treffen.",
+      "transliteration": "lass den aTEM dich TREFfen",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "I notice urges, then loosen them.",
+      "german": "Ich merke Impulse, und dann lasse ich sie los.",
+      "transliteration": "ich MERke IMpulSe, und dann LASse ich sie los",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "I come back to this task.",
+      "german": "Ich komme zu dieser Aufgabe zurück.",
+      "transliteration": "ich KOMme zu dieSER AUfgabe zuRÜCK",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "I watch my thoughts like weather.",
+      "german": "Ich betrachte meine Gedanken wie Wetter.",
+      "transliteration": "ich beTRACHTE meiNe GEdanken wie WETter",
+      "category": "Mindfulness",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "Where do I board for line 7?",
+      "german": "Wo steige ich für die Linie 7 ein?",
+      "transliteration": "WO STEI-ge ich FÜR die LI-nie sieben EIN?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "Is there a weekend fare option?",
+      "german": "Gibt es ein Wochenend-Ticket?",
+      "transliteration": "GIBT es ein WO-chen-end-TI-ket?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "Is there an app for tickets here?",
+      "german": "Gibt es hier eine Ticket-App?",
+      "transliteration": "GIBT es HIER ei-ne TI-ket-AP P?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "Which direction is the next stop?",
+      "german": "In welche Richtung geht die nächste Haltestelle?",
+      "transliteration": "In WEI-che RICH-tung GEHT die NÄCHS-te HAL-te-STEL-le?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "Can I bring my bike on board?",
+      "german": "Kann ich mein Fahrrad mitnehmen?",
+      "transliteration": "KANN ich mein FAHR-rad MIT-neh-men?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "Where can I find the elevator?",
+      "german": "Wo finde ich den Aufzug?",
+      "transliteration": "WO FIN-de ich den AUF-zug?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "Is this line running late today?",
+      "german": "Fährt diese Linie heute mit Verspätung?",
+      "transliteration": "FAHRT die-se LI-nie HEU-te MIT FER-sPÄ-tung?",
+      "category": "Public Transportation",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "Could you help me find this street?",
+      "german": "Könnten Sie mir helfen, diese Straße zu finden?",
+      "transliteration": "KÖNnten Sie miR HElfen, DIese STRAße zu FINDen?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "What street is that exactly?",
+      "german": "Welche Straße ist das genau?",
+      "transliteration": "WELche STRAße IST das GENAU?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "How do I get there from here?",
+      "german": "Wie komme ich von hier dorthin?",
+      "transliteration": "WIE KOMme ich von HIER dorthIN?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "Do I need to cross the bridge?",
+      "german": "Muss ich die Brücke überqueren?",
+      "transliteration": "MUSS ich die BRÜcke ÜBERqueren?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "Can you tell me the nearest tram stop?",
+      "german": "Können Sie mir die nächste Straßenbahnhaltestelle sagen?",
+      "transliteration": "KÖNnen Sie miR die NÄCHste STrAßenbahnHALtestelle SAGen?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "Where can I buy a day ticket?",
+      "german": "Wo kann ich ein Tagesticket kaufen?",
+      "transliteration": "WO kann ich EIN TAGesticket KAUfen?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "Should I follow the signs there?",
+      "german": "Soll ich den Schildern dort folgen?",
+      "transliteration": "SOLL ich den SCHILdern dort FOLgen?",
+      "category": "Asking for Directions",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "Today, I speak one imperfect sentence",
+      "german": "Heute spreche ich einen unperfekten Satz, egal wie.",
+      "transliteration": "HEU-te spre-che ich ei-nen un-PER-fek-ten SATZ, egal WIE.",
+      "category": "Motivation",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "Motivation starts with one brave question",
+      "german": "Ich frage einfach nach, auch wenn mir noch nicht alles klar ist.",
+      "transliteration": "ICH FRA-ge ein-fach NACH, AUCH wenn MIR noch NICHT al-les KLAR ist.",
+      "category": "Motivation",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "I learn best when I feel curious",
+      "german": "Neugier trägt mich weiter, auch wenn ich müde bin.",
+      "transliteration": "NEU-gier TRÄGT mich WEI-ter, AUCH wenn ich MÜ-de BIN.",
+      "category": "Motivation",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "I turn doubt into a quick practice",
+      "german": "Wenn Zweifel kommen, mache ich direkt eine Mini-Übung.",
+      "transliteration": "WENN Zwei-fel KOM-men, MA-che ich DI-rekt ei-ne MI-ni Ü-bung.",
+      "category": "Motivation",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "I keep going, even in bad moods",
+      "german": "Auch bei schlechtem Wetter in mir mache ich weiter, sanft aber dran.",
+      "transliteration": "AUCH bei SCHLECH-tem WET-ter in MIR ma-che ich WEI-ter, SANFT a-ber DRAN.",
+      "category": "Motivation",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "I choose effort over feeling ready",
+      "german": "Gefühlt bereit sein ist nett, aber ich entscheide mich fürs Üben.",
+      "transliteration": "GE-FÜHLT be-reit sein IST nett, a-ber ich ENt-schei-de mich FÜRS Ü-ben.",
+      "category": "Motivation",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "Every day, I talk to myself in German",
+      "german": "Ich sage mir meinen Plan auf Deutsch, leise oder laut.",
+      "transliteration": "ICH SA-ge mir MEI-nen PLAN AUF Deutsch, LEI-se o-der LAUT.",
+      "category": "Motivation",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "Help, I think I’m having an allergy.",
+      "german": "Hilfe, ich glaube, ich habe eine Allergie.",
+      "transliteration": "Hilfe, ich GLAUBE, ich habe eine ALLergie.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "My breathing sounds wheezy, can you help?",
+      "german": "Mein Atmen klingt pfeifend, können Sie mir helfen?",
+      "transliteration": "Mein ATmen klingt PFEIFend, kÖnnen Sie MIR helfen?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "My lips are tingling, what should I do?",
+      "german": "Meine Lippen kribbeln, was soll ich tun?",
+      "transliteration": "Meine LIPPEN KRIBbeln, was SOLL ich TUN?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "I feel dizzy when I stand up.",
+      "german": "Ich fühle mich schwindelig, wenn ich aufstehe.",
+      "transliteration": "Ich fühle mich SCHWINdeLig, wenn ich AUFstehe.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "Do I need to call the doctor?",
+      "german": "Soll ich den Arzt anrufen, oder ist es dringend?",
+      "transliteration": "Soll ich den ARZT anRUfen, ODER ist es DRINGend?",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "I have nausea, please sit me down.",
+      "german": "Mir ist übel, bitte setzen Sie mich hin.",
+      "transliteration": "Mir ist Übel, BITte setzen Sie MICH hin.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-27T16:50:14.777709"
+    },
+    {
+      "english": "My stomach cramps are getting worse.",
+      "german": "Meine Bauchkrämpfe werden schlimmer.",
+      "transliteration": "Meine BAUCHkrÄMPfe werden SCHLIMmer.",
+      "category": "Emergency & Health",
+      "generated_at": "2026-11-27T16:50:14.777709"
     }
   ],
-  "last_updated": "2026-11-26T17:05:27.811159"
+  "last_updated": "2026-11-27T16:50:14.777709"
 }
